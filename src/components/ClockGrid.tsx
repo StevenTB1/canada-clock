@@ -1,7 +1,14 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { ZONES, readZone, type ZoneReading } from '@/lib/zones'
+import {
+  EASTERN_ID,
+  ZONES,
+  abbreviation,
+  offsetMinutes,
+  readZone,
+  type ZoneReading,
+} from '@/lib/zones'
 
 function ClockFace({ hour, minute, second }: { hour: number; minute: number; second: number }) {
   const hourAngle = ((hour % 12) + minute / 60) * 30
@@ -86,10 +93,13 @@ export default function ClockGrid() {
     }
   }, [])
 
+  const easternOffset = now ? offsetMinutes(now, EASTERN_ID) : 0
+  const easternAbbr = now ? abbreviation(now, EASTERN_ID) : 'EST'
+
   return (
     <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
       {ZONES.map((zone) => {
-        const reading: ZoneReading | null = now ? readZone(now, zone) : null
+        const reading: ZoneReading | null = now ? readZone(now, zone, easternOffset) : null
 
         return (
           <article key={zone.id} className="card flex flex-col items-center gap-5 px-5 py-7">
@@ -104,6 +114,15 @@ export default function ClockGrid() {
               </h2>
               <p className="tabular mt-1.5 text-3xl font-semibold">
                 {reading?.time ?? '--:--:--'}
+              </p>
+              <p className="mt-3 flex items-center justify-center gap-2 text-xs">
+                <span className="rounded-md bg-white/8 px-1.5 py-0.5 font-medium">
+                  {reading?.abbr ?? '—'}
+                </span>
+                <span className="tabular text-muted">{reading?.offset ?? 'UTC—'}</span>
+              </p>
+              <p className="text-muted/70 mt-1.5 text-xs">
+                <span className="tabular">{reading?.fromEastern ?? '—'}</span> from {easternAbbr}
               </p>
             </div>
           </article>

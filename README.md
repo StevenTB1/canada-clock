@@ -19,7 +19,8 @@ Then open http://localhost:3000.
 | `src/components/ClockGrid.tsx` | Client component; ticks once a second and renders the cards |
 | `src/lib/zones.ts` | Zone list plus the `Intl`-based local-time reader |
 
-Each card is an analog clock face and the local time in `HH:MM:SS`, labelled by region.
+Each card is an analog clock face, the local time in `HH:MM:SS`, the zone abbreviation
+(`PST` / `PDT`…), the UTC offset, and the difference from Eastern time.
 
 Zones covered, west to east: Pacific, Yukon, Mountain, Saskatchewan, Central, Eastern,
 Atlantic, and Newfoundland.
