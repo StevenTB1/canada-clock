@@ -109,7 +109,7 @@ export default function ClockGrid() {
               second={reading?.second ?? 0}
             />
             <div className="text-center">
-              <h2 className="text-muted text-xs font-medium tracking-[0.18em] uppercase">
+              <h2 className="text-muted text-3xl font-semibold tracking-tight">
                 {zone.name}
               </h2>
               <p className="tabular mt-1.5 text-3xl font-semibold">
