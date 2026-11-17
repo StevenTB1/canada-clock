@@ -1,0 +1,954 @@
+{
+  "page": {
+    "url": "https://interractlabs.com/",
+    "title": "Interract - Multidisciplinary Design Lab based in Finland",
+    "description": "We're a multidisciplinary design lab combining strategy, design, and development to solve complex challenges for companies building the future. At Interract, we believe design is the most powerful tool for solving complex challenges.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 4805,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#06070a",
+        "share": 0.388
+      },
+      {
+        "value": "#13151a",
+        "share": 0.161
+      },
+      {
+        "value": "#fffeea",
+        "share": 0.153
+      },
+      {
+        "value": "#16181f",
+        "share": 0.153
+      },
+      {
+        "value": "#0b0d11",
+        "share": 0.145
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#fffeea",
+        "share": 0.946
+      },
+      {
+        "value": "#383837",
+        "share": 0.035
+      },
+      {
+        "value": "#000000",
+        "share": 0.019
+      }
+    ],
+    "borders": [
+      {
+        "value": "#fffeea",
+        "share": 0.5
+      },
+      {
+        "value": "#06070a",
+        "share": 0.25
+      },
+      {
+        "value": "#fffeea33",
+        "share": 0.25
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.847,
+      "text": 0.054
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 736
+      },
+      {
+        "family": "Geist",
+        "size": 16,
+        "weight": "200",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 711
+      },
+      {
+        "family": "Geist",
+        "size": 16,
+        "weight": "200",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 528
+      },
+      {
+        "family": "Geist",
+        "size": 24.96,
+        "weight": "200",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 383
+      },
+      {
+        "family": "Geist",
+        "size": 14.4,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 132
+      },
+      {
+        "family": "Geist",
+        "size": 56,
+        "weight": "300",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 114
+      },
+      {
+        "family": "Host Grotesk",
+        "size": 14.88,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "lowercase",
+        "chars": 98
+      },
+      {
+        "family": "Geist",
+        "size": 57.6,
+        "weight": "300",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "Times",
+        "size": 32,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 63
+      },
+      {
+        "family": "Geist",
+        "size": 88,
+        "weight": "300",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.034,
+        "transform": "none",
+        "chars": 63
+      },
+      {
+        "family": "Geist",
+        "size": 14.88,
+        "weight": "100",
+        "lineHeight": "normal",
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 61
+      },
+      {
+        "family": "Geist",
+        "size": 12.8,
+        "weight": "200",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 57
+      },
+      {
+        "family": "Host Grotesk",
+        "size": 13.6,
+        "weight": "200",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 47
+      },
+      {
+        "family": "Geist",
+        "size": 20.8,
+        "weight": "200",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 41
+      }
+    ],
+    "loadedFonts": [
+      "Host Grotesk 300 800 normal",
+      "ID Grotesk normal normal",
+      "Geist normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 48
+    },
+    {
+      "px": 144,
+      "uses": 16
+    },
+    {
+      "px": 20,
+      "uses": 15
+    },
+    {
+      "px": 30,
+      "uses": 12
+    },
+    {
+      "px": 15,
+      "uses": 10
+    },
+    {
+      "px": 40,
+      "uses": 7
+    },
+    {
+      "px": 80,
+      "uses": 6
+    },
+    {
+      "px": 72,
+      "uses": 6
+    },
+    {
+      "px": 25,
+      "uses": 6
+    },
+    {
+      "px": 18,
+      "uses": 5
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 16,
+      "uses": 4
+    },
+    {
+      "px": 50,
+      "uses": 3
+    },
+    {
+      "px": 4,
+      "uses": 3
+    },
+    {
+      "px": 288,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 2
+    },
+    {
+      "value": "10px",
+      "uses": 2
+    },
+    {
+      "value": "1px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.1s ease",
+        "uses": 36
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 23
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 18
+      },
+      {
+        "value": "2.6s cubic-bezier(0.94, 0, 0.06, 1)",
+        "uses": 9
+      },
+      {
+        "value": "0.5s ease-out",
+        "uses": 8
+      },
+      {
+        "value": "0.24s ease",
+        "uses": 6
+      }
+    ],
+    "cssAnimatedElements": 4,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--global-color-light": "#FFFEEA",
+    "--global-color-dark": "#06070A",
+    "--text-color-light": "#FFFEEA",
+    "--font-primary": "'Host Grotesk'",
+    "--font-secondary": "'Inter'",
+    "--font-tertiary": "'ID Grotesk'",
+    "--font-quaternary": "'Geist'"
+  },
+  "breakpoints": [
+    "max 768px",
+    "max 1000px",
+    "max 500px"
+  ],
+  "tech": [
+    "gsap",
+    "three",
+    "locomotive"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "noise-effect",
+      "y": -238,
+      "height": 1350,
+      "position": "fixed",
+      "background": "#16181f",
+      "backgroundImage": true,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#16181f",
+      "backgroundImage": false,
+      "color": "#fffeea",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 266,
+        "gutterBottom": 45
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "end",
+        "children": 2,
+        "childWidthsPct": [
+          66,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Interract - Design Lab Combining Strategy, Design & Development",
+          "family": "Times",
+          "size": 32,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "We are evolving the landscape of how design solves complex problems.",
+          "family": "Geist",
+          "size": 88,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.034,
+          "transform": "none",
+          "color": "#fffeea"
+        }
+      ],
+      "bodyType": {
+        "family": "Times",
+        "size": 32,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Read manifesto",
+        "Explore initiatives"
+      ],
+      "words": 26,
+      "excerpt": "Interract - Design Lab Combining Strategy, Design & Development",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "intro",
+      "y": 900,
+      "height": 982,
+      "position": "relative",
+      "background": "#06070a",
+      "backgroundImage": false,
+      "color": "#fffeea",
+      "padding": "144px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 144,
+        "gutterRight": 230,
+        "width": 1066,
+        "gutterTop": 144,
+        "gutterBottom": 144
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          80,
+          80
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We operate as a multidisciplinary design lab",
+          "family": "Geist",
+          "size": 56,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h2",
+          "text": "combining strategy, design, and development",
+          "family": "Geist",
+          "size": 56,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h2",
+          "text": "to deliver holistic end-to-end solutions.",
+          "family": "Geist",
+          "size": 56,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h3",
+          "text": "We do this in 3 ways; Working with clients building systems and solutions to so…",
+          "family": "Geist",
+          "size": 24.96,
+          "weight": "200",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 24.96,
+        "weight": "200",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Client work",
+        "Internal projects",
+        "Initiatives"
+      ],
+      "words": 156,
+      "excerpt": "Working with clients building systems and solutions to solve their challenges,",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "capabilities",
+      "y": 2026,
+      "height": 852,
+      "position": "relative",
+      "background": "#0b0d11",
+      "backgroundImage": false,
+      "color": "#fffeea",
+      "padding": "144px",
+      "margin": "144px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 144,
+        "gutterRight": 144,
+        "width": 1152,
+        "gutterTop": 144,
+        "gutterBottom": 144
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          14,
+          20,
+          16,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our Capabilities",
+          "family": "Geist",
+          "size": 57.6,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h3",
+          "text": "Design",
+          "family": "Geist",
+          "size": 25.6,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h4",
+          "text": "Brand identity",
+          "family": "Geist",
+          "size": 16,
+          "weight": "200",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h4",
+          "text": "Logo design",
+          "family": "Geist",
+          "size": 16,
+          "weight": "200",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fffeea"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "200",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 102,
+      "excerpt": "Full-stack web application development",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "cases",
+      "y": 2374,
+      "height": 945,
+      "position": "relative",
+      "background": "#13151a",
+      "backgroundImage": false,
+      "color": "#fffeea",
+      "padding": "288px 72px",
+      "margin": "-504px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 288,
+        "gutterBottom": 144
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          25,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Brands who we work with",
+          "family": "Geist",
+          "size": 48,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 187,
+      "excerpt": "We’re creating Tieto’s physical presence in some of their international business activity",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "vision",
+      "y": 2815,
+      "height": 1008,
+      "position": "relative",
+      "background": "#06070a",
+      "backgroundImage": false,
+      "color": "#fffeea",
+      "padding": "144px",
+      "margin": "-504px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 144,
+        "gutterRight": 864,
+        "width": 432,
+        "gutterTop": 86,
+        "gutterBottom": 164
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "25%",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We are driven by",
+          "family": "Geist",
+          "size": 57.6,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h2",
+          "text": "the",
+          "family": "Geist",
+          "size": 57.6,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h2",
+          "text": "of design.",
+          "family": "Geist",
+          "size": 57.6,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 24.96,
+        "weight": "200",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Shape the conversation (5min)"
+      ],
+      "words": 46,
+      "excerpt": "Through our work, projects, and initiatives, we hope to lead by example",
+      "media": {
+        "img": 1,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "contact",
+      "y": 3823,
+      "height": 694,
+      "position": "relative",
+      "background": "#16181f",
+      "backgroundImage": false,
+      "color": "#fffeea",
+      "padding": "144px 144px 550px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 144,
+        "gutterRight": 490,
+        "width": 806,
+        "gutterTop": -167,
+        "gutterBottom": 559
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          14,
+          10,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Let's dream together",
+          "family": "Geist",
+          "size": 57.6,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h2",
+          "text": "Let's build together",
+          "family": "Geist",
+          "size": 57.6,
+          "weight": "300",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h3",
+          "text": "Get in touch",
+          "family": "Geist",
+          "size": 17.6,
+          "weight": "300",
+          "lineHeight": 0.91,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fffeea"
+        },
+        {
+          "tag": "h3",
+          "text": "Book a call",
+          "family": "Geist",
+          "size": 17.6,
+          "weight": "300",
+          "lineHeight": 0.91,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fffeea"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 14.88,
+        "weight": "100",
+        "lineHeight": "normal",
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "contact@interractagency.com",
+        "15-30min call with us",
+        "LinkedIn Page"
+      ],
+      "words": 23,
+      "excerpt": "contact@interractagency.com",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "footer",
+      "name": "footer",
+      "y": 4517,
+      "height": 288,
+      "position": "relative",
+      "background": "#06070a",
+      "backgroundImage": false,
+      "color": "#fffeea",
+      "padding": "72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 137,
+        "gutterRight": 176,
+        "width": 1128,
+        "gutterTop": 72,
+        "gutterBottom": 86
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          11,
+          4,
+          4,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "company",
+          "family": "Host Grotesk",
+          "size": 13.6,
+          "weight": "200",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fffeea"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 12.8,
+        "weight": "200",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "company",
+        "works",
+        "services",
+        "initiatives",
+        "manifesto",
+        "contact",
+        "linkedin",
+        "telegram"
+      ],
+      "words": 18,
+      "excerpt": "Business ID: 3147941-3",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 99,
+    "title": "Interract",
+    "award": "HM",
+    "url": "https://interractlabs.com/",
+    "awwwards": "https://www.awwwards.com/sites/interract",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive",
+      "Startups"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

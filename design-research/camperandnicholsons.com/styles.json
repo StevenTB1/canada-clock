@@ -1,0 +1,1255 @@
+{
+  "page": {
+    "url": "https://camperandnicholsons.com/",
+    "title": "Luxury Yacht Sales, Charter & Management | C&N",
+    "description": "Discover luxury yachts for sale and charter with Camper & Nicholsons. Explore world?class brokerage, yacht management, and bespoke services tailored to owners and charterers.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 16157,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.731
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.269
+      },
+      {
+        "value": "#dedede80",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.543
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.438
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.014
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0.005
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Cera Pro",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4087
+      },
+      {
+        "family": "Cera Pro",
+        "size": 12.92,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": 0.06,
+        "transform": "uppercase",
+        "chars": 2593
+      },
+      {
+        "family": "Cera Pro",
+        "size": 12.92,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1272
+      },
+      {
+        "family": "Cera Pro",
+        "size": 14.52,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 687
+      },
+      {
+        "family": "Cera Pro",
+        "size": 17.8,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 570
+      },
+      {
+        "family": "Cera Pro",
+        "size": 16.48,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 404
+      },
+      {
+        "family": "Cera Pro",
+        "size": 13.31,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 381
+      },
+      {
+        "family": "Cera Pro",
+        "size": 12.92,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 352
+      },
+      {
+        "family": "Cera Pro",
+        "size": 14.52,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 249
+      },
+      {
+        "family": "Cera Pro",
+        "size": 37.76,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 218
+      },
+      {
+        "family": "Cera Pro",
+        "size": 17.8,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.03,
+        "transform": "uppercase",
+        "chars": 119
+      },
+      {
+        "family": "Cera Pro",
+        "size": 29.76,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 62
+      },
+      {
+        "family": "Cera Pro",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 39
+      },
+      {
+        "family": "Cera Pro",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 29
+      }
+    ],
+    "loadedFonts": [
+      "Cera Pro 400 normal",
+      "Cera Pro 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 20,
+      "uses": 315
+    },
+    {
+      "px": 4,
+      "uses": 156
+    },
+    {
+      "px": 10,
+      "uses": 124
+    },
+    {
+      "px": 6,
+      "uses": 65
+    },
+    {
+      "px": 40,
+      "uses": 33
+    },
+    {
+      "px": 120,
+      "uses": 18
+    },
+    {
+      "px": 30,
+      "uses": 11
+    },
+    {
+      "px": 35,
+      "uses": 8
+    },
+    {
+      "px": 80,
+      "uses": 5
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 240,
+      "uses": 2
+    },
+    {
+      "px": 72,
+      "uses": 2
+    },
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 144,
+      "uses": 1
+    },
+    {
+      "px": 101,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "9999px",
+      "uses": 195
+    },
+    {
+      "value": "2px",
+      "uses": 83
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 132
+      },
+      {
+        "value": "0.7s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 131
+      },
+      {
+        "value": "0.45s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 30
+      },
+      {
+        "value": "0.65s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.75s cubic-bezier(0.38, 0.005, 0.215, 1)",
+        "uses": 3
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 64
+  },
+  "cssVariables": {
+    "--header-height": "56px",
+    "--h80": "clamp(4.445rem, 5rem + 0.4vw, 6rem)",
+    "--h40": "clamp(2rem, 2rem + 0.2vw, 2.5rem)",
+    "--h34": "clamp(2.15rem, 2.15rem + 0.9vw, 4rem)",
+    "--h28": "clamp(1.5rem, 1.15rem + 0.2vw, 1.75rem)",
+    "--h22": "clamp(1.45rem, 1.35rem + 0.2vw, 2.29rem)",
+    "--h20": "clamp(1.4rem, 1.1rem + 0.5vw, 2.083rem)",
+    "--h18": "clamp(1rem, 1.0rem + 0.25vw, 1.875rem)",
+    "--h10": "clamp(0.625rem, 0.75rem + 0.164vw, 1rem)",
+    "--body-16": "clamp(1rem, 0.5rem + 0.35vw, 1.5rem)",
+    "--body-14": "clamp(0.9rem, 0.75rem + 0.5vw, 1.375rem)",
+    "--body-13": "clamp(0.85rem, 0.65rem + 0.35vw, 1.35rem)",
+    "--body-12": "clamp(0.8rem, 0.5rem + 0.25vw, 1.35rem)"
+  },
+  "breakpoints": [
+    "min 1024px",
+    "min 1920px",
+    "min 640px",
+    "min 768px",
+    "min 1440px",
+    "min 2560px",
+    "max 2559px",
+    "min 1281px",
+    "max 1919px",
+    "max 1280px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "fixed.inset-0",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 530,
+        "gutterRight": 530,
+        "width": 380,
+        "gutterTop": 339,
+        "gutterBottom": 339
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          13,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "COOKIES ON C&N",
+          "family": "Cera Pro",
+          "size": 14.52,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 12.92,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Legal Statement",
+        "Privacy Policy",
+        "SETTINGS",
+        "ACCEPT ALL"
+      ],
+      "words": 61,
+      "excerpt": "C&N uses cookies and other online tracking technologies for analytics, advertising, and",
+      "media": {
+        "svg": 7
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "custom-cursor.cursor-none",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "relative.bg-black",
+      "y": 0,
+      "height": 810,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "LIMITLESS EXPLORATION. UNPARALLELED LUXURY.",
+          "family": "Cera Pro",
+          "size": 37.76,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 16.48,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "CHARTER WITH US"
+      ],
+      "words": 63,
+      "excerpt": "Centuries of expertise, dedicated to delivering today’s most extraordinary yachting exper…",
+      "media": {
+        "video": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "Buy with Us",
+      "y": 810,
+      "height": 1440,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1078,
+        "width": 343,
+        "gutterTop": 120,
+        "gutterBottom": 996
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "AN EXCEPTIONAL LIFESTYLE THAT’S ENTIRELY YOURS",
+          "family": "Cera Pro",
+          "size": 37.76,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 16.48,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "BUY WITH US"
+      ],
+      "words": 24,
+      "excerpt": "Your perfect yacht is out there. It’s time to make it yours.",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "Build with Us",
+      "y": 2250,
+      "height": 1440,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1078,
+        "width": 343,
+        "gutterTop": 120,
+        "gutterBottom": 996
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "YOUR UNIQUE VISION CREATED WITH PRECISION",
+          "family": "Cera Pro",
+          "size": 37.76,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 16.48,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "BUILD WITH US"
+      ],
+      "words": 20,
+      "excerpt": "Embark on an unforgettable journey: building your own yacht.",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "Design with us",
+      "y": 3690,
+      "height": 1440,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1078,
+        "width": 343,
+        "gutterTop": 120,
+        "gutterBottom": 996
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CRAFTED WITH VISION. DEFINED BY EXCELLENCE.",
+          "family": "Cera Pro",
+          "size": 37.76,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 16.48,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "DESIGN WITH US"
+      ],
+      "words": 22,
+      "excerpt": "Our design teams blend artistry and engineering to create inspired spaces.",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "bg-white.text-black",
+      "y": 5130,
+      "height": 986,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "120px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 6,
+        "width": 1414,
+        "gutterTop": 120,
+        "gutterBottom": 52
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "10px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "YACHTS FOR CHARTER",
+          "family": "Cera Pro",
+          "size": 12.92,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": 0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "EXPLORE THE GLOBAL CHARTER FLEET",
+          "family": "Cera Pro",
+          "size": 29.76,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.02,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "YACHTS FOR CHARTER"
+      ],
+      "words": 826,
+      "excerpt": "From award-winning superyachts to the most sought-after names in the market, we",
+      "media": {
+        "img": 85,
+        "video": 35,
+        "svg": 123
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "bg-white.text-black",
+      "y": 6116,
+      "height": 986,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "120px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 17,
+        "width": 1403,
+        "gutterTop": 120,
+        "gutterBottom": 52
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "10px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "YACHTS FOR SALE",
+          "family": "Cera Pro",
+          "size": 12.92,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": 0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "EXPLORE THE GLOBAL SALES FLEET",
+          "family": "Cera Pro",
+          "size": 29.76,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.02,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "YACHTS FOR SALE"
+      ],
+      "words": 483,
+      "excerpt": "From sleek performance cruisers to the world’s most iconic superyachts, we offer",
+      "media": {
+        "img": 50,
+        "video": 25,
+        "svg": 78
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "Discover More",
+      "y": 7101,
+      "height": 1440,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1078,
+        "width": 343,
+        "gutterTop": 120,
+        "gutterBottom": 1015
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "IN GOOD COMPANY",
+          "family": "Cera Pro",
+          "size": 37.76,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 16.48,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "DISCOVER MORE"
+      ],
+      "words": 31,
+      "excerpt": "The privilege of yachting lies not only in the places it can",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "grid.grid-cols-2",
+      "y": 8781,
+      "height": 72,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "OWNER'S SERVICES",
+          "family": "Cera Pro",
+          "size": 12.92,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": 0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 13.31,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 24,
+      "excerpt": "From chartering and buying to new builds, marketing and management, no one",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "grid.gap-y-[48px]",
+      "y": 8933,
+      "height": 2398,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "80px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 493,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "80px 10px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 8,
+        "childWidthsPct": [
+          48,
+          48,
+          48,
+          48,
+          48,
+          48,
+          48,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "YACHT MANAGEMENT",
+          "family": "Cera Pro",
+          "size": 17.8,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 12.92,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "YACHT MANAGEMENT",
+        "CHARTER MANAGEMENT",
+        "INSURANCE SOLUTIONS",
+        "CORPORATE SERVICES",
+        "YACHT REFIT",
+        "DESIGN STUDIO",
+        "CREW SERVICES",
+        "YACHT SALES"
+      ],
+      "words": 96,
+      "excerpt": "Realise your vision through innovative design that balances aesthetics, functionality and…",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "bg-white.py-[64px]",
+      "y": 11571,
+      "height": 1686,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "120px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 131,
+        "gutterRight": 866,
+        "width": 443,
+        "gutterTop": 240,
+        "gutterBottom": 1021
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "10px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          41
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "AN ENDURING LEGACY IN A WORLD OF LUXURY",
+          "family": "Cera Pro",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.02,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 14.52,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ABOUT US"
+      ],
+      "words": 56,
+      "excerpt": "Since 1782, our commitment to excellence in service, driving innovation and inspiring",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "relative.flex",
+      "y": 13257,
+      "height": 1440,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 120,
+        "gutterBottom": 1155
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "YACHTS FOR SALE",
+          "family": "Cera Pro",
+          "size": 37.76,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "YACHTS FOR CHARTER",
+          "family": "Cera Pro",
+          "size": 37.76,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 37.76,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "YACHTS FOR SALE VIEW ALL",
+        "YACHTS FOR CHARTER VIEW ALL"
+      ],
+      "words": 10,
+      "excerpt": "Yachts for Charter",
+      "media": {
+        "img": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "footer",
+      "y": 14697,
+      "height": 1460,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "720px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 720,
+        "gutterBottom": 10
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "10px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "STAY ABOARD FOR EXCLUSIVE UPDATES & THE LATEST FROM THE WORLD OF YACHTING",
+          "family": "Cera Pro",
+          "size": 14.52,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Yacht services",
+          "family": "Cera Pro",
+          "size": 12.92,
+          "weight": "400",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff99"
+        },
+        {
+          "tag": "h3",
+          "text": "Owner Services",
+          "family": "Cera Pro",
+          "size": 12.92,
+          "weight": "400",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff99"
+        },
+        {
+          "tag": "h3",
+          "text": "Explore",
+          "family": "Cera Pro",
+          "size": 12.92,
+          "weight": "400",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff99"
+        }
+      ],
+      "bodyType": {
+        "family": "Cera Pro",
+        "size": 12.92,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": 0.06,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "CHARTER A YACHT",
+        "BUY A YACHT",
+        "SELL A YACHT",
+        "BUILD A YACHT",
+        "DESIGN STUDIO",
+        "YACHT MANAGEMENT",
+        "CHARTER MANAGEMENT",
+        "INSURANCE SOLUTIONS",
+        "CORPORATE SERVICES",
+        "CREW SERVICES"
+      ],
+      "words": 114,
+      "excerpt": "By submitting my email address, I consent to receive C&N updates. I",
+      "media": {
+        "img": 1,
+        "video": 1,
+        "svg": 7
+      }
+    }
+  ],
+  "listing": {
+    "rank": 98,
+    "title": "Camper & Nicholsons",
+    "award": "HM",
+    "url": "https://camperandnicholsons.com/",
+    "awwwards": "https://www.awwwards.com/sites/camper-nicholsons",
+    "categories": [
+      "Business & Corporate",
+      "Other",
+      "Luxury"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

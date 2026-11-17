@@ -1,0 +1,1626 @@
+{
+  "page": {
+    "url": "https://www.tbwahakuhodo.co.jp/",
+    "title": "TBWA\\HAKUHODO",
+    "description": "2006年に博報堂、TBWAワールドワイドのジョイントベンチャーとして設立された総合広告会社です。博報堂のフィロソフィーである「生活者発想」「パートナー主義」とTBWAがグローバル市場で駆使してきた「DISRUPTION®」メソッドを中心とした独自のノウハウを融合。質の高いソリューションを創造し、クライアントのビジネスの成長に貢献します。",
+    "lang": "ja",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 17657,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.619
+      },
+      {
+        "value": "#000000",
+        "share": 0.315
+      },
+      {
+        "value": "#00000080",
+        "share": 0.024
+      },
+      {
+        "value": "#00000033",
+        "share": 0.021
+      },
+      {
+        "value": "#000000cc",
+        "share": 0.021
+      },
+      {
+        "value": "#ecfd00",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffffb2",
+        "share": 0.406
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.358
+      },
+      {
+        "value": "#000000",
+        "share": 0.212
+      },
+      {
+        "value": "#00000080",
+        "share": 0.012
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.011
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 2858
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.9,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 771
+      },
+      {
+        "family": "TBWAGrotesk",
+        "size": 80,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 707
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 681
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 531
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 461
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 246
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.8,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 244
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 2,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 184
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 180
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 117
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 115
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 108
+      },
+      {
+        "family": "helvetica-neue-lt-pro",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 96
+      }
+    ],
+    "loadedFonts": [
+      "Noto Sans JP 100 900 normal",
+      "helvetica-neue-lt-pro 500 normal",
+      "helvetica-neue-lt-pro 400 normal",
+      "TBWAGrotesk 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 143
+    },
+    {
+      "px": 10,
+      "uses": 120
+    },
+    {
+      "px": 20,
+      "uses": 80
+    },
+    {
+      "px": 34,
+      "uses": 36
+    },
+    {
+      "px": 15,
+      "uses": 24
+    },
+    {
+      "px": 5,
+      "uses": 13
+    },
+    {
+      "px": 46,
+      "uses": 10
+    },
+    {
+      "px": 16,
+      "uses": 9
+    },
+    {
+      "px": 9,
+      "uses": 7
+    },
+    {
+      "px": 2,
+      "uses": 6
+    },
+    {
+      "px": 1,
+      "uses": 6
+    },
+    {
+      "px": 30,
+      "uses": 4
+    },
+    {
+      "px": 7,
+      "uses": 4
+    },
+    {
+      "px": 120,
+      "uses": 4
+    },
+    {
+      "px": 19,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 3
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.9s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 117
+      },
+      {
+        "value": "0.03s cubic-bezier(0.77, 0, 0, 0.99)",
+        "uses": 60
+      },
+      {
+        "value": "0.6s cubic-bezier(0.58, 0.01, 0, 0.99)",
+        "uses": 47
+      },
+      {
+        "value": "0.3s cubic-bezier(0.17, 0.1, 0.04, 0.95)",
+        "uses": 31
+      },
+      {
+        "value": "0.45s cubic-bezier(0.77, 0, 0, 0.99)",
+        "uses": 19
+      },
+      {
+        "value": "0.28s steps(6)",
+        "uses": 16
+      }
+    ],
+    "cssAnimatedElements": 34,
+    "canvases": 111,
+    "videos": 10
+  },
+  "cssVariables": {
+    "--font-sans": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto S",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-red-100": "#fcd3d3",
+    "--color-red-400": "oklch(70.4% 0.191 22.216)",
+    "--color-red-500": "oklch(63.7% 0.237 25.331)",
+    "--color-blue-400": "oklch(70.7% 0.165 254.624)",
+    "--color-blue-600": "oklch(54.6% 0.245 262.881)",
+    "--color-purple-500": "oklch(62.7% 0.265 303.9)",
+    "--color-gray-100": "#f5f5f5",
+    "--color-gray-200": "#e5e5e5",
+    "--color-gray-300": "#b5b5b5",
+    "--color-gray-400": "#aaa",
+    "--color-gray-500": "#575757",
+    "--color-gray-800": "#191919",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": "var(--spacing-unit)",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-bold": "700",
+    "--ease-out": "cubic-bezier(0, 0, 0.2, 1)",
+    "--ease-in-out": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "--aspect-video": "16 / 9",
+    "--default-transition-duration": "150ms",
+    "--default-transition-timing-function": "cubic-bezier(0.4, 0, 0.2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--font-tbwa": "\"TBWAGrotesk\", sans-serif",
+    "--font-tbwa--font-feature-settings": "normal",
+    "--font-helvetica": "helvetica-neue-lt-pro, \"Helvetica Neue\", Helvetica, \"Noto Sans JP\", Arial, sans-",
+    "--font-noto": "helvetica-neue-lt-pro, \"Helvetica Neue\", Helvetica, \"Noto Sans JP\", Arial, sans-",
+    "--font-noto--font-feature-settings": "\"palt\" on",
+    "--color-yellow": "#ecfd00",
+    "--tracking-xs": "0.01em",
+    "--tracking-sm": "0.02em",
+    "--tracking-md": "0.04em",
+    "--tracking-lg": "0.06em",
+    "--tracking-xl": "0.07em",
+    "--font-weight-regular": "400",
+    "--ease-1": "cubic-bezier(0.18, 0.06, 0.23, 1)",
+    "--ease-2": "cubic-bezier(0.36, 0.04, 0.23, 1)",
+    "--ease-3": "cubic-bezier(0.43, 0.05, 0.17, 1)",
+    "--ease-4": "cubic-bezier(0.47, 0.16, 0.24, 1)",
+    "--ease-5": "cubic-bezier(0.55, 0.05, 0.22, 0.99)",
+    "--ease-out1": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "--ease-in-out1": "cubic-bezier(0.58, 0.01, 0, 0.99)",
+    "--ease-in-out3": "cubic-bezier(0.87, 0, 0.13, 1)",
+    "--ease-in-out4": "cubic-bezier(0.77, 0, 0, 0.99)",
+    "--safari-toolbar-top": "50px",
+    "--scrollbar-width": "0px",
+    "--layout-width": "calc(100vw - var(--scrollbar-width))",
+    "--base-screen-w": "390",
+    "--base-min-scale": "0.7",
+    "--base-max-scale": "1.7",
+    "--min-scale": "var(--base-min-scale)",
+    "--max-scale": "var(--base-max-scale)",
+    "--base-font-size": "16",
+    "--slash-angle": "26deg"
+  },
+  "breakpoints": [
+    "min 1024px"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "pointer-events-none.absolute",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "swup-page-transition.fixed",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          100,
+          19,
+          100,
+          100
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "p-top-kv.fixed",
+      "y": 0,
+      "height": 810,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 259,
+        "width": 910,
+        "gutterTop": 211,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          94,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "IT’S CREATION",
+          "family": "TBWAGrotesk",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 75,
+      "excerpt": "change, delivering innovation, proactive solutions, and world-class creativity that trans…",
+      "media": {
+        "video": 1,
+        "svg": 52
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "pointer-events-none.relative",
+      "y": 0,
+      "height": 810,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "about",
+      "y": 810,
+      "height": 1158,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 10,
+        "width": 1390,
+        "gutterTop": 131,
+        "gutterBottom": 18
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          142,
+          142
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Disruption® for",
+          "family": "TBWAGrotesk",
+          "size": 120,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "DISRUPT NOW"
+      ],
+      "words": 19,
+      "excerpt": "THE DISRUPTION® COMPANY🏴‍☠️",
+      "media": {
+        "canvas": 110,
+        "svg": 6
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "c-bg-hidden-grid.pointer-events-none",
+      "y": 1968,
+      "height": 489,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "l-wrapper.relative",
+      "y": 2129,
+      "height": 328,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 40.3281px 0px 40.3125px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1359,
+        "gutterTop": -17,
+        "gutterBottom": 105
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 40px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WORK",
+          "family": "helvetica-neue-lt-pro",
+          "size": 15,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TBWAGrotesk",
+        "size": 120,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "A Selection of Our",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "pointer-events-none.absolute",
+      "y": 2405,
+      "height": 8737,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 635,
+        "gutterRight": 635,
+        "width": 170,
+        "gutterTop": 9,
+        "gutterBottom": 8715
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 15px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 3,
+        "childWidthsPct": [
+          15,
+          4,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "VIEW ALL",
+          "family": "helvetica-neue-lt-pro",
+          "size": 13,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 13,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIEW ALL 3 6"
+      ],
+      "words": 4,
+      "excerpt": "View All",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "sticky.top-0",
+      "y": 2457,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffffb2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 5,
+        "gutterRight": 4,
+        "width": 1431,
+        "gutterTop": 13,
+        "gutterBottom": 137
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 120px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          54,
+          54,
+          54
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "N",
+          "family": "TBWAGrotesk",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "ELGRAND IS BACK",
+        "しあわせ、濃い濃い。",
+        "ユニフォームソング「綺羅(KIRA)」",
+        "RADIO TIME MACHINE",
+        "サインエール",
+        "01 ELGRAND IS BACK",
+        "02 しあわせ、濃い濃い。",
+        "03 ユニフォームソング「綺羅(KIRA)」",
+        "04 RADIO TIME MACHINE",
+        "05 サインエール"
+      ],
+      "words": 1183,
+      "excerpt": "The all-new 4th-generation Elgrand makes a bold return with its first full",
+      "media": {
+        "img": 8,
+        "canvas": 1,
+        "svg": 6
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "partners",
+      "y": 11142,
+      "height": 863,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "129px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 138,
+        "width": 1250,
+        "gutterTop": 129,
+        "gutterBottom": 111
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 11,
+        "childWidthsPct": [
+          15,
+          15,
+          15,
+          15,
+          15,
+          15,
+          15,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "PARTNERS",
+          "family": "helvetica-neue-lt-pro",
+          "size": 15,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 2,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 185,
+      "excerpt": "Partners",
+      "media": {
+        "img": 11,
+        "svg": 4
+      }
+    },
+    {
+      "i": 11,
+      "tag": "svg",
+      "name": null,
+      "y": 12005,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "svg",
+      "name": null,
+      "y": 12168,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "svg",
+      "name": null,
+      "y": 12331,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "svg",
+      "name": null,
+      "y": 12494,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 15,
+      "tag": "svg",
+      "name": null,
+      "y": 12657,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "svg",
+      "name": null,
+      "y": 12820,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 17,
+      "tag": "svg",
+      "name": null,
+      "y": 12983,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "svg",
+      "name": null,
+      "y": 13146,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 19,
+      "tag": "svg",
+      "name": null,
+      "y": 13309,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 20,
+      "tag": "svg",
+      "name": null,
+      "y": 13472,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 21,
+      "tag": "svg",
+      "name": null,
+      "y": 13635,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 22,
+      "tag": "svg",
+      "name": null,
+      "y": 13798,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 23,
+      "tag": "svg",
+      "name": null,
+      "y": 13961,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 24,
+      "tag": "svg",
+      "name": null,
+      "y": 14124,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 25,
+      "tag": "svg",
+      "name": null,
+      "y": 14287,
+      "height": 163,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 26,
+      "tag": "div",
+      "name": "flex.items-start",
+      "y": 12166,
+      "height": 211,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 40,
+        "width": 1348,
+        "gutterTop": -11,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          5,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "AWARDS",
+          "family": "helvetica-neue-lt-pro",
+          "size": 15,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "TBWAGrotesk",
+        "size": 80,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "Recognition",
+      "media": {}
+    },
+    {
+      "i": 27,
+      "tag": "ul",
+      "name": "p-top-awards__list.mt-88",
+      "y": 12472,
+      "height": 1730,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "95px 0px 0px 574.359px",
+      "border": null,
+      "content": {
+        "gutterLeft": 615,
+        "gutterRight": 40,
+        "width": 785,
+        "gutterTop": 4,
+        "gutterBottom": 5
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "0px normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 17,
+        "childWidthsPct": [
+          55,
+          55,
+          55,
+          55,
+          55,
+          55,
+          55,
+          55
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Cannes Lions",
+          "family": "helvetica-neue-lt-pro",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.9,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "D&AD Awards",
+          "family": "helvetica-neue-lt-pro",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.9,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "The One Show",
+          "family": "helvetica-neue-lt-pro",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.9,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Clio Awards",
+          "family": "helvetica-neue-lt-pro",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.9,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.9,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 165,
+      "excerpt": "New York Festivals Advertising Awards",
+      "media": {}
+    },
+    {
+      "i": 28,
+      "tag": "div",
+      "name": "h-[calc(var(--spacing)*var(--overflow-height))]",
+      "y": 14212,
+      "height": 75,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 29,
+      "tag": "div",
+      "name": "relative",
+      "y": 14450,
+      "height": 815,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 34,
+        "gutterRight": 500,
+        "width": 906,
+        "gutterTop": 0,
+        "gutterBottom": 262
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 20px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          54
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "NEWS",
+          "family": "helvetica-neue-lt-pro",
+          "size": 15,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Latest Topics✨ Latest Topics",
+          "family": "TBWAGrotesk",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 0.89,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "VIEW ALL 9 5",
+        "28 October 2026, NEWS 新たな音楽プロジェクト「Spott…",
+        "22 October 2026, AWARDS, NEWS 2026 66th…",
+        "19 October 2026, NEWS 第8回「Disruption® L…"
+      ],
+      "words": 202,
+      "excerpt": "TBWA\\HAKUHODOは制作・クリエイティブディレクションを担当〜札幌・創成川公園での路上ライブ映像を10月28日（水）21:00に公開〜",
+      "media": {
+        "img": 3,
+        "svg": 4
+      }
+    },
+    {
+      "i": 30,
+      "tag": "section",
+      "name": "featured",
+      "y": 15265,
+      "height": 629,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 141px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 40,
+        "width": 1348,
+        "gutterTop": -9,
+        "gutterBottom": 160
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          54
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FEATURED",
+          "family": "helvetica-neue-lt-pro",
+          "size": 15,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Sustainability",
+          "family": "TBWAGrotesk",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Global Marketing",
+          "family": "TBWAGrotesk",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.8,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Sustainability TBWA\\HAKUHODOでは、人のcreati…",
+        "Global Marketing 日本から世界の市場を獲りに行く。私たちは、世…"
+      ],
+      "words": 248,
+      "excerpt": "Global Marketing",
+      "media": {
+        "img": 4,
+        "svg": 8
+      }
+    },
+    {
+      "i": 31,
+      "tag": "footer",
+      "name": "l-footer.sticky",
+      "y": 15894,
+      "height": 1763,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffffb2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 38,
+        "width": 1362,
+        "gutterTop": -41,
+        "gutterBottom": 85
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "R",
+          "family": "TBWAGrotesk",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "helvetica-neue-lt-pro",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "The Disruption® Company 35.6430°N, 139.…",
+        "HOME",
+        "DISRUPTION®",
+        "WORK",
+        "NEWS",
+        "COMPANY",
+        "SUSTAINABILITY",
+        "CAREERS",
+        "CONTACT",
+        "PRIVACY POLICY"
+      ],
+      "words": 214,
+      "excerpt": "TBWA\\HAKUHODO All Rights Reserved.",
+      "media": {
+        "img": 3,
+        "video": 4,
+        "svg": 16
+      }
+    }
+  ],
+  "listing": {
+    "rank": 34,
+    "title": "TBWA\\HAKUHODO Corporate Site",
+    "award": "HM",
+    "url": "https://www.tbwahakuhodo.co.jp/",
+    "awwwards": "https://www.awwwards.com/sites/tbwa-hakuhodo-corporate-site",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Film & TV"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

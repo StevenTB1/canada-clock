@@ -1,0 +1,1619 @@
+{
+  "page": {
+    "url": "https://www.polpharmabiologics.com/",
+    "title": "Polpharma Biologics | Global Biosimilar Developer & Manufacturer",
+    "description": "Polpharma Biologics is a global biosimilar developer and manufacturer, taking biosimilars from cell to sell with an international track record.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 26050,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.611
+      },
+      {
+        "value": "#005453",
+        "share": 0.17
+      },
+      {
+        "value": "#00000080",
+        "share": 0.091
+      },
+      {
+        "value": "#e6efef",
+        "share": 0.032
+      },
+      {
+        "value": "#033030",
+        "share": 0.028
+      },
+      {
+        "value": "#201d1d",
+        "share": 0.028
+      },
+      {
+        "value": "#000000",
+        "share": 0.014
+      },
+      {
+        "value": "#c6eceb",
+        "share": 0.014
+      },
+      {
+        "value": "#004e4e0d",
+        "share": 0.006
+      },
+      {
+        "value": "#16aba9",
+        "share": 0.004
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.001
+      },
+      {
+        "value": "#f2f6f6",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.417
+      },
+      {
+        "value": "#005453",
+        "share": 0.25
+      },
+      {
+        "value": "#000000",
+        "share": 0.097
+      },
+      {
+        "value": "#161517",
+        "share": 0.062
+      },
+      {
+        "value": "#e6efefe6",
+        "share": 0.036
+      },
+      {
+        "value": "#16161880",
+        "share": 0.036
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.029
+      },
+      {
+        "value": "#e6efef",
+        "share": 0.025
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0.017
+      },
+      {
+        "value": "#ffffff8c",
+        "share": 0.016
+      },
+      {
+        "value": "#1714174d",
+        "share": 0.015
+      }
+    ],
+    "borders": [
+      {
+        "value": "#161517",
+        "share": 0.405
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0.405
+      },
+      {
+        "value": "#0000001f",
+        "share": 0.054
+      },
+      {
+        "value": "#ffffff1f",
+        "share": 0.054
+      },
+      {
+        "value": "#ffffff73",
+        "share": 0.027
+      },
+      {
+        "value": "#000000",
+        "share": 0.027
+      },
+      {
+        "value": "#0000001a",
+        "share": 0.027
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.778,
+      "text": 0.75
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Seasonsans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1721
+      },
+      {
+        "family": "Seasonsans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 300
+      },
+      {
+        "family": "Seasonsans",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.32,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 255
+      },
+      {
+        "family": "Seasonsans",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1.16,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 228
+      },
+      {
+        "family": "Concrettem",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 222
+      },
+      {
+        "family": "Concrettem",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 187
+      },
+      {
+        "family": "Concrettem",
+        "size": 80,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 175
+      },
+      {
+        "family": "Seasonsans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 166
+      },
+      {
+        "family": "Seasonsans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 139
+      },
+      {
+        "family": "Seasonsans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 125
+      },
+      {
+        "family": "Seasonsans",
+        "size": 14.08,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 102
+      },
+      {
+        "family": "Seasonsans",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.24,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 90
+      },
+      {
+        "family": "Seasonsans",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 60
+      },
+      {
+        "family": "Seasonsans",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 10
+      }
+    ],
+    "loadedFonts": [
+      "Seasonsans 500 normal",
+      "Concrettem 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 99
+    },
+    {
+      "px": 20,
+      "uses": 55
+    },
+    {
+      "px": 32,
+      "uses": 52
+    },
+    {
+      "px": 24,
+      "uses": 39
+    },
+    {
+      "px": 4,
+      "uses": 33
+    },
+    {
+      "px": 14,
+      "uses": 33
+    },
+    {
+      "px": 2,
+      "uses": 28
+    },
+    {
+      "px": 10,
+      "uses": 26
+    },
+    {
+      "px": 22,
+      "uses": 20
+    },
+    {
+      "px": 5,
+      "uses": 15
+    },
+    {
+      "px": 6,
+      "uses": 15
+    },
+    {
+      "px": 8,
+      "uses": 14
+    },
+    {
+      "px": 80,
+      "uses": 11
+    },
+    {
+      "px": 15,
+      "uses": 10
+    },
+    {
+      "px": 9,
+      "uses": 10
+    },
+    {
+      "px": 16,
+      "uses": 9
+    }
+  ],
+  "radii": [
+    {
+      "value": "1440px",
+      "uses": 54
+    },
+    {
+      "value": "10.08px",
+      "uses": 21
+    },
+    {
+      "value": "50%",
+      "uses": 15
+    },
+    {
+      "value": "16px",
+      "uses": 6
+    },
+    {
+      "value": "15%",
+      "uses": 4
+    },
+    {
+      "value": "32px",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 45
+      },
+      {
+        "value": "0.4s cubic-bezier(0.25, 1, 0.5, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 24,
+    "canvases": 6,
+    "videos": 5
+  },
+  "cssVariables": {
+    "--_🟢-colors---primary--pure-white": "white",
+    "--body": "Seasonsans,Arial,sans-serif",
+    "--_🟢-colors---primary--deep-green": "#005453",
+    "--heading-family": "Concrettem,Arial,sans-serif",
+    "--_🟢-typography---heading-large--font-size": "5rem",
+    "--_🟢-typography---heading-large--line-height": "1",
+    "--_🟢-typography---heading-large--font-weight": "400",
+    "--_🟢-typography---heading-large--letter-spacing": "-.04em",
+    "--_🟢-typography---heading-medium--font-size": "3.75rem",
+    "--_🟢-typography---heading-medium--line-height": "1.08",
+    "--_🟢-typography---heading-medium--font-weight": "400",
+    "--_🟢-typography---heading-medium--letter-spacing": "-.04em",
+    "--_🟢-typography---heading-small--font-size": "2.5rem",
+    "--_🟢-typography---heading-small--line-height": "1.12",
+    "--_🟢-typography---heading-small--font-weight": "400",
+    "--_🟢-typography---heading-small--letter-spacing": "-.04em",
+    "--title-family": "Seasonsans,Arial,sans-serif",
+    "--_🟢-typography---title-large--font-size": "2rem",
+    "--_🟢-typography---title-large--line-height": "1.16",
+    "--_🟢-typography---title-large--font-weight": "500",
+    "--_🟢-typography---title-large--letter-spacing": "-.03em",
+    "--_🟢-typography---title-medium--font-size": "1.5rem",
+    "--_🟢-typography---title-medium--line-height": "1.24",
+    "--_🟢-typography---title-medium--font-weight": "500",
+    "--_🟢-typography---title-medium--letter-spacing": "-.01em",
+    "--_🟢-typography---title-small--font-size": "1.25rem",
+    "--_🟢-typography---title-small--line-height": "1.32",
+    "--_🟢-typography---title-small--font-weight": "500",
+    "--_🟢-typography---title-small--letter-spacing": "0em",
+    "--_rich---rich-body--body-font-family": "var(--body)",
+    "--_rich---rich-body--body-font-color": "#16151780",
+    "--_rich---rich-body--body-size": "var(--_🟢-typography---body-large--font-size)",
+    "--_rich---rich-body--body-line-height": "var(--_🟢-typography---body-large--line-height)",
+    "--_rich---rich-body--body-weight": "var(--_🟢-typography---body-large--font-weight)",
+    "--_rich---rich-body--body-letter-spacing": "var(--_🟢-typography---body-large--letter-spacing)",
+    "--_🟢-colors---primary--pure-black": "#000",
+    "--_rich---rich-spacing--body-margin-bottom": "1.25rem",
+    "--_rich---rich-spacing--quote-margin-vertical": "2rem",
+    "--_rich---rich-quote--quote-border-color": "var(--_🟢-colors---primary--red)",
+    "--_rich---rich-quote--quote-font-color": "var(--_🟢-colors---primary--deep-green)",
+    "--_🟢-layout-and-spacing---section-padding": "2rem",
+    "--_🟢-colors---primary--lab-white": "white",
+    "--_🟢-colors---primary--light-green": "#c6eceb",
+    "--_🟢-colors---primary--mist": "#e6efef",
+    "--_sizing---padding-section--zero": "0rem",
+    "--_sizing---padding-section--large-160": "10rem",
+    "--_🟢-layout-and-spacing---container-width": "120rem",
+    "--_🟢-typography---title-large--font-family": "var(--title-family)",
+    "--_🟢-colors---primary--red": "#f55d5d",
+    "--_🟢-typography---body-large--font-size": "1.125rem",
+    "--_🟢-typography---body-large--line-height": "1.44",
+    "--_🟢-typography---body-large--font-weight": "400",
+    "--_🟢-typography---body-large--letter-spacing": "0em",
+    "--_🟢-typography---body-medium--font-size": "1rem",
+    "--_🟢-typography---body-medium--line-height": "1.44",
+    "--_🟢-typography---body-medium--letter-spacing": "0em",
+    "--_🟢-typography---body-small--font-size": ".875rem",
+    "--_🟢-typography---body-small--line-height": "1.44",
+    "--_🟢-typography---body-small--font-weight": "400",
+    "--_🟢-typography---body-small--letter-spacing": "0em",
+    "--caption-family": "Seasonsans,Arial,sans-serif",
+    "--_🟢-typography---caption--font-size": ".75rem",
+    "--_🟢-typography---caption--line-height": "1",
+    "--_🟢-typography---caption--font-weight": "400",
+    "--_🟢-typography---caption--letter-spacing": ".01em",
+    "--_🟢-colors---primary--black": "#161517",
+    "--_sizing---radius--full": "100vw",
+    "--_🟢-colors---primary--vibrant-green": "#16aba9",
+    "--_grid---column-count": "12",
+    "--_grid---grid-gap": "1.25rem",
+    "--_sizing---border--main": ".0625rem",
+    "--_🟢-colors---stroke--stroke": "#0000001f",
+    "--_🟢-colors---primary--transparent": "#fff0",
+    "--_sizing---padding-section--large-120": "7.5rem",
+    "--_sizing---padding-section--medium-large-96": "6rem",
+    "--_sizing---padding-section--hero-98": "6.125rem",
+    "--_sizing---radius--10px": ".625rem",
+    "--_🟢-colors---stroke--inverse-stroke": "#fff3",
+    "--_rich---rich-spacing--heading-margin-top": "3rem",
+    "--_rich---rich-spacing--heading-margin-bottom": "1.5rem"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 991px",
+    "max 479px",
+    "min 62rem",
+    "min 768px",
+    "max 1440px",
+    "min 48rem",
+    "max 61.9375rem"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "three",
+    "webflow",
+    "barba"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "transition",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#005453",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "header",
+      "name": "nav_component",
+      "y": 0,
+      "height": 90,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "24px 32px",
+      "margin": "0px 0px -90px",
+      "border": null,
+      "content": {
+        "gutterLeft": 762,
+        "gutterRight": 54,
+        "width": 624,
+        "gutterTop": 35,
+        "gutterBottom": 34
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          12,
+          45
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Contact",
+          "family": "Seasonsans",
+          "size": 14.08,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Company",
+        "Pipeline",
+        "Partnerships",
+        "Insights",
+        "Careers",
+        "Contact"
+      ],
+      "words": 6,
+      "excerpt": "Partnerships",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "section.is-home-hero",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 140,
+        "gutterBottom": 43
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Biosimilarity isn’t discovered. It’s engineered.",
+          "family": "Concrettem",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Concrettem",
+        "size": 80,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Get in touch"
+      ],
+      "words": 12,
+      "excerpt": "Precision in every molecule.",
+      "media": {
+        "canvas": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "hiw_video-scroll",
+      "y": 900,
+      "height": 900,
+      "position": "sticky",
+      "background": "#005453",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 135,
+        "gutterBottom": -467
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          22,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "A pure-play biosimilar company with an international track record.",
+          "family": "Concrettem",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "We produce impact-driven biosimilars. From concept to commercial supply.",
+          "family": "Concrettem",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Concrettem",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 47,
+      "excerpt": "Built to accelerate biosimilars development – cell to sell.",
+      "media": {
+        "video": 2,
+        "svg": 3
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "hiw_vector-trigger",
+      "y": 6300,
+      "height": 1800,
+      "position": "absolute",
+      "background": "#005453",
+      "backgroundImage": false,
+      "color": "#005453",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "vector_shape-wrapper",
+      "y": 900,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#005453",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "home-we-know_apla-bg",
+      "y": 6300,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#005453",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "home-we-know_stage",
+      "y": 7200,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#e6efef",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 878,
+        "gutterRight": 107,
+        "width": 455,
+        "gutterTop": 987,
+        "gutterBottom": -561
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "as",
+          "family": "Concrettem",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#e6efef"
+        }
+      ],
+      "bodyType": {
+        "family": "Concrettem",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 24,
+      "excerpt": "development,",
+      "media": {
+        "img": 13
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "we-know_overlay",
+      "y": 7200,
+      "height": 4950,
+      "position": "absolute",
+      "background": "#00000080",
+      "backgroundImage": false,
+      "color": "#005453",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "header_wrapper",
+      "y": 11410,
+      "height": 410,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#005453",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 264,
+        "gutterRight": 264,
+        "width": 912,
+        "gutterTop": 100,
+        "gutterBottom": 100
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          63,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Swiss engineered, supplied globally",
+          "family": "Concrettem",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#005453"
+        }
+      ],
+      "bodyType": {
+        "family": "Concrettem",
+        "size": 80,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "Why partners trust us.",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "home-key-pillars_pin",
+      "y": 11820,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#16161880",
+      "padding": "112px 0px 48px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 1048,
+        "width": 360,
+        "gutterTop": 175,
+        "gutterBottom": 111
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 16px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          24,
+          43,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "A foundation for reach",
+          "family": "Concrettem",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#005453"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Work with us",
+        "MARKET REACH",
+        "REGULATORY, IP & QUALITY",
+        "SUPPLY RELIABILITY",
+        "PARTNERSHIP MODEL"
+      ],
+      "words": 39,
+      "excerpt": "We build every program to be regulatory-ready",
+      "media": {
+        "video": 1,
+        "svg": 6
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "supply-section_parallax-wrapper",
+      "y": 16320,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#e6efefe6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 320,
+        "gutterRight": 320,
+        "width": 800,
+        "gutterTop": 120,
+        "gutterBottom": 570
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "From concept to commercial supply",
+          "family": "Concrettem",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.32,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 11,
+      "excerpt": "We cover the full biosimilar lifecycle",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "section.is-dark",
+      "y": 17220,
+      "height": 1631,
+      "position": "relative",
+      "background": "#005453",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 190,
+        "width": 1218,
+        "gutterTop": 168,
+        "gutterBottom": 160
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We cover the full biosimilar lifecycle",
+          "family": "Concrettem",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Development",
+          "family": "Seasonsans",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.24,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Regulatory",
+          "family": "Seasonsans",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.24,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Commercial supply",
+          "family": "Seasonsans",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.24,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Work with us"
+      ],
+      "words": 121,
+      "excerpt": "Innovation-led device development focused on usability & access",
+      "media": {
+        "video": 1,
+        "canvas": 1,
+        "svg": 5
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "section",
+      "y": 18852,
+      "height": 1509,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": true,
+      "color": "#000000",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 52,
+        "width": 1336,
+        "gutterTop": 260,
+        "gutterBottom": 248
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          63,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Biosimilars pipeline",
+          "family": "Concrettem",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#005453"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Read more",
+        "More"
+      ],
+      "words": 74,
+      "excerpt": "Molecules that support long-term economic sustainability.",
+      "media": {
+        "img": 6,
+        "svg": 6
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "section.is-meet",
+      "y": 20361,
+      "height": 986,
+      "position": "relative",
+      "background": "#e6efef",
+      "backgroundImage": true,
+      "color": "#161517",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 118,
+        "gutterRight": 88,
+        "width": 1234,
+        "gutterTop": 160,
+        "gutterBottom": 199
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Meet the team of experts behind every program",
+          "family": "Concrettem",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#005453"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Linkedin"
+      ],
+      "words": 39,
+      "excerpt": "Senior Director Business Development",
+      "media": {
+        "img": 16,
+        "svg": 16
+      }
+    },
+    {
+      "i": 16,
+      "tag": "section",
+      "name": "section.is-insights",
+      "y": 21347,
+      "height": 1203,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 65,
+        "gutterRight": 41,
+        "width": 1334,
+        "gutterTop": 260,
+        "gutterBottom": 275
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          63
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Insights",
+          "family": "Concrettem",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#005453"
+        },
+        {
+          "tag": "h3",
+          "text": "Teva and Polpharma Biologics sign global Ocrevus® Biosimilar licensing deal",
+          "family": "Seasonsans",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1.16,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#005453"
+        },
+        {
+          "tag": "h3",
+          "text": "Polpharma Biologics and PSI CRO collaborate on Phase 1 study",
+          "family": "Seasonsans",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1.16,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Polpharma Biologics and Tuteur sign a licensing deal for a biosimilar for autoi…",
+          "family": "Seasonsans",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1.16,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1.16,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 48,
+      "excerpt": "Polpharma Biologics and Tuteur sign a licensing deal for a biosimilar for",
+      "media": {
+        "img": 2,
+        "svg": 6
+      }
+    },
+    {
+      "i": 17,
+      "tag": "section",
+      "name": "section.is-join",
+      "y": 22550,
+      "height": 900,
+      "position": "relative",
+      "background": "#c6eceb",
+      "backgroundImage": false,
+      "color": "#005453",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 132,
+        "gutterBottom": 60
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          71,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Want to move Biosimilars from lab to patient access – from development to in ma…",
+          "family": "Concrettem",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#005453"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View open positions",
+        "Join us"
+      ],
+      "words": 64,
+      "excerpt": "If you are motivated by complex challenges and",
+      "media": {
+        "img": 1,
+        "svg": 7
+      }
+    },
+    {
+      "i": 18,
+      "tag": "section",
+      "name": "section.is-home-cta",
+      "y": 23450,
+      "height": 900,
+      "position": "relative",
+      "background": "#033030",
+      "backgroundImage": false,
+      "color": "#e6efefe6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 383,
+        "gutterRight": 383,
+        "width": 674,
+        "gutterTop": 126,
+        "gutterBottom": 409
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "28px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The right partner changes everything",
+          "family": "Concrettem",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Let’s build together"
+      ],
+      "words": 21,
+      "excerpt": "Our partnerships are built on trust, ownership,",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 19,
+      "tag": "section",
+      "name": "section.is-footer-bottle-reveal",
+      "y": 24350,
+      "height": 800,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#005453",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1,
+        "video": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 20,
+      "tag": "div",
+      "name": "footer_wrapper",
+      "y": 25150,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 730,
+        "gutterRight": 32,
+        "width": 678,
+        "gutterTop": -165,
+        "gutterBottom": 257
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Our office",
+          "family": "Seasonsans",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.32,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Seasonsans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "office@polpharmabiologics.ch",
+        "About us",
+        "What we do",
+        "Pipeline",
+        "Insights",
+        "Careers",
+        "Partnerships",
+        "Contact",
+        "Cookie center",
+        "Terms of use"
+      ],
+      "words": 49,
+      "excerpt": "© 2026 Polpharma Biologics. All rights reserved.",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 186,
+    "title": "Polpharma Biologics",
+    "award": "HM",
+    "url": "https://www.polpharmabiologics.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/polpharma-biologics",
+    "categories": [
+      "Business & Corporate",
+      "Promotional",
+      "Technology"
+    ]
+  }
+}

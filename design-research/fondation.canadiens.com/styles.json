@@ -1,0 +1,457 @@
+{
+  "page": {
+    "url": "https://fondation.canadiens.com/en",
+    "title": "Montreal Canadiens Children's Foundation - Play to thrive",
+    "description": "The Foundation encourages physical activity and the adoption of a healthy lifestyle among underprivileged youth from 4 to 17 years old.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10742,
+    "generator": "SEOmatic"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f4f4f4",
+        "share": 0.8
+      },
+      {
+        "value": "#1f87ff",
+        "share": 0.057
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.054
+      },
+      {
+        "value": "#badef4",
+        "share": 0.041
+      },
+      {
+        "value": "#fcccfa",
+        "share": 0.036
+      },
+      {
+        "value": "#ff364b",
+        "share": 0.008
+      },
+      {
+        "value": "#333ef0",
+        "share": 0.004
+      },
+      {
+        "value": "#ff94f6",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#001a66",
+        "share": 0.802
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.116
+      },
+      {
+        "value": "#333ef0",
+        "share": 0.061
+      },
+      {
+        "value": "#570000",
+        "share": 0.021
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.854,
+      "text": 0.116
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Poppins",
+        "size": 22,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1390
+      },
+      {
+        "family": "Poppins",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 906
+      },
+      {
+        "family": "Poppins",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 272
+      },
+      {
+        "family": "Poppins",
+        "size": 50,
+        "weight": "600",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 183
+      },
+      {
+        "family": "Poppins",
+        "size": 35,
+        "weight": "600",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 157
+      },
+      {
+        "family": "bauhausvole",
+        "size": 60,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 150
+      },
+      {
+        "family": "Poppins",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "Poppins",
+        "size": 26,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 66
+      },
+      {
+        "family": "bauhausvole",
+        "size": 172.8,
+        "weight": "600",
+        "lineHeight": 0.85,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 12
+      },
+      {
+        "family": "Poppins",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "capitalize",
+        "chars": 8
+      }
+    ],
+    "loadedFonts": [
+      "Poppins 500 normal",
+      "Poppins 600 normal",
+      "bauhausvole 600 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 73
+    },
+    {
+      "px": 30,
+      "uses": 55
+    },
+    {
+      "px": 20,
+      "uses": 30
+    },
+    {
+      "px": 40,
+      "uses": 18
+    },
+    {
+      "px": 25,
+      "uses": 15
+    },
+    {
+      "px": 15,
+      "uses": 12
+    },
+    {
+      "px": 1,
+      "uses": 11
+    },
+    {
+      "px": 50,
+      "uses": 9
+    },
+    {
+      "px": 12,
+      "uses": 9
+    },
+    {
+      "px": 5,
+      "uses": 9
+    },
+    {
+      "px": 35,
+      "uses": 6
+    },
+    {
+      "px": 75,
+      "uses": 5
+    },
+    {
+      "px": 4,
+      "uses": 5
+    },
+    {
+      "px": 7,
+      "uses": 4
+    },
+    {
+      "px": 150,
+      "uses": 3
+    },
+    {
+      "px": 400,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "13.5px",
+      "uses": 70
+    },
+    {
+      "value": "3.35544e+07px",
+      "uses": 38
+    },
+    {
+      "value": "9px",
+      "uses": 20
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 123
+      },
+      {
+        "value": "0.6s cubic-bezier(0.33, 1, 0.68, 1)",
+        "uses": 55
+      },
+      {
+        "value": "0.6s cubic-bezier(0.47, 1.64, 0.41, 0.8)",
+        "uses": 7
+      },
+      {
+        "value": "0.4s cubic-bezier(0.33, 1, 0.68, 1)",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 6,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "\"Poppins\",sans-serif",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--color-red-50": "oklch(97.1% .013 17.38)",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-red-800": "oklch(44.4% .177 26.899)",
+    "--color-amber-500": "oklch(76.9% .188 70.08)",
+    "--color-yellow-500": "oklch(79.5% .184 86.047)",
+    "--color-green-500": "oklch(72.3% .219 149.579)",
+    "--color-blue-500": "oklch(62.3% .214 259.815)",
+    "--color-blue-600": "oklch(54.6% .245 262.881)",
+    "--color-purple-500": "oklch(62.7% .265 303.9)",
+    "--color-gray-50": "oklch(98.5% .002 247.839)",
+    "--color-gray-100": "oklch(96.7% .003 264.542)",
+    "--color-gray-200": "oklch(92.8% .006 264.531)",
+    "--color-gray-300": "oklch(87.2% .01 258.338)",
+    "--color-gray-400": "oklch(70.7% .022 261.325)",
+    "--color-gray-600": "oklch(44.6% .03 256.802)",
+    "--color-gray-700": "oklch(37.3% .034 259.733)",
+    "--color-gray-800": "oklch(27.8% .033 256.848)",
+    "--color-gray-900": "oklch(21% .034 264.665)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": "calc(1/var(--rem)*1rem)",
+    "--breakpoint-lg": "64rem",
+    "--container-sm": "24rem",
+    "--container-lg": "32rem",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25/.875)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75/1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75/1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2/1.5)",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--radius-xs": ".125rem",
+    "--radius-sm": ".25rem",
+    "--radius-md": ".375rem",
+    "--radius-lg": ".5rem",
+    "--radius-xl": ".75rem",
+    "--shadow-lg": "0 10px 15px -3px #0000001a,0 4px 6px -4px #0000001a",
+    "--ease-in": "cubic-bezier(.32,0,.67,0)",
+    "--ease-out": "cubic-bezier(.33,1,.68,1)",
+    "--ease-in-out": "cubic-bezier(.65,0,.35,1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--blur-xs": "4px",
+    "--blur-sm": "8px",
+    "--perspective-midrange": "800px",
+    "--perspective-distant": "1200px",
+    "--aspect-video": "16/9",
+    "--default-transition-duration": "var(--speed-normal)",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--font-title": "\"bauhausvole\",serif",
+    "--text-h1": "calc(var(--font-size-h1)/var(--rem)*1rem)",
+    "--text-h1--line-height": ".85",
+    "--text-h1--letter-spacing": "-.03em",
+    "--text-h2": "calc(var(--font-size-h2)/var(--rem)*1rem)",
+    "--text-h2--line-height": "1.1",
+    "--text-h3": "calc(var(--font-size-h3)/var(--rem)*1rem)",
+    "--text-h3--line-height": "1",
+    "--text-h3--letter-spacing": "-.03em",
+    "--text-h4": "calc(var(--font-size-h4)/var(--rem)*1rem)",
+    "--text-h4--line-height": "1.15",
+    "--text-h5": "calc(var(--font-size-h5)/var(--rem)*1rem)",
+    "--text-h5--line-height": "1.15",
+    "--text-h6": "calc(var(--font-size-h6)/var(--rem)*1rem)",
+    "--text-h6--line-height": "1.25",
+    "--text-h7": "calc(var(--font-size-h7)/var(--rem)*1rem)",
+    "--text-h7--line-height": "1.3",
+    "--text-body": "1rem",
+    "--text-body--line-height": "1.4",
+    "--text-links": "calc(var(--font-size-links)/var(--rem)*1rem)",
+    "--text-links--line-height": "1.2",
+    "--text-links--letter-spacing": "-.01em",
+    "--text-small": "calc(var(--font-size-small)/var(--rem)*1rem)",
+    "--text-small--line-height": "1.15"
+  },
+  "breakpoints": [
+    "min 64rem",
+    "min 40rem",
+    "min 48rem",
+    "min 80rem",
+    "min 96rem",
+    "max 64rem"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 10742,
+      "position": "static",
+      "background": "#f4f4f4",
+      "backgroundImage": false,
+      "color": "#001a66",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 25,
+        "width": 1390,
+        "gutterTop": -55,
+        "gutterBottom": 35
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "PLAY TO THRIVE",
+          "family": "bauhausvole",
+          "size": 172.8,
+          "weight": "600",
+          "lineHeight": 0.85,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "News & Stories",
+          "family": "Poppins",
+          "size": 50,
+          "weight": "600",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#001a66"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 22,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Bleu Blanc Bouge",
+        "Donations to Organizations",
+        "Contribute",
+        "Donate",
+        "Make a donation",
+        "50/50 Tickets",
+        "Auctions",
+        "Mystery Pucks",
+        "Scoreboard Message",
+        "Zamboni Ride"
+      ],
+      "words": 540,
+      "excerpt": "More than 1.7 million children and families have used our Bleu Blanc",
+      "media": {
+        "img": 38,
+        "canvas": 6,
+        "svg": 75
+      }
+    }
+  ],
+  "listing": {
+    "rank": 36,
+    "title": "Montreal Canadiens Foundation",
+    "award": "HM",
+    "url": "https://fondation.canadiens.com/",
+    "awwwards": "https://www.awwwards.com/sites/montreal-canadiens-foundation",
+    "categories": [
+      "Culture & Education",
+      "Sports",
+      "Social responsibility"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

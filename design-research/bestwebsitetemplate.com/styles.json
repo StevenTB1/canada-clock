@@ -1,0 +1,1444 @@
+{
+  "page": {
+    "url": "https://bestwebsitetemplate.com/",
+    "title": "1,000+ Free & Premium Website Templates",
+    "description": "Browse 1,000+ Webflow, Framer, and Shopify templates, hand-picked from more than 10,000 we reviewed and scored on design and build quality.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 13814,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.888
+      },
+      {
+        "value": "#f2f2f2",
+        "share": 0.11
+      },
+      {
+        "value": "#000000",
+        "share": 0.001
+      },
+      {
+        "value": "#dbdbdb",
+        "share": 0
+      },
+      {
+        "value": "#b2b2b2",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#666666",
+        "share": 0.551
+      },
+      {
+        "value": "#000000",
+        "share": 0.438
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.009
+      },
+      {
+        "value": "#7f7f7f",
+        "share": 0.002
+      },
+      {
+        "value": "#b2b2b2",
+        "share": 0.001
+      }
+    ],
+    "borders": [
+      {
+        "value": "#dbdbdb",
+        "share": 0.526
+      },
+      {
+        "value": "#f2f2f2",
+        "share": 0.474
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 1.001
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Poppins",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 4522
+      },
+      {
+        "family": "Poppins",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.027,
+        "transform": "none",
+        "chars": 1867
+      },
+      {
+        "family": "Poppins",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 937
+      },
+      {
+        "family": "Poppins",
+        "size": 14.4,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.022,
+        "transform": "none",
+        "chars": 561
+      },
+      {
+        "family": "Poppins",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 488
+      },
+      {
+        "family": "Poppins",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 391
+      },
+      {
+        "family": "Poppins",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.023,
+        "transform": "none",
+        "chars": 166
+      },
+      {
+        "family": "Poppins",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 127
+      },
+      {
+        "family": "Poppins",
+        "size": 144,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 120
+      },
+      {
+        "family": "Poppins",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.016,
+        "transform": "none",
+        "chars": 117
+      },
+      {
+        "family": "Poppins",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 115
+      },
+      {
+        "family": "Poppins",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 103
+      },
+      {
+        "family": "Poppins",
+        "size": 12,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.027,
+        "transform": "none",
+        "chars": 90
+      },
+      {
+        "family": "Poppins",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 81
+      }
+    ],
+    "loadedFonts": [
+      "Poppins 500 normal",
+      "Poppins 600 normal",
+      "Poppins Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 211
+    },
+    {
+      "px": 8,
+      "uses": 191
+    },
+    {
+      "px": 4,
+      "uses": 107
+    },
+    {
+      "px": 10,
+      "uses": 48
+    },
+    {
+      "px": 16,
+      "uses": 38
+    },
+    {
+      "px": 3,
+      "uses": 37
+    },
+    {
+      "px": 6,
+      "uses": 36
+    },
+    {
+      "px": 30,
+      "uses": 31
+    },
+    {
+      "px": 24,
+      "uses": 30
+    },
+    {
+      "px": 2,
+      "uses": 22
+    },
+    {
+      "px": 22,
+      "uses": 14
+    },
+    {
+      "px": 14,
+      "uses": 13
+    },
+    {
+      "px": 18,
+      "uses": 10
+    },
+    {
+      "px": 64,
+      "uses": 8
+    },
+    {
+      "px": 48,
+      "uses": 7
+    },
+    {
+      "px": 17,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "8px",
+      "uses": 103
+    },
+    {
+      "value": "6px",
+      "uses": 31
+    },
+    {
+      "value": "3.35544e+07px",
+      "uses": 24
+    },
+    {
+      "value": "50%",
+      "uses": 11
+    },
+    {
+      "value": "12px",
+      "uses": 6
+    },
+    {
+      "value": "10px",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.18s cubic-bezier(0.65, 0, 0.35, 1)",
+        "uses": 80
+      },
+      {
+        "value": "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 57
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 43
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 42
+      },
+      {
+        "value": "0.2s cubic-bezier(0.65, 0, 0.35, 1)",
+        "uses": 36
+      },
+      {
+        "value": "0.15s ease",
+        "uses": 19
+      }
+    ],
+    "cssAnimatedElements": 8,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "var(--font-poppins-family)",
+    "--font-mono": "var(--font-poppins-family)",
+    "--color-red-50": "oklch(97.1% .013 17.38)",
+    "--color-red-100": "oklch(93.6% .032 17.717)",
+    "--color-red-200": "oklch(88.5% .062 18.334)",
+    "--color-red-400": "oklch(70.4% .191 22.216)",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-red-600": "oklch(57.7% .245 27.325)",
+    "--color-red-700": "oklch(50.5% .213 27.518)",
+    "--color-red-800": "oklch(44.4% .177 26.899)",
+    "--color-orange-50": "oklch(98% .016 73.684)",
+    "--color-orange-100": "oklch(95.4% .038 75.164)",
+    "--color-orange-200": "oklch(90.1% .076 70.697)",
+    "--color-orange-400": "oklch(75% .183 55.934)",
+    "--color-orange-500": "oklch(70.5% .213 47.604)",
+    "--color-orange-600": "oklch(64.6% .222 41.116)",
+    "--color-orange-700": "oklch(55.3% .195 38.402)",
+    "--color-amber-50": "oklch(98.7% .022 95.277)",
+    "--color-amber-100": "oklch(96.2% .059 95.617)",
+    "--color-amber-200": "oklch(92.4% .12 95.746)",
+    "--color-amber-300": "oklch(87.9% .169 91.605)",
+    "--color-amber-400": "oklch(82.8% .189 84.429)",
+    "--color-amber-500": "oklch(76.9% .188 70.08)",
+    "--color-amber-600": "oklch(66.6% .179 58.318)",
+    "--color-amber-700": "oklch(55.5% .163 48.998)",
+    "--color-amber-800": "oklch(47.3% .137 46.201)",
+    "--color-yellow-400": "oklch(85.2% .199 91.936)",
+    "--color-yellow-500": "oklch(79.5% .184 86.047)",
+    "--color-green-50": "oklch(98.2% .018 155.826)",
+    "--color-green-100": "var(--color-green-100)",
+    "--color-green-200": "var(--color-green-200)",
+    "--color-green-300": "var(--color-green-300)",
+    "--color-green-400": "var(--color-green-400)",
+    "--color-green-500": "var(--color-green-500)",
+    "--color-green-600": "var(--color-green-600)",
+    "--color-green-700": "var(--color-green-700)",
+    "--color-green-800": "oklch(44.8% .119 151.328)",
+    "--color-emerald-50": "oklch(97.9% .021 166.113)",
+    "--color-emerald-500": "oklch(69.6% .17 162.48)",
+    "--color-emerald-600": "oklch(59.6% .145 163.225)",
+    "--color-emerald-800": "oklch(43.2% .095 166.913)",
+    "--color-blue-50": "oklch(97% .014 254.604)",
+    "--color-blue-100": "oklch(93.2% .032 255.585)",
+    "--color-blue-600": "oklch(54.6% .245 262.881)",
+    "--color-blue-700": "oklch(48.8% .243 264.376)",
+    "--color-blue-800": "oklch(42.4% .199 265.638)",
+    "--color-violet-50": "oklch(96.9% .016 293.756)",
+    "--color-violet-100": "oklch(94.3% .029 294.588)",
+    "--color-violet-200": "oklch(89.4% .057 293.283)",
+    "--color-violet-600": "oklch(54.1% .281 293.009)",
+    "--color-violet-700": "oklch(49.1% .27 292.581)",
+    "--color-violet-800": "oklch(43.2% .232 292.759)",
+    "--color-neutral-50": "oklch(98.5% 0 0)",
+    "--color-neutral-100": "var(--color-neutral-100)",
+    "--color-neutral-200": "var(--color-neutral-200)",
+    "--color-neutral-300": "var(--color-neutral-300)",
+    "--color-neutral-400": "var(--color-neutral-400)",
+    "--color-neutral-500": "var(--color-neutral-500)",
+    "--color-neutral-600": "var(--color-neutral-600)",
+    "--color-neutral-700": "var(--color-neutral-700)",
+    "--color-neutral-800": "var(--color-neutral-800)",
+    "--color-neutral-900": "oklch(20.5% 0 0)",
+    "--color-neutral-950": "oklch(14.5% 0 0)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--container-sm": "24rem",
+    "--container-md": "28rem",
+    "--container-lg": "32rem",
+    "--container-xl": "36rem",
+    "--container-2xl": "42rem",
+    "--container-3xl": "48rem",
+    "--container-4xl": "56rem",
+    "--container-7xl": "80rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1/.75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25/.875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "calc(1.5/1)"
+  },
+  "breakpoints": [
+    "min 768px",
+    "min 769px",
+    "max 767px",
+    "max 768px",
+    "min 80rem",
+    "min 1280px",
+    "min 48rem",
+    "min 64rem",
+    "min 40rem",
+    "min 137.5rem"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "home-hero-shell",
+      "y": 52,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#666666",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 336,
+        "gutterRight": 336,
+        "width": 768,
+        "gutterTop": 59,
+        "gutterBottom": 505
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Curated Website Template Library",
+          "family": "Poppins",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.27,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 13.68,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.023,
+        "transform": "none"
+      },
+      "labels": [
+        "Browse Library Browse Library"
+      ],
+      "words": 22,
+      "excerpt": "hand-picked & scored by a design & dev jury",
+      "media": {
+        "img": 14
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "MwgEffect094_stage__vGIRI",
+      "y": 839,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 521,
+        "gutterRight": 521,
+        "width": 397,
+        "gutterTop": 422,
+        "gutterBottom": 422
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          28,
+          365
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We test, filter, and score website templates so you don't waste time on the wro…",
+          "family": "Poppins",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 16,
+      "excerpt": "We test, filter, and score",
+      "media": {
+        "img": 12
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "relative.isolate",
+      "y": 3361,
+      "height": 862,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "129.6px 0px 64.8px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 41,
+        "width": 1351,
+        "gutterTop": 138,
+        "gutterBottom": 195
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "64px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 6,
+        "childWidthsPct": [
+          23,
+          23,
+          23,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Webflow Templates 349",
+          "family": "Poppins",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "MOSS",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        },
+        {
+          "tag": "h3",
+          "text": "ArcArch",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        },
+        {
+          "tag": "h3",
+          "text": "SilenceFolio",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.027,
+        "transform": "none"
+      },
+      "labels": [
+        "Free & Paid",
+        "Webflow Templates 349",
+        "See All See All",
+        "Overall Score: average of independent D…",
+        "Visit Visit"
+      ],
+      "words": 126,
+      "excerpt": "Overall Score: average of independent Design and Dev scores from multiple human",
+      "media": {
+        "img": 6,
+        "svg": 26
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "relative.isolate",
+      "y": 4223,
+      "height": 862,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "129.6px 0px 64.8px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 15,
+        "width": 1376,
+        "gutterTop": 138,
+        "gutterBottom": 195
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "64px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 6,
+        "childWidthsPct": [
+          23,
+          23,
+          23,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Framer Templates 430",
+          "family": "Poppins",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "TITARVL",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        },
+        {
+          "tag": "h3",
+          "text": "Zeentra",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        },
+        {
+          "tag": "h3",
+          "text": "Olyver",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.027,
+        "transform": "none"
+      },
+      "labels": [
+        "Free & Paid",
+        "Framer Templates 430",
+        "See All See All",
+        "Overall Score: average of independent D…",
+        "Visit Visit"
+      ],
+      "words": 125,
+      "excerpt": "Overall Score: average of independent Design and Dev scores from multiple human",
+      "media": {
+        "img": 6,
+        "svg": 26
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "relative.isolate",
+      "y": 5085,
+      "height": 905,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "129.6px 0px 108px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 28,
+        "width": 1364,
+        "gutterTop": 138,
+        "gutterBottom": 238
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "64px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 6,
+        "childWidthsPct": [
+          23,
+          23,
+          23,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Shopify Themes 226",
+          "family": "Poppins",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Cooktech",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        },
+        {
+          "tag": "h3",
+          "text": "Zenith",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        },
+        {
+          "tag": "h3",
+          "text": "Pitch",
+          "family": "Poppins",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#666666"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.027,
+        "transform": "none"
+      },
+      "labels": [
+        "Free & Paid",
+        "Shopify Themes 226",
+        "See All See All",
+        "Overall Score: average of independent D…",
+        "Visit Visit"
+      ],
+      "words": 124,
+      "excerpt": "Overall Score: average of independent Design and Dev scores from multiple human",
+      "media": {
+        "img": 6,
+        "svg": 26
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "relative.isolate",
+      "y": 5990,
+      "height": 965,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 188,
+        "width": 1192,
+        "gutterTop": 227,
+        "gutterBottom": 566
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 11,
+        "childWidthsPct": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "The Review Team",
+          "family": "Poppins",
+          "size": 144,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 144,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [
+        "Meet the Team Meet the Team"
+      ],
+      "words": 30,
+      "excerpt": "The Review Team",
+      "media": {
+        "img": 19,
+        "svg": 6
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "homepage-scoring-scroll",
+      "y": 6955,
+      "height": 886,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "48px 30px 288px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 30,
+        "width": 1380,
+        "gutterTop": 48,
+        "gutterBottom": 288
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "1.",
+          "family": "Poppins",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.3,
+          "letterSpacing": -0.016,
+          "transform": "none",
+          "color": "#666666"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 200,
+      "excerpt": "independently.",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "homepage-cost-calculator-promo",
+      "y": 7841,
+      "height": 931,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#666666",
+      "padding": "80px 30px 100px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 417,
+        "gutterRight": 417,
+        "width": 606,
+        "gutterTop": -17,
+        "gutterBottom": 520
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "54px",
+        "justify": "normal",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          64,
+          38,
+          21,
+          64
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "F F r r e e e e W e b f l o w F r a m e r C C o o s s t t & & C C o o m m p p a…",
+          "family": "Poppins",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Start Free Comparison Start Free Compar…"
+      ],
+      "words": 85,
+      "excerpt": "Compare Webflow, Framer, and Shopify on cost, features, ease of use, and",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "homepage-platform-hover",
+      "y": 8772,
+      "height": 901,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "177.188px 0px 236.25px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 177,
+        "gutterBottom": 243
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "28.665px",
+        "justify": "normal",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Shopify",
+          "family": "Poppins",
+          "size": 51.98,
+          "weight": "500",
+          "lineHeight": 1.3,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 51.98,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Shopify",
+        "Webflow",
+        "Framer",
+        "All Templates"
+      ],
+      "words": 11,
+      "excerpt": "Explore templates by platform",
+      "media": {
+        "img": 80
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "relative.isolate",
+      "y": 9673,
+      "height": 805,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "172.8px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 88,
+        "gutterRight": 70,
+        "width": 1282,
+        "gutterTop": 168,
+        "gutterBottom": 123
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "18px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          8,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Blogs 68",
+          "family": "Poppins",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "We Scored 860 Website Templates. Here Is What the Data Shows in 2026",
+          "family": "Poppins",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Are Free Webflow Templates Good Enough for Client Work?",
+          "family": "Poppins",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "How Much Do Website Templates Cost in 2026? Real Prices From 999 Reviewed Templ…",
+          "family": "Poppins",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Blogs 68",
+        "See All See All",
+        "Read We Scored 860 Website Templates. H…",
+        "Read Are Free Webflow Templates Good En…",
+        "Read How Much Do Website Templates Cost…",
+        "Read Website Template Glossary: Every T…",
+        "Read How We Score Templates: Our Design…",
+        "Read Webflow vs Framer vs Shopify: Whic…"
+      ],
+      "words": 113,
+      "excerpt": "How Much Do Website Templates Cost in 2026? Real Prices From 999",
+      "media": {
+        "img": 12,
+        "svg": 6
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "mwg-stage.MwgEffect104_stage__TkmtK",
+      "y": 10039,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 812,
+        "gutterRight": 388,
+        "width": 241,
+        "gutterTop": 337,
+        "gutterBottom": 211
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "tspan",
+          "text": "Frequently Asked",
+          "family": "Poppins",
+          "size": 350,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.001,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 350,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.001,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Frequently Asked",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "py-48.pt-0",
+      "y": 11827,
+      "height": 1054,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#666666",
+      "padding": "0px 0px 192px",
+      "margin": "-381px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 320,
+        "gutterRight": 320,
+        "width": 800,
+        "gutterTop": 0,
+        "gutterBottom": 121
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FAQ",
+          "family": "Poppins",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "What makes your template library different from other template sites?",
+          "family": "Poppins",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "How many templates have you reviewed?",
+          "family": "Poppins",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Can I see what a template looks like without opening its demo?",
+          "family": "Poppins",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "What makes your template library differ…",
+        "How many templates have you reviewed?",
+        "scoring methodology page",
+        "Can I see what a template looks like wi…",
+        "How do you select which templates to fe…",
+        "Are these templates free or do I need t…",
+        "Do you test every template before addin…",
+        "Which platform should I choose: Shopify…",
+        "Can I filter templates by industry or s…",
+        "How often do you add new templates to t…"
+      ],
+      "words": 794,
+      "excerpt": "Most template sites are marketplaces that list everything available and leave you",
+      "media": {
+        "svg": 9
+      }
+    },
+    {
+      "i": 13,
+      "tag": "footer",
+      "name": "w-full.bg-background",
+      "y": 12881,
+      "height": 933,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#666666",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 25,
+        "width": 1385,
+        "gutterTop": 148,
+        "gutterBottom": 375
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "161.744px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Website Templates",
+          "family": "Poppins",
+          "size": 259.2,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins",
+        "size": 14.4,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.022,
+        "transform": "none"
+      },
+      "labels": [
+        "All All",
+        "Webflow Templates Webflow Templates",
+        "Framer Templates Framer Templates",
+        "Shopify Themes Shopify Themes",
+        "Free Free",
+        "Paid Paid",
+        "vs Webflow vs Webflow",
+        "vs Shopify vs Shopify",
+        "vs Framer vs Framer",
+        "Blogs Blogs"
+      ],
+      "words": 114,
+      "excerpt": "Scoring Methodology",
+      "media": {
+        "img": 40,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 20,
+    "title": "Best Website Template",
+    "award": "HM",
+    "url": "https://bestwebsitetemplate.com/",
+    "awwwards": "https://www.awwwards.com/sites/best-website-template",
+    "categories": [
+      "Technology",
+      "Startups",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

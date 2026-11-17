@@ -1,0 +1,384 @@
+{
+  "page": {
+    "url": "https://scullion.ie/",
+    "title": "Home - Scullion Architects",
+    "description": "Scullion Architects — Dublin-based architectural studio.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.382
+      },
+      {
+        "value": "#acc7c9",
+        "share": 0.286
+      },
+      {
+        "value": "#484732",
+        "share": 0.286
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.031
+      },
+      {
+        "value": "#d8d8d81a",
+        "share": 0.015
+      },
+      {
+        "value": "#ffffff6c",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.553
+      },
+      {
+        "value": "#000000",
+        "share": 0.447
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.428,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Founders Grotesk",
+        "size": 24.85,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 293
+      },
+      {
+        "family": "Founders Grotesk",
+        "size": 18.21,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 157
+      },
+      {
+        "family": "Victor Serif",
+        "size": 18.21,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 67
+      },
+      {
+        "family": "Founders Grotesk",
+        "size": 24.85,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 33
+      },
+      {
+        "family": "Founders Grotesk",
+        "size": 18.21,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "Founders Grotesk",
+        "size": 18.21,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 19
+      },
+      {
+        "family": "Founders Grotesk",
+        "size": 54.16,
+        "weight": "300",
+        "lineHeight": 0.7,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 17
+      },
+      {
+        "family": "Founders Grotesk",
+        "size": 24.85,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "Founders Grotesk",
+        "size": 28.09,
+        "weight": "300",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 5
+      },
+      {
+        "family": "Founders Grotesk",
+        "size": 28.09,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "Founders Grotesk 400 normal",
+      "Victor Serif 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 18,
+      "uses": 53
+    },
+    {
+      "px": 8,
+      "uses": 11
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 9,
+      "uses": 4
+    },
+    {
+      "px": 15,
+      "uses": 2
+    },
+    {
+      "px": 7,
+      "uses": 2
+    },
+    {
+      "px": 34,
+      "uses": 1
+    },
+    {
+      "px": 20,
+      "uses": 1
+    },
+    {
+      "px": 332,
+      "uses": 1
+    },
+    {
+      "px": 4,
+      "uses": 1
+    },
+    {
+      "px": 6,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "5px",
+      "uses": 7
+    },
+    {
+      "value": "100%",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s ease-in-out",
+        "uses": 20
+      },
+      {
+        "value": "0.5s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 12
+      },
+      {
+        "value": "0.3s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 11
+      },
+      {
+        "value": "0.2s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.6s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.8s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 4
+  },
+  "cssVariables": {
+    "--bg-color": "#FFFFFF",
+    "--text-color": "#000000",
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px"
+  },
+  "breakpoints": [
+    "min 720px",
+    "max 720px",
+    "min 768px",
+    "min 1000px",
+    "min 1024px",
+    "max 767px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "start-a-project",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Tell us a little about your project. We’ll review your enquiry and, if suitable…",
+          "family": "Founders Grotesk",
+          "size": 24.85,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Founders Grotesk",
+        "size": 24.85,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Next Step"
+      ],
+      "words": 44,
+      "excerpt": "Tell us a little about your project. We’ll review your enquiry and,",
+      "media": {
+        "img": 10,
+        "video": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "transition-fade",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 18,
+        "gutterRight": 1004,
+        "width": 418,
+        "gutterTop": 789,
+        "gutterBottom": 2
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "SCULLION is an architecture and interiors studio based in Dublin.",
+          "family": "Founders Grotesk",
+          "size": 24.85,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Founders Grotesk",
+        "size": 24.85,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 15,
+      "excerpt": "SCULLION is an architecture and interiors studio based in Dublin.",
+      "media": {
+        "img": 10,
+        "video": 3,
+        "svg": 7
+      }
+    }
+  ],
+  "listing": {
+    "rank": 158,
+    "title": "Scullion Architects",
+    "url": "https://scullion.ie/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

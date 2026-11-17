@@ -1,0 +1,395 @@
+{
+  "page": {
+    "url": "https://www.raomuhammadhamza.tech/",
+    "title": "Rao Muhammad Hamza, AI Engineer",
+    "description": "Rao Muhammad Hamza, AI Engineer. RAG pipelines, LLM orchestration and agentic workflows, built to hold up in production.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ff9ebb",
+        "share": 0.952
+      },
+      {
+        "value": "#ff9bbb29",
+        "share": 0.042
+      },
+      {
+        "value": "#000000",
+        "share": 0.006
+      },
+      {
+        "value": "#0f1220",
+        "share": 0
+      },
+      {
+        "value": "#0b0e17fe",
+        "share": 0
+      },
+      {
+        "value": "#ff9cbd1f",
+        "share": 0
+      },
+      {
+        "value": "#b9b2c4",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#c9c3d6",
+        "share": 0.298
+      },
+      {
+        "value": "#e9e3ef",
+        "share": 0.198
+      },
+      {
+        "value": "#ff9ebb",
+        "share": 0.175
+      },
+      {
+        "value": "#b9b2c4",
+        "share": 0.084
+      },
+      {
+        "value": "#f4e7e2",
+        "share": 0.075
+      },
+      {
+        "value": "#39ff88",
+        "share": 0.058
+      },
+      {
+        "value": "#8b849e",
+        "share": 0.058
+      },
+      {
+        "value": "#d9cdd0",
+        "share": 0.055
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffa0b933",
+        "share": 0.75
+      },
+      {
+        "value": "#ff9ebc8c",
+        "share": 0.25
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.006,
+      "text": 0.253
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Space Mono",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.7,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 234
+      },
+      {
+        "family": "Space Mono",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 134
+      },
+      {
+        "family": "Space Mono",
+        "size": 9,
+        "weight": "700",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 80
+      },
+      {
+        "family": "Space Mono",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.7,
+        "letterSpacing": 0.08,
+        "transform": "none",
+        "chars": 44
+      },
+      {
+        "family": "Space Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 30
+      },
+      {
+        "family": "Space Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.7,
+        "letterSpacing": 0.16,
+        "transform": "uppercase",
+        "chars": 11
+      },
+      {
+        "family": "Space Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.7,
+        "letterSpacing": 0.08,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "Space Mono",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.107,
+        "transform": "uppercase",
+        "chars": 8
+      }
+    ],
+    "loadedFonts": [
+      "Space Grotesk 300 700 normal",
+      "Space Mono 400 normal",
+      "Doto 400 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 3,
+      "uses": 35
+    },
+    {
+      "px": 6,
+      "uses": 23
+    },
+    {
+      "px": 1,
+      "uses": 23
+    },
+    {
+      "px": 9,
+      "uses": 9
+    },
+    {
+      "px": 15,
+      "uses": 8
+    },
+    {
+      "px": 5,
+      "uses": 7
+    },
+    {
+      "px": 11,
+      "uses": 4
+    },
+    {
+      "px": 12,
+      "uses": 3
+    },
+    {
+      "px": 8,
+      "uses": 3
+    },
+    {
+      "px": 22,
+      "uses": 2
+    },
+    {
+      "px": 18,
+      "uses": 2
+    },
+    {
+      "px": 23,
+      "uses": 2
+    },
+    {
+      "px": 2,
+      "uses": 2
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 7,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "1.2672px",
+      "uses": 440
+    },
+    {
+      "value": "6.92736px",
+      "uses": 11
+    },
+    {
+      "value": "8px",
+      "uses": 5
+    },
+    {
+      "value": "1px",
+      "uses": 4
+    },
+    {
+      "value": "50%",
+      "uses": 2
+    },
+    {
+      "value": "12px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 12
+      },
+      {
+        "value": "0.6s ease-out",
+        "uses": 2
+      },
+      {
+        "value": "0.45s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.25s cubic-bezier(0.2, 0.7, 0.2, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 4,
+    "canvases": 1,
+    "videos": 5
+  },
+  "cssVariables": {
+    "--ink": "#0f1220",
+    "--screen": "#ff9ebb",
+    "--screen-ink": "#1b1f33",
+    "--text": "#f4e7e2",
+    "--muted": "#b9b2c4",
+    "--tv-edge": "#ff9ebb33",
+    "--tv-bg": "linear-gradient(180deg, #161a30db, #0c0e1ce6)",
+    "--tv-glow": "inset 0 0 0 1px #ffffff08, inset 0 0 22px #ff9ebb12, 0 12px 40px #00000073",
+    "--scan": "repeating-linear-gradient(0deg, #ffffff09 0 1px, transparent 1px 3px)",
+    "--tv-radius": "12px",
+    "--sheet-bottom": "84px"
+  },
+  "breakpoints": [],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "loader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0b0e17fe",
+      "backgroundImage": true,
+      "color": "#c9c3d6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 440,
+        "gutterRight": 440,
+        "width": 560,
+        "gutterTop": 248,
+        "gutterBottom": 268
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "18px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "$",
+          "family": "Space Mono",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": 1.7,
+          "letterSpacing": 0.08,
+          "transform": "none",
+          "color": "#b9b2c4"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Mono",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.7,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 64,
+      "excerpt": "dataset: the room, the city, his desk (14 shards)",
+      "media": {
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 118,
+    "title": "Hamza's Desk",
+    "award": "HM",
+    "url": "https://www.raomuhammadhamza.tech/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/hamzas-desk",
+    "categories": [
+      "Design Agencies",
+      "Technology",
+      "Startups",
+      "Portfolio"
+    ]
+  }
+}

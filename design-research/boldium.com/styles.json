@@ -1,0 +1,1369 @@
+{
+  "page": {
+    "url": "https://boldium.com/",
+    "title": "Creative Agency | AI Products, Branding & Marketing | Boldium",
+    "description": "Boldium helps leaders own their categories by crafting AI-powered products, branding, and marketing that are bold and trustworthy.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10631,
+    "generator": "Astro v7.2.4"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#111111",
+        "share": 0.89
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.109
+      },
+      {
+        "value": "#2f2f2f",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#919191",
+        "share": 0.548
+      },
+      {
+        "value": "#111111",
+        "share": 0.118
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.118
+      },
+      {
+        "value": "#afafaf",
+        "share": 0.113
+      },
+      {
+        "value": "#757575",
+        "share": 0.038
+      },
+      {
+        "value": "#cecece",
+        "share": 0.029
+      },
+      {
+        "value": "#666666",
+        "share": 0.021
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0.01
+      },
+      {
+        "value": "#444444",
+        "share": 0.003
+      },
+      {
+        "value": "#f6f6f6",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#444444",
+        "share": 0.294
+      },
+      {
+        "value": "#2f2f2f",
+        "share": 0.235
+      },
+      {
+        "value": "#111111",
+        "share": 0.235
+      },
+      {
+        "value": "#666666",
+        "share": 0.176
+      },
+      {
+        "value": "#afafaf",
+        "share": 0.059
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Archivo Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.78,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2981
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 960
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 793
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.56,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 347
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 24,
+        "weight": "600",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 303
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 60,
+        "weight": "600",
+        "lineHeight": 1.17,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 190
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 169
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.78,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 73
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 45
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 80,
+        "weight": "600",
+        "lineHeight": 1.12,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 38
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 60,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 37
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 33
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0.025,
+        "transform": "uppercase",
+        "chars": 24
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 12
+      }
+    ],
+    "loadedFonts": [
+      "Archivo Variable 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 76
+    },
+    {
+      "px": 32,
+      "uses": 51
+    },
+    {
+      "px": 16,
+      "uses": 45
+    },
+    {
+      "px": 4,
+      "uses": 36
+    },
+    {
+      "px": 24,
+      "uses": 35
+    },
+    {
+      "px": 10,
+      "uses": 28
+    },
+    {
+      "px": 40,
+      "uses": 28
+    },
+    {
+      "px": 12,
+      "uses": 16
+    },
+    {
+      "px": 11,
+      "uses": 8
+    },
+    {
+      "px": 20,
+      "uses": 8
+    },
+    {
+      "px": 6,
+      "uses": 7
+    },
+    {
+      "px": 123,
+      "uses": 7
+    },
+    {
+      "px": 80,
+      "uses": 4
+    },
+    {
+      "px": 50,
+      "uses": 4
+    },
+    {
+      "px": 23,
+      "uses": 4
+    },
+    {
+      "px": 48,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "10px",
+      "uses": 23
+    },
+    {
+      "value": "3.35544e+07px",
+      "uses": 12
+    },
+    {
+      "value": "12px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 18
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 16
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 14
+      },
+      {
+        "value": "0.5s cubic-bezier(0.11, 0.82, 0.39, 0.92)",
+        "uses": 9
+      },
+      {
+        "value": "0.2s ease-out",
+        "uses": 7
+      },
+      {
+        "value": "1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 6
+      }
+    ],
+    "cssAnimatedElements": 52,
+    "canvases": 1,
+    "videos": 6
+  },
+  "cssVariables": {
+    "--font-sans": "\"Archivo Variable\", var(--system-font-sans)",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-red-400": "oklch(70.4% .191 22.216)",
+    "--color-gray-100": "#f6f6f6",
+    "--color-gray-200": "#d9d9d9",
+    "--color-gray-300": "#cecece",
+    "--color-gray-400": "#919191",
+    "--color-gray-500": "#757575",
+    "--color-gray-600": "#666",
+    "--color-gray-700": "#444",
+    "--color-gray-800": "#2f2f2f",
+    "--color-neutral-100": "oklch(97% 0 none)",
+    "--color-black": "var(--color-almost-black)",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--breakpoint-2xl": "90rem",
+    "--container-xs": "20rem",
+    "--container-4xl": "53.75rem",
+    "--container-6xl": "72.5rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "1.5",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75 / 1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "1.2",
+    "--text-6xl": "3.75rem",
+    "--text-6xl--line-height": "1",
+    "--font-weight-normal": "400",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--font-weight-extrabold": "800",
+    "--tracking-wide": ".025em",
+    "--leading-tight": "1.25",
+    "--radius-4xl": "2rem",
+    "--ease-in": "cubic-bezier(.4, 0, 1, 1)",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--blur-md": "12px",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--radius": ".625rem",
+    "--breakpoint-header-md": "44.5rem",
+    "--breakpoint-xs": "21.4375rem",
+    "--breakpoint-above-2xl": "1441px",
+    "--breakpoint-3xl": "120rem",
+    "--color-almost-black": "#111",
+    "--color-gray-350": "color-mix(in oklch, var(--color-gray-300) 50%, var(--color-gray-400) 50%)",
+    "--color-canvas": "var(--color-almost-black)",
+    "--color-canvas-text": "var(--color-gray-400)",
+    "--color-secondary": "var(--color-400)",
+    "--color-emphasis": "var(--color-white)",
+    "--color-error-state": "#ff6480",
+    "--color-divider": "var(--color-gray-700)",
+    "--color-form-label": "var(--color-gray-200)",
+    "--color-form-border": "var(--color-gray-500)",
+    "--color-headshot": "var(--color-700)",
+    "--color-light-gray": "var(--color-gray-400)",
+    "--color-medium-gray": "var(--color-gray-500)",
+    "--color-charcoal-gray": "var(--color-gray-800)",
+    "--spacing-page": "120rem",
+    "--spacing-main-container": "calc(var(--spacing) * 10)",
+    "--spacing-grid-gap": "calc(var(--spacing) * 4)",
+    "--spacing-grid-gap-md": "calc(var(--spacing) * 8)",
+    "--opacity-none": ".0001",
+    "--system-font-sans": "system-ui, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\"",
+    "--system-font-serif": "\"Iowan Old Style\", \"Apple Garamond\", \"Baskerville\", \"Times New Roman\", \"Droid Se",
+    "--ease-smooth": "cubic-bezier(.5, 0, 0, 1)",
+    "--ease-slow-down": "cubic-bezier(0, 0, 0, 1)",
+    "--ease-arrow": "cubic-bezier(.11,.82,.39,.92)",
+    "--nav-height": "5.875rem"
+  },
+  "breakpoints": [
+    "min 90rem",
+    "min 48rem",
+    "min 44.5rem",
+    "min 40rem",
+    "min 64rem",
+    "min 80rem",
+    "min 120rem",
+    "min 960px",
+    "min 1441px",
+    "min 21.4375rem"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "preloader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          17,
+          17,
+          17,
+          17,
+          17,
+          17
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "sticky.top-0",
+      "y": 0,
+      "height": 94,
+      "position": "sticky",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1037,
+        "gutterRight": 65,
+        "width": 338,
+        "gutterTop": 35,
+        "gutterBottom": 35
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "0px 16px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Work",
+          "family": "Archivo Variable",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Boldium",
+        "Work",
+        "About us",
+        "Labs",
+        "Contact"
+      ],
+      "words": 5,
+      "excerpt": "About us",
+      "media": {
+        "svg": 12
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "homepage-hero.main-container",
+      "y": 94,
+      "height": 806,
+      "position": "static",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 40px 40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 67,
+        "width": 1333,
+        "gutterTop": -40,
+        "gutterBottom": 62
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Boldium Boldium",
+          "family": "Archivo Variable",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "OUR WORK",
+          "family": "Archivo Variable",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#cecece"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Designing a bold voice for thought lead…"
+      ],
+      "words": 37,
+      "excerpt": "Safe assumptions don’t move industries. Uncomfortable questions do. We’ve spent nearly two",
+      "media": {
+        "img": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "StaggeredGrid__inner.pt-4",
+      "y": 900,
+      "height": 1491,
+      "position": "relative",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#afafaf",
+      "padding": "16px 0px 0px",
+      "margin": "0px 0px 16px",
+      "border": "1px solid #2f2f2f",
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 234,
+        "width": 1166,
+        "gutterTop": 468,
+        "gutterBottom": 6
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "80px 32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          54,
+          38,
+          54
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Workday Perspectives",
+          "family": "Archivo Variable",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Workday Perspectives",
+        "Autodesk Fusion 360",
+        "Magic Tale"
+      ],
+      "words": 41,
+      "excerpt": "Designing a bold voice for thought leadership",
+      "media": {
+        "img": 3,
+        "video": 3,
+        "svg": 3
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "StaggeredGrid__inner.pt-4",
+      "y": 2407,
+      "height": 1584,
+      "position": "relative",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#afafaf",
+      "padding": "16px 0px",
+      "margin": "0px 0px 16px",
+      "border": "1px solid #2f2f2f",
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 131,
+        "width": 1269,
+        "gutterTop": 309,
+        "gutterBottom": 23
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "80px 32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          54,
+          38,
+          54,
+          38
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "See our work",
+          "family": "Archivo Variable",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "See our work",
+        "USA Today Co.",
+        "SPARK NS",
+        "LifePlus"
+      ],
+      "words": 38,
+      "excerpt": "Designing AI that’s powerful—and personable.",
+      "media": {
+        "img": 3,
+        "video": 3,
+        "svg": 4
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "scroll-reveal-text-1",
+      "y": 4111,
+      "height": 355,
+      "position": "static",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 40px",
+      "margin": "120px 0px 160px",
+      "border": null,
+      "content": {
+        "gutterLeft": 156,
+        "gutterRight": 156,
+        "width": 1128,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "We help teams lead their category by thinking like outsiders and collaborating …",
+          "family": "Archivo Variable",
+          "size": 60,
+          "weight": "600",
+          "lineHeight": 1.17,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 60,
+        "weight": "600",
+        "lineHeight": 1.17,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 32,
+      "excerpt": "We help teams lead their category by thinking like outsiders and collaborating",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "bg-white.border",
+      "y": 4626,
+      "height": 440,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#111111",
+      "padding": "24px 40px 32px",
+      "margin": "0px",
+      "border": "1px solid #111111",
+      "content": {
+        "gutterLeft": 81,
+        "gutterRight": 81,
+        "width": 1278,
+        "gutterTop": 177,
+        "gutterBottom": 33
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "50px normal",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          89,
+          44,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Boldium is a brilliant digital partner that we’ve used for many projects. I hig…",
+          "family": "Archivo Variable",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#111111"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Fusion 360 case study"
+      ],
+      "words": 33,
+      "excerpt": "Boldium is a brilliant digital partner that we’ve used for many projects.",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "bg-white.border",
+      "y": 5090,
+      "height": 480,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#111111",
+      "padding": "24px 40px 32px",
+      "margin": "0px",
+      "border": "1px solid #111111",
+      "content": {
+        "gutterLeft": 81,
+        "gutterRight": 81,
+        "width": 1278,
+        "gutterTop": 177,
+        "gutterBottom": 33
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "50px normal",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          89,
+          44,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Boldium is an exceptional partner - true drivers of a consumer-centric experien…",
+          "family": "Archivo Variable",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#111111"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Monster case study"
+      ],
+      "words": 32,
+      "excerpt": "Boldium is an exceptional partner - true drivers of a consumer-centric experience",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "bg-white.border",
+      "y": 5593,
+      "height": 480,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#111111",
+      "padding": "24px 40px 32px",
+      "margin": "0px",
+      "border": "1px solid #111111",
+      "content": {
+        "gutterLeft": 81,
+        "gutterRight": 81,
+        "width": 1278,
+        "gutterTop": 177,
+        "gutterBottom": 33
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "50px normal",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          89,
+          44,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Boldium delivered a product beyond our expectations. They were meticulous and t…",
+          "family": "Archivo Variable",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#111111"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Weev case study"
+      ],
+      "words": 32,
+      "excerpt": "Boldium delivered a product beyond our expectations. They were meticulous and timely",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "bg-white.border",
+      "y": 6097,
+      "height": 462,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#111111",
+      "padding": "24px 40px 32px",
+      "margin": "0px",
+      "border": "1px solid #111111",
+      "content": {
+        "gutterLeft": 81,
+        "gutterRight": 81,
+        "width": 1278,
+        "gutterTop": 159,
+        "gutterBottom": 33
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "50px normal",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          89,
+          44,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "I’m a three-time customer, and I’ll be a fourth. Boldium is an invaluable partn…",
+          "family": "Archivo Variable",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#111111"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "USA Today Co. case study"
+      ],
+      "words": 37,
+      "excerpt": "I’m a three-time customer, and I’ll be a fourth. Boldium is an",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "skill-list-1",
+      "y": 6682,
+      "height": 965,
+      "position": "static",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#afafaf",
+      "padding": "0px 40px",
+      "margin": "123.482px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 0,
+        "gutterBottom": 33
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Areas of Expertise",
+          "family": "Archivo Variable",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 66,
+      "excerpt": "Multi-platform development",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "media-1",
+      "y": 7771,
+      "height": 600,
+      "position": "static",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 40px",
+      "margin": "123.482px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "accordions-1",
+      "y": 8494,
+      "height": 707,
+      "position": "static",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#919191",
+      "padding": "0px 40px 67.8638px",
+      "margin": "123.482px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 678,
+        "width": 722,
+        "gutterTop": 0,
+        "gutterBottom": -81
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          0,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FAQ",
+          "family": "Archivo Variable",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.78,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 511,
+      "excerpt": "Yes. AI is one of our core strengths. We’ve designed AI-driven products,",
+      "media": {
+        "svg": 7
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "contact-form-1",
+      "y": 9324,
+      "height": 771,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#666666",
+      "padding": "0px",
+      "margin": "123.482px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 123,
+        "gutterBottom": 123
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Say hello, we love meeting new people.",
+          "family": "Archivo Variable",
+          "size": 80,
+          "weight": "600",
+          "lineHeight": 1.12,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#111111"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.56,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Send message"
+      ],
+      "words": 32,
+      "excerpt": "Big idea, small question, or something in between—we’re always up for a",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 15,
+      "tag": "footer",
+      "name": "bg-black.main-container",
+      "y": 365,
+      "height": 535,
+      "position": "sticky",
+      "background": "#111111",
+      "backgroundImage": false,
+      "color": "#919191",
+      "padding": "0px 40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 40,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          49,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Get our thoughts and tips on the future of digital",
+          "family": "Archivo Variable",
+          "size": 24,
+          "weight": "600",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Learn about us",
+          "family": "Archivo Variable",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Contact us",
+          "family": "Archivo Variable",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Subscribe",
+        "Work",
+        "About us",
+        "Labs",
+        "Contact",
+        "Blog",
+        "Inquire about a project",
+        "Join the team",
+        "Drop us a note",
+        "Privacy policy"
+      ],
+      "words": 41,
+      "excerpt": "Get our thoughts and tips on the future of digital",
+      "media": {
+        "img": 1,
+        "canvas": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 47,
+    "title": "Boldium",
+    "award": "HM",
+    "url": "https://www.boldium.com/",
+    "awwwards": "https://www.awwwards.com/sites/boldium",
+    "categories": [
+      "Design Agencies",
+      "Mobile & Apps",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

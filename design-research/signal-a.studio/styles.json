@@ -1,0 +1,948 @@
+{
+  "page": {
+    "url": "https://signal-a.studio/",
+    "title": "Signal-A Studio • Award–Winning Web Design & Product Design Studio",
+    "description": "Meticulously crafted, award-winning Web Design and Product Design. Tailored to connect with your audience. Engineered for the lasting impact.",
+    "lang": null,
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6288,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 0.5
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.5
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 941
+      },
+      {
+        "family": "Neue Haas Grotesk Text Pro",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 265
+      },
+      {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 225
+      },
+      {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 198
+      },
+      {
+        "family": "Neue Haas Grotesk Text Pro",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 11
+      }
+    ],
+    "loadedFonts": [
+      "Gt America Mono 300 normal",
+      "Neue Haas Grotesk Text Pro 400 normal",
+      "PPEditorialNew 100 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 20,
+      "uses": 67
+    },
+    {
+      "px": 10,
+      "uses": 56
+    },
+    {
+      "px": 8,
+      "uses": 24
+    },
+    {
+      "px": 5,
+      "uses": 14
+    },
+    {
+      "px": 30,
+      "uses": 2
+    },
+    {
+      "px": 60,
+      "uses": 2
+    },
+    {
+      "px": 15,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 1,
+      "uses": 1
+    },
+    {
+      "px": 100,
+      "uses": 1
+    },
+    {
+      "px": 140,
+      "uses": 1
+    },
+    {
+      "px": 506,
+      "uses": 1
+    },
+    {
+      "px": 250,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "10px",
+      "uses": 1
+    },
+    {
+      "value": "1px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 2,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--s-a-black": "#000",
+    "--s-a-mono-font-default": "10px",
+    "--s-a-site-margin-default": "10px",
+    "--s-a-gap-default": "10px",
+    "--s-a-black-persistent": "black",
+    "--s-a-default-text": "13px",
+    "--s-a-mono-font-gap-default": "4px",
+    "--s-a-stroke-width-default": "1px",
+    "--s-a-case-study-color-variable": "#fff",
+    "--s-a-line-height-mono-default": "130%",
+    "--s-a-menu-back-height-px": "39px",
+    "--s-a-social-buttons-hover": "0px",
+    "--s-a-case-study-color-variable-overwrite": "#0000",
+    "--s-a-menu-back-height": "39%"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 767px",
+    "max 479px",
+    "min 768px",
+    "min 992px",
+    "min 1920px",
+    "min 1400px",
+    "max 1399px",
+    "min 480px",
+    "min 2500px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "w-layout-vflex.s-a-above-the-fold-wrapper",
+      "y": 0,
+      "height": 855,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "100px 0px 30px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 385,
+        "gutterRight": 270,
+        "width": 785,
+        "gutterTop": 98,
+        "gutterBottom": 160
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "stretch",
+        "children": 3,
+        "childWidthsPct": [
+          94,
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "(",
+          "family": "Neue Haas Grotesk Text Pro",
+          "size": 23,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk Text Pro",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 116,
+      "excerpt": "13:52",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "s-a-video-wrapper-muted.s-a-video-wrapper",
+      "y": 855,
+      "height": 538,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 270,
+        "width": 900,
+        "gutterTop": 526,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "10px",
+        "justify": "flex-end",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          7,
+          55,
+          63
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "SHOWREEL",
+          "family": "Gt America Mono",
+          "size": 12,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Coming Soon",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "s-a-spacer-250",
+      "y": 1393,
+      "height": 250,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "a",
+      "name": "s-a-home-case-study-row.w-inline-block",
+      "y": 1718,
+      "height": 300,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 40,
+        "width": 1130,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 10,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "A — 1",
+          "family": "Gt America Mono",
+          "size": 12,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 27,
+      "excerpt": "Awwwards: Honorable Mention",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "a",
+      "name": "s-a-home-case-study-row.w-inline-block",
+      "y": 2059,
+      "height": 300,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 40,
+        "width": 1130,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 10,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "A — 2",
+          "family": "Gt America Mono",
+          "size": 12,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 19,
+      "excerpt": "Notable recognitions",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "a",
+      "name": "s-a-home-case-study-row.w-inline-block",
+      "y": 2400,
+      "height": 300,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 40,
+        "width": 1130,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 10,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "A — 3",
+          "family": "Gt America Mono",
+          "size": 12,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 26,
+      "excerpt": "Awwwards: Site of the day",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "a",
+      "name": "s-a-home-case-study-row.w-variant-b100b670-258b-7df5-01a3-e1d37f68e2b8",
+      "y": 2741,
+      "height": 300,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 40,
+        "width": 1130,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 10,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "A — 4",
+          "family": "Gt America Mono",
+          "size": 12,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 21,
+      "excerpt": "Notable recognitions",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "a",
+      "name": "s-a-home-case-study-row.w-inline-block",
+      "y": 3082,
+      "height": 300,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 40,
+        "width": 1130,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 10,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "A — 5",
+          "family": "Gt America Mono",
+          "size": 12,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 19,
+      "excerpt": "Awwwards: Honorable Mention",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "a",
+      "name": "s-a-home-case-study-row.w-inline-block",
+      "y": 3423,
+      "height": 300,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 40,
+        "width": 1130,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 10,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "A — 6",
+          "family": "Gt America Mono",
+          "size": 12,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 22,
+      "excerpt": "Awwwards: Site of the day",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "s-a-spacer-320",
+      "y": 3794,
+      "height": 320,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "s-a-secondary-header",
+      "y": 4114,
+      "height": 373,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "s-a-spacer-320",
+      "y": 4487,
+      "height": 320,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "s-a-grid-1-row.s-a-hide-on-mobile",
+      "y": 4807,
+      "height": 551,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "1px solid #000000",
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 20,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "AWWWARDS",
+          "family": "Neue Haas Grotesk Text Pro",
+          "size": 17,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 54,
+      "excerpt": "BRonze Winner - Interface Design",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "s-a-spacer-100",
+      "y": 5358,
+      "height": 100,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "s-a-footer.section-3",
+      "y": 5763,
+      "height": 524,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "250px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 0,
+        "gutterBottom": 159
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          39,
+          15,
+          15,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "SCHEDULE A DISCOVERY CALL",
+          "family": "Neue Haas Grotesk Text Pro",
+          "size": 17,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gt America Mono",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "BEHANCE",
+        "WARSAW — BERLIN",
+        "PRIVACY POLICY",
+        "SCHEDULE A DISCOVERY CALL",
+        "SIGNAL-A",
+        "ABOUT",
+        "CONTACT",
+        "HOME",
+        "CASE STUDIES",
+        "ARCHIVE"
+      ],
+      "words": 52,
+      "excerpt": "Signal-A is an Award-winning interface & experience Design studio specialized in crafting",
+      "media": {
+        "img": 5
+      }
+    }
+  ],
+  "listing": {
+    "rank": 129,
+    "title": "Signal-A Studio",
+    "award": "SOTD",
+    "url": "https://signal-a.studio/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/signal-a-studio",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

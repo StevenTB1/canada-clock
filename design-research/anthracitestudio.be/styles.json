@@ -1,0 +1,1036 @@
+{
+  "page": {
+    "url": "https://anthracitestudio.be/",
+    "title": "Web designer & développeur en Wallonie | Anthracite Studio",
+    "description": "Alexandre Huet, web designer et développeur en Wallonie et au Luxembourg : sites WordPress sur mesure, SEO, visibilité dans les IA et automatisations.",
+    "lang": "fr",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10378,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#04040e",
+        "share": 0.988
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.007
+      },
+      {
+        "value": "#000000bf",
+        "share": 0.003
+      },
+      {
+        "value": "#00000099",
+        "share": 0.002
+      },
+      {
+        "value": "#0004eb",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.518
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0.135
+      },
+      {
+        "value": "#04040e",
+        "share": 0.115
+      },
+      {
+        "value": "#ffffff8c",
+        "share": 0.098
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.059
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.033
+      },
+      {
+        "value": "#ffffffd9",
+        "share": 0.032
+      },
+      {
+        "value": "#3d4bff",
+        "share": 0.01
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 0.444
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.4
+      },
+      {
+        "value": "#ffffff29",
+        "share": 0.111
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0.022
+      },
+      {
+        "value": "#ffffff1f",
+        "share": 0.022
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.99
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Figtree Variable",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": -0.021,
+        "transform": "none",
+        "chars": 678
+      },
+      {
+        "family": "Sometype Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.06,
+        "transform": "uppercase",
+        "chars": 411
+      },
+      {
+        "family": "Sometype Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.06,
+        "transform": "uppercase",
+        "chars": 316
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 221
+      },
+      {
+        "family": "Figtree Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 208
+      },
+      {
+        "family": "Figtree Variable",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.019,
+        "transform": "none",
+        "chars": 205
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 66.24,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 149
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 51.84,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 149
+      },
+      {
+        "family": "Figtree Variable",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.023,
+        "transform": "none",
+        "chars": 140
+      },
+      {
+        "family": "Sometype Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 136
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 27.36,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 123
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 86.4,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 106
+      },
+      {
+        "family": "Sometype Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.06,
+        "transform": "uppercase",
+        "chars": 95
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.005,
+        "transform": "none",
+        "chars": 80
+      }
+    ],
+    "loadedFonts": [
+      "Figtree Variable 300 900 normal",
+      "Sometype Mono 400 normal",
+      "Sometype Mono 700 normal",
+      "Instrument Serif 400 normal",
+      "Instrument Serif Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 77
+    },
+    {
+      "px": 14,
+      "uses": 58
+    },
+    {
+      "px": 5,
+      "uses": 52
+    },
+    {
+      "px": 8,
+      "uses": 37
+    },
+    {
+      "px": 6,
+      "uses": 36
+    },
+    {
+      "px": 20,
+      "uses": 35
+    },
+    {
+      "px": 24,
+      "uses": 30
+    },
+    {
+      "px": 16,
+      "uses": 22
+    },
+    {
+      "px": 12,
+      "uses": 16
+    },
+    {
+      "px": 3,
+      "uses": 16
+    },
+    {
+      "px": 25,
+      "uses": 14
+    },
+    {
+      "px": 28,
+      "uses": 14
+    },
+    {
+      "px": 4,
+      "uses": 11
+    },
+    {
+      "px": 48,
+      "uses": 10
+    },
+    {
+      "px": 40,
+      "uses": 6
+    },
+    {
+      "px": 64,
+      "uses": 5
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.25s ease",
+        "uses": 129
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 33
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 28
+      },
+      {
+        "value": "0.8s ease",
+        "uses": 16
+      },
+      {
+        "value": "0.7s ease",
+        "uses": 14
+      },
+      {
+        "value": "0.5s cubic-bezier(0.25, 1, 0.5, 1)",
+        "uses": 10
+      }
+    ],
+    "cssAnimatedElements": 6,
+    "canvases": 4,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--container-min": "992px",
+    "--container-max": "100svw",
+    "--container": "clamp(var(--container-min), 92vw, var(--container-max))",
+    "--unit": "1rem",
+    "--font-body": "\"Figtree Variable\", \"Figtree\", sans-serif",
+    "--font-title": "\"Instrument Serif\", \"Instrument Serif Fallback\", Georgia, serif",
+    "--font-display": "\"Sometype Mono\", monospace",
+    "--primary": "#0004eb",
+    "--secondary": "#f6beb1",
+    "--lightprimary": "#838dff",
+    "--electric": "#3d4bff",
+    "--electric-text": "#5c68ff",
+    "--white": "#fff",
+    "--white-gray": "#fafafa",
+    "--dark": "#04040e",
+    "--anim-duration": ".6s",
+    "--anim-delay": ".2s",
+    "--bg": "var(--dark)",
+    "--fg": "var(--white)"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "pixel-lens",
+      "y": 1138,
+      "height": 900,
+      "position": "sticky",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "Clients",
+      "y": 2142,
+      "height": 162,
+      "position": "relative",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#04040e",
+      "padding": "72px 25px 0px",
+      "margin": "-198px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 1227,
+        "width": 188,
+        "gutterTop": 24,
+        "gutterBottom": 101
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          13,
+          82
+        ]
+      },
+      "headings": [
+        {
+          "tag": "button",
+          "text": "Mettre les logos en pause",
+          "family": "Figtree Variable",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#04040e"
+        }
+      ],
+      "bodyType": {
+        "family": "Figtree Variable",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Mettre les logos en pause"
+      ],
+      "words": 5,
+      "excerpt": "Mettre les logos en pause",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "manifesto",
+      "y": 2304,
+      "height": 789,
+      "position": "static",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#ffffffb3",
+      "padding": "150px 25px 160px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 395,
+        "width": 1020,
+        "gutterTop": 142,
+        "gutterBottom": 177
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 72px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          72,
+          36,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Je",
+          "family": "Instrument Serif",
+          "size": 66.24,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Figtree Variable",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.019,
+        "transform": "none"
+      },
+      "labels": [
+        "PARLONS DE VOTRE PROJET",
+        "EN SAVOIR PLUS SUR MOI"
+      ],
+      "words": 71,
+      "excerpt": "Web designer et développeur, j’ai fondé Anthracite Studio pour suivre chaque projet",
+      "media": {
+        "img": 1,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "hs",
+      "y": 3093,
+      "height": 497,
+      "position": "static",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 25px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 25,
+        "width": 1390,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "0px 32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          22,
+          22,
+          22,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Du design au code, jusqu’à l’IA.",
+          "family": "Instrument Serif",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Design & contenus",
+          "family": "Instrument Serif",
+          "size": 34.56,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Développement web",
+          "family": "Instrument Serif",
+          "size": 34.56,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "SEO & GEO",
+          "family": "Instrument Serif",
+          "size": 34.56,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Sometype Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.06,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "TOUS LES SERVICES",
+        "WEB DESIGN UI/UX ↗",
+        "IDENTITÉ VISUELLE ↗",
+        "ANIMATIONS WEB ↗",
+        "SITE VITRINE SUR MESURE ↗",
+        "THÈME WORDPRESS SUR MESURE ↗",
+        "REFONTE DE SITE ↗",
+        "RÉFÉRENCEMENT SEO ↗",
+        "VISIBILITÉ DANS LES IA (GEO) ↗",
+        "AUDIT SEO & PERFORMANCE ↗"
+      ],
+      "words": 107,
+      "excerpt": "Gagner des positions durables et être cité par ChatGPT ou Perplexity.",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "fp__top",
+      "y": 3750,
+      "height": 164,
+      "position": "static",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 25,
+        "width": 1390,
+        "gutterTop": 0,
+        "gutterBottom": -15
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "40px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          65,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Ils m’ont confié leur image.",
+          "family": "Instrument Serif",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Figtree Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 40,
+      "excerpt": "PME de Wallonie, groupes industriels, agences partenaires : depuis plus de trois",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "li",
+      "name": "fp__card.is-reset",
+      "y": 4064,
+      "height": 609,
+      "position": "static",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#ffffff99",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 45,
+        "gutterRight": 816,
+        "width": 579,
+        "gutterTop": 500,
+        "gutterBottom": 7
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          52,
+          52
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Wallo Summer Camp : des stages de badminton en immersion",
+          "family": "Instrument Serif",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Figtree Variable",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": -0.021,
+        "transform": "none"
+      },
+      "labels": [
+        "WEB DESIGN DÉVELOPPEMENT SEO Wallo Summ…"
+      ],
+      "words": 29,
+      "excerpt": "Site vitrine pour des stages de badminton intensifs encadrés par des entraîneurs",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "li",
+      "name": "fp__card.is-reset",
+      "y": 5517,
+      "height": 603,
+      "position": "static",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#ffffff99",
+      "padding": "0px",
+      "margin": "160px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 328,
+        "gutterRight": 662,
+        "width": 450,
+        "gutterTop": 439,
+        "gutterBottom": 28
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          57,
+          57
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Grain de Soleil : un site solidaire pour Margaux",
+          "family": "Instrument Serif",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Figtree Variable",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": -0.021,
+        "transform": "none"
+      },
+      "labels": [
+        "PROJET SOLIDAIRE INTÉGRATION WEB Grain …"
+      ],
+      "words": 36,
+      "excerpt": "Site de la fondation qui soutient Margaux, atteinte d’ataxie de Friedreich. Réalisé",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "awards",
+      "y": 7482,
+      "height": 995,
+      "position": "static",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "20px 25px 150px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 25,
+        "width": 1390,
+        "gutterTop": 20,
+        "gutterBottom": 150
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "40px 86.4px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          41,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Remarqué par les jurys.",
+          "family": "Instrument Serif",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 27.36,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Featured of the Day 23.10.26",
+        "Site of the Day 22.10.26",
+        "Site of the Day 10.06.25",
+        "Honorable Mention 16.06.25",
+        "Special Kudos 04.06.25",
+        "Best Innovation 04.06.25",
+        "Best UI 04.06.25",
+        "Best UX 04.06.25"
+      ],
+      "words": 46,
+      "excerpt": "Featured of the Day",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "testimonials",
+      "y": 8477,
+      "height": 642,
+      "position": "static",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "10px 25px 140px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 71,
+        "width": 1344,
+        "gutterTop": -6,
+        "gutterBottom": 262
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "20px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          63
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Ils en parlent mieux que moi.",
+          "family": "Instrument Serif",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "« Une personne très créative qui a réussi à mettre en image tout ce que j’avais…",
+          "family": "Instrument Serif",
+          "size": 51.84,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 51.84,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.015,
+        "transform": "none"
+      },
+      "labels": [
+        "CLIENTS 5",
+        "COLLABORATEURS 3"
+      ],
+      "words": 47,
+      "excerpt": "image tout ce que j’avais derrière la tête. Et surtout",
+      "media": {
+        "img": 8,
+        "svg": 2
+      }
+    },
+    {
+      "i": 10,
+      "tag": "footer",
+      "name": "site-footer",
+      "y": 9119,
+      "height": 1259,
+      "position": "static",
+      "background": "#04040e",
+      "backgroundImage": false,
+      "color": "#04040e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 626,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "48px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          44,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "hello@anthracitestudio.be",
+          "family": "Instrument Serif",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": -0.005,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Sometype Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.06,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "hello@anthracitestudio.be",
+        "WEB DESIGN UI/UX",
+        "DESIGN D’APPLICATION",
+        "IDENTITÉ VISUELLE",
+        "GRAPHISME",
+        "ANIMATIONS WEB",
+        "WORDING & RÉDACTION",
+        "COMMUNITY MANAGEMENT",
+        "SITE VITRINE SUR MESURE",
+        "THÈME WORDPRESS SUR MESURE"
+      ],
+      "words": 89,
+      "excerpt": "Basé à Marche-en-Famenne Disponible partout, à distance",
+      "media": {
+        "canvas": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 196,
+    "title": "Anthracite Studio",
+    "award": "HM",
+    "url": "https://anthracitestudio.be/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/anthracite-studio",
+    "categories": [
+      "Art & Illustration",
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

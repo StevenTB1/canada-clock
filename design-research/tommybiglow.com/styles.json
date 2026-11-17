@@ -1,0 +1,236 @@
+{
+  "page": {
+    "url": "https://tommybiglow.com/",
+    "title": "Tommy Biglow",
+    "description": "Tommy Biglow: Working across brand, tech, and film to build thoughtful digital experiences, e-commerce brands, and original stories.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.5
+      },
+      {
+        "value": "#0a1030",
+        "share": 0.5
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffffb2",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.5,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Lucida Grande",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.43,
+        "letterSpacing": 0.18,
+        "transform": "uppercase",
+        "chars": 14
+      }
+    ],
+    "loadedFonts": []
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.7s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--color-red-50": "oklch(97.1% .013 17.38)",
+    "--color-red-100": "oklch(93.6% .032 17.717)",
+    "--color-red-300": "oklch(80.8% .114 19.571)",
+    "--color-red-400": "oklch(70.4% .191 22.216)",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-red-600": "oklch(57.7% .245 27.325)",
+    "--color-red-700": "oklch(50.5% .213 27.518)",
+    "--color-orange-100": "oklch(95.4% .038 75.164)",
+    "--color-orange-300": "oklch(83.7% .128 66.29)",
+    "--color-orange-700": "oklch(55.3% .195 38.402)",
+    "--color-amber-200": "oklch(92.4% .12 95.746)",
+    "--color-amber-300": "oklch(87.9% .169 91.605)",
+    "--color-yellow-50": "oklch(98.7% .026 102.212)",
+    "--color-yellow-200": "oklch(94.5% .129 101.54)",
+    "--color-yellow-300": "oklch(90.5% .182 98.111)",
+    "--color-yellow-500": "oklch(79.5% .184 86.047)",
+    "--color-yellow-700": "oklch(55.4% .135 66.442)",
+    "--color-lime-200": "oklch(93.8% .127 124.321)",
+    "--color-lime-300": "oklch(89.7% .196 126.665)",
+    "--color-green-200": "oklch(92.5% .084 155.995)",
+    "--color-green-300": "oklch(87.1% .15 154.449)",
+    "--color-green-400": "oklch(79.2% .209 151.711)",
+    "--color-cyan-300": "oklch(86.5% .127 207.078)",
+    "--color-blue-50": "oklch(97% .014 254.604)",
+    "--color-blue-100": "oklch(93.2% .032 255.585)",
+    "--color-blue-200": "oklch(88.2% .059 254.128)",
+    "--color-blue-400": "oklch(70.7% .165 254.624)",
+    "--color-blue-500": "oklch(62.3% .214 259.815)",
+    "--color-blue-600": "oklch(54.6% .245 262.881)",
+    "--color-blue-700": "oklch(48.8% .243 264.376)",
+    "--color-blue-900": "oklch(37.9% .146 265.522)",
+    "--color-indigo-200": "oklch(87% .065 274.039)",
+    "--color-indigo-300": "oklch(78.5% .115 274.713)",
+    "--color-slate-200": "oklch(92.9% .013 255.508)",
+    "--color-slate-300": "oklch(86.9% .022 252.894)",
+    "--color-slate-500": "oklch(55.4% .046 257.417)",
+    "--color-slate-600": "oklch(44.6% .043 257.281)",
+    "--color-slate-800": "oklch(27.9% .041 260.031)",
+    "--color-gray-50": "oklch(98.5% .002 247.839)",
+    "--color-gray-100": "oklch(96.7% .003 264.542)",
+    "--color-gray-200": "oklch(92.8% .006 264.531)",
+    "--color-gray-300": "oklch(87.2% .01 258.338)",
+    "--color-gray-400": "oklch(70.7% .022 261.325)",
+    "--color-gray-500": "oklch(55.1% .027 264.364)",
+    "--color-gray-600": "oklch(44.6% .03 256.802)",
+    "--color-gray-700": "oklch(37.3% .034 259.733)",
+    "--color-gray-800": "oklch(27.8% .033 256.848)",
+    "--color-gray-900": "oklch(21% .034 264.665)",
+    "--color-neutral-200": "oklch(92.2% 0 none)",
+    "--color-neutral-800": "oklch(26.9% 0 none)",
+    "--color-neutral-900": "oklch(20.5% 0 none)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--container-sm": "24rem",
+    "--container-md": "28rem",
+    "--container-lg": "32rem",
+    "--container-3xl": "48rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "1.5",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75 / 1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "1.2",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5 / 2.25)",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--font-weight-black": "900",
+    "--tracking-tight": "-.025em"
+  },
+  "breakpoints": [
+    "min 40rem",
+    "min 48rem",
+    "min 64rem",
+    "min 80rem",
+    "min 96rem"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "root",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffffb2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 646,
+        "gutterRight": 646,
+        "width": 147,
+        "gutterTop": 742,
+        "gutterBottom": 138
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          40,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "CLICK TO ENTER",
+          "family": "Lucida Grande",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.43,
+          "letterSpacing": 0.18,
+          "transform": "uppercase",
+          "color": "#ffffffb2"
+        }
+      ],
+      "bodyType": {
+        "family": "Lucida Grande",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.43,
+        "letterSpacing": 0.18,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "click to enter",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 125,
+    "title": "Tommy Biglow",
+    "award": "HM",
+    "url": "https://tommybiglow.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/tommy-biglow",
+    "categories": [
+      "Portfolio",
+      "Experimental",
+      "Web & Interactive"
+    ]
+  }
+}

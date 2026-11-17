@@ -1,0 +1,784 @@
+{
+  "page": {
+    "url": "https://www.villiers.ai/",
+    "title": "Private Jet Charter and Empty Leg Flights | Villiers",
+    "description": "Charter a private jet or find an empty leg flight. Villiers is an independent broker that compares vetted operators and quotes one clear price.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 12164,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#0f0f15",
+        "share": 0.651
+      },
+      {
+        "value": "#f8f9f9",
+        "share": 0.092
+      },
+      {
+        "value": "#19191e",
+        "share": 0.064
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.042
+      },
+      {
+        "value": "#0f0f1566",
+        "share": 0.039
+      },
+      {
+        "value": "#29292b",
+        "share": 0.038
+      },
+      {
+        "value": "#4879ef",
+        "share": 0.023
+      },
+      {
+        "value": "#f3f3f3",
+        "share": 0.022
+      },
+      {
+        "value": "#29292b66",
+        "share": 0.013
+      },
+      {
+        "value": "#40404066",
+        "share": 0.007
+      },
+      {
+        "value": "#0f0f151a",
+        "share": 0.002
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0.002
+      }
+    ],
+    "text": [
+      {
+        "value": "#eeeff0",
+        "share": 0.185
+      },
+      {
+        "value": "#f8f9f9",
+        "share": 0.146
+      },
+      {
+        "value": "#29292b",
+        "share": 0.127
+      },
+      {
+        "value": "#9c9c9c",
+        "share": 0.123
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0.098
+      },
+      {
+        "value": "#707070",
+        "share": 0.062
+      },
+      {
+        "value": "#d5d5d5",
+        "share": 0.037
+      },
+      {
+        "value": "#717275",
+        "share": 0.037
+      },
+      {
+        "value": "#0f0f15",
+        "share": 0.032
+      },
+      {
+        "value": "#ffffff66",
+        "share": 0.03
+      },
+      {
+        "value": "#b4b4b2",
+        "share": 0.027
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0.022
+      }
+    ],
+    "borders": [
+      {
+        "value": "#70707066",
+        "share": 0.309
+      },
+      {
+        "value": "#b4b4b2",
+        "share": 0.103
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0.103
+      },
+      {
+        "value": "#707070",
+        "share": 0.088
+      },
+      {
+        "value": "#0f0f15",
+        "share": 0.074
+      },
+      {
+        "value": "#4879ef",
+        "share": 0.059
+      },
+      {
+        "value": "#29292b66",
+        "share": 0.044
+      },
+      {
+        "value": "#76767662",
+        "share": 0.044
+      },
+      {
+        "value": "#70707033",
+        "share": 0.029
+      },
+      {
+        "value": "#f3f3f3",
+        "share": 0.029
+      },
+      {
+        "value": "#70707059",
+        "share": 0.015
+      },
+      {
+        "value": "#e5e7eb",
+        "share": 0.015
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.972,
+      "text": 0.926
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 16,
+        "weight": "450",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2016
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 14,
+        "weight": "450",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1851
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 855
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 19,
+        "weight": "600",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 689
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 26.25,
+        "weight": "600",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 581
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 32.66,
+        "weight": "600",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 358
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 264
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 16,
+        "weight": "450",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 135
+      },
+      {
+        "family": "neue-haas-grotesk-text",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 130
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 52.5,
+        "weight": "600",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 116
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 12,
+        "weight": "450",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 66
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 12.25,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 59
+      },
+      {
+        "family": "ui-monospace",
+        "size": 9.63,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.1,
+        "transform": "none",
+        "chars": 58
+      },
+      {
+        "family": "neue-haas-grotesk-display",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 50
+      }
+    ],
+    "loadedFonts": [
+      "Benton Fallback normal normal",
+      "Haas Display Fallback normal normal",
+      "Haas Text Fallback normal normal",
+      "Poppins 600 italic",
+      "Poppins 700 italic",
+      "JetBrains Mono 400 normal",
+      "benton-modern-display 400 normal",
+      "neue-haas-grotesk-display 500 normal",
+      "neue-haas-grotesk-display 600 normal",
+      "neue-haas-grotesk-text 400 normal",
+      "neue-haas-grotesk-text 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 223
+    },
+    {
+      "px": 5,
+      "uses": 217
+    },
+    {
+      "px": 11,
+      "uses": 157
+    },
+    {
+      "px": 4,
+      "uses": 135
+    },
+    {
+      "px": 28,
+      "uses": 97
+    },
+    {
+      "px": 7,
+      "uses": 90
+    },
+    {
+      "px": 21,
+      "uses": 87
+    },
+    {
+      "px": 2,
+      "uses": 62
+    },
+    {
+      "px": 13,
+      "uses": 28
+    },
+    {
+      "px": 9,
+      "uses": 26
+    },
+    {
+      "px": 3,
+      "uses": 25
+    },
+    {
+      "px": 42,
+      "uses": 23
+    },
+    {
+      "px": 25,
+      "uses": 20
+    },
+    {
+      "px": 35,
+      "uses": 19
+    },
+    {
+      "px": 32,
+      "uses": 17
+    },
+    {
+      "px": 18,
+      "uses": 16
+    }
+  ],
+  "radii": [
+    {
+      "value": "9999px",
+      "uses": 107
+    },
+    {
+      "value": "10px",
+      "uses": 17
+    },
+    {
+      "value": "7px",
+      "uses": 9
+    },
+    {
+      "value": "21px",
+      "uses": 8
+    },
+    {
+      "value": "28px",
+      "uses": 6
+    },
+    {
+      "value": "31.5px",
+      "uses": 5
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 47
+      },
+      {
+        "value": "0.8s cubic-bezier(1, 0, 0.25, 0.995)",
+        "uses": 30
+      },
+      {
+        "value": "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 27
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 21
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 21
+      },
+      {
+        "value": "0.6s cubic-bezier(1, 0, 0.25, 0.995)",
+        "uses": 10
+      }
+    ],
+    "cssAnimatedElements": 9,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--mobile-bar-h": "4rem",
+    "--background": "222 47% 11%",
+    "--foreground": "210 40% 98%",
+    "--card": "222 47% 11%",
+    "--card-foreground": "210 40% 98%",
+    "--popover": "222 47% 11%",
+    "--popover-foreground": "210 40% 98%",
+    "--primary": "210 40% 98%",
+    "--primary-foreground": "222 47% 11%",
+    "--secondary": "217.2 32.6% 17.5%",
+    "--secondary-foreground": "210 40% 98%",
+    "--muted": "217.2 32.6% 17.5%",
+    "--muted-foreground": "215 20.2% 82%",
+    "--accent": "217.2 32.6% 17.5%",
+    "--accent-foreground": "210 40% 98%",
+    "--destructive": "0 62.8% 30.6%",
+    "--destructive-foreground": "210 40% 98%",
+    "--border": "217.2 32.6% 17.5%",
+    "--input": "217.2 32.6% 17.5%",
+    "--ring": "212.7 26.8% 83.9%",
+    "--radius": "0.5rem",
+    "--empty-bg": "#0f0f15",
+    "--empty-fg": "#f8f9f9",
+    "--empty-sec": "#d9d9d9",
+    "--empty-search-bg": "#1a1a1f",
+    "--empty-search-border": "rgba(112,112,112,0.4)",
+    "--empty-pill-unselected-bg": "#1a1a1f",
+    "--empty-pill-unselected-border": "rgba(112,112,112,0.4)",
+    "--empty-pill-unselected-text": "#b4b4b2",
+    "--empty-card-bg": "#29292b",
+    "--empty-card-border": "#707070",
+    "--empty-card-box-bg": "#0f0f15",
+    "--empty-card-divider": "rgba(112,112,112,0.25)",
+    "--empty-card-button-bg": "#f8f9f9",
+    "--empty-card-button-text": "#29292b",
+    "--why-bg": "#0f0f15",
+    "--why-fg": "#f8f9f9",
+    "--why-sec": "#d9d9d9",
+    "--why-line": "#404040",
+    "--size": "1728",
+    "--root-min": "14px",
+    "--root-max": "9999px",
+    "--nav-height": "calc(1.5rem + 4.2rem + 1px)",
+    "--header-height": "var(--nav-height)",
+    "--spacing-section-lg": "12rem",
+    "--spacing-section-sm": "4rem",
+    "--text-h1": "clamp(40px,17vh,6.25rem)",
+    "--text-h2": "3.75rem",
+    "--text-h2-small": "2.333rem",
+    "--text-h3": "1.875rem",
+    "--text-body": "clamp(16px,1rem,9999px)",
+    "--text-body-sm": "clamp(14px,0.875rem,9999px)",
+    "--text-body-xs": "clamp(12px,0.75rem,9999px)",
+    "--text-lead": "clamp(19px,1.1875rem,9999px)",
+    "--text-h1-clamp": "clamp(40px,17vh,110px)",
+    "--text-h2-clamp": "clamp(52px,3.75rem,68px)",
+    "--text-h2-small-clamp": "clamp(37px,2.333rem,44px)",
+    "--text-menu-item": "clamp(18px,6.5vh,32px)",
+    "--text-h3-clamp": "clamp(28px,1.875rem,34px)",
+    "--text-body-clamp": "clamp(14px,1rem,17px)",
+    "--text-body-sm-clamp": "clamp(12px,0.875rem,15px)",
+    "--text-body-xs-clamp": "clamp(10px,0.75rem,13px)",
+    "--text-lead-clamp": "clamp(17px,1.1875rem,21px)"
+  },
+  "breakpoints": [
+    "min 1280px",
+    "max 767px",
+    "min 768px",
+    "min 744px",
+    "max 430px",
+    "min 1400px",
+    "min 390px",
+    "max 1279px",
+    "min 380px",
+    "min 640px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "background-grain",
+      "y": -468,
+      "height": 1800,
+      "position": "fixed",
+      "background": "#0f0f15",
+      "backgroundImage": true,
+      "color": "#f8f9f9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "progressive-blur.pointer-events-none",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0f0f15",
+      "backgroundImage": false,
+      "color": "#f8f9f9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "fixed.inset-0",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0f0f15",
+      "backgroundImage": false,
+      "color": "#f8f9f9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "page-container.bg-neutral-500",
+      "y": 0,
+      "height": 11264,
+      "position": "relative",
+      "background": "#0f0f15",
+      "backgroundImage": false,
+      "color": "#eeeff0",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 16,
+        "width": 1396,
+        "gutterTop": 95,
+        "gutterBottom": 168
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "H o w d o e s i t w o r k ?",
+          "family": "neue-haas-grotesk-display",
+          "size": 52.5,
+          "weight": "600",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#f3f3f3"
+        },
+        {
+          "tag": "h2",
+          "text": "R e c e n t l y S e a r c h e d F l i g h t s",
+          "family": "neue-haas-grotesk-display",
+          "size": 52.5,
+          "weight": "600",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#f3f3f3"
+        },
+        {
+          "tag": "h3",
+          "text": "AI-Powered Pricing AI-Powered Pricing",
+          "family": "neue-haas-grotesk-display",
+          "size": 26.25,
+          "weight": "600",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#707070"
+        },
+        {
+          "tag": "h3",
+          "text": "Estimates come from our pricing model, trained on recent operator quotes. They …",
+          "family": "neue-haas-grotesk-display",
+          "size": 26.25,
+          "weight": "600",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "neue-haas-grotesk-display",
+        "size": 16,
+        "weight": "450",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "GBP GBP",
+        "EUR EUR",
+        "USD USD",
+        "View Estimates View Estimates",
+        "ALL REGIONS ALL REGIONS",
+        "EUROPE EUROPE",
+        "AMERICAS AMERICAS",
+        "17/11/2026 Salt Lake City (SLC) Scottsd…",
+        "17/11/2026 Athens Eleftherios Venizelos…",
+        "17/11/2026 Midland Airpark (MDD) Willia…"
+      ],
+      "words": 1156,
+      "excerpt": "Get the latest news, exclusive offers, and travel inspiration delivered to your",
+      "media": {
+        "img": 170,
+        "video": 1,
+        "svg": 257
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "relative.footer-reveal-h",
+      "y": 11264,
+      "height": 900,
+      "position": "relative",
+      "background": "#0f0f15",
+      "backgroundImage": false,
+      "color": "#ffffff66",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 28,
+        "width": 1384,
+        "gutterTop": -11096,
+        "gutterBottom": 11374
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "villiers",
+          "family": "Poppins",
+          "size": 17.5,
+          "weight": "600",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "neue-haas-grotesk-display",
+        "size": 14,
+        "weight": "450",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "Empty Legs",
+        "villiersOS",
+        "Bitcoin",
+        "Blog",
+        "About",
+        "Contact",
+        "contact@mail.villiers.ai",
+        "+1 (415) 702-1706",
+        "Affiliates"
+      ],
+      "words": 86,
+      "excerpt": "Villiers is a technology platform connecting customers with private jet operators. We",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "pointer-events-none.fixed",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0f0f15",
+      "backgroundImage": false,
+      "color": "#f8f9f9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 8,
+    "title": "Villiers",
+    "award": "HM",
+    "url": "https://www.villiers.ai/",
+    "awwwards": "https://www.awwwards.com/sites/villiers",
+    "categories": [
+      "Luxury",
+      "Startups"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

@@ -1,0 +1,1137 @@
+{
+  "page": {
+    "url": "https://piergorelli.com/",
+    "title": "Freelance Web & AI Developer for Creative Agencies | Pier Gorelli",
+    "description": "Pier Gorelli builds animated websites, CMS platforms and AI features for creative agencies. Plus hands-on AI training for agency teams. Based in Valencia.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 12566,
+    "generator": "Astro v7.3.5"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f4f4f0",
+        "share": 0.848
+      },
+      {
+        "value": "#ecece6",
+        "share": 0.101
+      },
+      {
+        "value": "#2c59ff17",
+        "share": 0.049
+      },
+      {
+        "value": "#0e0e0d",
+        "share": 0.002
+      },
+      {
+        "value": "#2f5bff",
+        "share": 0
+      },
+      {
+        "value": "#0e0e0e24",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#0e0e0d",
+        "share": 0.527
+      },
+      {
+        "value": "#65655f",
+        "share": 0.44
+      },
+      {
+        "value": "#f4f4f0",
+        "share": 0.018
+      },
+      {
+        "value": "#2a52f0",
+        "share": 0.014
+      }
+    ],
+    "borders": [
+      {
+        "value": "#0e0e0e24",
+        "share": 0.524
+      },
+      {
+        "value": "#10100c52",
+        "share": 0.429
+      },
+      {
+        "value": "#0e0e0d",
+        "share": 0.048
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.951,
+      "text": 0.985
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Geist Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1501
+      },
+      {
+        "family": "Geist Mono Variable",
+        "size": 11.52,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 1130
+      },
+      {
+        "family": "Geist Mono Variable",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 575
+      },
+      {
+        "family": "Geist Variable",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 342
+      },
+      {
+        "family": "Geist Variable",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 244
+      },
+      {
+        "family": "Geist Variable",
+        "size": 70.08,
+        "weight": "500",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.045,
+        "transform": "none",
+        "chars": 157
+      },
+      {
+        "family": "Geist Variable",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 120
+      },
+      {
+        "family": "Geist Variable",
+        "size": 15.2,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 95
+      },
+      {
+        "family": "Geist Variable",
+        "size": 120.64,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 82
+      },
+      {
+        "family": "Geist Variable",
+        "size": 26,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": -0.038,
+        "transform": "none",
+        "chars": 74
+      },
+      {
+        "family": "Geist Variable",
+        "size": 177.6,
+        "weight": "500",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.055,
+        "transform": "none",
+        "chars": 37
+      },
+      {
+        "family": "Geist Mono Variable",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "Geist Variable",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "Geist Variable",
+        "size": 120,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": -0.054,
+        "transform": "none",
+        "chars": 27
+      }
+    ],
+    "loadedFonts": [
+      "Geist Variable 100 900 normal",
+      "Geist Mono Variable 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 44
+    },
+    {
+      "px": 16,
+      "uses": 38
+    },
+    {
+      "px": 6,
+      "uses": 31
+    },
+    {
+      "px": 32,
+      "uses": 24
+    },
+    {
+      "px": 8,
+      "uses": 17
+    },
+    {
+      "px": 24,
+      "uses": 16
+    },
+    {
+      "px": 20,
+      "uses": 16
+    },
+    {
+      "px": 14,
+      "uses": 12
+    },
+    {
+      "px": 22,
+      "uses": 12
+    },
+    {
+      "px": 10,
+      "uses": 11
+    },
+    {
+      "px": 158,
+      "uses": 7
+    },
+    {
+      "px": 101,
+      "uses": 7
+    },
+    {
+      "px": 43,
+      "uses": 6
+    },
+    {
+      "px": 26,
+      "uses": 6
+    },
+    {
+      "px": 11,
+      "uses": 5
+    },
+    {
+      "px": 1,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "999px",
+      "uses": 12
+    },
+    {
+      "value": "4px",
+      "uses": 6
+    },
+    {
+      "value": "99px",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.25, 1, 0.5, 1)",
+        "uses": 39
+      },
+      {
+        "value": "0.8s cubic-bezier(0.76, 0, 0.24, 1)",
+        "uses": 6
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.4s cubic-bezier(0.76, 0, 0.24, 1)",
+        "uses": 4
+      },
+      {
+        "value": "2s cubic-bezier(0.25, 1, 0.5, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 11,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "\"Geist Variable\", ui-sans-serif, system-ui, sans-serif",
+    "--font-mono": "\"Geist Mono Variable\", ui-monospace, \"SF Mono\", monospace",
+    "--color-red-600": "oklch(57.7% .245 27.325)",
+    "--color-gray-300": "oklch(87.2% .01 258.338)",
+    "--color-gray-500": "oklch(55.1% .027 264.364)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "calc(1.5 / 1)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75 / 1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "calc(2.25 / 1.875)",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5 / 2.25)",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--font-weight-extrabold": "800",
+    "--font-weight-black": "900",
+    "--tracking-normal": "0em",
+    "--leading-tight": "1.25",
+    "--leading-normal": "1.5",
+    "--radius-md": ".375rem",
+    "--radius-lg": ".5rem",
+    "--ease-out": "cubic-bezier(.25, 1, .5, 1)",
+    "--ease-in-out": "cubic-bezier(.76, 0, .24, 1)",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--bg": "#f4f4f0",
+    "--bg-raised": "#ecece6",
+    "--ink": "#0e0e0d",
+    "--muted": "#65655f",
+    "--line": "#0e0e0d24",
+    "--line-strong": "#0e0e0d52",
+    "--control-line": "#0e0e0d80",
+    "--accent": "#2f5bff",
+    "--accent-ink": "#fff",
+    "--accent-text": "#2a52f0",
+    "--danger": "#c02b24",
+    "--step--1": "clamp(.8rem, .78rem + .1vw, .875rem)",
+    "--step-0": "clamp(1rem, .96rem + .2vw, 1.125rem)",
+    "--step-1": "clamp(1.25rem, 1.13rem + .6vw, 1.625rem)",
+    "--step-2": "clamp(1.6rem, 1.3rem + 1.4vw, 2.5rem)",
+    "--step-3": "clamp(2.2rem, 1.5rem + 3.2vw, 4.5rem)",
+    "--step-4": "clamp(3rem, 1.6rem + 6.6vw, 8.5rem)",
+    "--step-5": "clamp(3.6rem, 1.2rem + 11vw, 14rem)",
+    "--gutter": "clamp(16px, 2.2vw, 32px)",
+    "--columns": "12",
+    "--col-gap": "clamp(12px, 1.4vw, 24px)",
+    "--section": "clamp(88px, 11vw, 180px)",
+    "--dur-1": ".4s",
+    "--dur-2": ".8s",
+    "--dur-3": "1.2s"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "site-header.wrap",
+      "y": 0,
+      "height": 72,
+      "position": "fixed",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#0e0e0d",
+      "padding": "0px 31.68px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 99,
+        "gutterRight": 44,
+        "width": 1297,
+        "gutterTop": 18,
+        "gutterBottom": 18
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          18,
+          25,
+          17,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Work",
+          "family": "Geist Variable",
+          "size": 15.2,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0e0e0d"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Mono Variable",
+        "size": 11.52,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "PIER GORELLI / WEB & AI DEV",
+        "01 Work",
+        "02 Services",
+        "03 About",
+        "04 Blog",
+        "⌘K",
+        "Let's talk"
+      ],
+      "words": 18,
+      "excerpt": "/ web & AI dev",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "hero.wrap",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#65655f",
+      "padding": "96px 31.68px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 23,
+        "gutterRight": 32,
+        "width": 1386,
+        "gutterTop": 109,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          100,
+          96,
+          96,
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "I do dev. Web & AI development for creative agencies, when the idea is hard to …",
+          "family": "Geist Variable",
+          "size": 18,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.035,
+          "transform": "none",
+          "color": "#0e0e0d"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Mono Variable",
+        "size": 11.52,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Send me the hard part →",
+        "See the work"
+      ],
+      "words": 87,
+      "excerpt": "Mapping the hard terrain of the web since 1999. Now the map",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "section.wrap",
+      "y": 900,
+      "height": 820,
+      "position": "relative",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#0e0e0d",
+      "padding": "158.4px 31.68px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1377,
+        "gutterTop": 171,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "space-between",
+        "align": "baseline",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Keep the idea.",
+          "family": "Geist Variable",
+          "size": 120.64,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Variable",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.015,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 61,
+      "excerpt": "Agencies bring the ideas. I get them through production intact. If uneven",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "ws.is-pinned",
+      "y": 2135,
+      "height": 812,
+      "position": "static",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#0e0e0d",
+      "padding": "24px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 76,
+        "width": 1332,
+        "gutterTop": -4,
+        "gutterBottom": 48
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px 20.16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "coachmaitefinch.com, restyled",
+          "family": "Geist Variable",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0e0e0d"
+        },
+        {
+          "tag": "h2",
+          "text": "A retail site drawn from one letter",
+          "family": "Geist Variable",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0e0e0d"
+        },
+        {
+          "tag": "h2",
+          "text": "Image SEO that runs every day",
+          "family": "Geist Variable",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0e0e0d"
+        },
+        {
+          "tag": "h2",
+          "text": "piergorelli.com, redesigned",
+          "family": "Geist Variable",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0e0e0d"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Visit the site ↗",
+        "Next slide →",
+        "Rename another ↻",
+        "piergorelli.com, redesigned",
+        "Read the case study →"
+      ],
+      "words": 380,
+      "excerpt": "Blueprint concept, compile intro and View Transitions on showcase pages, plus a",
+      "media": {
+        "img": 1,
+        "svg": 5
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "services",
+      "y": 8707,
+      "height": 1038,
+      "position": "relative",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#0e0e0d",
+      "padding": "158.4px 31.68px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1377,
+        "gutterTop": 171,
+        "gutterBottom": 44
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px 20.16px",
+        "justify": "normal",
+        "align": "baseline",
+        "children": 5,
+        "childWidthsPct": [
+          7,
+          47,
+          31,
+          31,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Web development for agencies",
+          "family": "Geist Variable",
+          "size": 70.08,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.045,
+          "transform": "none",
+          "color": "#0e0e0d"
+        },
+        {
+          "tag": "h2",
+          "text": "AI for agencies",
+          "family": "Geist Variable",
+          "size": 70.08,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.045,
+          "transform": "none",
+          "color": "#0e0e0d"
+        },
+        {
+          "tag": "h2",
+          "text": "AI in products",
+          "family": "Geist Variable",
+          "size": 70.08,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.045,
+          "transform": "none",
+          "color": "#0e0e0d"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ALL SERVICES →",
+        "01 Web development for agencies Motion-…",
+        "02 AI for agencies Hands-on training on…",
+        "03 AI in products Chatbots and semantic…"
+      ],
+      "words": 99,
+      "excerpt": "Hands-on training on tools like Claude Code, followed by the custom skills",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "process",
+      "y": 9745,
+      "height": 680,
+      "position": "relative",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#65655f",
+      "padding": "158.4px 31.68px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1377,
+        "gutterTop": 171,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "40px 20.16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          23,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Your design on top. My code underneath.",
+          "family": "Geist Variable",
+          "size": 70.08,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.045,
+          "transform": "none",
+          "color": "#0e0e0d"
+        },
+        {
+          "tag": "h3",
+          "text": "Brief",
+          "family": "Geist Variable",
+          "size": 26,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.035,
+          "transform": "none",
+          "color": "#0e0e0d"
+        },
+        {
+          "tag": "h3",
+          "text": "Prototype",
+          "family": "Geist Variable",
+          "size": 26,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.035,
+          "transform": "none",
+          "color": "#0e0e0d"
+        },
+        {
+          "tag": "h3",
+          "text": "Build",
+          "family": "Geist Variable",
+          "size": 26,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.035,
+          "transform": "none",
+          "color": "#0e0e0d"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Variable",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 79,
+      "excerpt": "The difficult interaction runs in a browser before anyone falls in love",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "blog",
+      "y": 10425,
+      "height": 698,
+      "position": "relative",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#0e0e0d",
+      "padding": "158.4px 31.68px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1377,
+        "gutterTop": 171,
+        "gutterBottom": 26
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "6.4px 20.16px",
+        "justify": "normal",
+        "align": "baseline",
+        "children": 3,
+        "childWidthsPct": [
+          15,
+          55,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Creating a custom n8n Node for WordPress: managing Custom Post Types",
+          "family": "Geist Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0e0e0d"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Variable",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "ALL POSTS →",
+        "09 JUN 2025 Creating a custom n8n Node …",
+        "21 APR 2025 How to Build a Desktop Kube…",
+        "15 APR 2025 How to Build a Desktop Kube…"
+      ],
+      "words": 60,
+      "excerpt": "Creating a custom n8n Node for WordPress: managing Custom Post Types",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "section.wrap",
+      "y": 11123,
+      "height": 702,
+      "position": "relative",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#0e0e0d",
+      "padding": "158.4px 31.68px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1377,
+        "gutterTop": 171,
+        "gutterBottom": 108
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "space-between",
+        "align": "baseline",
+        "children": 2,
+        "childWidthsPct": [
+          4,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Tell me what you're building.",
+          "family": "Geist Variable",
+          "size": 177.6,
+          "weight": "500",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.055,
+          "transform": "none",
+          "color": "#0e0e0d"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Variable",
+        "size": 177.6,
+        "weight": "500",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.055,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 9,
+      "excerpt": "you're building.",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "footer",
+      "name": "site-footer.wrap",
+      "y": 11825,
+      "height": 741,
+      "position": "relative",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#65655f",
+      "padding": "158.4px 31.68px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1401,
+        "gutterTop": 158,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "40px 20.16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          29,
+          15,
+          15,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "I do dev.",
+          "family": "Geist Variable",
+          "size": 302.4,
+          "weight": "500",
+          "lineHeight": 0.78,
+          "letterSpacing": -0.065,
+          "transform": "none",
+          "color": "#0e0e0d"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist Mono Variable",
+        "size": 11.52,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Let's talk.",
+        "Work",
+        "Services",
+        "About",
+        "Blog",
+        "LinkedIn ↗",
+        "GitHub ↗",
+        "RSS",
+        "Send a brief",
+        "Book a call ↗"
+      ],
+      "words": 63,
+      "excerpt": "Got a brief that needs to move?",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "grid-overlay",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#0e0e0d",
+      "padding": "0px 31.68px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 20.16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 12,
+        "childWidthsPct": [
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "cursor",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f4f4f0",
+      "backgroundImage": false,
+      "color": "#0e0e0d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 205,
+    "title": "Pier Gorelli",
+    "award": "HM",
+    "url": "https://piergorelli.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/pier-gorelli",
+    "categories": [
+      "Technology",
+      "Experimental",
+      "Web & Interactive"
+    ]
+  }
+}

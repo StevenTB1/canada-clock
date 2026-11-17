@@ -1,0 +1,464 @@
+{
+  "page": {
+    "url": "https://zarcerog.com/",
+    "title": "Nicolás Zarcero — Box Office",
+    "description": "Two shows tonight: a portfolio in five acts, with an intermission; and a picture about a church that is running late. Nicolás Zarcero, engineer and designer.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f2c230",
+        "share": 0.297
+      },
+      {
+        "value": "#e8b3a9",
+        "share": 0.288
+      },
+      {
+        "value": "#070506",
+        "share": 0.288
+      },
+      {
+        "value": "#b3aca1",
+        "share": 0.112
+      },
+      {
+        "value": "#f6ead0",
+        "share": 0.01
+      },
+      {
+        "value": "#86192a",
+        "share": 0.003
+      },
+      {
+        "value": "#241417",
+        "share": 0.003
+      }
+    ],
+    "text": [
+      {
+        "value": "#241417",
+        "share": 0.692
+      },
+      {
+        "value": "#86192a",
+        "share": 0.155
+      },
+      {
+        "value": "#f7d23e",
+        "share": 0.046
+      },
+      {
+        "value": "#f2c230",
+        "share": 0.041
+      },
+      {
+        "value": "#3c0c14bf",
+        "share": 0.04
+      },
+      {
+        "value": "#f6ead0",
+        "share": 0.026
+      }
+    ],
+    "borders": [
+      {
+        "value": "#86192a",
+        "share": 0.667
+      },
+      {
+        "value": "#241417",
+        "share": 0.333
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.291,
+      "text": 0.692
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Bodoni Moda",
+        "size": 8.55,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 99
+      },
+      {
+        "family": "Bodoni Moda",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 47
+      },
+      {
+        "family": "Jost",
+        "size": 9.45,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0.32,
+        "transform": "uppercase",
+        "chars": 36
+      },
+      {
+        "family": "Jost",
+        "size": 11,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.218,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "Jost",
+        "size": 24.48,
+        "weight": "500",
+        "lineHeight": 1.32,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "Jost",
+        "size": 5.85,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0.25,
+        "transform": "uppercase",
+        "chars": 28
+      },
+      {
+        "family": "Anton",
+        "size": 18.9,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 28
+      },
+      {
+        "family": "Courier Prime",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 28
+      },
+      {
+        "family": "Jost",
+        "size": 9,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.244,
+        "transform": "none",
+        "chars": 27
+      },
+      {
+        "family": "Jost",
+        "size": 13,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.538,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "Jost",
+        "size": 8.5,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.282,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Courier Prime",
+        "size": 9.9,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Bodoni Moda",
+        "size": 34,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 23
+      },
+      {
+        "family": "Bodoni Moda",
+        "size": 23.4,
+        "weight": "500",
+        "lineHeight": 0.95,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 23
+      }
+    ],
+    "loadedFonts": [
+      "Jost 400 normal",
+      "Jost 500 normal",
+      "Jost 600 normal",
+      "Jost Fallback normal normal",
+      "Bodoni Moda 500 italic",
+      "Bodoni Moda 700 italic",
+      "Bodoni Moda 500 normal",
+      "Bodoni Moda 700 normal",
+      "Bodoni Moda Fallback normal normal",
+      "Courier Prime 400 normal",
+      "Courier Prime 700 normal",
+      "Courier Prime Fallback normal normal",
+      "Anton 400 normal",
+      "Permanent Marker 400 normal",
+      "Permanent Marker Fallback normal normal",
+      "Limelight 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 2,
+      "uses": 10
+    },
+    {
+      "px": 5,
+      "uses": 8
+    },
+    {
+      "px": 3,
+      "uses": 6
+    },
+    {
+      "px": 14,
+      "uses": 4
+    },
+    {
+      "px": 16,
+      "uses": 4
+    },
+    {
+      "px": 13,
+      "uses": 4
+    },
+    {
+      "px": 1,
+      "uses": 2
+    },
+    {
+      "px": 7,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "5.4px",
+      "uses": 2
+    },
+    {
+      "value": "50%",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.9s cubic-bezier(0.2, 0.7, 0.2, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.45s cubic-bezier(0.2, 0.9, 0.3, 1.2)",
+        "uses": 2
+      },
+      {
+        "value": "1.1s cubic-bezier(0.6, 0, 0.25, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.9s cubic-bezier(0.6, 0, 0.3, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.25s ease-out",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 115,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {},
+  "breakpoints": [],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "bx-set",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#e8b3a9",
+      "backgroundImage": false,
+      "color": "#241417",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 162,
+        "gutterRight": 142,
+        "width": 1135,
+        "gutterTop": 80,
+        "gutterBottom": 101
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          6
+        ]
+      },
+      "headings": [
+        {
+          "tag": "text",
+          "text": "THE CLIENT",
+          "family": "Anton",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": -0.008,
+          "transform": "none",
+          "color": "#241417"
+        }
+      ],
+      "bodyType": {
+        "family": "Bodoni Moda",
+        "size": 8.55,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SOUND off",
+        "THE ZARCERO THEATRE presents A Portfoli…",
+        "THE PICTURE HOUSE NOW SHOWING THE CLIEN…"
+      ],
+      "words": 132,
+      "excerpt": "with an intermission · starring Nicolás Zarcero",
+      "media": {
+        "svg": 10
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "bx-curtains",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#e8b3a9",
+      "backgroundImage": false,
+      "color": "#241417",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "bx-iris",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#e8b3a9",
+      "backgroundImage": false,
+      "color": "#f2c230",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "NOW SHOWING",
+          "family": "Anton",
+          "size": 100.8,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.02,
+          "transform": "uppercase",
+          "color": "#f2c230"
+        }
+      ],
+      "bodyType": {
+        "family": "Anton",
+        "size": 100.8,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Now showing",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 122,
+    "title": "Nicolás Zarcero — Box Office",
+    "award": "HM",
+    "url": "https://zarcerog.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/nicolas-zarcero-box-office",
+    "categories": [
+      "Design Agencies",
+      "Music & Sound",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

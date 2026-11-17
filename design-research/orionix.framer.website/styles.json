@@ -1,0 +1,566 @@
+{
+  "page": {
+    "url": "https://orionix.framer.website/",
+    "title": "Orionix — Creative Design Studio",
+    "description": "Orionix is an independent creative design studio crafting brands, websites, and digital experiences.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 16962,
+    "generator": "Framer bb8870d"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f9f8f6",
+        "share": 0.901
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.068
+      },
+      {
+        "value": "#141414",
+        "share": 0.016
+      },
+      {
+        "value": "#000000",
+        "share": 0.014
+      },
+      {
+        "value": "#0000000f",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.001
+      },
+      {
+        "value": "#a4a4a4",
+        "share": 0
+      },
+      {
+        "value": "#0066ff",
+        "share": 0
+      },
+      {
+        "value": "#ff0000",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#656565",
+        "share": 0.414
+      },
+      {
+        "value": "#141414",
+        "share": 0.347
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.13
+      },
+      {
+        "value": "#a4a4a4",
+        "share": 0.065
+      },
+      {
+        "value": "#ffffffa3",
+        "share": 0.039
+      },
+      {
+        "value": "#000000",
+        "share": 0.003
+      },
+      {
+        "value": "#f9f8f6",
+        "share": 0.001
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.001
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Inter",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1545
+      },
+      {
+        "family": "Inter",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1528
+      },
+      {
+        "family": "Inter",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 299
+      },
+      {
+        "family": "Fraunces Variable",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 1.07,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 271
+      },
+      {
+        "family": "Inter",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 257
+      },
+      {
+        "family": "Fraunces Variable",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 237
+      },
+      {
+        "family": "Fraunces Variable",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.13,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 188
+      },
+      {
+        "family": "Fraunces Variable",
+        "size": 128,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 176
+      },
+      {
+        "family": "Fraunces Variable",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.06,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 175
+      },
+      {
+        "family": "Geist Mono Variable",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0.03,
+        "transform": "uppercase",
+        "chars": 173
+      },
+      {
+        "family": "Inter",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.013,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Fraunces Variable",
+        "size": 72,
+        "weight": "400",
+        "lineHeight": 1.06,
+        "letterSpacing": -0.041,
+        "transform": "none",
+        "chars": 23
+      },
+      {
+        "family": "Fraunces Variable",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 23
+      },
+      {
+        "family": "Fraunces Variable",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 15
+      }
+    ],
+    "loadedFonts": [
+      "Fraunces 500 normal",
+      "Geist Mono 600 normal",
+      "Geist Mono Variable 100 900 normal",
+      "Fraunces Variable 400 normal",
+      "Inter 400 normal",
+      "Inter 500 normal",
+      "Fraunces Placeholder normal normal",
+      "Fraunces Variable Placeholder normal normal",
+      "Inter Placeholder normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 312
+    },
+    {
+      "px": 12,
+      "uses": 145
+    },
+    {
+      "px": 6,
+      "uses": 111
+    },
+    {
+      "px": 20,
+      "uses": 101
+    },
+    {
+      "px": 8,
+      "uses": 82
+    },
+    {
+      "px": 4,
+      "uses": 78
+    },
+    {
+      "px": 16,
+      "uses": 76
+    },
+    {
+      "px": 24,
+      "uses": 52
+    },
+    {
+      "px": 32,
+      "uses": 32
+    },
+    {
+      "px": 40,
+      "uses": 27
+    },
+    {
+      "px": 64,
+      "uses": 24
+    },
+    {
+      "px": 80,
+      "uses": 24
+    },
+    {
+      "px": 3,
+      "uses": 14
+    },
+    {
+      "px": 36,
+      "uses": 12
+    },
+    {
+      "px": 90,
+      "uses": 10
+    },
+    {
+      "px": 72,
+      "uses": 10
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 48
+    },
+    {
+      "value": "999px",
+      "uses": 30
+    },
+    {
+      "value": "20px",
+      "uses": 24
+    },
+    {
+      "value": "24px",
+      "uses": 15
+    },
+    {
+      "value": "11.11px",
+      "uses": 6
+    },
+    {
+      "value": "6px",
+      "uses": 5
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 3
+  },
+  "cssVariables": {
+    "--token-93a8e920-3819-4824-be4b-d1be103884b2": "#f6f8fa",
+    "--token-8ead7bd5-4c9e-4600-8c41-773e38c84c6f": "#f3f4f6",
+    "--token-2dfa8c77-2e0f-4766-9a54-c2dd158a2bab": "#e5e7eb",
+    "--token-6cdfe70c-4b26-48e9-a936-8f8a514d8a34": "#d1d5db",
+    "--token-0d87dde2-8439-41c7-8b1b-1b6b52b033e2": "#9ca3af",
+    "--token-101dfe46-c436-4776-ada2-b64a5d93fd08": "#6b7280",
+    "--token-cce988fb-f5d2-4f24-8a18-afcad41cd3cd": "#4b5563",
+    "--token-a2a39d74-868b-4796-817c-de9d90fe3959": "#374151",
+    "--token-7c91c471-3d81-4b3a-9013-8075c2221c32": "#1f2937",
+    "--token-705865b8-5bd2-4bc9-a19d-ef169be76afb": "#111827",
+    "--token-ff1bb571-2f64-4ba8-aead-6c81c787b79c": "#030712",
+    "--token-88987488-25c8-4014-bec1-360e5bddcc81": "#fff",
+    "--token-4fd78a4f-bf2a-4678-a073-861286393c7e": "#fffc",
+    "--token-1da8bd2f-423f-4970-adc0-cc315d537be3": "#ffffffb3",
+    "--token-e78ca79a-d578-487d-854a-7f82d0011d16": "#ffffff80",
+    "--token-c26cb959-fa2f-41ab-b196-b57178563b1e": "#fff6",
+    "--token-c58122c7-6f2d-4455-a782-fb0b6ad26148": "#fff3",
+    "--token-0d4a120d-1685-4267-89b2-442e848ed959": "#ffffff1a",
+    "--token-d52e9694-6cf7-429a-97a2-dae93ed11156": "red",
+    "--token-19f752c5-25aa-4c09-be2b-a2bdf3a5c8b9": "#d9e4f1",
+    "--token-d74891dd-9443-4541-9be4-4304a45dca1a": "#d9e4f166",
+    "--token-244c435a-fd61-487c-b42c-09786a5e1716": "red",
+    "--token-d88c1a11-f6bb-4233-b32d-3b6f939afeb9": "#f9f8f6",
+    "--token-68e3344c-d78e-4205-87de-af9e4968daf7": "#141414",
+    "--token-55f04c39-d149-4f97-9ad3-b7a48fe3c94e": "#656565",
+    "--token-fd96bcb3-bb5b-4918-96c3-71b8b14db79a": "#a4a4a4",
+    "--token-b1933760-53a7-4f12-bdc9-125a7366f2b5": "#fff",
+    "--token-4dad99db-5db5-4c35-98ae-d93177c666f8": "#0000000f",
+    "--token-6764e6f2-376a-46e7-9322-8f66aef7c7fc": "#0000000a",
+    "--token-88e51a2f-c384-450d-988d-4fcb9f1f93d8": "#00000014",
+    "--token-060eef1d-d586-4510-a45c-7097f19769a0": "#ffffffa3",
+    "--token-abf545fc-7ff8-4188-9622-059f6649196d": "#ffffff1f",
+    "--token-6fd33f23-6bb1-4325-a2ba-2b59f535ac3d": "#0000001a",
+    "--token-be84ce83-4e75-4a42-bf63-df7bfa4557f5": "#000",
+    "--token-ca25fd08-4a83-44c6-8d36-c8de8e5e8f70": "#ffffff1a",
+    "--token-75b91c96-ca02-4a8a-a53a-ae63034978d5": "#1ba920",
+    "--token-250312fa-3472-4fd2-a07c-b94e17bf62b4": "#2145b7",
+    "--token-fbd2571b-221a-4d89-aae0-e5c94aa1ddbe": "#914f45",
+    "--token-ca5d04a8-9d2e-4ea9-95b5-3d4debf4cb08": "#2145b7",
+    "--token-754760db-bbef-47a8-9191-f6a2088e71b2": "#000",
+    "--token-6e7f7e52-8869-40f7-b130-a6bfaccf15a7": "#fafafa",
+    "--token-b2424ddf-5e18-422d-a20e-261586f083f2": "#ef0",
+    "--token-5e257c9a-18ee-440c-8aac-7667f6d172d3": "#ffffff1a",
+    "--token-794b6e6a-5da1-4fb9-89ae-49e72cbb49e2": "gray",
+    "--token-0e0c3a88-cfb7-4fbf-a4db-0174fa35efc0": "#ffffff0a",
+    "--token-c229db48-4550-4eb8-94a0-f7fb019fc186": "#ffffff0f",
+    "--token-375fc608-5463-4283-988d-075b7daa14a7": "#ffffff1f",
+    "--token-fab464e9-630b-4a95-9f2d-eb3115abf103": "#fffffff5",
+    "--token-141149f5-f5ff-460a-8da8-3e30ed915293": "#fff",
+    "--token-b810aabf-d043-4514-a9ce-52eaaa5c65b8": "#ffffff14",
+    "--token-c7c4db5f-0023-4bde-bbca-943824b642e3": "#fff9",
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1",
+    "--framer-aspect-ratio-supported": "auto"
+  },
+  "breakpoints": [
+    "max 809px",
+    "min 810px",
+    "max 1199px",
+    "max 809.98px",
+    "max 1199.98px"
+  ],
+  "tech": [
+    "lenis",
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "framer-13nr5y8-container",
+      "y": 0,
+      "height": 96,
+      "position": "fixed",
+      "background": "#f9f8f6",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 477,
+        "gutterRight": 92,
+        "width": 871,
+        "gutterTop": 38,
+        "gutterBottom": -2
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Works",
+          "family": "Inter",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.43,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Works",
+        "About",
+        "Pricing",
+        "Services",
+        "Blog",
+        "Pages",
+        "Book a call Book a call"
+      ],
+      "words": 12,
+      "excerpt": "Book a call",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "framer-tlqsgu-container",
+      "y": 15883,
+      "height": 1078,
+      "position": "relative",
+      "background": "#f9f8f6",
+      "backgroundImage": false,
+      "color": "#a4a4a4",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 160,
+        "gutterBottom": 48
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Got a great idea you want to bring to life?",
+          "family": "Fraunces Variable",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.06,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Book a call Book a call",
+        "X (TWITTER)",
+        "LINKEDIN",
+        "BEHANCE",
+        "DRIBBBLE",
+        "LoganCee Studio",
+        "KOTA",
+        "Framer"
+      ],
+      "words": 44,
+      "excerpt": "© 2026 Copyright - Orionix | Designed by",
+      "media": {
+        "video": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "__framer-badge-container",
+      "y": 822,
+      "height": 78,
+      "position": "fixed",
+      "background": "#f9f8f6",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "20px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          1,
+          7
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [
+        "Create a free website with Framer, the …"
+      ],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 54,
+    "title": "Orionix - Creative Agency",
+    "award": "HM",
+    "url": "https://orionix.framer.website/",
+    "awwwards": "https://www.awwwards.com/sites/orionix-creative-agency",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

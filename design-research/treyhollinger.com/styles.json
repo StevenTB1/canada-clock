@@ -1,0 +1,348 @@
+{
+  "page": {
+    "url": "https://www.treyhollinger.com/",
+    "title": "",
+    "description": null,
+    "lang": null,
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#0000a0",
+        "share": 0.744
+      },
+      {
+        "value": "#000000",
+        "share": 0.248
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.006
+      },
+      {
+        "value": "#ffffff26",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#eeeeee",
+        "share": 0.807
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.193
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.255,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Web437_FMTowns_re_8x16-2x",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 733
+      },
+      {
+        "family": "Web437_FMTowns_re_8x16-2x",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 104
+      },
+      {
+        "family": "Web437_FMTowns_re_8x16-2x",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 46
+      },
+      {
+        "family": "Web437_FMTowns_re_8x16-2x",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 41
+      },
+      {
+        "family": "Web437_FMTowns_re_8x16-2x",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 28
+      }
+    ],
+    "loadedFonts": [
+      "Web437_FMTowns_re_8x16-2x 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 13,
+      "uses": 7
+    },
+    {
+      "px": 1,
+      "uses": 4
+    },
+    {
+      "px": 53,
+      "uses": 2
+    },
+    {
+      "px": 46,
+      "uses": 2
+    },
+    {
+      "px": 26,
+      "uses": 2
+    },
+    {
+      "px": 2,
+      "uses": 2
+    },
+    {
+      "px": 18,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 1,
+    "canvases": 2,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--fx-pill-bg": "var(--btn-bg,var(--chip-bg,rgba(24,24,28,0.85)))",
+    "--fx-pill-fg": "var(--btn-fg,var(--chip-fg,rgb(230,230,235)))",
+    "--fx-pill-border": "color-mix(in srgb,var(--btn-border,var(--chip-border,rgb(70,70,80))) 60%,transpa",
+    "--fx-pill-active-bg": "var(\n    --btn-active-bg,var(--chip-active-bg,rgba(36,36,44,0.95))\n  )",
+    "--fx-pill-active-border": "color-mix(in srgb,var(--btn-border,var(--chip-border,rgb(70,70,80))) 35%,var(--s",
+    "--fx-pill-shadow": "0 0 0 1px var(--fx-pill-border),0 1px 0 rgba(0,0,0,0.25)",
+    "--fx-pill-active-shadow": "0 0 0 1px var(--fx-pill-active-border),0 0 10px color-mix(in srgb,var(--fx-pill-",
+    "--app-font": "\"Web437_FMTowns_re_8x16-2x\"",
+    "--retro-font-family": "var(--app-font,\"Web437_FMTowns_re_8x16-2x\")",
+    "--retro-font-scale": "1",
+    "--ui-font-size": "14px",
+    "--ui-font-size-sm": "13px",
+    "--ui-font-size-lg": "15px",
+    "--dock-height": "48px",
+    "--cn-pill-font-size": "13px",
+    "--cn-pill-letter-spacing": "0.2px",
+    "--cn-pill-height": "28px",
+    "--cn-pill-padding-x": "10px",
+    "--cn-pill-padding-y": "0px",
+    "--cn-pill-radius": "10px",
+    "--cn-pill-font-weight": "700",
+    "--cn-shape-font-size": "10px",
+    "--cn-shape-letter-spacing": "0.2px",
+    "--cn-shape-height": "28px",
+    "--cn-shape-padding-x": "6px",
+    "--cn-shape-padding-y": "4px",
+    "--cn-shape-radius": "8px",
+    "--cn-shape-font-weight": "700",
+    "--fx-chip-font-size": "13px",
+    "--fx-chip-letter-spacing": "0.2px",
+    "--fx-chip-height": "28px",
+    "--fx-chip-padding-x": "12px",
+    "--fx-chip-padding-y": "0px",
+    "--fx-chip-radius": "10px",
+    "--fx-chip-font-weight": "700",
+    "--fx-gap": "8px",
+    "--fx-font-size": "12px",
+    "--fx-pad-x": "10px",
+    "--fx-pad-y": "8px",
+    "--fx-pill-radius": "10px",
+    "--camwatch-silver": "#c9c9c9",
+    "--app-fg": "#000",
+    "--tab-fg": "#000",
+    "--chip-fg": "#000",
+    "--chip-bg": "#ECE9D8",
+    "--chip-active-bg": "#FFF8E1",
+    "--chip-border": "#000",
+    "--window-bg": "#ECE9D8",
+    "--window-border": "#000",
+    "--title-bar-bg": "linear-gradient(180deg,#000080,#000060)",
+    "--title-bar-color": "#fff",
+    "--window-bg-texture": "none",
+    "--title-bar-texture": "none",
+    "--content-bg": "#ECE9D8",
+    "--content-color": "#000",
+    "--navbar-bg": "#333",
+    "--navbar-color": "#000",
+    "--minimized-bg": "#444",
+    "--minimized-color": "#fff",
+    "--draggable-bg": "#333",
+    "--draggable-color": "#fff",
+    "--draggable-border-radius": "8px",
+    "--draggable-shadow": "4px 4px 12px rgba(0,0,0,.3)",
+    "--video-player-bg": "#000",
+    "--video-player-border": "#000",
+    "--video-header-bg": "#222",
+    "--video-header-color": "#fff",
+    "--dock-bar-bg": "transparent",
+    "--taskbar-button-bg": "#ECE9D8",
+    "--taskbar-button-border-light": "#fff",
+    "--taskbar-button-border-dark": "#808080",
+    "--taskbar-button-color": "#000",
+    "--taskbar-button-shadow": "rgba(0,0,0,.2)",
+    "--taskbar-button-hover-filter": "brightness(.9)",
+    "--btn-bg": "var(--taskbar-button-bg)",
+    "--btn-fg": "var(--taskbar-button-color)",
+    "--btn-border": "var(--window-border)",
+    "--btn-active-bg": "#fff8e1",
+    "--btn-active-fg": "var(--btn-fg)",
+    "--tab-bg": "var(--taskbar-button-bg)"
+  },
+  "breakpoints": [
+    "max 640px",
+    "max 768px"
+  ],
+  "tech": [
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "__next",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#0000a0",
+      "backgroundImage": false,
+      "color": "#eeeeee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 46,
+        "gutterRight": 156,
+        "width": 1238,
+        "gutterTop": 53,
+        "gutterBottom": 49
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "TREYHOLLINGER.COM 1998 Professional Setup",
+          "family": "Web437_FMTowns_re_8x16-2x",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Web437_FMTowns_re_8x16-2x",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "simple view"
+      ],
+      "words": 154,
+      "excerpt": "Please wait while Setup copies files to the TREYHOLLINGER experience.",
+      "media": {
+        "img": 361,
+        "video": 1,
+        "canvas": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "blueScreenFilter-overlayRoot.blueScreenFilter-overlayRoot--plain",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0000a0",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "canvas",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0000a0",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 97,
+    "title": "TREY HOLLINGER",
+    "award": "HM",
+    "url": "https://www.treyhollinger.com/",
+    "awwwards": "https://www.awwwards.com/sites/trey-hollinger",
+    "categories": [
+      "Technology",
+      "Web & Interactive",
+      "Portfolio",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

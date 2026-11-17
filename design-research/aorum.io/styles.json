@@ -1,0 +1,153 @@
+{
+  "page": {
+    "url": "https://www.aorum.io/",
+    "title": "aorum",
+    "description": "a self-portrait you can walk through",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff99",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "__DM_Sans_dea962",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.1,
+        "transform": "none",
+        "chars": 20
+      }
+    ],
+    "loadedFonts": [
+      "__DM_Sans_dea962 400 normal"
+    ]
+  },
+  "spacing": [],
+  "radii": [
+    {
+      "value": "16px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--ui-cream": "hsla(45,15%,75%,.9)",
+    "--ui-cream-dim": "hsla(45,15%,75%,.6)",
+    "--ui-cream-faint": "hsla(45,15%,75%,.35)",
+    "--ui-shadow": "rgba(0,0,0,.8)",
+    "--ui-shadow-soft": "rgba(0,0,0,.5)"
+  },
+  "breakpoints": [
+    "min 640px"
+  ],
+  "tech": [
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff99",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 1260,
+        "width": 140,
+        "gutterTop": 804,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Memory Card (PS2) OK",
+          "family": "__DM_Sans_dea962",
+          "size": 11,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.1,
+          "transform": "none",
+          "color": "#ffffff99"
+        }
+      ],
+      "bodyType": {
+        "family": "__DM_Sans_dea962",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.1,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Memory Card (PS2) OK",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 72,
+    "title": "aorum",
+    "award": "HM",
+    "url": "https://www.aorum.io/",
+    "awwwards": "https://www.awwwards.com/sites/aorum",
+    "categories": [
+      "Music & Sound",
+      "Web & Interactive",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

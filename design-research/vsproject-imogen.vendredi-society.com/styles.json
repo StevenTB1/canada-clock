@@ -1,0 +1,946 @@
+{
+  "page": {
+    "url": "https://vsproject-imogen.vendredi-society.com/",
+    "title": "Imogen: Agentic AI for imagino’s Customer Engagement Platform",
+    "description": "Discover Imogen, the agentic AI layer built into imagino’s platform to help teams leverage customer data and orchestrate customer engagement.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 31794,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#0f0723",
+        "share": 0.914
+      },
+      {
+        "value": "#e7e4ea",
+        "share": 0.026
+      },
+      {
+        "value": "#100722",
+        "share": 0.026
+      },
+      {
+        "value": "#0904188c",
+        "share": 0.026
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.007
+      },
+      {
+        "value": "#ffffff0d",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.792
+      },
+      {
+        "value": "#ffffff6b",
+        "share": 0.208
+      }
+    ],
+    "borders": [
+      {
+        "value": "#1c0b322e",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.034,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Biotif",
+        "size": 16.99,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.005,
+        "transform": "uppercase",
+        "chars": 134
+      },
+      {
+        "family": "Biotif",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 63
+      },
+      {
+        "family": "Biotif",
+        "size": 12.96,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 28
+      },
+      {
+        "family": "Biotif",
+        "size": 13.97,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 19
+      },
+      {
+        "family": "Biotif",
+        "size": 74.16,
+        "weight": "500",
+        "lineHeight": 0.96,
+        "letterSpacing": -0.005,
+        "transform": "none",
+        "chars": 17
+      },
+      {
+        "family": "IBM Plex Serif",
+        "size": 68.97,
+        "weight": "400",
+        "lineHeight": 0.96,
+        "letterSpacing": -0.005,
+        "transform": "none",
+        "chars": 10
+      },
+      {
+        "family": "Biotif",
+        "size": 12.96,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 6
+      },
+      {
+        "family": "Biotif",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": [
+      "Biotif 400 normal",
+      "Biotif 500 normal",
+      "IBM Plex Serif 400 italic"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 32,
+      "uses": 36
+    },
+    {
+      "px": 6,
+      "uses": 28
+    },
+    {
+      "px": 12,
+      "uses": 20
+    },
+    {
+      "px": 10,
+      "uses": 16
+    },
+    {
+      "px": 3,
+      "uses": 16
+    },
+    {
+      "px": 17,
+      "uses": 8
+    },
+    {
+      "px": 18,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 4
+    },
+    {
+      "px": 60,
+      "uses": 3
+    },
+    {
+      "px": 9,
+      "uses": 3
+    },
+    {
+      "px": 37,
+      "uses": 2
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 1,
+      "uses": 2
+    },
+    {
+      "px": 23,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "999px",
+      "uses": 8
+    },
+    {
+      "value": "50%",
+      "uses": 5
+    },
+    {
+      "value": "18px",
+      "uses": 3
+    },
+    {
+      "value": "16px",
+      "uses": 1
+    },
+    {
+      "value": "24px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 15
+      },
+      {
+        "value": "1.26s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.42s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 3
+      },
+      {
+        "value": "1.26s ease-out",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 5,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--background": "#0f0723",
+    "--foreground": "#ededed",
+    "--font-sans": "\"Biotif\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue",
+    "--font-serif": "\"IBM Plex Serif\", Georgia, \"Times New Roman\", serif",
+    "--brand-magenta": "#a70e68",
+    "--brand-purple": "#642bb4",
+    "--brand-blue": "#078bbc",
+    "--brand-orange": "#ef6333",
+    "--ui-theme-dur": ".01ms",
+    "--ui-theme-ease": "cubic-bezier(.4, 0, .2, 1)",
+    "--ui-ink": "#190c32",
+    "--line-light": "#ffffff61",
+    "--line-light-strong": "#ffffffb8",
+    "--line-ink": "#190c3252",
+    "--line-ink-strong": "#190c3299",
+    "--nav-fg": "#fff",
+    "--nav-fg-dim": "#ffffff9e",
+    "--nav-line": "var(--line-light)",
+    "--nav-line-strong": "var(--line-light-strong)",
+    "--nav-wash": "#ffffff14",
+    "--nav-wash-mid": "#ffffff1a",
+    "--nav-wash-strong": "#ffffff24",
+    "--glass-wash": "#ffffff0d",
+    "--nav-panel": "#1c0838b8",
+    "--nav-cta-bg": "#fff",
+    "--nav-cta-fg": "var(--brand-purple)",
+    "--corner-fg": "#fff",
+    "--corner-cta-fg": "var(--brand-purple)",
+    "--rail-fg": "#fff",
+    "--rail-fg-dim": "#ffffff6b",
+    "--rail-fg-mid": "#ffffffbf",
+    "--ui-gutter": "24px",
+    "--rail-w": "180px",
+    "--ui-edge": "var(--ui-gutter)",
+    "--panel-x": "10vw",
+    "--panel-shift-dur": ".62s",
+    "--panel-ease": "cubic-bezier(.22, 1, .36, 1)",
+    "--glass-radius": "18px",
+    "--glass-radius-sm": "16px",
+    "--glass-blur": "16px",
+    "--cta-pad-top": "clamp(16px, 1.4vw, 21px)",
+    "--cta-pad-bottom": "clamp(14px, 1.2vw, 19px)",
+    "--cta-pad-x": "clamp(22px, 2.2vw, 32px)",
+    "--cta-font": "clamp(11px, .9vw, 13px)",
+    "--glass-tile": "calc(var(--cta-pad-top) + var(--cta-pad-bottom) + var(--cta-font))",
+    "--cta-gap": "calc(6 / 13 * var(--cta-font))",
+    "--cta-radius": "calc(16 / 13 * var(--cta-font))"
+  },
+  "breakpoints": [
+    "max 900px",
+    "max 640px",
+    "max 768px",
+    "max 860px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "Scene3d-module__ewLGEa__canvasWrapper",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#e7e4ea",
+      "backgroundImage": false,
+      "color": "#ededed",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "Preloader-module__6Sh4Aq__preloader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 622,
+        "gutterRight": 622,
+        "width": 196,
+        "gutterTop": 535,
+        "gutterBottom": 45
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          94,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "button",
+          "text": "ENTER WITHOUT SOUND",
+          "family": "Biotif",
+          "size": 13.97,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0.08,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Biotif",
+        "size": 13.97,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.08,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "ENTER WITH SOUND ENTER WITH SOUND",
+        "ENTER WITHOUT SOUND"
+      ],
+      "words": 17,
+      "excerpt": "Enter without sound",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "header",
+      "name": "Nav-module__x_hx6q__nav",
+      "y": 270,
+      "height": 113,
+      "position": "fixed",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "60px 60px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 805,
+        "gutterRight": 99,
+        "width": 536,
+        "gutterTop": 81,
+        "gutterBottom": 19
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "187.2px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          8,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "T",
+          "family": "Biotif",
+          "size": 12.96,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0.08,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Biotif",
+        "size": 12.96,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.08,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "TALK TO AN EXPERT TALK TO AN EXPERT",
+        "US"
+      ],
+      "words": 15,
+      "excerpt": "US",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "Panel-module__sqOkua__root",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ededed",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          30,
+          30,
+          30,
+          30
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "intro",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 398,
+        "gutterRight": 144,
+        "width": 898,
+        "gutterTop": 648,
+        "gutterBottom": -116
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Smarter Marketing. Smarter Marketing. Embedded AI Embedded AI",
+          "family": "Biotif",
+          "size": 74.16,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.005,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Biotif",
+        "size": 16.99,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.005,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 48,
+      "excerpt": "The Anatomy of Modern CEP Intelligence. Explore how our embedded AI layer",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "page-module__E0kJGG__section",
+      "y": 900,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "live-data",
+      "y": 2700,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "page-module__E0kJGG__section",
+      "y": 4500,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "governance",
+      "y": 6300,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "page-module__E0kJGG__section",
+      "y": 8100,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "security",
+      "y": 9900,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "page-module__E0kJGG__section",
+      "y": 11700,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "adapt",
+      "y": 13500,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#190c32",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "page-module__E0kJGG__section",
+      "y": 15300,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "capabilities",
+      "y": 17100,
+      "height": 4500,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ededed",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "section",
+      "name": "page-module__E0kJGG__section",
+      "y": 21600,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 17,
+      "tag": "section",
+      "name": "page-module__E0kJGG__section",
+      "y": 23400,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "section",
+      "name": "page-module__E0kJGG__section",
+      "y": 25200,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 19,
+      "tag": "section",
+      "name": "roi",
+      "y": 27000,
+      "height": 2094,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ededed",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 20,
+      "tag": "section",
+      "name": "page-module__E0kJGG__sectionHalf",
+      "y": 29094,
+      "height": 900,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#2b2536",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 21,
+      "tag": "section",
+      "name": "outro",
+      "y": 29994,
+      "height": 1800,
+      "position": "static",
+      "background": "#0f0723",
+      "backgroundImage": false,
+      "color": "#ededed",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 190,
+    "title": "Imogen: Agentic AI",
+    "award": "HM",
+    "url": "https://vsproject-imogen.vendredi-society.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/imogen-agentic-ai",
+    "categories": [
+      "Business & Corporate",
+      "Startups"
+    ]
+  }
+}

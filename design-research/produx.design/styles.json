@@ -1,0 +1,1387 @@
+{
+  "page": {
+    "url": "https://www.produx.design/",
+    "title": "PRODUX | Design that Speaks",
+    "description": "Strategy-led brand identity and web design studio. We build distinctive brands for startups, SaaS, fintech, and AI companies.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 21036,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#0e0e0e",
+        "share": 0.645
+      },
+      {
+        "value": "#303930",
+        "share": 0.25
+      },
+      {
+        "value": "#545e54",
+        "share": 0.046
+      },
+      {
+        "value": "#141414",
+        "share": 0.021
+      },
+      {
+        "value": "#d4cccc",
+        "share": 0.02
+      },
+      {
+        "value": "#5f5136",
+        "share": 0.015
+      },
+      {
+        "value": "#00000040",
+        "share": 0.001
+      },
+      {
+        "value": "#6e6554",
+        "share": 0.001
+      },
+      {
+        "value": "#ebebeb0d",
+        "share": 0.001
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#f2f2f2",
+        "share": 0.291
+      },
+      {
+        "value": "#a9a9a9",
+        "share": 0.275
+      },
+      {
+        "value": "#303539",
+        "share": 0.259
+      },
+      {
+        "value": "#c6c6c6",
+        "share": 0.058
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0.035
+      },
+      {
+        "value": "#0e0e0e",
+        "share": 0.027
+      },
+      {
+        "value": "#505050",
+        "share": 0.025
+      },
+      {
+        "value": "#000000",
+        "share": 0.016
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.01
+      },
+      {
+        "value": "#303930",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#2f2f2f",
+        "share": 0.431
+      },
+      {
+        "value": "#ffffff0d",
+        "share": 0.31
+      },
+      {
+        "value": "#303030",
+        "share": 0.086
+      },
+      {
+        "value": "#ffffff40",
+        "share": 0.086
+      },
+      {
+        "value": "#f2f2f2",
+        "share": 0.052
+      },
+      {
+        "value": "#f2f2f226",
+        "share": 0.034
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.984,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "At Aero Regular",
+        "size": 23.9,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 884
+      },
+      {
+        "family": "DM Mono",
+        "size": 13.97,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 487
+      },
+      {
+        "family": "DM Mono",
+        "size": 15.98,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 272
+      },
+      {
+        "family": "At Aero",
+        "size": 45.79,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 272
+      },
+      {
+        "family": "DM Mono",
+        "size": 9.94,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 235
+      },
+      {
+        "family": "DM Mono",
+        "size": 13.97,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 225
+      },
+      {
+        "family": "DM Mono",
+        "size": 15.98,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 212
+      },
+      {
+        "family": "DM Mono",
+        "size": 10.08,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 123
+      },
+      {
+        "family": "DM Mono",
+        "size": 24.05,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 98
+      },
+      {
+        "family": "At Aero Medium",
+        "size": 15.84,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 74
+      },
+      {
+        "family": "DM Mono",
+        "size": 23.9,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 69
+      },
+      {
+        "family": "DM Mono",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 68
+      },
+      {
+        "family": "At Aero Regular",
+        "size": 24.05,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 68
+      },
+      {
+        "family": "At Aero",
+        "size": 41.76,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 62
+      }
+    ],
+    "loadedFonts": [
+      "At Aero 100 900 normal",
+      "At Aero Regular 100 900 normal",
+      "At Aero Medium 100 900 normal",
+      "DM Mono 300 normal",
+      "DM Mono 400 normal",
+      "DM Mono 500 normal",
+      "AtAero 500 normal",
+      "AtAero 400 normal",
+      "Lay 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 72
+    },
+    {
+      "px": 4,
+      "uses": 56
+    },
+    {
+      "px": 11,
+      "uses": 40
+    },
+    {
+      "px": 6,
+      "uses": 38
+    },
+    {
+      "px": 24,
+      "uses": 36
+    },
+    {
+      "px": 12,
+      "uses": 32
+    },
+    {
+      "px": 9,
+      "uses": 32
+    },
+    {
+      "px": 79,
+      "uses": 29
+    },
+    {
+      "px": 21,
+      "uses": 21
+    },
+    {
+      "px": 14,
+      "uses": 19
+    },
+    {
+      "px": 32,
+      "uses": 17
+    },
+    {
+      "px": 20,
+      "uses": 14
+    },
+    {
+      "px": 18,
+      "uses": 13
+    },
+    {
+      "px": 8,
+      "uses": 12
+    },
+    {
+      "px": 28,
+      "uses": 12
+    },
+    {
+      "px": 16,
+      "uses": 10
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.35544e+07px",
+      "uses": 6
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 7
+      },
+      {
+        "value": "0.15s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 14,
+    "videos": 7
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1/.75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25/.875)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2/1.5)",
+    "--font-weight-extralight": "200",
+    "--font-weight-light": "300",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--tracking-tight": "-.025em",
+    "--leading-tight": "1.25",
+    "--leading-snug": "1.375",
+    "--ease-in": "cubic-bezier(.4,0,1,1)",
+    "--ease-out": "cubic-bezier(0,0,.2,1)",
+    "--ease-in-out": "cubic-bezier(.4,0,.2,1)",
+    "--blur-sm": "8px",
+    "--blur-md": "12px",
+    "--blur-lg": "16px",
+    "--blur-2xl": "40px",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)"
+  },
+  "breakpoints": [
+    "min 1025px",
+    "min 40rem",
+    "min 48rem",
+    "min 80rem",
+    "min 96rem",
+    "max 1024px",
+    "max 640px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "page-transition-overlay.bg-Hoki",
+      "y": 948,
+      "height": 1705,
+      "position": "fixed",
+      "background": "#545e54",
+      "backgroundImage": false,
+      "color": "#f2f2f2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 690,
+        "gutterRight": 519,
+        "width": 231,
+        "gutterTop": 893,
+        "gutterBottom": 736
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "167.04px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          15,
+          15,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Branding company",
+          "family": "DM Mono",
+          "size": 15.84,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 15.84,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Branding company",
+      "media": {
+        "video": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "bg-outer-space.pointer-events-none",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "NavbarMorphingLogo-spacer.bg-outer-space",
+      "y": 0,
+      "height": 380,
+      "position": "relative",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "hero-section.sticky",
+      "y": 380,
+      "height": 926,
+      "position": "sticky",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#0e0e0e",
+      "padding": "0px",
+      "margin": "0px 0px -157.5px",
+      "border": null,
+      "content": {
+        "gutterLeft": 79,
+        "gutterRight": 79,
+        "width": 1282,
+        "gutterTop": 135,
+        "gutterBottom": 650
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 7,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 28,
+        "childWidthsPct": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "You feel the brand before it speaks®",
+          "family": "At Aero",
+          "size": 63.94,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 15.98,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 43,
+      "excerpt": "and how they are perceived over time.",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "projects-section-header.flex",
+      "y": 6230,
+      "height": 335,
+      "position": "static",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#f2f2f2",
+      "padding": "149.4px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1193,
+        "gutterRight": 80,
+        "width": 167,
+        "gutterTop": 294,
+        "gutterBottom": 12
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          21,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "VIEW ALL WORKS",
+          "family": "DM Mono",
+          "size": 19.87,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 19.87,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIEW ALL WORKS"
+      ],
+      "words": 3,
+      "excerpt": "view all works",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "grid.grid-cols-12",
+      "y": 6671,
+      "height": 746,
+      "position": "static",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#a9a9a9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 102,
+        "gutterRight": 90,
+        "width": 1248,
+        "gutterTop": 529,
+        "gutterBottom": 4
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20.016px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          51,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Fonzi AI",
+          "family": "At Aero",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        },
+        {
+          "tag": "h3",
+          "text": "Gather AI",
+          "family": "At Aero",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 13.97,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 79,
+      "excerpt": "web design & development",
+      "media": {
+        "img": 2,
+        "canvas": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "grid.grid-cols-12",
+      "y": 7540,
+      "height": 698,
+      "position": "static",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#a9a9a9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 208,
+        "gutterRight": 197,
+        "width": 1034,
+        "gutterTop": 526,
+        "gutterBottom": 4
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "24.048px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          74,
+          74
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Jurni AI",
+          "family": "At Aero",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 13.97,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 37,
+      "excerpt": "creative direction",
+      "media": {
+        "img": 1,
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "grid.grid-cols-12",
+      "y": 8361,
+      "height": 701,
+      "position": "static",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#a9a9a9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 102,
+        "gutterRight": 90,
+        "width": 1248,
+        "gutterTop": 373,
+        "gutterBottom": 4
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20.016px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          29,
+          51
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Parker AI",
+          "family": "At Aero",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        },
+        {
+          "tag": "h3",
+          "text": "Payy Network",
+          "family": "At Aero",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 13.97,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 70,
+      "excerpt": "creative direction",
+      "media": {
+        "img": 2,
+        "canvas": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "about-section.relative",
+      "y": 9167,
+      "height": 1071,
+      "position": "relative",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#a9a9a9",
+      "padding": "140.625px 0px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 79,
+        "gutterRight": 79,
+        "width": 1282,
+        "gutterTop": 458,
+        "gutterBottom": 546
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 24,
+        "childWidthsPct": [
+          14,
+          14,
+          14,
+          14,
+          14,
+          14,
+          14,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "LET'S TALK",
+          "family": "DM Mono",
+          "size": 19.87,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 15.98,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "LET'S TALK"
+      ],
+      "words": 42,
+      "excerpt": "We intentionally limit our projects so each client",
+      "media": {
+        "img": 24,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "contribution-section.text-white-smoke",
+      "y": 10328,
+      "height": 597,
+      "position": "relative",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#505050",
+      "padding": "0px 79.2px 72px",
+      "margin": "90px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 189,
+        "gutterRight": 189,
+        "width": 1062,
+        "gutterTop": 206,
+        "gutterBottom": 94
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "flex-end",
+        "children": 4,
+        "childWidthsPct": [
+          74,
+          74,
+          74,
+          74
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Brand Strategy and Identity",
+          "family": "DM Mono",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#505050"
+        },
+        {
+          "tag": "h4",
+          "text": "Web Design and Development",
+          "family": "DM Mono",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#505050"
+        },
+        {
+          "tag": "h4",
+          "text": "Product UX/UI Design",
+          "family": "DM Mono",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#505050"
+        },
+        {
+          "tag": "h4",
+          "text": "Motion Design and Content",
+          "family": "DM Mono",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#505050"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 24.05,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 19,
+      "excerpt": "Brand Strategy and Identity",
+      "media": {
+        "canvas": 3
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "green-segment.absolute",
+      "y": 10926,
+      "height": 9357,
+      "position": "absolute",
+      "background": "#303930",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": null,
+      "y": 10926,
+      "height": 900,
+      "position": "sticky",
+      "background": "#0e0e0e",
+      "backgroundImage": true,
+      "color": "#f2f2f2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 79,
+        "gutterRight": 123,
+        "width": 1238,
+        "gutterTop": 146,
+        "gutterBottom": 129
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "In 14 days, we shape a complete brand identity that moves with confidence.",
+          "family": "At Aero",
+          "size": 41.76,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 23.9,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 29,
+      "excerpt": "confidence.",
+      "media": {
+        "canvas": 2
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "testimonials-sticky-wrapper.sticky",
+      "y": 16326,
+      "height": 1027,
+      "position": "sticky",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#303539",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 386,
+        "gutterRight": 79,
+        "width": 975,
+        "gutterTop": 255,
+        "gutterBottom": 63
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "31.968px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          28,
+          28,
+          28,
+          28,
+          28,
+          28
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Jimmy Slage",
+          "family": "At Aero Medium",
+          "size": 15.84,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#303539"
+        },
+        {
+          "tag": "h4",
+          "text": "Ty Zamkow",
+          "family": "At Aero Medium",
+          "size": 15.84,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#303539"
+        },
+        {
+          "tag": "h4",
+          "text": "Nathan Graville",
+          "family": "At Aero Medium",
+          "size": 15.84,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#303539"
+        },
+        {
+          "tag": "h4",
+          "text": "Delbert Ty",
+          "family": "At Aero Medium",
+          "size": 15.84,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#303539"
+        }
+      ],
+      "bodyType": {
+        "family": "At Aero Regular",
+        "size": 23.9,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "READ ALL REVIEWS"
+      ],
+      "words": 171,
+      "excerpt": "Alexandr is an artist. Absolutely brilliant. He's someone who loves the craft",
+      "media": {
+        "img": 6,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "journal-section.relative",
+      "y": 19206,
+      "height": 1077,
+      "position": "relative",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#f2f2f2",
+      "padding": "140.625px 79.2px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 79,
+        "gutterRight": 31,
+        "width": 1330,
+        "gutterTop": 141,
+        "gutterBottom": 167
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          21,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "A A b b r r a a n n d d i i s s r r e e c c o o g g n n i i z z e e d d b b e e…",
+          "family": "At Aero",
+          "size": 45.79,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        },
+        {
+          "tag": "h4",
+          "text": "Strategy matters",
+          "family": "At Aero Regular",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        },
+        {
+          "tag": "h4",
+          "text": "Alex Socoloff",
+          "family": "At Aero Regular",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        },
+        {
+          "tag": "h4",
+          "text": "Creative Development",
+          "family": "At Aero Regular",
+          "size": 24.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "At Aero",
+        "size": 45.79,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 338,
+      "excerpt": "storytelling.",
+      "media": {
+        "video": 5
+      }
+    },
+    {
+      "i": 15,
+      "tag": "footer",
+      "name": "footer.text-white-smoke",
+      "y": 20283,
+      "height": 753,
+      "position": "static",
+      "background": "#0e0e0e",
+      "backgroundImage": false,
+      "color": "#f2f2f2",
+      "padding": "105.3px 79.2px 35.1px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 79,
+        "gutterRight": 79,
+        "width": 1282,
+        "gutterTop": -262,
+        "gutterBottom": 409
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          7,
+          15,
+          30,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "PRIVACY POLICY",
+          "family": "DM Mono",
+          "size": 14.4,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#a9a9a9"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 13.97,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "[ WORK WORK ]",
+        "[ STUDIO STUDIO ]",
+        "[ JOURNAL JOURNAL ]",
+        "[ CONTACT CONTACT ]",
+        "PRIVACY POLICY",
+        "SUPPORT"
+      ],
+      "words": 43,
+      "excerpt": "© 2026 PRODUX STUDIOS LLC. All rights reserved.",
+      "media": {
+        "canvas": 1,
+        "svg": 9
+      }
+    }
+  ],
+  "listing": {
+    "rank": 46,
+    "title": "Produx Design",
+    "award": "SOTD",
+    "url": "https://www.produx.design/",
+    "awwwards": "https://www.awwwards.com/sites/produx-design",
+    "categories": [
+      "Design Agencies"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

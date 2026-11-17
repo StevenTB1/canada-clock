@@ -1,0 +1,1014 @@
+{
+  "page": {
+    "url": "https://www.strawberrygroup.no/",
+    "title": "Strawberry Group | Private Investment group",
+    "description": "Strawberry Group is a family-owned investment company, with a portfolio consisting of real estate, asset management, as well as being one of the leading hotel operators in the Nordics.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 8868,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#010101",
+        "share": 0.806
+      },
+      {
+        "value": "#d79e64",
+        "share": 0.062
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.048
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0.034
+      },
+      {
+        "value": "#e7b889",
+        "share": 0.031
+      },
+      {
+        "value": "#f38422",
+        "share": 0.018
+      }
+    ],
+    "text": [
+      {
+        "value": "#d9d9d9",
+        "share": 0.706
+      },
+      {
+        "value": "#010101",
+        "share": 0.27
+      },
+      {
+        "value": "#02020299",
+        "share": 0.024
+      }
+    ],
+    "borders": [
+      {
+        "value": "#d9d9d9",
+        "share": 0.933
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.067
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.888,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 33.12,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1289
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 46.37,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1103
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 19.87,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1037
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 13.91,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 819
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 19.87,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 413
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 12.25,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 136
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 13.91,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 124
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 92.74,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 94
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 109.96,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 45
+      },
+      {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 145.73,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 12
+      }
+    ],
+    "loadedFonts": [
+      "Nhaasgrotesktxpro 65 Md 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 86
+    },
+    {
+      "px": 13,
+      "uses": 77
+    },
+    {
+      "px": 33,
+      "uses": 34
+    },
+    {
+      "px": 26,
+      "uses": 30
+    },
+    {
+      "px": 7,
+      "uses": 22
+    },
+    {
+      "px": 132,
+      "uses": 20
+    },
+    {
+      "px": 93,
+      "uses": 17
+    },
+    {
+      "px": 60,
+      "uses": 10
+    },
+    {
+      "px": 106,
+      "uses": 9
+    },
+    {
+      "px": 66,
+      "uses": 8
+    },
+    {
+      "px": 20,
+      "uses": 8
+    },
+    {
+      "px": 79,
+      "uses": 8
+    },
+    {
+      "px": 2,
+      "uses": 8
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 53,
+      "uses": 5
+    }
+  ],
+  "radii": [
+    {
+      "value": "100%",
+      "uses": 39
+    },
+    {
+      "value": "26.496px",
+      "uses": 23
+    },
+    {
+      "value": "50%",
+      "uses": 20
+    },
+    {
+      "value": "5.9616px",
+      "uses": 14
+    },
+    {
+      "value": "6.624px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 18
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 11
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.5s cubic-bezier(0.25, 0.1, 0.006, 1.001)",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 3,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--_theme---background": "var(--swatch--light)",
+    "--_text-style---font-family": "var(--_typography---font--primary-family)",
+    "--_theme---text": "var(--swatch--dark)",
+    "--_text-style---line-height": "1.05",
+    "--_text-style---font-weight": "400",
+    "--_text-style---letter-spacing": "-.02em",
+    "--_text-style---font-size": "var(--_typography---font-size--text-main)",
+    "--_typography---font-size--text-main": "1.05rem",
+    "--_typography---font-size--text-small": ".925rem",
+    "--_text-style---margin-top": "var(--_spacing---space--5)",
+    "--_text-style---margin-bottom": "var(--_spacing---space--5)",
+    "--_spacing---space--6": "var(--size--2rem)",
+    "--size--0-5rem": ".5rem",
+    "--size--1rem": "1rem",
+    "--_spacing---space--2": "var(--size--0-5rem)",
+    "--_spacing---space--1": "var(--size--0-25rem)",
+    "--_spacing---space--4": "var(--size--1rem)",
+    "--_spacing---space--7": "var(--size--3rem)",
+    "--container--main": "120rem",
+    "--_spacing---section-space--padding-horizontal": "var(--size--2-5rem)",
+    "--container--small": "90rem",
+    "--container--full": "90rem",
+    "--size--0-75rem": ".75rem",
+    "--site--gutter": "1rem",
+    "--size--0rem": "0rem",
+    "--_spacing---space--3": "var(--size--0-75rem)",
+    "--_spacing---space--5": "var(--size--1-5rem)",
+    "--_spacing---space--8": "var(--size--4-5rem)",
+    "--_typography---font--primary-family": "\"Nhaasgrotesktxpro 65 Md\", Arial, sans-serif",
+    "--_typography---font--primary-regular": "400",
+    "--_typography---font--primary-medium": "500",
+    "--_typography---font--primary-bold": "700",
+    "--radius--small": ".45rem",
+    "--radius--main": "2rem",
+    "--radius--round": "100vw",
+    "--border-width--main": ".094rem",
+    "--_theme---border": "var(--swatch--dark-faded)",
+    "--_typography---line-height--1": "1",
+    "--swatch--transparent": "transparent",
+    "--size--8rem": "8rem",
+    "--size--1-5rem": "1.5rem",
+    "--swatch--brand": "#d79e64",
+    "--size--3rem": "3rem",
+    "--_button-style---border": "var(--_theme---button-primary--border)",
+    "--_button-style---background": "var(--_theme---button-primary--background)",
+    "--_button-style---text": "var(--_theme---button-primary--text)",
+    "--_button-style---border-hover": "var(--_theme---button-primary--border-hover)",
+    "--_button-style---background-hover": "var(--_theme---button-primary--background-hover)",
+    "--_button-style---text-hover": "var(--_theme---button-primary--text-hover)",
+    "--_spacing---section-space--small": "var(--size--5rem)",
+    "--_spacing---content-space--button-group-gap<deleted|variable-784d167c-f69e-44b0-ba12-752e0cb372f5>": "var(--_spacing---space--2)",
+    "--site--margin": "0px",
+    "--_spacing---section-space--none": "var(--size--0rem)",
+    "--_spacing---section-space--main": "var(--size--7rem)",
+    "--_spacing---section-space--large": "var(--size--10rem)",
+    "--size--1-25rem": "1.25rem",
+    "--size--14rem": "14rem",
+    "--_theme---button-primary--background": "var(--_theme---text)",
+    "--_theme---button-primary--text": "var(--_theme---background)",
+    "--_theme---card--color": "#3532330d",
+    "--size--2-5rem": "2.5rem",
+    "--size--2rem": "2rem",
+    "--size--4rem": "4rem",
+    "--swatch--faded": ".5",
+    "--size--0-375rem": ".375rem",
+    "--swatch--dark": "#010101",
+    "--_typography---font-size--h2": "var(--size--7rem)",
+    "--_typography---font-size--h3": "var(--size--3-5rem)",
+    "--swatch--light": "#d9d9d9",
+    "--size--6rem": "6rem",
+    "--_typography---font-size--h5": "var(--size--1-5rem)",
+    "--size--0-125rem": ".125rem",
+    "--size--5rem": "5rem",
+    "--size--3-5rem": "3.5rem",
+    "--size--10rem": "10rem",
+    "--size--16rem": "16rem",
+    "--swatch--white": "white",
+    "--swatch--light-faded": "#ffffff1a",
+    "--swatch--brand-light": "#e7b889",
+    "--swatch--brand-dark": "#f38422"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 767px",
+    "max 991px",
+    "min 768px",
+    "min 992px",
+    "min 480px",
+    "min 120rem"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow",
+    "barba"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "hero-scroll",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#d9d9d9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 33,
+        "gutterRight": 59,
+        "width": 1348,
+        "gutterTop": 668,
+        "gutterBottom": 23
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Great investments start with badass determination.",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 109.96,
+          "weight": "400",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 109.96,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "determination.",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": null,
+      "y": 900,
+      "height": 645,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#d9d9d9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 53,
+        "gutterRight": 33,
+        "width": 1354,
+        "gutterTop": 171,
+        "gutterBottom": 104
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "13.248px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          71
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What is Strawberry Group ?",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 13.91,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 46.37,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Explore our universe",
+        "Meet Petter Stordalen"
+      ],
+      "words": 51,
+      "excerpt": "is a family-owned investment company, with a portfolio consisting of real estate,",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": null,
+      "y": 1545,
+      "height": 1031,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#d9d9d9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 33,
+        "gutterRight": 33,
+        "width": 1374,
+        "gutterTop": 171,
+        "gutterBottom": 104
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "132.48px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          95,
+          95
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our Group Structure",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 13.91,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 19.87,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 177,
+      "excerpt": "Strawberry Hospitality Group is the spearhead of the Strawberry conglomerate. The hotel",
+      "media": {
+        "img": 7
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": null,
+      "y": 2576,
+      "height": 1150,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 53,
+        "gutterRight": 61,
+        "width": 1326,
+        "gutterTop": 99,
+        "gutterBottom": 399
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "132.48px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          95,
+          95
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Strawberry in Numbers",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 13.91,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 13.91,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 32,
+      "excerpt": "Billion (NOK) in Gross Real Estate Value",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": null,
+      "y": 3726,
+      "height": 930,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#d9d9d9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 53,
+        "gutterRight": 33,
+        "width": 1354,
+        "gutterTop": 79,
+        "gutterBottom": 501
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "132.48px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          95,
+          95
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Strawberry Equities",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 13.91,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 46.37,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 40,
+      "excerpt": "invests in privately held companies, typically with a minimum ownership stake of",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": null,
+      "y": 4655,
+      "height": 528,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#d9d9d9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 53,
+        "gutterRight": 33,
+        "width": 1354,
+        "gutterTop": 79,
+        "gutterBottom": 104
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "13.248px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          71
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Strawberry Capital",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 13.91,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 19.87,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Explore our universe"
+      ],
+      "words": 71,
+      "excerpt": "Strawberry Capital invests in listed companies with a strong history of value",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": null,
+      "y": 5184,
+      "height": 828,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 452,
+        "gutterRight": 203,
+        "width": 785,
+        "gutterTop": 119,
+        "gutterBottom": 166
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "01",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 92.74,
+          "weight": "400",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#010101"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 33.12,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 140,
+      "excerpt": "\"Our ambition is to be an active investor with ongoing dialogue with",
+      "media": {
+        "img": 4,
+        "svg": 4
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": null,
+      "y": 6012,
+      "height": 861,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#d9d9d9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 53,
+        "gutterRight": 33,
+        "width": 1354,
+        "gutterTop": 79,
+        "gutterBottom": 316
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "132.48px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          95,
+          95
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Investments",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 13.91,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 46.37,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Explore our universe"
+      ],
+      "words": 42,
+      "excerpt": "consists of approximately 15 portfolio companies across various industries, where we, tog…",
+      "media": {
+        "img": 34
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": null,
+      "y": 6873,
+      "height": 1117,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#d9d9d9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 33,
+        "gutterRight": 727,
+        "width": 680,
+        "gutterTop": 99,
+        "gutterBottom": 236
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "13.248px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Driven by legacy, fueled by future",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 13.91,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#d9d9d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 33.12,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Read Petter’s story"
+      ],
+      "words": 121,
+      "excerpt": "The essence of the Strawberry philosophy, has over time, expanded to a",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "footer",
+      "y": 7990,
+      "height": 878,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 66,
+        "width": 1308,
+        "gutterTop": 134,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "52.992px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          91,
+          91,
+          91
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Group Overview",
+          "family": "Nhaasgrotesktxpro 65 Md",
+          "size": 92.74,
+          "weight": "400",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#010101"
+        }
+      ],
+      "bodyType": {
+        "family": "Nhaasgrotesktxpro 65 Md",
+        "size": 13.91,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Strawberry Group",
+        "Contact Us",
+        "Group Overview",
+        "Investments",
+        "About Petter",
+        "Hotels & Franchise",
+        "Press Pictures",
+        "Request & Contact",
+        "Cookie Preferences",
+        "Ish Studio"
+      ],
+      "words": 54,
+      "excerpt": "All rights reserved. Website by",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "menu-op",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#d9d9d9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 89,
+    "title": "Strawberry Group",
+    "award": "HM",
+    "url": "https://www.strawberrygroup.no/",
+    "awwwards": "https://www.awwwards.com/sites/strawberry-group",
+    "categories": [
+      "Business & Corporate",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

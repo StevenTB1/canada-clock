@@ -1,0 +1,579 @@
+{
+  "page": {
+    "url": "https://lessestudio.com/",
+    "title": "Lesse Studio - Design & Technology",
+    "description": "Lesse is a design and technology studio based in Italy. We build digital products, from concept to production.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 9507,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#e4e4e4",
+        "share": 0.629
+      },
+      {
+        "value": "#000000",
+        "share": 0.137
+      },
+      {
+        "value": "#101010",
+        "share": 0.081
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.06
+      },
+      {
+        "value": "#0000001a",
+        "share": 0.05
+      },
+      {
+        "value": "#5f5f5f33",
+        "share": 0.027
+      },
+      {
+        "value": "#dededecc",
+        "share": 0.01
+      },
+      {
+        "value": "#24242480",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffffb2",
+        "share": 0.002
+      },
+      {
+        "value": "#0f0f0f",
+        "share": 0
+      },
+      {
+        "value": "#272727",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#070707",
+        "share": 0.472
+      },
+      {
+        "value": "#8f8f8f",
+        "share": 0.187
+      },
+      {
+        "value": "#000000",
+        "share": 0.127
+      },
+      {
+        "value": "#b6b6b6cc",
+        "share": 0.117
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.036
+      },
+      {
+        "value": "#575757",
+        "share": 0.017
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.017
+      },
+      {
+        "value": "#ffffffb2",
+        "share": 0.012
+      },
+      {
+        "value": "#00000080",
+        "share": 0.008
+      },
+      {
+        "value": "#ffffffcc",
+        "share": 0.004
+      },
+      {
+        "value": "#737272",
+        "share": 0.002
+      },
+      {
+        "value": "#a2a2a2",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#9f9f9f80",
+        "share": 0.615
+      },
+      {
+        "value": "#0000001b",
+        "share": 0.308
+      },
+      {
+        "value": "#6a7282",
+        "share": 0.077
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.998,
+      "text": 1.001
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ui-sans-serif",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4478
+      },
+      {
+        "family": "HostGrotesk",
+        "size": 14.4,
+        "weight": "100",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 891
+      },
+      {
+        "family": "ui-sans-serif",
+        "size": 12.96,
+        "weight": "400",
+        "lineHeight": 1.22,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 891
+      },
+      {
+        "family": "ui-sans-serif",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 194
+      },
+      {
+        "family": "ui-sans-serif",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 152
+      },
+      {
+        "family": "DMSans",
+        "size": 43.2,
+        "weight": "400",
+        "lineHeight": 1.11,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 144
+      },
+      {
+        "family": "ui-sans-serif",
+        "size": 21.6,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 132
+      },
+      {
+        "family": "DMSans",
+        "size": 43.2,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 129
+      },
+      {
+        "family": "ui-sans-serif",
+        "size": 11.52,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 128
+      },
+      {
+        "family": "ui-sans-serif",
+        "size": 12.96,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 101
+      },
+      {
+        "family": "HostGrotesk",
+        "size": 11.52,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 88
+      },
+      {
+        "family": "DMSans",
+        "size": 27.36,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 64
+      },
+      {
+        "family": "ui-sans-serif",
+        "size": 12.96,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 62
+      },
+      {
+        "family": "ui-sans-serif",
+        "size": 11.52,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 47
+      }
+    ],
+    "loadedFonts": [
+      "HostGrotesk 100 900 normal",
+      "DMSans 500 normal",
+      "LaCerchia 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 7,
+      "uses": 128
+    },
+    {
+      "px": 29,
+      "uses": 95
+    },
+    {
+      "px": 4,
+      "uses": 90
+    },
+    {
+      "px": 13,
+      "uses": 90
+    },
+    {
+      "px": 14,
+      "uses": 79
+    },
+    {
+      "px": 12,
+      "uses": 53
+    },
+    {
+      "px": 17,
+      "uses": 42
+    },
+    {
+      "px": 58,
+      "uses": 41
+    },
+    {
+      "px": 72,
+      "uses": 37
+    },
+    {
+      "px": 2,
+      "uses": 22
+    },
+    {
+      "px": 16,
+      "uses": 22
+    },
+    {
+      "px": 8,
+      "uses": 18
+    },
+    {
+      "px": 6,
+      "uses": 16
+    },
+    {
+      "px": 3,
+      "uses": 16
+    },
+    {
+      "px": 5,
+      "uses": 15
+    },
+    {
+      "px": 22,
+      "uses": 12
+    }
+  ],
+  "radii": [
+    {
+      "value": "11.52px",
+      "uses": 45
+    },
+    {
+      "value": "14.4px",
+      "uses": 21
+    },
+    {
+      "value": "3.35544e+07px",
+      "uses": 18
+    },
+    {
+      "value": "8.64px",
+      "uses": 17
+    },
+    {
+      "value": "7.2px",
+      "uses": 11
+    },
+    {
+      "value": "10.08px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s ease",
+        "uses": 514
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 77
+      },
+      {
+        "value": "1s cubic-bezier(0.76, 0, 0.24, 1)",
+        "uses": 33
+      },
+      {
+        "value": "1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 26
+      },
+      {
+        "value": "1s ease",
+        "uses": 24
+      },
+      {
+        "value": "0.8s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 16
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Se",
+    "--font-serif": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-red-300": "oklch(80.8% .114 19.571)",
+    "--color-red-400": "oklch(70.4% .191 22.216)",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-green-500": "oklch(72.3% .219 149.579)",
+    "--color-blue-600": "oklch(54.6% .245 262.881)",
+    "--color-gray-500": "oklch(55.1% .027 264.364)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "1.2",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5 / 2.25)",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--text-6xl": "3.75rem",
+    "--text-6xl--line-height": "1",
+    "--text-8xl": "6rem",
+    "--text-8xl--line-height": "1",
+    "--font-weight-thin": "100",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--tracking-normal": "0em",
+    "--tracking-widest": ".1em",
+    "--leading-tight": "1.25",
+    "--leading-snug": "1.375",
+    "--radius-md": ".375rem",
+    "--radius-lg": ".5rem",
+    "--radius-xl": ".75rem",
+    "--radius-2xl": "1rem",
+    "--ease-in": "cubic-bezier(.4, 0, 1, 1)",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--animate-bounce": "bounce 1s infinite",
+    "--blur-sm": "8px",
+    "--blur-md": "12px",
+    "--blur-xl": "24px",
+    "--aspect-video": "16 / 9",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--bg-primary": "#ebebeb",
+    "--bg-secondary": "#f5f5f5",
+    "--text-primary": "#000",
+    "--text-secondary": "#666",
+    "--font-hostgrotesk": "\"HostGrotesk\", sans-serif",
+    "--font-dmsans": "\"DMSans\", sans-serif",
+    "--font-lacerchia": "\"LaCerchia\", cursive",
+    "--color-transition": "1s",
+    "--ease": "cubic-bezier(.65, .05, .1, 1)",
+    "--slide-duration": "1.5s",
+    "--fade-duration": "1s"
+  },
+  "breakpoints": [
+    "min 768px",
+    "min 48rem",
+    "min 40rem",
+    "min 64rem",
+    "min 80rem",
+    "min 96rem"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 9507,
+      "position": "static",
+      "background": "#e4e4e4",
+      "backgroundImage": false,
+      "color": "#070707",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 22,
+        "gutterBottom": 29
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FULL-SERVICE AGENCY",
+          "family": "ui-sans-serif",
+          "size": 14.4,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#8f8f8f"
+        },
+        {
+          "tag": "h2",
+          "text": "Lesse is a design and technology studio based in Italy. We deliver hollistic br…",
+          "family": "DMSans",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#070707"
+        },
+        {
+          "tag": "h2",
+          "text": "OUR SERVICES",
+          "family": "ui-sans-serif",
+          "size": 14.4,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#8f8f8f"
+        },
+        {
+          "tag": "h3",
+          "text": "Brand Strategy",
+          "family": "ui-sans-serif",
+          "size": 21.6,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ui-sans-serif",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Start a project",
+        "Services",
+        "Portfolio",
+        "About",
+        "Insights",
+        "Contact",
+        "Start a Project",
+        "Brand Positioning Competitor & Market R…",
+        "Brand Identity Design Logo Design Visua…",
+        "UX / UI Design Web Design Mobile App De…"
+      ],
+      "words": 1224,
+      "excerpt": "\"You’ve created a true work of art that perfectly captures the idea",
+      "media": {
+        "img": 37,
+        "canvas": 1,
+        "svg": 59
+      }
+    }
+  ],
+  "listing": {
+    "rank": 90,
+    "title": "Lesse Studio",
+    "award": "HM",
+    "url": "https://lessestudio.com/",
+    "awwwards": "https://www.awwwards.com/sites/lesse-studio",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Technology",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

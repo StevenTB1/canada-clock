@@ -1,0 +1,473 @@
+{
+  "page": {
+    "url": "https://aliciadubuis.com/",
+    "title": "Alicia Dubuis",
+    "description": "Drawing her inspiration from the mid-century cinema and brutalist architecture movement, Swiss photographer Alicia Dubuis creates daring, yet delicate compositions that exude a sense of softness.",
+    "lang": null,
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 17620,
+    "generator": "Astro v6.4.4"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.834
+      },
+      {
+        "value": "#edededf2",
+        "share": 0.083
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.042
+      },
+      {
+        "value": "#fffffff7",
+        "share": 0.042
+      }
+    ],
+    "text": [
+      {
+        "value": "#333132",
+        "share": 0.998
+      },
+      {
+        "value": "#32323233",
+        "share": 0.002
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Jannon",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2377
+      },
+      {
+        "family": "Jannon",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 274
+      },
+      {
+        "family": "ABC Camera Plain",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 180
+      },
+      {
+        "family": "ABC Camera Plain",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.33,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 75
+      }
+    ],
+    "loadedFonts": [
+      "Jannon 400 normal",
+      "Jannon 400 italic",
+      "ABC Camera Plain 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 223
+    },
+    {
+      "px": 2,
+      "uses": 46
+    },
+    {
+      "px": 4,
+      "uses": 45
+    },
+    {
+      "px": 8,
+      "uses": 20
+    },
+    {
+      "px": 77,
+      "uses": 1
+    },
+    {
+      "px": 40,
+      "uses": 1
+    },
+    {
+      "px": 120,
+      "uses": 1
+    },
+    {
+      "px": 80,
+      "uses": 1
+    },
+    {
+      "px": 59,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1.2s cubic-bezier(0, 0, 0.58, 1)",
+        "uses": 356
+      },
+      {
+        "value": "0.15s cubic-bezier(0, 0, 0.58, 1)",
+        "uses": 292
+      },
+      {
+        "value": "0.3s cubic-bezier(0, 0, 0.58, 1)",
+        "uses": 35
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--color-background": "var(--color-white)",
+    "--color-text": "var(--color-black)",
+    "--color-black": "#333132",
+    "--color-charcoal500": "#949494",
+    "--color-charcoal250": "#ededed",
+    "--color-white": "#ffffff",
+    "--color-black--a20": "rgba(51, 49, 50, .2)",
+    "--color-charcoal250--a95": "rgba(237, 237, 237, .95)",
+    "--color-white--a70": "rgba(255, 255, 255, .7)",
+    "--color-white--a97": "rgba(255, 255, 255, .97)",
+    "--color-success": "#3a7d33",
+    "--color-error": "#d31d1d",
+    "--color-backdrop": "var(--color-white--a97)",
+    "--color-shape-stroke": "var(--color-text)",
+    "--opacity-media--active": ".2",
+    "--vw": "1vw",
+    "--scrollbar": "0px",
+    "--s0": "0px",
+    "--s1": "1px",
+    "--s2": "2px",
+    "--s4": "4px",
+    "--s8": "8px",
+    "--s10": "10px",
+    "--s12": "12px",
+    "--s16": "16px",
+    "--s20": "20px",
+    "--s24": "16px",
+    "--s32": "24px",
+    "--s40": "32px",
+    "--s64": "40px",
+    "--s80": "64px",
+    "--s120": "80px",
+    "--s200": "120px",
+    "--s300": "200px",
+    "--s400": "300px",
+    "--column-count": "6",
+    "--margin": "16px",
+    "--gutter": "16px",
+    "--container-max-width": "3680px",
+    "--container-width": "min(calc((100 * var(--vw)) - (2 * var(--margin))), var(--container-max-width))",
+    "--column": "calc( (1 / var(--column-count)) * (var(--container-width) - ((var(--column-count",
+    "--margin-dynamic": "calc((100 * var(--vw) - var(--container-width)) / 2)",
+    "--border-width": "1px",
+    "--header-padding-top": "var(--s8)",
+    "--header-row-height": "var(--s16)",
+    "--header-row-gap": "var(--s2)",
+    "--header-height": "calc( var(--header-padding-top) + var(--header-row-height) + var(--header-row-ga",
+    "--overlay-panel-padding": "var(--s16)",
+    "--project-link-gap": "var(--s16)",
+    "--footer-height": "calc( var(--s16) + var(--s16) + var(--s8) + var(--s32) + var(--s16) + var(--s8) ",
+    "--scroll-padding-top": "calc(var(--header-height--full) + var(--s16))",
+    "--ease-out-cubic": "cubic-bezier(0, 0, .58, 1)",
+    "--ease-in-out-cubic": "cubic-bezier(.7, 0, .1, 1)",
+    "--transition-default-duration": ".15s",
+    "--transition-default": "var(--transition-default-duration) var(--ease-out-cubic)",
+    "--transition-fast-duration": ".1s",
+    "--transition-fast": "var(--transition-fast-duration) var(--ease-out-cubic)",
+    "--transition-slow-duration": ".3s",
+    "--transition-slow": "var(--transition-slow-duration) var(--ease-out-cubic)",
+    "--transition-default-in-out-duration": ".3s",
+    "--transition-default-in-out": "var(--transition-default-in-out-duration)",
+    "--transition-media-load-duration": "1.2s",
+    "--transition-media-load": "var(--transition-media-load-duration) var(--ease-out-cubic)",
+    "--aspect-square": "1 / 1",
+    "--aspect-landscape": "3 / 2",
+    "--aspect-portrait": "3 / 4",
+    "--font-serif": "\"Jannon\", serif",
+    "--font-sans-serif": "\"ABC Camera Plain\", sans-serif"
+  },
+  "breakpoints": [
+    "max 500px",
+    "max 1000px",
+    "max 1100px",
+    "min 1101px",
+    "max 600px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "index-stack",
+      "y": 16764,
+      "height": 763,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#333132",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 571,
+        "gutterRight": 571,
+        "width": 297,
+        "gutterTop": 424,
+        "gutterBottom": 279
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 12,
+        "childWidthsPct": [
+          20,
+          25,
+          48,
+          43,
+          57,
+          25,
+          25,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Super Flattering II",
+          "family": "Jannon",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#333132"
+        },
+        {
+          "tag": "h3",
+          "text": "T Le Temps x HEAD",
+          "family": "Jannon",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#333132"
+        },
+        {
+          "tag": "h3",
+          "text": "WSN",
+          "family": "Jannon",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#333132"
+        },
+        {
+          "tag": "h3",
+          "text": "Norlha",
+          "family": "Jannon",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#333132"
+        }
+      ],
+      "bodyType": {
+        "family": "Jannon",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Images (4 ...) ( + )",
+        "Images (5 ...) ( + )",
+        "Images (10 ...) ( + )",
+        "Images (9 ...) ( + )",
+        "Images (12 ...) ( + )",
+        "Images (3 ...) ( + )",
+        "Images (6 ...) ( + )",
+        "Images (22 ...) ( + )"
+      ],
+      "words": 138,
+      "excerpt": "Super Flattering II",
+      "media": {
+        "img": 185
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "placer",
+      "y": 1961,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#333132",
+      "padding": "0px 0px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 661,
+        "gutterRight": 661,
+        "width": 117,
+        "gutterTop": 867,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "4px",
+        "justify": "normal",
+        "align": "baseline",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "CONTACT SHEET",
+          "family": "ABC Camera Plain",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.33,
+          "letterSpacing": 0.02,
+          "transform": "uppercase",
+          "color": "#333132"
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Camera Plain",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.33,
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "CONTACT SHEET ( 0 )"
+      ],
+      "words": 5,
+      "excerpt": "Contact Sheet",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "footer",
+      "name": "footer",
+      "y": 17527,
+      "height": 93,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#333132",
+      "padding": "0px 16px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 0,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "2px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "PRINTS",
+          "family": "ABC Camera Plain",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1.33,
+          "letterSpacing": 0.02,
+          "transform": "uppercase",
+          "color": "#333132"
+        }
+      ],
+      "bodyType": {
+        "family": "Jannon",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "PRINTS (3...)",
+        "@aliciadubuis",
+        "1/1 Studio,",
+        "Digital Meadow"
+      ],
+      "words": 24,
+      "excerpt": "Further information and dedicated portfolio can be requested via email",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 155,
+    "title": "Alicia Dubuis",
+    "url": "https://aliciadubuis.com/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

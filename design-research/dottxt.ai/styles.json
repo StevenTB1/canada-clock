@@ -1,0 +1,397 @@
+{
+  "page": {
+    "url": "https://dottxt.ai/",
+    "title": "No bad actions | .txt",
+    "description": ".txt enforces your tools and schemas while models generate, so tool calls and structured outputs are valid before they leave the inference engine.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.299
+      },
+      {
+        "value": "#efefef",
+        "share": 0.223
+      },
+      {
+        "value": "#000000",
+        "share": 0.195
+      },
+      {
+        "value": "#ddb8ca",
+        "share": 0.131
+      },
+      {
+        "value": "#79311b",
+        "share": 0.111
+      },
+      {
+        "value": "#a6b4a3",
+        "share": 0.02
+      },
+      {
+        "value": "#dfd1b6",
+        "share": 0.02
+      },
+      {
+        "value": "#f5f5f5",
+        "share": 0.001
+      },
+      {
+        "value": "#bd932f",
+        "share": 0
+      },
+      {
+        "value": "#03331e",
+        "share": 0
+      },
+      {
+        "value": "#7f9acf",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.862
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.122
+      },
+      {
+        "value": "#606060",
+        "share": 0.016
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.718,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PPNeueMontrealBook",
+        "size": 18.2,
+        "weight": "350",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1129
+      },
+      {
+        "family": "PPNeueMontrealBook",
+        "size": 16,
+        "weight": "350",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 427
+      },
+      {
+        "family": "PPNeueMontrealMonoBook",
+        "size": 13.4,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 250
+      },
+      {
+        "family": "PPNeueMontrealMonoBook",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 177
+      },
+      {
+        "family": "PPNeueMontrealMedium",
+        "size": 33.1,
+        "weight": "350",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 160
+      },
+      {
+        "family": "PPNeueMontrealMedium",
+        "size": 21.6,
+        "weight": "350",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 143
+      },
+      {
+        "family": "PPNeueMontrealMonoBook",
+        "size": 13.4,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 108
+      },
+      {
+        "family": "PPNeueMontrealBook",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 90
+      },
+      {
+        "family": "PPNeueMontrealMonoBook",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 72
+      },
+      {
+        "family": "PPNeueMontrealMedium",
+        "size": 16.8,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 68
+      },
+      {
+        "family": "PPNeueMontrealBook",
+        "size": 16,
+        "weight": "350",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 49
+      },
+      {
+        "family": "PPNeueMontrealMonoBook",
+        "size": 12,
+        "weight": "350",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 41
+      },
+      {
+        "family": "PPNeueMontrealMonoBook",
+        "size": 13.4,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 41
+      },
+      {
+        "family": "PPNeueMontrealMonoBook",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 39
+      }
+    ],
+    "loadedFonts": [
+      "neueBitBold 700 normal",
+      "PPNeueMontrealBook 400 normal",
+      "PPNeueMontrealMedium 530 normal",
+      "PPNeueMontrealMonoBook 400 normal",
+      "PPNeueMontrealMonoMedium 530 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 56
+    },
+    {
+      "px": 4,
+      "uses": 33
+    },
+    {
+      "px": 8,
+      "uses": 27
+    },
+    {
+      "px": 20,
+      "uses": 26
+    },
+    {
+      "px": 12,
+      "uses": 23
+    },
+    {
+      "px": 32,
+      "uses": 16
+    },
+    {
+      "px": 40,
+      "uses": 15
+    },
+    {
+      "px": 240,
+      "uses": 10
+    },
+    {
+      "px": 6,
+      "uses": 9
+    },
+    {
+      "px": 28,
+      "uses": 8
+    },
+    {
+      "px": 24,
+      "uses": 6
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 64,
+      "uses": 4
+    },
+    {
+      "px": 180,
+      "uses": 4
+    },
+    {
+      "px": 36,
+      "uses": 4
+    },
+    {
+      "px": 2,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 4,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--frame-gap": "round(clamp(0.5rem,0.5rem + (100vw - 20rem)/13.75,1rem),1px)",
+    "--header-height": "3rem",
+    "--section-index-height": "2.875rem",
+    "--frame-height": "calc(100svh - var(--header-height) - 3 * var(--frame-gap))",
+    "--frame-covered": "0px"
+  },
+  "breakpoints": [
+    "min 768px",
+    "min 1280px",
+    "min 1024px",
+    "max 767px",
+    "min 1000px",
+    "min 1920px",
+    "min 640px",
+    "min 1536px",
+    "max 47.99rem",
+    "max 1023px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "pointer-events-none.absolute",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#efefef",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "backgroundSquares",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#efefef",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 38,
+    "title": ".txt",
+    "award": "HM",
+    "url": "https://dottxt.ai/",
+    "awwwards": "https://www.awwwards.com/sites/txt",
+    "categories": [
+      "Business & Corporate",
+      "Technology",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

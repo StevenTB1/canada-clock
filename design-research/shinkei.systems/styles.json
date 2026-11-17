@@ -1,0 +1,1235 @@
+{
+  "page": {
+    "url": "https://shinkei.systems/",
+    "title": "Artisanal Quality at Industrial Scale | Shinkei Systems",
+    "description": "Shinkei uses robotics to build a world where fishermen thrive, supply chains are transparent, and American food systems restore national vitality.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10535,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.862
+      },
+      {
+        "value": "#000000",
+        "share": 0.105
+      },
+      {
+        "value": "#fe620c",
+        "share": 0.029
+      },
+      {
+        "value": "#00000033",
+        "share": 0.003
+      },
+      {
+        "value": "#ffebd050",
+        "share": 0
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0
+      },
+      {
+        "value": "#b92b23",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.529
+      },
+      {
+        "value": "#000000",
+        "share": 0.422
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.025
+      },
+      {
+        "value": "#ff4400",
+        "share": 0.011
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.006
+      },
+      {
+        "value": "#ff4400b3",
+        "share": 0.004
+      },
+      {
+        "value": "#ff9500",
+        "share": 0.001
+      }
+    ],
+    "borders": [
+      {
+        "value": "#b92b23",
+        "share": 0.6
+      },
+      {
+        "value": "#ff4400",
+        "share": 0.25
+      },
+      {
+        "value": "#ff440080",
+        "share": 0.05
+      },
+      {
+        "value": "#000000",
+        "share": 0.05
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0.05
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.97,
+      "text": 0.982
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "degular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 940
+      },
+      {
+        "family": "degular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 834
+      },
+      {
+        "family": "degular",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 729
+      },
+      {
+        "family": "degular",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 400
+      },
+      {
+        "family": "kalice",
+        "size": 36,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 259
+      },
+      {
+        "family": "kalice",
+        "size": 72,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 186
+      },
+      {
+        "family": "degularMono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 184
+      },
+      {
+        "family": "degular",
+        "size": 36,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 150
+      },
+      {
+        "family": "degularMono",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 121
+      },
+      {
+        "family": "degularMono",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 98
+      },
+      {
+        "family": "kalice",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 83
+      },
+      {
+        "family": "degularMono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.025,
+        "transform": "uppercase",
+        "chars": 79
+      },
+      {
+        "family": "degular",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 76
+      },
+      {
+        "family": "degular",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 63
+      }
+    ],
+    "loadedFonts": [
+      "kalice normal normal",
+      "degularMono 400 normal",
+      "degularMono 500 normal",
+      "degular 400 normal",
+      "degular 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 47
+    },
+    {
+      "px": 8,
+      "uses": 40
+    },
+    {
+      "px": 16,
+      "uses": 36
+    },
+    {
+      "px": 12,
+      "uses": 30
+    },
+    {
+      "px": 32,
+      "uses": 27
+    },
+    {
+      "px": 28,
+      "uses": 20
+    },
+    {
+      "px": 48,
+      "uses": 15
+    },
+    {
+      "px": 64,
+      "uses": 13
+    },
+    {
+      "px": 4,
+      "uses": 13
+    },
+    {
+      "px": 6,
+      "uses": 8
+    },
+    {
+      "px": 112,
+      "uses": 8
+    },
+    {
+      "px": 10,
+      "uses": 6
+    },
+    {
+      "px": 1,
+      "uses": 5
+    },
+    {
+      "px": 30,
+      "uses": 5
+    },
+    {
+      "px": 80,
+      "uses": 4
+    },
+    {
+      "px": 144,
+      "uses": 3
+    }
+  ],
+  "radii": [
+    {
+      "value": "9999px",
+      "uses": 24
+    },
+    {
+      "value": "16px",
+      "uses": 4
+    },
+    {
+      "value": "8px",
+      "uses": 2
+    },
+    {
+      "value": "12px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 21
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 15
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 15
+      },
+      {
+        "value": "0.3s cubic-bezier(0.84, 0.16, 0.14, 1)",
+        "uses": 12
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 6
+      },
+      {
+        "value": "1s ease-in-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 0,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--black-rgb": "0 0 0",
+    "--white-rgb": "255 255 255",
+    "--off-black": "#171717",
+    "--shinkei-sunny-rgb": "255 149 0",
+    "--shinkei-sand-rgb": "255 235 208",
+    "--shinkei-amber-rgb": "255 68 0",
+    "--shinkei-night-rgb": "45 42 72",
+    "--shinkei-deep-sea-rgb": "0 14 198",
+    "--shinkei-ocean-rgb": "55 142 255",
+    "--shinkei-sea-foam-rgb": "164 209 228",
+    "--shinkei-process-black-rgb": "3 2 0",
+    "--shinkei-sunny": "rgba(var(--shinkei-sunny-rgb)/1)",
+    "--shinkei-sand": "rgba(var(--shinkei-sand-rgb)/1)",
+    "--shinkei-amber": "rgba(var(--shinkei-amber-rgb)/1)",
+    "--shinkei-night": "rgba(var(--shinkei-night-rgb)/1)",
+    "--shinkei-deep-sea": "rgba(var(--shinkei-deep-sea-rgb)/1)",
+    "--shinkei-ocean": "rgba(var(--shinkei-ocean-rgb)/1)",
+    "--shinkei-sea-foam": "rgba(var(--shinkei-sea-foam-rgb)/1)",
+    "--shinkei-process-black": "rgba(var(--shinkei-process-black-rgb)/1)",
+    "--svh": "1svh",
+    "--dvh": "1vh",
+    "--gutter-padding": "28px",
+    "--gutter-padding-lg": "28px",
+    "--navbar-height": "90px",
+    "--inner-content-width": "700px",
+    "--outer-content-width": "1440px",
+    "--leva-colors-elevation1": "#292d39",
+    "--leva-colors-elevation2": "#181c20",
+    "--leva-colors-elevation3": "#373c4b",
+    "--leva-colors-accent1": "#0066dc",
+    "--leva-colors-accent2": "#007bff",
+    "--leva-colors-accent3": "#3c93ff",
+    "--leva-colors-highlight1": "#535760",
+    "--leva-colors-highlight2": "#8c92a4",
+    "--leva-colors-highlight3": "#fefefe",
+    "--leva-colors-vivid1": "#ffcc00",
+    "--leva-colors-folderWidgetColor": "var(--leva-colors-highlight2)",
+    "--leva-colors-folderTextColor": "var(--leva-colors-highlight3)",
+    "--leva-colors-toolTipBackground": "var(--leva-colors-highlight3)",
+    "--leva-colors-toolTipText": "var(--leva-colors-elevation2)",
+    "--leva-radii-xs": "2px",
+    "--leva-radii-sm": "3px",
+    "--leva-radii-lg": "10px",
+    "--leva-space-xs": "3px",
+    "--leva-space-sm": "6px",
+    "--leva-space-md": "10px",
+    "--leva-space-rowGap": "7px",
+    "--leva-space-colGap": "7px",
+    "--leva-fonts-mono": "ui-monospace, SFMono-Regular, Menlo, 'Roboto Mono', monospace",
+    "--leva-fonts-sans": "system-ui, sans-serif",
+    "--leva-fontSizes-root": "11px",
+    "--leva-fontSizes-toolTip": "var(--leva-fontSizes-root)",
+    "--leva-sizes-rootWidth": "280px",
+    "--leva-sizes-controlWidth": "160px",
+    "--leva-sizes-numberInputMinWidth": "38px",
+    "--leva-sizes-scrubberWidth": "8px",
+    "--leva-sizes-scrubberHeight": "16px",
+    "--leva-sizes-rowHeight": "24px",
+    "--leva-sizes-folderTitleHeight": "20px",
+    "--leva-sizes-checkboxSize": "16px",
+    "--leva-sizes-joystickWidth": "100px",
+    "--leva-sizes-joystickHeight": "100px",
+    "--leva-sizes-colorPickerWidth": "var(--leva-sizes-controlWidth)",
+    "--leva-sizes-colorPickerHeight": "100px",
+    "--leva-sizes-imagePreviewWidth": "var(--leva-sizes-controlWidth)",
+    "--leva-sizes-imagePreviewHeight": "100px",
+    "--leva-sizes-monitorHeight": "60px",
+    "--leva-sizes-titleBarHeight": "39px",
+    "--leva-shadows-level1": "0 0 9px 0 #00000088",
+    "--leva-shadows-level2": "0 4px 14px #00000033",
+    "--leva-borderWidths-root": "0px",
+    "--leva-borderWidths-input": "1px",
+    "--leva-borderWidths-focus": "1px",
+    "--leva-borderWidths-hover": "1px",
+    "--leva-borderWidths-active": "1px",
+    "--leva-borderWidths-folder": "1px",
+    "--leva-fontWeights-label": "normal",
+    "--leva-fontWeights-folder": "normal",
+    "--leva-fontWeights-button": "normal"
+  },
+  "breakpoints": [
+    "min 1024px",
+    "min 640px",
+    "min 768px",
+    "min 1280px",
+    "min 1536px",
+    "max 600px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "pointer-events-none.fixed",
+      "y": 0,
+      "height": 90,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 570,
+        "gutterRight": 45,
+        "width": 825,
+        "gutterTop": 60,
+        "gutterBottom": 14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          14,
+          27,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "TECHNOLOGY",
+          "family": "degularMono",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "degularMono",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "TECHNOLOGY",
+        "PARTNERS",
+        "ABOUT",
+        "MEDIA",
+        "JOIN THE TEAM"
+      ],
+      "words": 7,
+      "excerpt": "Join the Team",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 253,
+        "gutterRight": 253,
+        "width": 934,
+        "gutterTop": 415,
+        "gutterBottom": 301
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "stretch",
+        "align": "stretch",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Artisanal quality at industrial scale.",
+          "family": "kalice",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "degular",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 26,
+      "excerpt": "Shinkei uses robotics to build a world where fishermen thrive, supply chains",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": null,
+      "y": 900,
+      "height": 1000,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 145,
+        "gutterRight": 145,
+        "width": 1150,
+        "gutterTop": 112,
+        "gutterBottom": 158
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          80,
+          80
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Two-thirds of all fish harvested never make it to a plate. SOURCE",
+          "family": "kalice",
+          "size": 36,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "degular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "SOURCE"
+      ],
+      "words": 172,
+      "excerpt": "For centuries, Japan has developed artisanal food practices that have compounded into",
+      "media": {
+        "video": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "flex.flex-col",
+      "y": 1900,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 748,
+        "width": 664,
+        "gutterTop": 333,
+        "gutterBottom": 339
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our fleet of Poseidon robots harvest thousands of fish daily.",
+          "family": "kalice",
+          "size": 36,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "degular",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "MORE ON POSEIDON"
+      ],
+      "words": 34,
+      "excerpt": "We deploy Poseidon — our flagship product — across ships in the",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "ul",
+      "name": "relative.flex",
+      "y": 2800,
+      "height": 2700,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 748,
+        "width": 664,
+        "gutterTop": 340,
+        "gutterBottom": 340
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Hardware that ships in weeks, not years.",
+          "family": "kalice",
+          "size": 36,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Software that understands every fish.",
+          "family": "kalice",
+          "size": 36,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Full-stack American infrastructure.",
+          "family": "kalice",
+          "size": 36,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "degular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 137,
+      "excerpt": "American fish, caught by American fishermen, harvested by American made machines, and",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": null,
+      "y": 5612,
+      "height": 1128,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 266,
+        "gutterRight": 263,
+        "width": 910,
+        "gutterTop": 144,
+        "gutterBottom": 150
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          66,
+          66,
+          66,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Beautiful fish require beautiful engineering.",
+          "family": "kalice",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "degular",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Thousands of Fish",
+        "Five U.S. Regions",
+        "Multi-City Distribution",
+        "Parallel Production",
+        "MORE ON PARTNERSHIPS"
+      ],
+      "words": 27,
+      "excerpt": "Processed every week, from 6 different species, and counting...",
+      "media": {
+        "img": 5,
+        "svg": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": null,
+      "y": 6740,
+      "height": 764,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 56,
+        "gutterRight": 107,
+        "width": 1277,
+        "gutterTop": 104,
+        "gutterBottom": 104
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          92,
+          31,
+          92
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Seremoni Grade",
+          "family": "degular",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "degular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "VISIT SEREMONI"
+      ],
+      "words": 57,
+      "excerpt": "To bring Poseidon-processed fish to market, we launched Seremoni — the consumer-facing",
+      "media": {
+        "img": 5,
+        "svg": 5
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": null,
+      "y": 7503,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 445,
+        "gutterRight": 445,
+        "width": 550,
+        "gutterTop": 164,
+        "gutterBottom": 282
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "stretch",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "For Engineers",
+          "family": "kalice",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "For Fishermen",
+          "family": "kalice",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "For Consumers",
+          "family": "kalice",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "For Chefs and Retailers",
+          "family": "kalice",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "kalice",
+        "size": 72,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "VIEW OPEN POSITIONS"
+      ],
+      "words": 72,
+      "excerpt": "We hire smart, ambitious, and kind people with an exceptionally high bar",
+      "media": {
+        "img": 14,
+        "svg": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": null,
+      "y": 8403,
+      "height": 736,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 28,
+        "width": 1384,
+        "gutterTop": 112,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          65,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Shinkei Media",
+          "family": "kalice",
+          "size": 36,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "A Mari Ad Astra",
+          "family": "kalice",
+          "size": 36,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "degular",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Robotics help boost shelf life, value o…",
+        "Seremoni enters Whole Foods as robotics…",
+        "US start up Seremoni expands sockeye, r…",
+        "Founders Fund’s outlier bet on humanely…",
+        "MORE MEDIA"
+      ],
+      "words": 76,
+      "excerpt": "Seremoni enters Whole Foods as robotics-driven start up scales up",
+      "media": {
+        "img": 5,
+        "svg": 6
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": null,
+      "y": 9140,
+      "height": 675,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 390,
+        "gutterRight": 390,
+        "width": 660,
+        "gutterTop": 259,
+        "gutterBottom": 235
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Join",
+          "family": "degular",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "degular",
+        "size": 36,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "VIEW OPEN POSITIONS"
+      ],
+      "words": 18,
+      "excerpt": "View Open Positions",
+      "media": {
+        "img": 5,
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "bg-black.text-white",
+      "y": 9815,
+      "height": 720,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 46,
+        "gutterRight": 28,
+        "width": 1366,
+        "gutterTop": 36,
+        "gutterBottom": 58
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "192px normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "N/A",
+          "family": "degularMono",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "degularMono",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "CHINOOK, WA",
+        "TECHNOLOGY",
+        "PARTNERS",
+        "ABOUT",
+        "MEDIA",
+        "INFO@SHINKEI.SYSTEMS"
+      ],
+      "words": 49,
+      "excerpt": "*Time pulled from the Navy Master Clock",
+      "media": {
+        "svg": 5
+      }
+    }
+  ],
+  "listing": {
+    "rank": 96,
+    "title": "Shinkei Systems",
+    "award": "HM",
+    "url": "https://shinkei.systems/",
+    "awwwards": "https://www.awwwards.com/sites/shinkei-systems",
+    "categories": [
+      "Food & Drink",
+      "Technology",
+      "Startups"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

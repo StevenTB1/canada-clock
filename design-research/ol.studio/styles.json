@@ -1,0 +1,1225 @@
+{
+  "page": {
+    "url": "https://www.ol.studio/",
+    "title": "Studio OL",
+    "description": "Studio OL",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 8482,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f2ecdf",
+        "share": 0.678
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.059
+      },
+      {
+        "value": "#f2ecdff2",
+        "share": 0.048
+      },
+      {
+        "value": "#646c3e",
+        "share": 0.018
+      },
+      {
+        "value": "#583f34",
+        "share": 0.017
+      },
+      {
+        "value": "#5c3c34",
+        "share": 0.015
+      },
+      {
+        "value": "#72543e",
+        "share": 0.015
+      },
+      {
+        "value": "#4b3922",
+        "share": 0.015
+      },
+      {
+        "value": "#565135",
+        "share": 0.015
+      },
+      {
+        "value": "#3e3120",
+        "share": 0.013
+      },
+      {
+        "value": "#4c4c3a",
+        "share": 0.008
+      },
+      {
+        "value": "#72543c",
+        "share": 0.007
+      }
+    ],
+    "text": [
+      {
+        "value": "#47403c",
+        "share": 0.976
+      },
+      {
+        "value": "#46413c66",
+        "share": 0.024
+      }
+    ],
+    "borders": [
+      {
+        "value": "#46413c33",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 3066
+      },
+      {
+        "family": "acp",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.017,
+        "transform": "none",
+        "chars": 1698
+      },
+      {
+        "family": "acp",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 176
+      },
+      {
+        "family": "acp",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.017,
+        "transform": "none",
+        "chars": 143
+      },
+      {
+        "family": "acp",
+        "size": 8,
+        "weight": "600",
+        "lineHeight": 1.8,
+        "letterSpacing": 0.25,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "acp",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 0.67,
+        "letterSpacing": -0.017,
+        "transform": "none",
+        "chars": 12
+      }
+    ],
+    "loadedFonts": [
+      "acp 400 normal",
+      "acp 400 italic"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 6,
+      "uses": 16
+    },
+    {
+      "px": 20,
+      "uses": 15
+    },
+    {
+      "px": 40,
+      "uses": 12
+    },
+    {
+      "px": 120,
+      "uses": 11
+    },
+    {
+      "px": 493,
+      "uses": 10
+    },
+    {
+      "px": 55,
+      "uses": 8
+    },
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 65,
+      "uses": 4
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 76,
+      "uses": 1
+    },
+    {
+      "px": 22,
+      "uses": 1
+    },
+    {
+      "px": 100,
+      "uses": 1
+    },
+    {
+      "px": 16,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 7
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--vw": "100vw",
+    "--vh": "100vh",
+    "--ivh": "100vh",
+    "--rem": "1px",
+    "--main-font-name": "var(--font-acp),var(--font-friz)",
+    "--main-font": "var(--main-font-name),\"Helvetica Neue\",\"Arial\",sans-serif",
+    "--color-black": "#000",
+    "--color-grey-dark": "#47403c",
+    "--color-grey-dark-80": "#47403ccc",
+    "--color-grey-dark-60": "#47403c99",
+    "--color-grey-dark-40": "#47403c66",
+    "--color-grey-dark-20": "#47403c33",
+    "--color-white": "#fff",
+    "--color-white-grey": "#fffdfb",
+    "--color-hover": "#c0b9a6",
+    "--color-main": "var(--color-grey-dark)",
+    "--color-background": "#f2ecdf",
+    "--color-overlay-background": "#f2ecdff2",
+    "--gap-xxxs": "2rem",
+    "--gap-xxs": "4rem",
+    "--gap-xs": "8rem",
+    "--gap-s": "12rem",
+    "--gap-m": "16rem",
+    "--gap-l": "20rem",
+    "--gap-xl": "24rem",
+    "--gap-xxl": "32rem",
+    "--gap-xxxl": "36rem",
+    "--gap": "var(--gap-s)",
+    "--padding": "10rem",
+    "--grid-margin": "20rem",
+    "--grid-gutter": "10rem",
+    "--grid-column": "calc((var(--vw) - 5*var(--grid-gutter) - 2*var(--grid-margin))/6)",
+    "--viewport-inset": "var(--grid-gutter)",
+    "--border-size": "1rem",
+    "--border-radius": "8rem",
+    "--border-radius-xl": "120rem",
+    "--icon-size": "32rem",
+    "--small-icon-size": "12rem",
+    "--inter-blocs-margin-sm": "60rem",
+    "--inter-blocs-margin": "120rem",
+    "--header-height": "60rem",
+    "--width-reference": "394",
+    "--z-index-header": "2000",
+    "--z-index-panel": "5000",
+    "--z-index-overlay": "4000",
+    "--header-transition-duration": ".2s",
+    "--header-transition-timing": "cubic-bezier(.455,.03,.515,.955)",
+    "--panel-inset": "calc(var(--grid-column)*0 + var(--grid-gutter)*0 + var(--grid-margin)*.5)"
+  },
+  "breakpoints": [
+    "max 900px",
+    "max 1350px",
+    "max 1200px",
+    "max 1020px",
+    "max 970px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "Header-module-scss-module__7sz-Mq__wrapper",
+      "y": 6885,
+      "height": 64,
+      "position": "fixed",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1203,
+        "gutterRight": 199,
+        "width": 37,
+        "gutterTop": 24,
+        "gutterBottom": 18
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "About",
+          "family": "acp",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 0.67,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 0.67,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [
+        "Contact"
+      ],
+      "words": 2,
+      "excerpt": "Contact",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "Info-module-scss-module__oYG7xW__wrapper",
+      "y": 6885,
+      "height": 600,
+      "position": "fixed",
+      "background": "#f2ecdff2",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1203,
+        "gutterRight": 20,
+        "width": 217,
+        "gutterTop": 76,
+        "gutterBottom": 358
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Olivia Lopez is the founder of Studio OL — a creative practice operating at the…",
+          "family": "acp",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [
+        "@studio____ol",
+        "@oliviavlopez"
+      ],
+      "words": 49,
+      "excerpt": "Olivia Lopez is the founder of Studio OL — a creative practice",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "Heading-module-scss-module__w7ATKG__wrapper",
+      "y": 100,
+      "height": 828,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "0px 0px 40px",
+      "border": null,
+      "content": {
+        "gutterLeft": 375,
+        "gutterRight": 20,
+        "width": 1045,
+        "gutterTop": 610,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "STUDIO OL operates at the intersection of cultural strategy, interior styling, …",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "The Wall Street Journal"
+      ],
+      "words": 98,
+      "excerpt": "STUDIO OL operates at the intersection of cultural strategy, interior styling, and",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "Paragraph-module-scss-module__S5lzwW__wrapper",
+      "y": 968,
+      "height": 168,
+      "position": "static",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px 493.333px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 493,
+        "gutterRight": 493,
+        "width": 453,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "With a foundation in Art History and over a decade in editorial, Lopez approach…",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 52,
+      "excerpt": "With a foundation in Art History and over a decade in editorial,",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "Paragraph-module-scss-module__S5lzwW__wrapper",
+      "y": 1156,
+      "height": 168,
+      "position": "static",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px 493.333px",
+      "margin": "20px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 493,
+        "gutterRight": 493,
+        "width": 453,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Over that decade, Lopez has worked across key cultural events—from global fashi…",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 52,
+      "excerpt": "Over that decade, Lopez has worked across key cultural events—from global fashion",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "Heading-module-scss-module__w7ATKG__wrapper.Heading-module-scss-module__w7ATKG__hasBlocksAbove",
+      "y": 1444,
+      "height": 908,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "120px 0px 40px",
+      "border": null,
+      "content": {
+        "gutterLeft": 375,
+        "gutterRight": 20,
+        "width": 1045,
+        "gutterTop": 690,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Beyond the studio, Lopez has built an editorial world on the explorations of pl…",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 126,
+      "excerpt": "The visual identity for Seco began by hand. Lopez worked through color,",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "ImagesWithStickyText-module-scss-module__6KcbUG__wrapper",
+      "y": 2472,
+      "height": 620,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "120px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 493,
+        "gutterRight": 20,
+        "width": 927,
+        "gutterTop": 519,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "20px",
+        "justify": "center",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          31,
+          31,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Seco is a case study in layered references—Mexican Modernism, Milanese pasticce…",
+          "family": "acp",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 57,
+      "excerpt": "Seco is a case study in layered references—Mexican Modernism, Milanese pasticcerias, and",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "Slideshow-module-scss-module__LVWFEq__wrapper",
+      "y": 3212,
+      "height": 414,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "0px 0px 120px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "5px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 7,
+        "childWidthsPct": [
+          24,
+          22,
+          22,
+          22,
+          19,
+          20,
+          23
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 7
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "Paragraph-module-scss-module__S5lzwW__wrapper",
+      "y": 3746,
+      "height": 72,
+      "position": "static",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px 493.333px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 493,
+        "gutterRight": 493,
+        "width": 453,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Most recently, she worked on the creative direction, brand strategy and concept…",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 26,
+      "excerpt": "Most recently, she worked on the creative direction, brand strategy and concept",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "ImagesWithStickyText-module-scss-module__6KcbUG__wrapper",
+      "y": 3938,
+      "height": 1292,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "120px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 493,
+        "gutterRight": 20,
+        "width": 927,
+        "gutterTop": 1085,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "20px",
+        "justify": "center",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          31,
+          31,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Personal memory was the blueprint for Seco. A conversation with a neighbor turn…",
+          "family": "acp",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 95,
+      "excerpt": "The material selections for Seco were guided by feeling over formula. Studio",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "Heading-module-scss-module__w7ATKG__wrapper.Heading-module-scss-module__w7ATKG__hasBlocksAbove",
+      "y": 5350,
+      "height": 120,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "120px 0px 40px",
+      "border": null,
+      "content": {
+        "gutterLeft": 375,
+        "gutterRight": 20,
+        "width": 1045,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Olivia Lopez is a founding partner of Seco, a natural wine bar in Silver Lake d…",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 77,
+      "excerpt": "Olivia Lopez is a founding partner of Seco, a natural wine bar",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "Paragraph-module-scss-module__S5lzwW__wrapper",
+      "y": 5510,
+      "height": 96,
+      "position": "static",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px 493.333px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 493,
+        "gutterRight": 493,
+        "width": 453,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Seco represents the full 360 degree scope of what Studio OL does: a project con…",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 34,
+      "excerpt": "Seco represents the full 360 degree scope of what Studio OL does:",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "ImageBlock-module-scss-module__1Gc1KG__wrapper",
+      "y": 5726,
+      "height": 308,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "120px 0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "Slideshow-module-scss-module__LVWFEq__wrapper",
+      "y": 6154,
+      "height": 414,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "0px 0px 120px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "5px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 8,
+        "childWidthsPct": [
+          22,
+          22,
+          22,
+          22,
+          22,
+          22,
+          21,
+          38
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "Paragraph-module-scss-module__S5lzwW__wrapper",
+      "y": 6688,
+      "height": 192,
+      "position": "static",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px 493.333px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 493,
+        "gutterRight": 493,
+        "width": 453,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Studio OL shaped the atmosphere and identity of the space — selecting materials…",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 51,
+      "excerpt": "Studio OL shaped the atmosphere and identity of the space — selecting",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "Heading-module-scss-module__w7ATKG__wrapper.Heading-module-scss-module__w7ATKG__hasBlocksAbove",
+      "y": 7000,
+      "height": 842,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px",
+      "margin": "120px 0px 40px",
+      "border": null,
+      "content": {
+        "gutterLeft": 375,
+        "gutterRight": 20,
+        "width": 1045,
+        "gutterTop": 746,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "What connects the Studio’s work across disciplines is less a style than a sensi…",
+          "family": "acp",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 63,
+      "excerpt": "What connects the Studio’s work across disciplines is less a style than",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "Footer-module-scss-module__g6EuUq__wrapper",
+      "y": 7882,
+      "height": 600,
+      "position": "relative",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#46413c66",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 555,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "I. Studio,",
+          "family": "acp",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#47403c"
+        }
+      ],
+      "bodyType": {
+        "family": "acp",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [
+        "I. Studio,",
+        "II. Photography,",
+        "III. Editorial,",
+        "IV. Interior",
+        "Email,",
+        "Instagram,",
+        "Website by OB.Studio"
+      ],
+      "words": 28,
+      "excerpt": "Studio OL — All Rights Reserved",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "GridHelper-module-scss-module__X796XW__gridHelper",
+      "y": 6885,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f2ecdf",
+      "backgroundImage": false,
+      "color": "#47403c",
+      "padding": "0px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 12,
+        "childWidthsPct": [
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 157,
+    "title": "Studio OL",
+    "url": "https://ol.studio/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

@@ -1,0 +1,1379 @@
+{
+  "page": {
+    "url": "https://stash.cool/",
+    "title": "Stash: a creative resource directory for designers",
+    "description": "A curated directory of 191 tools, sites and resources for designers and creatives, plus articles on the ones worth knowing. Curated by Steve Salgado.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 11195,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.71
+      },
+      {
+        "value": "#f1f1f1",
+        "share": 0.283
+      },
+      {
+        "value": "#000000",
+        "share": 0.006
+      },
+      {
+        "value": "#000000b8",
+        "share": 0.002
+      },
+      {
+        "value": "#ffff00",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.782
+      },
+      {
+        "value": "#8a8a8a",
+        "share": 0.207
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.011
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff59",
+        "share": 0.863
+      },
+      {
+        "value": "#000000",
+        "share": 0.137
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 11569
+      },
+      {
+        "family": "Space Mono",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 3316
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2554
+      },
+      {
+        "family": "Space Mono",
+        "size": 24.48,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 1174
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 731
+      },
+      {
+        "family": "Space Mono",
+        "size": 13.19,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 668
+      },
+      {
+        "family": "Space Mono",
+        "size": 14.51,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 240
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 17.15,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 199
+      },
+      {
+        "family": "Space Mono",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 191
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 189
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 21.11,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 116
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 7,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0.06,
+        "transform": "uppercase",
+        "chars": 51
+      },
+      {
+        "family": "Space Mono",
+        "size": 34.56,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "Space Mono",
+        "size": 11.87,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 32
+      }
+    ],
+    "loadedFonts": [
+      "Space Mono 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 446
+    },
+    {
+      "px": 8,
+      "uses": 316
+    },
+    {
+      "px": 9,
+      "uses": 197
+    },
+    {
+      "px": 6,
+      "uses": 91
+    },
+    {
+      "px": 10,
+      "uses": 61
+    },
+    {
+      "px": 2,
+      "uses": 57
+    },
+    {
+      "px": 14,
+      "uses": 46
+    },
+    {
+      "px": 28,
+      "uses": 15
+    },
+    {
+      "px": 20,
+      "uses": 13
+    },
+    {
+      "px": 12,
+      "uses": 7
+    },
+    {
+      "px": 4,
+      "uses": 6
+    },
+    {
+      "px": 29,
+      "uses": 4
+    },
+    {
+      "px": 24,
+      "uses": 4
+    },
+    {
+      "px": 72,
+      "uses": 3
+    },
+    {
+      "px": 7,
+      "uses": 2
+    },
+    {
+      "px": 23,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "7px",
+      "uses": 17
+    },
+    {
+      "value": "20px",
+      "uses": 1
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 1262
+      },
+      {
+        "value": "0.6s cubic-bezier(0.7, 0, 0.2, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.25s cubic-bezier(0.7, 0, 0.2, 1)",
+        "uses": 20
+      },
+      {
+        "value": "0.35s cubic-bezier(0.7, 0, 0.2, 1)",
+        "uses": 19
+      },
+      {
+        "value": "0.3s cubic-bezier(0.7, 0, 0.2, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.15s ease",
+        "uses": 3
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 22
+  },
+  "cssVariables": {
+    "--u": "clamp(1px, calc(0.212px + 0.0769vw), 1.5px)",
+    "--hh": "calc(43 * var(--u))",
+    "--pad": "20px",
+    "--col": "1fr",
+    "--bg": "#fff",
+    "--fg": "#000",
+    "--muted": "#8a8a8a",
+    "--line": "#000",
+    "--blue": "#0000ff",
+    "--red": "#ff1a1a",
+    "--wash": "#f1f1f1",
+    "--ease": "cubic-bezier(.7, 0, .2, 1)",
+    "--sans": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "--mono": "\"Space Mono\", monospace",
+    "--t": "calc(12 * var(--u))",
+    "--vt-dur": ".5s",
+    "--vt-ease": "cubic-bezier(.32, .72, 0, 1)"
+  },
+  "breakpoints": [
+    "max 900px",
+    "max 700px",
+    "max 600px",
+    "max 760px",
+    "min 901px",
+    "max 800px",
+    "max 1000px",
+    "max 560px",
+    "max 1100px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "hero",
+      "y": 0,
+      "height": 804,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "64px 20px 24px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "articles",
+      "y": 804,
+      "height": 771,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#8a8a8a",
+      "padding": "8px 20px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 3,
+        "width": 1417,
+        "gutterTop": 21,
+        "gutterBottom": 82
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 24,
+        "gap": "28.8px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 24,
+        "childWidthsPct": [
+          41,
+          41,
+          41,
+          41,
+          41,
+          41,
+          41,
+          41
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Articles",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "For when the fans kick in halfway through an AI build",
+          "family": "Space Mono",
+          "size": 24.48,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Your coding agent finally gets a canvas",
+          "family": "Space Mono",
+          "size": 24.48,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "3D for designers who never learned Blender",
+          "family": "Space Mono",
+          "size": 24.48,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Articles",
+        "[ ← ]",
+        "[ → ]",
+        "MADE BY STASH · 5 MIN READ · NOV 2026 F…",
+        "TOOLS · 6 MIN READ · OCT 2026 Your codi…",
+        "TOOLS · 5 MIN READ · OCT 2026 3D for de…",
+        "TOOLS · 5 MIN READ · OCT 2026 Reverse e…",
+        "TOOLS · 6 MIN READ · OCT 2026 Someone r…",
+        "TOOLS · 6 MIN READ · OCT 2026 Custom to…",
+        "TOOLS · 7 MIN READ · OCT 2026 Your AI w…"
+      ],
+      "words": 944,
+      "excerpt": "S1 is a free menu bar app that shows which AI session,",
+      "media": {
+        "img": 6,
+        "video": 18,
+        "svg": 42
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "home-op",
+      "y": 1575,
+      "height": 906,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#8a8a8a",
+      "padding": "0px 20px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 13,
+        "gutterBottom": 72
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "23.04px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Opinion5",
+          "family": "Helvetica Neue",
+          "size": 21.11,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Who the f*ck is Jean Philanthrope?",
+          "family": "Space Mono",
+          "size": 34.56,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 21.11,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Opinion",
+        "←",
+        "→",
+        "OPINION · 9 MIN READ · BY STEVE SALGADO…"
+      ],
+      "words": 44,
+      "excerpt": "Jean Phil turned the internet into detectives. What we should be investigating",
+      "media": {
+        "img": 2,
+        "video": 3,
+        "svg": 7
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "group",
+      "y": 2659,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1327,
+        "width": 93,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          5,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Cataloging",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Cataloging",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "group",
+      "y": 3163,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1278,
+        "width": 142,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Creative & Design",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Creative & Design",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "group",
+      "y": 4518,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1299,
+        "width": 121,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          8,
+          0
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Culture & Living",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Culture & Living",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "group",
+      "y": 4911,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1338,
+        "width": 82,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          5,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Mockups",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Mockups",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "group",
+      "y": 5489,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1314,
+        "width": 106,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          0
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Presentations",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Presentations",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "group",
+      "y": 5734,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1274,
+        "width": 146,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          0
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Stock Photography",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "Stock Photography",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "group",
+      "y": 5906,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1266,
+        "width": 154,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Studios & Agencies",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Studios & Agencies",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "group",
+      "y": 7630,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1367,
+        "width": 53,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Tools",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Tools",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "group",
+      "y": 8652,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1377,
+        "width": 43,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          0
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Type",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Type",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "group",
+      "y": 8861,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1288,
+        "width": 132,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          8,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Type (Foundries)",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "Type (Foundries)",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "group",
+      "y": 9365,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1371,
+        "width": 50,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          0
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Video",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Video",
+      "media": {}
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "group",
+      "y": 9758,
+      "height": 60,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 0px 8px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 1372,
+        "width": 48,
+        "gutterTop": 28,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Web",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Web",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "footer",
+      "name": "site-foot",
+      "y": 10822,
+      "height": 372,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 20px 28px",
+      "margin": "144px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 13,
+        "gutterBottom": 62
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "57.6px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          41,
+          28,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "About",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#8a8a8a"
+        },
+        {
+          "tag": "h2",
+          "text": "Credits",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#8a8a8a"
+        },
+        {
+          "tag": "h2",
+          "text": "Elsewhere",
+          "family": "Helvetica Neue",
+          "size": 15.83,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#8a8a8a"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 15.83,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "shoot us a message",
+        "Articles",
+        "Index",
+        "Contact ↗",
+        "Privacy",
+        "Cookies",
+        "Steve Salgado",
+        "Open 24 Hours"
+      ],
+      "words": 134,
+      "excerpt": "Stash started as a bookmark folder that got out of hand. A",
+      "media": {}
+    },
+    {
+      "i": 17,
+      "tag": "canvas",
+      "name": "foot-drop",
+      "y": 10385,
+      "height": 810,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 9,
+    "title": "Stash",
+    "award": "HM",
+    "url": "https://stash.cool/",
+    "awwwards": "https://www.awwwards.com/sites/stash",
+    "categories": [
+      "Art & Illustration",
+      "Technology",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

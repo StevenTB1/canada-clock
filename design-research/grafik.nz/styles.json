@@ -1,0 +1,1559 @@
+{
+  "page": {
+    "url": "https://grafik.co.nz/",
+    "title": "Grafik® — Digital Brand Studio | Award-Winning Websites Made in NZ",
+    "description": "Grafik is a New Zealand digital brand studio creating award-winning websites that define brands. Identity, design, motion and code by Nick de Jardine.",
+    "lang": "en-NZ",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 27688,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#dad9d5",
+        "share": 0.843
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.114
+      },
+      {
+        "value": "#000000",
+        "share": 0.03
+      },
+      {
+        "value": "#ff4f00",
+        "share": 0.013
+      },
+      {
+        "value": "#6320ee",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.929
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.06
+      },
+      {
+        "value": "#ff4f00",
+        "share": 0.012
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.987,
+      "text": 0.989
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 7237
+      },
+      {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 745
+      },
+      {
+        "family": "Die Grotesk A Medium",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 217
+      },
+      {
+        "family": "Founders Grotesk X Condensed Semibold",
+        "size": 66,
+        "weight": "700",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 108
+      },
+      {
+        "family": "Founders Grotesk X Condensed Semibold",
+        "size": 108,
+        "weight": "700",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 99
+      },
+      {
+        "family": "Die Grotesk A Medium",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 7
+      }
+    ],
+    "loadedFonts": [
+      "Founders Grotesk X Condensed Semibold 700 normal",
+      "Die Grotesk A Regular 700 normal",
+      "Die Grotesk A Medium 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 198
+    },
+    {
+      "px": 180,
+      "uses": 17
+    },
+    {
+      "px": 24,
+      "uses": 6
+    },
+    {
+      "px": 505,
+      "uses": 1
+    },
+    {
+      "px": 55,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s ease",
+        "uses": 74
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 59
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 27
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 22
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 2,
+    "videos": 10
+  },
+  "cssVariables": {
+    "--body": "14px",
+    "--body-l": "1.4",
+    "--heading": "42px",
+    "--heading-l": ".75",
+    "--huge": "60px",
+    "--huge-l": ".75",
+    "--palette-white": "#fff",
+    "--palette-white-mute": "#ece0dc80",
+    "--palette-black": "#000",
+    "--palette-black-mute": "#17171780",
+    "--palette-grey": "#dad9d5",
+    "--palette-grey-canvas": "#dad9d5f2",
+    "--palette-orange": "#ff4f00",
+    "--palette-purple": "#6320ee",
+    "--color-background": "var(--palette-white)",
+    "--color-background-reverse": "var(--palette-black)",
+    "--color-text": "var(--palette-black)",
+    "--color-border": "var(--palette-black-mute)",
+    "--color-reverse": "var(--palette-white)",
+    "--color-text-reverse": "var(--palette-white)",
+    "--gutter": ".75rem",
+    "--gutter-2": "calc(var(--gutter)*2)",
+    "--gutter-3": "calc(var(--gutter)*3)",
+    "--gutter-4": "calc(var(--gutter)*4)",
+    "--gutter-5": "calc(var(--gutter)*5)",
+    "--gutter-6": "calc(var(--gutter)*6)",
+    "--gutter-7": "calc(var(--gutter)*7)",
+    "--gutter-8": "calc(var(--gutter)*8)",
+    "--gutter-9": "calc(var(--gutter)*9)",
+    "--gutter-10": "calc(var(--gutter)*10)",
+    "--gutter-12": "calc(var(--gutter)*12)",
+    "--gutter-half": "calc(var(--gutter)/2)",
+    "--gutter-quarter": "calc(var(--gutter)/4)",
+    "--gutter-three-quarters": "calc(var(--gutter)*1.5)",
+    "--safe-top": "env(safe-area-inset-top,0px)",
+    "--safe-right": "env(safe-area-inset-right,0px)",
+    "--safe-bottom": "env(safe-area-inset-bottom,0px)",
+    "--safe-left": "env(safe-area-inset-left,0px)",
+    "--top-padding": "calc(47.75px + var(--safe-top))"
+  },
+  "breakpoints": [],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "nav-menu",
+      "y": 0,
+      "height": 720,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 22,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          15,
+          64,
+          15,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Impossible Toronto",
+          "family": "Die Grotesk A Regular",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Impossible Toronto",
+        "Beings",
+        "Jhana Millers",
+        "Tom Gould",
+        "Today Design",
+        "Motion Sickness",
+        "Victoria Spicer",
+        "Agnes Lloyd-Platt",
+        "Ben Pearce",
+        "Glasfurd & Walker"
+      ],
+      "words": 75,
+      "excerpt": "Grafik is a studio making websites that define brands. It's run by",
+      "media": {
+        "img": 17
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "home-hero",
+      "y": 0,
+      "height": 967,
+      "position": "relative",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#ff4f00",
+      "padding": "54.75px 12px 12px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 173,
+        "gutterRight": 173,
+        "width": 1094,
+        "gutterTop": 303,
+        "gutterBottom": 12
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "GRAFIK, DESIGN & DEVELOPMENT HOAHOA PAE TUKUTUKU TE WHANGANUI-A-TARA, AOTEAROA …",
+          "family": "Founders Grotesk X Condensed Semibold",
+          "size": 108,
+          "weight": "700",
+          "lineHeight": 0.75,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ff4f00"
+        }
+      ],
+      "bodyType": {
+        "family": "Founders Grotesk X Condensed Semibold",
+        "size": 108,
+        "weight": "700",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 14,
+      "excerpt": "Te Whanganui-a-Tara, Aotearoa",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "project-slice.impossible",
+      "y": 967,
+      "height": 1739,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 214,
+        "gutterBottom": 1488
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "IMPOSSIBLE TORONTO",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "IMPOSSIBLE TORONTO Impossible Toronto i…"
+      ],
+      "words": 77,
+      "excerpt": "Impossible Toronto is an initiative of the Neptis Foundation, imagining the housing",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "project-slice.beings",
+      "y": 2706,
+      "height": 1424,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 183,
+        "gutterBottom": 1185
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "BEINGS",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "BEINGS What we put on stage and screen …"
+      ],
+      "words": 53,
+      "excerpt": "What we put on stage and screen matters. Yet, despite the wealth",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "project-slice.jhana",
+      "y": 4130,
+      "height": 985,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 78,
+        "width": 1350,
+        "gutterTop": 0,
+        "gutterBottom": 424
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "JHANA MILLERS",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "JHANA MILLERS Jhana Millers is a contem…"
+      ],
+      "words": 93,
+      "excerpt": "This one is bilingual at its core. The wordmark reads Jhana Millers",
+      "media": {
+        "img": 4,
+        "video": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "project-slice.tom-gould",
+      "y": 5115,
+      "height": 1792,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 582,
+        "gutterRight": 78,
+        "width": 780,
+        "gutterTop": 146,
+        "gutterBottom": 996
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          30,
+          78,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "TOM GOULD",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TOM GOULD In 2023 New Zealand film dire…"
+      ],
+      "words": 56,
+      "excerpt": "This website uses a brutalist, mainframe-inspired interface to create a stark, high-impact",
+      "media": {
+        "img": 6,
+        "video": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "project-slice.today",
+      "y": 6907,
+      "height": 1425,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 134,
+        "gutterBottom": 1272
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          19,
+          19,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "TODAY DESIGN",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TODAY DESIGN A UX agency that refused t…"
+      ],
+      "words": 47,
+      "excerpt": "A UX agency that refused to look like one. Today.design hired me",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "project-slice.motion-sickness",
+      "y": 8332,
+      "height": 983,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 78,
+        "width": 1350,
+        "gutterTop": 0,
+        "gutterBottom": 426
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "MOTION SICKNESS",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "MOTION SICKNESS Motion Sickness are an …"
+      ],
+      "words": 68,
+      "excerpt": "Motion Sickness are an advertising agency based in Auckland, New Zealand. They",
+      "media": {
+        "img": 4,
+        "video": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "project-slice.v-spicer",
+      "y": 9315,
+      "height": 1333,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 164,
+        "gutterBottom": 1113
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          19,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "VICTORIA SPICER",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "VICTORIA SPICER Victoria Spicer was a s…"
+      ],
+      "words": 60,
+      "excerpt": "The site was designed entirely in the browser, no desktop design tools:",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "project-slice.agnes",
+      "y": 10648,
+      "height": 1537,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 582,
+        "gutterRight": 78,
+        "width": 780,
+        "gutterTop": 0,
+        "gutterBottom": 1142
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 7,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          19,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "AGNES LLOYD-PLATT",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "AGNES LLOYD-PLATT Agnes Lloyd-Platt is …"
+      ],
+      "words": 59,
+      "excerpt": "Her signature is colour, so the website is built around nothing else:",
+      "media": {
+        "img": 10,
+        "video": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "project-slice.pearce",
+      "y": 12185,
+      "height": 1391,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 183,
+        "gutterBottom": 1152
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 7,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          19,
+          19,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "BEN PEARCE",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "BEN PEARCE Ben Pearce is a New Zealand …"
+      ],
+      "words": 65,
+      "excerpt": "The website follows Pearce's practice from the inside, making visible the quirks",
+      "media": {
+        "img": 12
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "project-slice.glasfurd",
+      "y": 13576,
+      "height": 1421,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 221,
+        "gutterBottom": 1145
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          19,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "GLASFURD & WALKER",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "GLASFURD & WALKER Glasfurd & Walker are…"
+      ],
+      "words": 90,
+      "excerpt": "Glasfurd & Walker are a brand and design agency in Vancouver, Canada,",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 13,
+      "tag": "a",
+      "name": "project-link-wrapper",
+      "y": 14998,
+      "height": 1652,
+      "position": "relative",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 78,
+        "width": 1350,
+        "gutterTop": 0,
+        "gutterBottom": 1432
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "PILOT",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 77,
+      "excerpt": "The name set the concept. The site takes the bird's eye view:",
+      "media": {
+        "img": 8,
+        "video": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "project-slice.mcmanus",
+      "y": 16830,
+      "height": 1693,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 582,
+        "gutterRight": 78,
+        "width": 780,
+        "gutterTop": 0,
+        "gutterBottom": 1416
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "MICHAEL MCMANUS",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "MICHAEL MCMANUS Michael McManus Archite…"
+      ],
+      "words": 90,
+      "excerpt": "The website answers with an unexpected, earthy palette, a deliberate counterpoint to",
+      "media": {
+        "img": 8,
+        "video": 1
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "project-slice.miles-calder",
+      "y": 18523,
+      "height": 1776,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 134,
+        "gutterBottom": 1586
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "MILES CALDER",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "MILES CALDER Miles Calder & The Rumours…"
+      ],
+      "words": 50,
+      "excerpt": "Miles Calder & The Rumours were a five-piece alt-country and Americana band",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 16,
+      "tag": "section",
+      "name": "project-slice.porter",
+      "y": 20299,
+      "height": 1693,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 582,
+        "gutterRight": 78,
+        "width": 780,
+        "gutterTop": 0,
+        "gutterBottom": 1435
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "PORTER PACKAGING",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "PORTER PACKAGING Porter Packaging are a…"
+      ],
+      "words": 81,
+      "excerpt": "Porter Packaging are a creative production house based in Auckland, manufacturing high-end",
+      "media": {
+        "img": 8,
+        "video": 1
+      }
+    },
+    {
+      "i": 17,
+      "tag": "section",
+      "name": "project-slice.marx",
+      "y": 21992,
+      "height": 1391,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 78,
+        "width": 1350,
+        "gutterTop": 0,
+        "gutterBottom": 1133
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "MARX DESIGN",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "MARX DESIGN Marx are a branding and pac…"
+      ],
+      "words": 82,
+      "excerpt": "Marx are a branding and packaging design agency based in Auckland, known",
+      "media": {
+        "img": 8,
+        "video": 1
+      }
+    },
+    {
+      "i": 18,
+      "tag": "section",
+      "name": "project-slice.match",
+      "y": 23383,
+      "height": 1741,
+      "position": "static",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 202,
+        "gutterBottom": 1483
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "MATCH ARTISTS",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "MATCH ARTISTS For twenty years Match we…"
+      ],
+      "words": 73,
+      "excerpt": "Match Photographers relaunched as Match Artists, with an identity and website built",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 19,
+      "tag": "a",
+      "name": "project-link-wrapper",
+      "y": 25124,
+      "height": 1652,
+      "position": "relative",
+      "background": "#dad9d5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1164,
+        "gutterRight": 78,
+        "width": 198,
+        "gutterTop": 202,
+        "gutterBottom": 1394
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          30,
+          39,
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "PATCHWORK",
+          "family": "Die Grotesk A Medium",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 79,
+      "excerpt": "Their website was built by their own discipline's creed: form follows function.",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 20,
+      "tag": "div",
+      "name": "footer-reveal.js-footer-reveal",
+      "y": 26968,
+      "height": 720,
+      "position": "relative",
+      "background": "#ff4f00",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 329,
+        "width": 1099,
+        "gutterTop": 269,
+        "gutterBottom": -258
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 5,
+        "childWidthsPct": [
+          82,
+          16,
+          24,
+          24,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "DIANE, IT’S EARLY MORNING HERE, FIFTEEN°C, BUT FEELS COLDISH OUT. OVERCAST, AND…",
+          "family": "Founders Grotesk X Condensed Semibold",
+          "size": 66,
+          "weight": "700",
+          "lineHeight": 0.75,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Die Grotesk A Regular",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Suck by Nine Inch Nails",
+        "nick@grafik.co.nz",
+        "Instagram"
+      ],
+      "words": 61,
+      "excerpt": "Grafik affirms Te Tiriti o Waitangi as the cornerstone of Aotearoa, New",
+      "media": {}
+    },
+    {
+      "i": 21,
+      "tag": "div",
+      "name": "fade-overlay",
+      "y": 0,
+      "height": 990,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 170,
+    "title": "Grafik",
+    "url": "https://grafik.nz/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

@@ -1,0 +1,1068 @@
+{
+  "page": {
+    "url": "https://www.mathis-biabiany.fr/",
+    "title": "Mathis Biabiany — Mathis Biabiany",
+    "description": "Mathis Biabiany is a creative technologist crafting immersive, real-time 3D experiences for brands like Cartier, Coca-Cola and Adidas. Selected work and experiments.",
+    "lang": "en-US",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 12045,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f3f1ea",
+        "share": 0.756
+      },
+      {
+        "value": "#14141414",
+        "share": 0.173
+      },
+      {
+        "value": "#f2ede3",
+        "share": 0.057
+      },
+      {
+        "value": "#00000047",
+        "share": 0.013
+      },
+      {
+        "value": "#ffffff61",
+        "share": 0.001
+      },
+      {
+        "value": "#141414",
+        "share": 0
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0
+      },
+      {
+        "value": "#1414106b",
+        "share": 0
+      },
+      {
+        "value": "#ffffffe6",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#141414",
+        "share": 0.749
+      },
+      {
+        "value": "#1414146b",
+        "share": 0.209
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.025
+      },
+      {
+        "value": "#f3f1ea",
+        "share": 0.01
+      },
+      {
+        "value": "#222222",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffffd1",
+        "share": 0.5
+      },
+      {
+        "value": "#ffffffd9",
+        "share": 0.5
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Fustat",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 1334
+      },
+      {
+        "family": "Fustat",
+        "size": 14.98,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 570
+      },
+      {
+        "family": "Fustat",
+        "size": 29.95,
+        "weight": "700",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 414
+      },
+      {
+        "family": "Fustat",
+        "size": 14.98,
+        "weight": "500",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 87
+      },
+      {
+        "family": "Fustat",
+        "size": 13,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0.14,
+        "transform": "uppercase",
+        "chars": 55
+      },
+      {
+        "family": "Fustat",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 43
+      },
+      {
+        "family": "Fustat",
+        "size": 15.12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 40
+      },
+      {
+        "family": "Fustat",
+        "size": 112.32,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "Fustat",
+        "size": 90,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "Fustat",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.14,
+        "transform": "uppercase",
+        "chars": 19
+      },
+      {
+        "family": "Fustat",
+        "size": 12.96,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 19
+      },
+      {
+        "family": "Fustat",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Fustat",
+        "size": 190.51,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.035,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Fustat",
+        "size": 14.98,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 11
+      }
+    ],
+    "loadedFonts": [
+      "Fustat Fallback: Helvetica Neue normal normal",
+      "Fustat Fallback: Arial normal normal",
+      "Fustat 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 29,
+      "uses": 28
+    },
+    {
+      "px": 22,
+      "uses": 24
+    },
+    {
+      "px": 75,
+      "uses": 10
+    },
+    {
+      "px": 16,
+      "uses": 8
+    },
+    {
+      "px": 8,
+      "uses": 8
+    },
+    {
+      "px": 12,
+      "uses": 6
+    },
+    {
+      "px": 54,
+      "uses": 5
+    },
+    {
+      "px": 5,
+      "uses": 4
+    },
+    {
+      "px": 32,
+      "uses": 4
+    },
+    {
+      "px": 108,
+      "uses": 3
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 30,
+      "uses": 2
+    },
+    {
+      "px": 115,
+      "uses": 2
+    },
+    {
+      "px": 86,
+      "uses": 2
+    },
+    {
+      "px": 73,
+      "uses": 2
+    },
+    {
+      "px": 9,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "20px",
+      "uses": 29
+    },
+    {
+      "value": "999px",
+      "uses": 12
+    },
+    {
+      "value": "50%",
+      "uses": 4
+    },
+    {
+      "value": "3.11px 3.12px",
+      "uses": 2
+    },
+    {
+      "value": "8px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.18s ease",
+        "uses": 30
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.15s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.45s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 1,
+    "videos": 5
+  },
+  "cssVariables": {
+    "--nav-font-size": "clamp(14px,1.05vw,21px)",
+    "--nav-letter-spacing": "-.025em",
+    "--nav-gap": "clamp(20px,2.05vw,42px)"
+  },
+  "breakpoints": [
+    "min 741px",
+    "max 740px",
+    "max 620px",
+    "max 900px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "app",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "nav",
+      "name": "Primary",
+      "y": 0,
+      "height": 62,
+      "position": "fixed",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "46.8px 74.88px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 75,
+        "gutterRight": 75,
+        "width": 1290,
+        "gutterTop": 47,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          17
+        ]
+      },
+      "headings": [
+        {
+          "tag": "button",
+          "text": "Creative Technologist",
+          "family": "Fustat",
+          "size": 15.12,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 15.12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.025,
+        "transform": "none"
+      },
+      "labels": [
+        "Creative Technologist",
+        "Work",
+        "Lab",
+        "About",
+        "Contact"
+      ],
+      "words": 6,
+      "excerpt": "Creative Technologist",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "pm-hero",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "0px 74.88px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 96,
+        "gutterRight": 96,
+        "width": 1248,
+        "gutterTop": 352,
+        "gutterBottom": 226
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          87,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Mathis Biabiany",
+          "family": "Fustat",
+          "size": 190.51,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.035,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 14.98,
+        "weight": "500",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 16,
+      "excerpt": "I combine design, motion and real-time 3D into experiences that feel striking",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "pm-showreel",
+      "y": 900,
+      "height": 1575,
+      "position": "static",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "is-active.pm-projects__list",
+      "y": 2529,
+      "height": 7536,
+      "position": "absolute",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#1414146b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 75,
+        "gutterRight": 75,
+        "width": 1290,
+        "gutterTop": 321,
+        "gutterBottom": -232
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "54px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 24,
+        "childWidthsPct": [
+          34,
+          26,
+          38,
+          40,
+          26,
+          38,
+          34,
+          34
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "De Bijenkorf Magical Forest",
+          "family": "Fustat",
+          "size": 29.95,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "ALONEWITHME.AI",
+          "family": "Fustat",
+          "size": 29.95,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "West Lafayette",
+          "family": "Fustat",
+          "size": 29.95,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "Coca-Cola Starlight",
+          "family": "Fustat",
+          "size": 29.95,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 14.98,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "De Bijenkorf Magical Forest WebGL / E-C…",
+        "ALONEWITHME.AI WebGL / Deep Fake / Mach…",
+        "West Lafayette Unity / Digital installa…",
+        "Coca-Cola Starlight WebGL / AR / Volume…",
+        "Adidas Speedfactory WebGL / Digital ins…",
+        "A year with Cartier WebGL",
+        "Vans In-Store AR Experience WebGL / AR",
+        "WLDLGHT WebGL / Projection Mapping / Un…",
+        "Resn's Little Helper WebGL / Three.js",
+        "Tokyo VJ Unity / VJ / Sound"
+      ],
+      "words": 166,
+      "excerpt": "WebGL / Canvas 2D / Digital installation / Video projection",
+      "media": {
+        "img": 24
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "pm-projects__list.pm-projects__list--lab",
+      "y": 2529,
+      "height": 7536,
+      "position": "absolute",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "54px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          34,
+          26,
+          38,
+          38
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Lightsaber ↗",
+          "family": "Fustat",
+          "size": 29.95,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "Christmas XP 2018 ↗",
+          "family": "Fustat",
+          "size": 29.95,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "Christmas XP 2017 ↗",
+          "family": "Fustat",
+          "size": 29.95,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "Christmas XP 2016 ↗",
+          "family": "Fustat",
+          "size": 29.95,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 29.95,
+        "weight": "700",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "Lightsaber ↗",
+        "Christmas XP 2018 ↗",
+        "Christmas XP 2017 ↗",
+        "Christmas XP 2016 ↗"
+      ],
+      "words": 14,
+      "excerpt": "Christmas XP 2018",
+      "media": {
+        "video": 4
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "pm-about",
+      "y": 10245,
+      "height": 900,
+      "position": "static",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "108px 115.2px 126px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 637,
+        "gutterRight": 115,
+        "width": 688,
+        "gutterTop": 197,
+        "gutterBottom": 215
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "86.4px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Hi, I'm Mathis! A French artist and creative technologist based in Switzerland.",
+          "family": "Fustat",
+          "size": 15.84,
+          "weight": "500",
+          "lineHeight": 1.55,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Gobelins",
+        "Resn",
+        "my art",
+        "Mr. Doob",
+        "three.js",
+        "Sebastian"
+      ],
+      "words": 246,
+      "excerpt": "These days I work freelance from Switzerland, splitting my time between client",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "pm-contact",
+      "y": 11145,
+      "height": 900,
+      "position": "relative",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "0px 74.88px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 360,
+        "gutterRight": 360,
+        "width": 719,
+        "gutterTop": 338,
+        "gutterBottom": 81
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          26
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Let’s build something wild",
+          "family": "Fustat",
+          "size": 24,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 112.32,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "Let’s build something wild",
+        "Mail",
+        "X",
+        "LI",
+        "BS",
+        "IG"
+      ],
+      "words": 9,
+      "excerpt": "something wild",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "pm-thumb.is-clickable",
+      "y": 917,
+      "height": 411,
+      "position": "fixed",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 960,
+        "gutterRight": 423,
+        "width": 57,
+        "gutterTop": 224,
+        "gutterBottom": 178
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "9px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "SHOWREEL",
+          "family": "Fustat",
+          "size": 11,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0.14,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.14,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "SHOWREEL"
+      ],
+      "words": 1,
+      "excerpt": "Showreel",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "Loading",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f2ede3",
+      "backgroundImage": false,
+      "color": "#222222",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 29,
+        "width": 1382,
+        "gutterTop": 17,
+        "gutterBottom": 17
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          4,
+          4,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Crafting immersive",
+          "family": "Fustat",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#222222"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 90,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Crafting immersive",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "scifi-hints",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f3f1ea",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 63,
+        "gutterRight": 1364,
+        "width": 13,
+        "gutterTop": 0,
+        "gutterBottom": 886
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "7.8px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          1,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "←",
+          "family": "Fustat",
+          "size": 14,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Fustat",
+        "size": 13,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0.14,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "click to open the project",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 41,
+    "title": "Mathis Biabiany",
+    "award": "HM",
+    "url": "https://www.mathis-biabiany.fr/",
+    "awwwards": "https://www.awwwards.com/sites/mathis-biabiany",
+    "categories": [
+      "Art & Illustration",
+      "Technology",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

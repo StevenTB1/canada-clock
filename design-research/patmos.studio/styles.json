@@ -1,0 +1,374 @@
+{
+  "page": {
+    "url": "https://patmos.studio/",
+    "title": "Patmos | Wahr, Gut, Schön",
+    "description": "A Gestalting™ practice at the intersection of business and art. Across strategy, organization, branding, design, marketing, product, architecture, and culture, we observe the world in which businesses and organizations exist, revealing its immanent necessity as a beautiful, living narrative.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.708
+      },
+      {
+        "value": "#e0e0e0",
+        "share": 0.191
+      },
+      {
+        "value": "#777777",
+        "share": 0.101
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Patmos Serif",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.9,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 51
+      },
+      {
+        "family": "Patmos Serif",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 21
+      },
+      {
+        "family": "Patmos Serif",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 10
+      },
+      {
+        "family": "Patmos Serif",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 7
+      }
+    ],
+    "loadedFonts": [
+      "Patmos Serif 400 normal",
+      "garamond-premier-pro-display 700 normal",
+      "garamond-premier-pro-display 700 italic",
+      "garamond-premier-pro-display normal normal",
+      "garamond-premier-pro-display normal italic",
+      "garamond-premier-pro normal normal",
+      "garamond-premier-pro normal italic",
+      "garamond-premier-pro 700 normal",
+      "garamond-premier-pro 700 italic",
+      "garamond-premier-pro-caption normal normal",
+      "garamond-premier-pro-caption normal italic",
+      "garamond-premier-pro-caption 700 normal",
+      "garamond-premier-pro-caption 700 italic",
+      "garamond-premier-pro-subhead 700 normal",
+      "garamond-premier-pro-subhead 700 italic",
+      "garamond-premier-pro-subhead normal italic",
+      "garamond-premier-pro-subhead normal normal",
+      "neue-haas-grotesk-display 100 normal",
+      "neue-haas-grotesk-display 300 normal",
+      "neue-haas-grotesk-display normal normal",
+      "neue-haas-grotesk-display 500 normal",
+      "neue-haas-grotesk-display 600 normal",
+      "neue-haas-grotesk-display 700 normal",
+      "neue-haas-grotesk-text normal normal",
+      "neue-haas-grotesk-text 500 normal",
+      "neue-haas-grotesk-text 700 normal",
+      "yu-gothic-pr6n normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 35,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 34,
+      "uses": 2
+    },
+    {
+      "px": 29,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.32s ease-out",
+        "uses": 10
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.6s cubic-bezier(0.55, 0.085, 0.68, 0.53)",
+        "uses": 1
+      },
+      {
+        "value": "0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--spacing": ".0625rem",
+    "--spacing-base": ".9375rem",
+    "--spacing-10-11": "clamp(.625rem,.6016rem + .0935vw,.6875rem)",
+    "--spacing-12-13": "clamp(.75rem,.7266rem + .0935vw,.8125rem)",
+    "--spacing-14-16": "clamp(.875rem,.8283rem + .1869vw,1rem)",
+    "--spacing-14-17": "clamp(.875rem,.8049rem + .2831vw,1.0625rem)",
+    "--spacing-15-16": "clamp(.9375rem,.9141rem + .0935vw,1rem)",
+    "--spacing-16-17": "clamp(1rem,.9765rem + .0935vw,1.0625rem)",
+    "--spacing-16-18": "clamp(1rem,.9533rem + .1869vw,1.125rem)",
+    "--spacing-16-19": "clamp(1rem,.9299rem + .2804vw,1.1875rem)",
+    "--spacing-16-20": "clamp(1rem,.374vw + .907rem,1.25rem)",
+    "--spacing-18-20": "clamp(1.125rem,1.0783rem + .1869vw,1.25rem)",
+    "--spacing-20-24": "clamp(1.25rem,1.1565rem + .3738vw,1.5rem)",
+    "--spacing-20-25": "clamp(1.25rem,1.1332rem + .4673vw,1.5625rem)",
+    "--spacing-20-35": "clamp(1.25rem,.8995rem + 1.4019vw,2.1875rem)",
+    "--spacing-25-32": "clamp(1.5625rem,1.3989rem + .6542vw,2rem)",
+    "--spacing-25-40": "clamp(1.5625rem,1.212rem + 1.4019vw,2.5rem)",
+    "--spacing-30-40": "clamp(1.875rem,1.6414rem + .9346vw,2.5rem)",
+    "--spacing-30-48": "clamp(1.875rem,1.4544rem + 1.6822vw,3rem)",
+    "--spacing-30-60": "clamp(1.875rem,1.1741rem + 2.8037vw,3.75rem)",
+    "--spacing-34-50": "clamp(2.125rem,1.7512rem + 1.4955vw,3.125rem)",
+    "--spacing-40-56": "clamp(2.5rem,2.1262rem + 1.4953vw,3.5rem)",
+    "--spacing-50-80": "clamp(3.125rem,2.4241rem + 2.8037vw,5rem)",
+    "--spacing-100-120": "clamp(6.25rem,5.7827rem + 1.8692vw,7.5rem)",
+    "--spacing-100-144": "clamp(6.25rem,5.222rem + 4.1121vw,9rem)",
+    "--spacing-100-150": "clamp(6.25rem,5.0818rem + 4.6729vw,9.375rem)",
+    "--spacing-100-160": "clamp(6.25rem,4.8481rem + 5.6075vw,10rem)",
+    "--spacing-120-150": "clamp(7.5rem,6.7991rem + 2.8037vw,9.375rem)",
+    "--spacing-gutter": "var(--spacing-20-35)",
+    "--spacing-gap": "clamp(.625rem,.0409rem + 2.3364vw,2.1875rem)",
+    "--spacing-col": "calc((100vw - (var(--spacing-gutter)*2) - var(--spacing-gap)*11)/12)",
+    "--spacing-half-leading": "calc(.5lh - .5em)",
+    "--spacing-lh": "1lh",
+    "--spacing-descender-room": "max(0px,.76em - .5lh)",
+    "--spacing-base-lh": "calc(var(--spacing-base)*1.9)",
+    "--spacing-base-3lh": "calc(var(--spacing-base-lh)*3)",
+    "--spacing-base-5lh": "calc(var(--spacing-base-lh)*5)",
+    "--spacing-base-7lh": "calc(var(--spacing-base-lh)*7)",
+    "--spacing-base-lhl": "calc(var(--spacing-base-lh)*2 - var(--spacing-base))",
+    "--spacing-base-2lhl": "calc(var(--spacing-base-lh)*3 - var(--spacing-base))",
+    "--spacing-base-3lhl": "calc(var(--spacing-base-lh)*4 - var(--spacing-base))",
+    "--spacing-base-4lhl": "calc(var(--spacing-base-lh)*5 - var(--spacing-base))",
+    "--spacing-base-5lhl": "calc(var(--spacing-base-lh)*6 - var(--spacing-base))",
+    "--spacing-base-6lhl": "calc(var(--spacing-base-lh)*7 - var(--spacing-base))",
+    "--spacing-carousel-media-height": "calc(100svh - var(--spacing-gutter) - var(--spacing-40-56)*2 - var(--spacing-16-",
+    "--spacing-carousel-media-width": "68vw",
+    "--font-serif-jp": "\"Patmos Serif\",serif",
+    "--font-serif": "var(--font-serif-jp)",
+    "--font-sans-jp": "\"neue-haas-grotesk-display\",sans-serif",
+    "--font-sans": "var(--font-sans-jp)",
+    "--font-weight-light": "300",
+    "--font-weight-normal": "400",
+    "--color-bg": "#fff",
+    "--color-bg-muted": "#f5f5f5",
+    "--color-fg": "#000",
+    "--color-fg-muted": "#8f8f8f",
+    "--color-fg-muted-strong": "#ddd",
+    "--color-neutral": "#787878",
+    "--color-border": "#f2f2f2",
+    "--color-scrollbar": "#ccc",
+    "--ease-power2-in": "cubic-bezier(.33,0,.67,0)",
+    "--ease-power2-out": "cubic-bezier(.33,1,.67,1)",
+    "--default-transition-duration": ".3s",
+    "--default-transition-timing-function": "var(--ease-out)",
+    "--z-index-menu": "50",
+    "--z-index-hamburger": "51",
+    "--ink-filter": "url('#patmos-ink-bleed-desktop')"
+  },
+  "breakpoints": [
+    "min 1000px",
+    "min 62.5em",
+    "min 25em",
+    "min 37.5em",
+    "min 50em",
+    "min 75em",
+    "min 100em",
+    "min 1024px",
+    "max 62.5em",
+    "max 100em"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "pointer-events-none.fixed",
+      "y": 0,
+      "height": 85,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#e0e0e0",
+      "padding": "34.5794px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 971,
+        "gutterRight": 35,
+        "width": 434,
+        "gutterTop": 35,
+        "gutterBottom": 35
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "normal 34.2986px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Contact",
+          "family": "Patmos Serif",
+          "size": 16,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#e0e0e0"
+        }
+      ],
+      "bodyType": {
+        "family": "Patmos Serif",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Contact",
+        "Index Close"
+      ],
+      "words": 3,
+      "excerpt": "Contact",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "swup",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 34.5794px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 35,
+        "gutterRight": 35,
+        "width": 1371,
+        "gutterTop": 415,
+        "gutterBottom": 424
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Praksis of Gestalting",
+          "family": "Patmos Serif",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Patmos Serif",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.9,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Sound On",
+        "Sound Off"
+      ],
+      "words": 18,
+      "excerpt": "( Das Wahre, Gute, Schöne )",
+      "media": {
+        "img": 10
+      }
+    }
+  ],
+  "listing": {
+    "rank": 197,
+    "title": "Patmos",
+    "award": "HM",
+    "url": "https://patmos.studio/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/patmos",
+    "categories": [
+      "Architecture",
+      "Design Agencies",
+      "Web & Interactive"
+    ]
+  }
+}

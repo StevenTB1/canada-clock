@@ -1,0 +1,172 @@
+{
+  "page": {
+    "url": "https://guillaumecolombel.fr/",
+    "title": "Guillaume Colombel — Freelance Interactive Developer",
+    "description": "Freelance Interactive Developer specializing in immersive web experiences and creative websites. Based in Paris, available worldwide.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffd7b152",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#f4f2eeeb",
+        "share": 0.724
+      },
+      {
+        "value": "#f4f2ef8c",
+        "share": 0.276
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Neue Montreal",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 208
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.06,
+        "transform": "none",
+        "chars": 46
+      }
+    ],
+    "loadedFonts": [
+      "Neue Montreal 400 normal",
+      "Neue Montreal 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 14
+    },
+    {
+      "px": 5,
+      "uses": 14
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 21
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--black": "#050404",
+    "--ivory": "#f0ebe2"
+  },
+  "breakpoints": [
+    "max 768px"
+  ],
+  "tech": [
+    "three",
+    "nuxt"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": "stele-gl-text",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#050404",
+      "backgroundImage": false,
+      "color": "#f4f2eeeb",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 16,
+        "width": 1377,
+        "gutterTop": 4,
+        "gutterBottom": 400
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "01",
+          "family": "Neue Montreal",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#f4f2ef8c"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 49,
+      "excerpt": "Jean Paul Gaultier — La Favorite",
+      "media": {
+        "canvas": 2,
+        "svg": 4
+      }
+    }
+  ],
+  "listing": {
+    "rank": 102,
+    "title": "G. Colombel — Portfolio 2026",
+    "award": "SOTD",
+    "url": "https://guillaumecolombel.fr/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/g-colombel-portfolio-2026",
+    "categories": [
+      "Promotional",
+      "Web & Interactive",
+      "Portfolio",
+      "Experimental"
+    ]
+  }
+}

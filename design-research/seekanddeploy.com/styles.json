@@ -1,0 +1,159 @@
+{
+  "page": {
+    "url": "https://seekanddeploy.com/",
+    "title": "Seek and Deploy | Interactive Studio in Denver, CO",
+    "description": "Seek and Deploy is a Denver-based interactive studio creating thoughtfully crafted websites, interfaces, and digital experiences with strong creative and technical execution.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#131313",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#ededed",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Lexend",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 49
+      },
+      {
+        "family": "Lexend",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 9
+      }
+    ],
+    "loadedFonts": [
+      "Lexend 400 normal",
+      "Lexend 600 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 32,
+      "uses": 1
+    },
+    {
+      "px": 40,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--scrollbar-width": "0px"
+  },
+  "breakpoints": [
+    "min 768px",
+    "min 1440px",
+    "min 1024px",
+    "min 1680px",
+    "min 320px",
+    "min 1280px",
+    "min 540px"
+  ],
+  "tech": [
+    "nuxt"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "__nuxt",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#131313",
+      "backgroundImage": false,
+      "color": "#ededed",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 48,
+        "gutterBottom": 634
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Error 404",
+          "family": "Lexend",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Lexend",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Go Home"
+      ],
+      "words": 12,
+      "excerpt": "The page you requested could not be found.",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 57,
+    "title": "Seek and Deploy",
+    "award": "HM",
+    "url": "https://seekanddeploy.com/",
+    "awwwards": "https://www.awwwards.com/sites/seek-and-deploy",
+    "categories": [
+      "Technology",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

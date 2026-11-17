@@ -1,0 +1,1268 @@
+{
+  "page": {
+    "url": "https://laboiteaslides.fr/",
+    "title": "La boite à slides® : l'Agence PowerPoint Certifiée ISO 9001",
+    "description": "La boite à slides® : transformez Powerpoint en puissant levier d'impact business avec la seule agence au monde certifiée ISO 9001",
+    "lang": "fr-FR",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 35968,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#6630ff",
+        "share": 0.28
+      },
+      {
+        "value": "#0e004712",
+        "share": 0.231
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.198
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.178
+      },
+      {
+        "value": "#120042",
+        "share": 0.076
+      },
+      {
+        "value": "#080808",
+        "share": 0.037
+      }
+    ],
+    "text": [
+      {
+        "value": "#120042",
+        "share": 0.779
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.177
+      },
+      {
+        "value": "#6630ff",
+        "share": 0.044
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff33",
+        "share": 0.824
+      },
+      {
+        "value": "#0e004712",
+        "share": 0.176
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.413,
+      "text": 0.177
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "vInter",
+        "size": 13.17,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2038
+      },
+      {
+        "family": "vInter",
+        "size": 15.8,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1944
+      },
+      {
+        "family": "vInter",
+        "size": 13.17,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 773
+      },
+      {
+        "family": "vInter",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 338
+      },
+      {
+        "family": "Arial",
+        "size": 15.8,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 292
+      },
+      {
+        "family": "vInter",
+        "size": 21.07,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 289
+      },
+      {
+        "family": "FKScreamer",
+        "size": 35.12,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 207
+      },
+      {
+        "family": "FKScreamer",
+        "size": 221.27,
+        "weight": "700",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 164
+      },
+      {
+        "family": "FKScreamer",
+        "size": 144,
+        "weight": "700",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 158
+      },
+      {
+        "family": "vInter",
+        "size": 45.66,
+        "weight": "600",
+        "lineHeight": 1.04,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 124
+      },
+      {
+        "family": "FKScreamer",
+        "size": 56.2,
+        "weight": "700",
+        "lineHeight": 0.85,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 120
+      },
+      {
+        "family": "vInter",
+        "size": 28.1,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 78
+      },
+      {
+        "family": "FKScreamer",
+        "size": 98.34,
+        "weight": "700",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 66
+      },
+      {
+        "family": "FKScreamer",
+        "size": 98.34,
+        "weight": "900",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 66
+      }
+    ],
+    "loadedFonts": [
+      "vInter 100 900 normal",
+      "FKScreamer 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 22,
+      "uses": 310
+    },
+    {
+      "px": 7,
+      "uses": 108
+    },
+    {
+      "px": 14,
+      "uses": 96
+    },
+    {
+      "px": 28,
+      "uses": 94
+    },
+    {
+      "px": 10,
+      "uses": 30
+    },
+    {
+      "px": 21,
+      "uses": 21
+    },
+    {
+      "px": 49,
+      "uses": 18
+    },
+    {
+      "px": 18,
+      "uses": 8
+    },
+    {
+      "px": 11,
+      "uses": 8
+    },
+    {
+      "px": 176,
+      "uses": 8
+    },
+    {
+      "px": 35,
+      "uses": 7
+    },
+    {
+      "px": 42,
+      "uses": 6
+    },
+    {
+      "px": 66,
+      "uses": 6
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 19,
+      "uses": 4
+    },
+    {
+      "px": 5,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "28.0976px",
+      "uses": 26
+    },
+    {
+      "value": "14.0488px",
+      "uses": 22
+    },
+    {
+      "value": "21.0732px",
+      "uses": 14
+    },
+    {
+      "value": "17.561px",
+      "uses": 7
+    },
+    {
+      "value": "48px",
+      "uses": 3
+    },
+    {
+      "value": "2.13%",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1.5s cubic-bezier(0.13, 0.93, 0.13, 0.93)",
+        "uses": 29
+      },
+      {
+        "value": "0.25s ease-out",
+        "uses": 20
+      },
+      {
+        "value": "0.2s ease-out",
+        "uses": 6
+      },
+      {
+        "value": "2s cubic-bezier(0.06, 0.93, 0.07, 0.93)",
+        "uses": 5
+      },
+      {
+        "value": "0.37s ease-out",
+        "uses": 2
+      },
+      {
+        "value": "0.4s ease-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 1,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--lgh1": "#fff",
+    "--drk1": "#120042",
+    "--gry1": "#cecece",
+    "--gry2": "#aca6bd",
+    "--gry3": "#5f5f5f",
+    "--prm1": "#6630ff",
+    "--scd1": "#01daf6",
+    "--scd2": "#ff61f8",
+    "--scd3": "#62f740",
+    "--trt1": "#29daff",
+    "--trt3": "#70f74a",
+    "--err1": "#d00000",
+    "--format": "C"
+  },
+  "breakpoints": [
+    "max 767.9px",
+    "min 768px",
+    "min 1440px",
+    "max 1439.9px"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "HEADER",
+      "y": 23072,
+      "height": 105,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 41,
+        "gutterRight": 151,
+        "width": 1248,
+        "gutterTop": 28,
+        "gutterBottom": -1470
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "0px 14.0488px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          39,
+          23,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "app-title",
+          "text": "CONFÉRENCES INTERACTIVES",
+          "family": "FKScreamer",
+          "size": 56.2,
+          "weight": "700",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "vInter",
+        "size": 28.1,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Menu Fermer",
+        "Demander un devis",
+        "CONFÉRENCES INTERACTIVES Découvrir",
+        "Découvrir",
+        "Livre blanc 4 CONSEILS POUR CAPTER L’AT…",
+        "Cas client ARCITEK - PRÉSENTATION CORPO…",
+        "Accueil",
+        "Réalisations",
+        "Nous connaître",
+        "Notre méthode"
+      ],
+      "words": 34,
+      "excerpt": "4 conseils pour capter l’attention en 1 minute",
+      "media": {
+        "img": 2,
+        "svg": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "canvas",
+      "name": "SYNTHRA",
+      "y": 23072,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "app-title",
+      "name": "_header__title_jx0rq_51.superFont",
+      "y": 0,
+      "height": 324,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 151,
+        "gutterRight": 66,
+        "width": 1223,
+        "gutterTop": -25,
+        "gutterBottom": -25
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "LES MEILLEURES IDÉES FONT L'AVENIR",
+          "family": "FKScreamer",
+          "size": 144,
+          "weight": "700",
+          "lineHeight": 0.75,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#120042"
+        }
+      ],
+      "bodyType": {
+        "family": "FKScreamer",
+        "size": 144,
+        "weight": "700",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "Les meilleures idées font",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "app-container",
+      "name": "container.[STICKER-A1]",
+      "y": 9900,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "133.463px 0px 49.1707px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "nav",
+      "name": "router._workCardsPanoramic_jxysk_46",
+      "y": 11645,
+      "height": 2178,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 179,
+        "gutterRight": 509,
+        "width": 753,
+        "gutterTop": 476,
+        "gutterBottom": 28
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "SAFRAN ELECTRONICS & DEFENSE",
+          "family": "FKScreamer",
+          "size": 35.12,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "ADIDAS",
+          "family": "FKScreamer",
+          "size": 35.12,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "MARRIOTT",
+          "family": "FKScreamer",
+          "size": 35.12,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "LIPTON",
+          "family": "FKScreamer",
+          "size": 35.12,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "FKScreamer",
+        "size": 35.12,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "SAFRAN ELECTRONICS & DEFENSE Corporate",
+        "ADIDAS Masque",
+        "MARRIOTT Commerciale",
+        "LIPTON Évènement",
+        "BRASSERIES KRONENBOURG Interactions Live",
+        "NISSAN Marketing",
+        "VIRIDIEN Finance",
+        "UPCITI Masque"
+      ],
+      "words": 21,
+      "excerpt": "Safran Electronics & Defense",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "_method_1bww9_46.@whole",
+      "y": 13918,
+      "height": 1246,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "175.61px 0px 0px",
+      "margin": "0px 0px 96.5854px",
+      "border": null,
+      "content": {
+        "gutterLeft": 151,
+        "gutterRight": 9,
+        "width": 1281,
+        "gutterTop": 88,
+        "gutterBottom": 90
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          519,
+          519
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "DEPUIS 2002 ● ISO 9001 ● 5/5 NOTE GOOGLE AVIS ● +8 000 PROJETS ● 85% DE RÉACHAT…",
+          "family": "FKScreamer",
+          "size": 221.27,
+          "weight": "700",
+          "lineHeight": 0.75,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#6630ff"
+        },
+        {
+          "tag": "h2",
+          "text": "DEPUIS 2002 ● ISO 9001 ● 5/5 NOTE GOOGLE AVIS ● +8 000 PROJETS ● 85% DE RÉACHAT…",
+          "family": "FKScreamer",
+          "size": 221.27,
+          "weight": "700",
+          "lineHeight": 0.75,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#6630ff"
+        }
+      ],
+      "bodyType": {
+        "family": "vInter",
+        "size": 21.07,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 224,
+      "excerpt": "votre public depuis 2002. On repousse les limites",
+      "media": {
+        "svg": 6,
+        "iframe": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "app-container",
+      "name": "container.[STICKER-A1]",
+      "y": 19220,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 6,
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "_expertises_jvwcv_46.@whole",
+      "y": 20570,
+      "height": 602,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 151,
+        "gutterRight": 151,
+        "width": 1139,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "NOS EXPERTISES",
+          "family": "vInter",
+          "size": 12,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#120042"
+        }
+      ],
+      "bodyType": {
+        "family": "FKScreamer",
+        "size": 144,
+        "weight": "700",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "PRÉSENTATIONS",
+        "COMMUNICATION 360",
+        "NAVIGATION APP LIKE",
+        "SÉMINAIRE VR",
+        "SOLUTIONS IA"
+      ],
+      "words": 12,
+      "excerpt": "Navigation App Like",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 9,
+      "tag": "app-container",
+      "name": "container.[STICKER-A1]",
+      "y": 23072,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "133.463px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          79
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Dépassez toutes les limites de PowerPoint",
+          "family": "FKScreamer",
+          "size": 98.34,
+          "weight": "700",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#120042"
+        }
+      ],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "_spotlightItem_1bkwk_46._home__spotlightItem_jafgw_46",
+      "y": 26573,
+      "height": 627,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#6630ff",
+      "padding": "0px",
+      "margin": "0px 0px 175.61px",
+      "border": null,
+      "content": {
+        "gutterLeft": 219,
+        "gutterRight": 789,
+        "width": 431,
+        "gutterTop": 241,
+        "gutterBottom": 127
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "TOUJOURS CARRÉS. JAMAIS FORMATÉS.",
+          "family": "FKScreamer",
+          "size": 98.34,
+          "weight": "700",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#120042"
+        }
+      ],
+      "bodyType": {
+        "family": "FKScreamer",
+        "size": 98.34,
+        "weight": "700",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "formatés.",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "_resourceCards_1ahqb_46._home__resourceCards_jafgw_46",
+      "y": 27375,
+      "height": 739,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 0px 175.61px",
+      "border": null,
+      "content": {
+        "gutterLeft": 186,
+        "gutterRight": 220,
+        "width": 1033,
+        "gutterTop": 100,
+        "gutterBottom": -77
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "NOS DERNIÈRES RESSOURCES",
+          "family": "FKScreamer",
+          "size": 98.34,
+          "weight": "700",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#120042"
+        },
+        {
+          "tag": "h3",
+          "text": "GAMIFICATION ET POWERPOINT : METTEZ DU JEU DANS VOS FORMATIONS !",
+          "family": "FKScreamer",
+          "size": 56.2,
+          "weight": "700",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "IDEUZO- PRÉSENTATION COMMERCIALE",
+          "family": "FKScreamer",
+          "size": 56.2,
+          "weight": "700",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "GAGNER EN AUTONOMIE SUR POWERPOINT",
+          "family": "FKScreamer",
+          "size": 45.66,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "FKScreamer",
+        "size": 56.2,
+        "weight": "700",
+        "lineHeight": 0.85,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Article 11/01/2025 GAMIFICATION ET POWE…",
+        "Cas client 17/03/2026 IDEUZO- PRÉSENTAT…",
+        "Livre blanc 26/01/2026 GAGNER EN AUTONO…"
+      ],
+      "words": 30,
+      "excerpt": "Gamification et PowerPoint : mettez du jeu dans vos formations !",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "app-full",
+      "name": "_full_6udqo_46._sticker__track_1b402_57",
+      "y": 28290,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "175.61px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 295,
+        "gutterRight": 295,
+        "width": 850,
+        "gutterTop": 541,
+        "gutterBottom": -27
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ENGAGÉS POUR LA QUALITÉ",
+          "family": "FKScreamer",
+          "size": 221.27,
+          "weight": "700",
+          "lineHeight": 0.75,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "5 ÉTOILES GOOGLE AVIS",
+          "family": "FKScreamer",
+          "size": 35.12,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "CERTIFIÉ ISO 9001:2015 BUREAU VERITAS",
+          "family": "FKScreamer",
+          "size": 35.12,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "MICROSOFT OFFICE SPECIALIST",
+          "family": "FKScreamer",
+          "size": 35.12,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "FKScreamer",
+        "size": 35.12,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 22,
+      "excerpt": "Certifié ISO 9001:2015 Bureau Veritas",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "_reviewCards_1gm5k_46.superFont",
+      "y": 32966,
+      "height": 678,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "0px",
+      "margin": "0px 0px 175.61px",
+      "border": null,
+      "content": {
+        "gutterLeft": 143,
+        "gutterRight": 181,
+        "width": 1116,
+        "gutterTop": 100,
+        "gutterBottom": -17
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ILS NOUS FONT CONFIANCE",
+          "family": "FKScreamer",
+          "size": 98.34,
+          "weight": "700",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#120042"
+        },
+        {
+          "tag": "h3",
+          "text": "Teddy G.",
+          "family": "vInter",
+          "size": 13.17,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#120042"
+        },
+        {
+          "tag": "h3",
+          "text": "Marion T.",
+          "family": "vInter",
+          "size": 13.17,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#120042"
+        },
+        {
+          "tag": "h3",
+          "text": "Julie N.",
+          "family": "vInter",
+          "size": 13.17,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#120042"
+        }
+      ],
+      "bodyType": {
+        "family": "vInter",
+        "size": 15.8,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 401,
+      "excerpt": "“Merci beaucoup, c'est top comme d'habitude. L'équipe américaine et l’Europe veulent déjà",
+      "media": {
+        "img": 7,
+        "svg": 2,
+        "iframe": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "app-container",
+      "name": "container.[HOME-A1]",
+      "y": 33819,
+      "height": 728,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#120042",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 343,
+        "gutterRight": 343,
+        "width": 755,
+        "gutterTop": 0,
+        "gutterBottom": 11
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "DES QUESTIONS? ON VOUS RÉPOND",
+          "family": "FKScreamer",
+          "size": 98.34,
+          "weight": "700",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#120042"
+        }
+      ],
+      "bodyType": {
+        "family": "vInter",
+        "size": 13.17,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Comment se déroule une collaboration av…",
+        "Que dois-je vous envoyer pour avoir un …",
+        "Avec quel type d’entreprises travaillez…",
+        "Quels sont vos délais de réalisation ?",
+        "Comment fonctionne votre tarification ?",
+        "Comment garantissez-vous la confidentia…"
+      ],
+      "words": 352,
+      "excerpt": "Envoyez-nous en une seule fois un maximum d’informations : Objectif de la",
+      "media": {
+        "svg": 33,
+        "iframe": 32
+      }
+    },
+    {
+      "i": 15,
+      "tag": "footer",
+      "name": "FOOTER",
+      "y": 34899,
+      "height": 1069,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "175.61px 28.0976px 28.0976px",
+      "margin": "0px 122.406px",
+      "border": null,
+      "content": {
+        "gutterLeft": 193,
+        "gutterRight": 193,
+        "width": 1055,
+        "gutterTop": 313,
+        "gutterBottom": 72
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "0px 14.0488px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          73,
+          73,
+          24,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "PRÊT",
+          "family": "FKScreamer",
+          "size": 144,
+          "weight": "700",
+          "lineHeight": 0.75,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#6630ff"
+        }
+      ],
+      "bodyType": {
+        "family": "vInter",
+        "size": 13.17,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "FR",
+        "EN",
+        "Accueil",
+        "Réalisations",
+        "Nous connaître",
+        "Notre méthode",
+        "Ressources",
+        "Contact",
+        "Offres d'emploi",
+        "Communication 360"
+      ],
+      "words": 78,
+      "excerpt": "Paris, Bordeaux, Verdun, Aix-en-Provence, Rennes, Strasbourg",
+      "media": {
+        "img": 3,
+        "svg": 8
+      }
+    }
+  ],
+  "listing": {
+    "rank": 120,
+    "title": "La boite à slides",
+    "award": "HM",
+    "url": "https://laboiteaslides.fr/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/la-boite-a-slide",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

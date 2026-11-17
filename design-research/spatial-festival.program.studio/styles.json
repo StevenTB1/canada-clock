@@ -1,0 +1,2395 @@
+{
+  "page": {
+    "url": "https://spatial-festival.program.studio/",
+    "title": "Spatial Festival 2025",
+    "description": "SPATIAL: A Festival for Spatial Sound, Music, Art, and Technology. 12, 13, 14 September, 2025.",
+    "lang": "en-US",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 25151,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.853
+      },
+      {
+        "value": "#000000",
+        "share": 0.139
+      },
+      {
+        "value": "#90ee9066",
+        "share": 0.007
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.953
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.047
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 0.571
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.429
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.992,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 60790
+      },
+      {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 29.95,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 3238
+      },
+      {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 56.3,
+        "weight": "450",
+        "lineHeight": 1.11,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1591
+      },
+      {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 22.46,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 336
+      },
+      {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0.07,
+        "transform": "none",
+        "chars": 208
+      },
+      {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 45.07,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 47
+      },
+      {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 142.56,
+        "weight": "450",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 30
+      },
+      {
+        "family": "Times",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 22.46,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 15
+      }
+    ],
+    "loadedFonts": [
+      "NeueHaasGroteskDisplayPro55Roman normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 20,
+      "uses": 264
+    },
+    {
+      "px": 2,
+      "uses": 110
+    },
+    {
+      "px": 412,
+      "uses": 98
+    },
+    {
+      "px": 30,
+      "uses": 92
+    },
+    {
+      "px": 58,
+      "uses": 49
+    },
+    {
+      "px": 29,
+      "uses": 49
+    },
+    {
+      "px": 17,
+      "uses": 49
+    },
+    {
+      "px": 19,
+      "uses": 49
+    },
+    {
+      "px": 8,
+      "uses": 46
+    },
+    {
+      "px": 34,
+      "uses": 45
+    },
+    {
+      "px": 15,
+      "uses": 22
+    },
+    {
+      "px": 12,
+      "uses": 14
+    },
+    {
+      "px": 72,
+      "uses": 13
+    },
+    {
+      "px": 14,
+      "uses": 6
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 173,
+      "uses": 5
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.1s ease-in-out",
+        "uses": 120
+      },
+      {
+        "value": "0.2s cubic-bezier(0, 0.1, 0.5, 1)",
+        "uses": 55
+      },
+      {
+        "value": "0.7s cubic-bezier(0.77, 0, 0.175, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.7s cubic-bezier(0.8, 0, 0.2, 1)",
+        "uses": 7
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 18,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--wp--preset--aspect-ratio--square": "1",
+    "--wp--preset--aspect-ratio--4-3": "4/3",
+    "--wp--preset--aspect-ratio--3-4": "3/4",
+    "--wp--preset--aspect-ratio--3-2": "3/2",
+    "--wp--preset--aspect-ratio--2-3": "2/3",
+    "--wp--preset--aspect-ratio--16-9": "16/9",
+    "--wp--preset--aspect-ratio--9-16": "9/16",
+    "--wp--preset--color--black": "#000000",
+    "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+    "--wp--preset--color--white": "#ffffff",
+    "--wp--preset--color--pale-pink": "#f78da7",
+    "--wp--preset--color--vivid-red": "#cf2e2e",
+    "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+    "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+    "--wp--preset--color--light-green-cyan": "#7bdcb5",
+    "--wp--preset--color--vivid-green-cyan": "#00d084",
+    "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+    "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+    "--wp--preset--color--vivid-purple": "#9b51e0",
+    "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+    "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+    "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+    "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+    "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+    "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 4",
+    "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+    "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%",
+    "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 10",
+    "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) ",
+    "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+    "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+    "--wp--preset--font-size--small": "13px",
+    "--wp--preset--font-size--medium": "20px",
+    "--wp--preset--font-size--large": "36px",
+    "--wp--preset--font-size--x-large": "42px",
+    "--wp--preset--spacing--20": "0.44rem",
+    "--wp--preset--spacing--30": "0.67rem",
+    "--wp--preset--spacing--40": "1rem",
+    "--wp--preset--spacing--50": "1.5rem",
+    "--wp--preset--spacing--60": "2.25rem",
+    "--wp--preset--spacing--70": "3.38rem",
+    "--wp--preset--spacing--80": "5.06rem",
+    "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+    "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+    "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+    "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+    "--wp--preset--shadow--crisp": "6px 6px 0px rgb(0, 0, 0)",
+    "--font-a": "NeueHaasGroteskDisplayPro55Roman",
+    "--color-white": "#fff",
+    "--color-black": "#000",
+    "--container-width": "1920px",
+    "--container-inner-width": "100%",
+    "--container-margin": "calc((100dvw - var(--container-inner-width))/2)",
+    "--padding-bottom-default": "0px",
+    "--total-columns": "12",
+    "--grid-gutter": "20px",
+    "--container-padding": "20px"
+  },
+  "breakpoints": [
+    "min 611px",
+    "min 801px",
+    "max 610px",
+    "max 800px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "wordpress"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "b-debug.|",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 12,
+        "childWidthsPct": [
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "1",
+          "family": "Times",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Times",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 12,
+      "excerpt": "10",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "header",
+      "name": "b-header.js-b-header",
+      "y": 0,
+      "height": 73,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "14.976px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1022,
+        "gutterRight": 35,
+        "width": 384,
+        "gutterTop": 30,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          73
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "ABOUT",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 12.82,
+          "weight": "450",
+          "lineHeight": 1,
+          "letterSpacing": 0.07,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0.07,
+        "transform": "none"
+      },
+      "labels": [
+        "ABOUT",
+        "PROGRAM",
+        "TICKETS",
+        "ARTISTS",
+        "INFO"
+      ],
+      "words": 5,
+      "excerpt": "PROGRAM",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "b-menu-dropdown.js-b-menu-dropdown",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "c-tunnel__canvas-wrapper.js-canvas-wrapper",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "c-tunnel__spacer",
+      "y": 900,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "c-tunnel__spacer",
+      "y": 1800,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "c-tunnel__spacer",
+      "y": 2700,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "c-tunnel__spacer",
+      "y": 3600,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "ps-component",
+      "name": "about",
+      "y": 4500,
+      "height": 846,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 20px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 750,
+        "width": 670,
+        "gutterTop": 0,
+        "gutterBottom": 294
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "The way we perceive sound—one of the most subtle, refined, and complex ways we …",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 29.95,
+          "weight": "450",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 29.95,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 99,
+      "excerpt": "Most works will unfold in total darkness, offering a rare chance to",
+      "media": {
+        "img": 1,
+        "canvas": 2
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "c-tunnel__canvas-wrapper.js-canvas-wrapper",
+      "y": 5346,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "c-tunnel__spacer",
+      "y": 6246,
+      "height": 900,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "c-tunnel__spacer",
+      "y": 7146,
+      "height": 900,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "c-tunnel__spacer",
+      "y": 8046,
+      "height": 900,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "ps-component",
+      "name": "program",
+      "y": 8946,
+      "height": 805,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 0px 100.8px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 8,
+        "gutterBottom": 103
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20px",
+        "justify": "center",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          31,
+          31,
+          15,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Friday 12.09",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 29.95,
+          "weight": "450",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 29.95,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Kateryna Ziabliuk Live Monom 12:30 - 13…",
+        "Omni Soundlab Listening Session Saal 4 …",
+        "Julia Just Live Monom 13:55 - 14:40",
+        "Spæs Lab Listening Session Saal 4 14:00…",
+        "Origin Te Yon’ton Live Saal 2 15:00 - 1…",
+        "Aleksi Perälä Listening Session Monom 1…",
+        "Catalyst Live Saal 4 16:00 - 17:00",
+        "Wilding AI Listening Session Saal 2 16:…",
+        "Casimir Geelhoed Sound Installation Mon…",
+        "Romain Azzaro Live Sound Chamber 16:45 …"
+      ],
+      "words": 139,
+      "excerpt": "Sound Installation",
+      "media": {
+        "img": 14
+      }
+    },
+    {
+      "i": 15,
+      "tag": "ps-component",
+      "name": "c-program.js-c-program",
+      "y": 9751,
+      "height": 910,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 0px 100.8px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 8,
+        "gutterBottom": 103
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20px",
+        "justify": "center",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          31,
+          31,
+          15,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Saturday 13.09",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 29.95,
+          "weight": "450",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 29.95,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Bonamasa Listening Session Monom 13:00 …",
+        "Suricata Listening Session Monom 13:30 …",
+        "Omni Soundlab Live Saal 4 14:00 - 15:00",
+        "Ruby Singh Listening Session Monom 14:1…",
+        "Alakari Live Saal 2 15:00 - 15:30",
+        "Arch by Urbiks Music Listening Session …",
+        "Yen Chun Lin Live Monom 15:05 - 15:50",
+        "Tati au Miel Listening Session Saal 2 1…",
+        "Suzanne Ciani Sound Installation Monom …",
+        "Catalyst Listening Session Saal 4 16:00…"
+      ],
+      "words": 162,
+      "excerpt": "Arch by Urbiks Music",
+      "media": {
+        "img": 16
+      }
+    },
+    {
+      "i": 16,
+      "tag": "ps-component",
+      "name": "c-program.js-c-program",
+      "y": 10661,
+      "height": 840,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 0px 100.8px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 8,
+        "gutterBottom": 103
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "20px",
+        "justify": "center",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          31,
+          31,
+          15,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Sunday 14.09 - from 13:00 to 23:00",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 29.95,
+          "weight": "450",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 29.95,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Ale Rios Listening Session Monom 13:00 …",
+        "The Rainbow Machine Listening Session M…",
+        "Eve Matin Listening Session Monom 13:55…",
+        "Marijn Cinjee Listening Session Monom 1…",
+        "Arch by Urbiks Music Live Saal 4 15:00 …",
+        "Yu Lin Humm Listening Session Monom 15:…",
+        "Ilhem Hybrid Saal 2 14:55 - 15:40",
+        "Genelec Listening Session Saal 4 16:00 …",
+        "Robert Curgenven Listening Session Mono…",
+        "Quantum Sound Listening Session Saal 2 …"
+      ],
+      "words": 155,
+      "excerpt": "Sunday 14.09 - from 13:00 to 23:00",
+      "media": {
+        "img": 16
+      }
+    },
+    {
+      "i": 17,
+      "tag": "canvas",
+      "name": "c-tickets__webgl.js-webgl",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "tickets",
+      "y": 11501,
+      "height": 393,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 430,
+        "width": 990,
+        "gutterTop": 11,
+        "gutterBottom": -11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "14.256px",
+        "justify": "flex-start",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          44,
+          6
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Night Pass",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 142.56,
+          "weight": "450",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 142.56,
+        "weight": "450",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 9,
+      "excerpt": "Weekend Pass",
+      "media": {}
+    },
+    {
+      "i": 19,
+      "tag": "div",
+      "name": "abyss-x",
+      "y": 11967,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 624,
+        "gutterRight": 624,
+        "width": 192,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          13,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Abyss X",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 155,
+      "excerpt": "Evangelia VS aka Abyss X is an artist, composer, director, choreographer, and",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 20,
+      "tag": "div",
+      "name": "aïsha-devi",
+      "y": 12029,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 597,
+        "gutterRight": 597,
+        "width": 246,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          17,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Aïsha Devi",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 292,
+      "excerpt": "\"Aethernal Score\", Aïsha Devi’s commission for the BBC Concert Orchestra, is a",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 21,
+      "tag": "div",
+      "name": "alakari",
+      "y": 12092,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 639,
+        "gutterRight": 639,
+        "width": 162,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          11,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Alakari",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 136,
+      "excerpt": "ALAKARI in collaboration with River Anninkoski streamed live by Jakob Kukula. VEDEN",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 22,
+      "tag": "div",
+      "name": "ale-hop",
+      "y": 12154,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 626,
+        "gutterRight": 626,
+        "width": 188,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          13,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Ale Hop",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 252,
+      "excerpt": "Ale Hop (Alejandra Cárdenas) is a Peruvian-born artist based in Berlin whose",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 23,
+      "tag": "div",
+      "name": "ale-rios",
+      "y": 12217,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 624,
+        "gutterRight": 624,
+        "width": 192,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          13,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Ale Rios",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 326,
+      "excerpt": "A metal wall stands to suppress a rising, restless tide — bodies",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 24,
+      "tag": "div",
+      "name": "aleksi-perälä",
+      "y": 12279,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 570,
+        "gutterRight": 570,
+        "width": 301,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          21,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Aleksi Perälä",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 184,
+      "excerpt": "Aleksi Perälä is a Finnish electronic music visionary known for his genre-defying",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 25,
+      "tag": "div",
+      "name": "alex-groves",
+      "y": 12342,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 577,
+        "gutterRight": 577,
+        "width": 286,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          20,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Alex Groves",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 137,
+      "excerpt": "Alex Groves is an Ivor Novello-nominated composer and curator working at the",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 26,
+      "tag": "div",
+      "name": "andrea-belfi",
+      "y": 12404,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 576,
+        "gutterRight": 576,
+        "width": 288,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          20,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Andrea Belfi",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 325,
+      "excerpt": "Italian-born Andrea Belfi is a drummer, composer, and experimental musician based in",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 27,
+      "tag": "div",
+      "name": "ange-halliwell",
+      "y": 12467,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 555,
+        "gutterRight": 555,
+        "width": 330,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Ange Halliwell",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 107,
+      "excerpt": "Ange Halliwell began playing the harp at the age of 12. From",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 28,
+      "tag": "div",
+      "name": "bobby-beethoven",
+      "y": 12529,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 508,
+        "gutterRight": 508,
+        "width": 425,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          29,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Bobby Beethoven",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 121,
+      "excerpt": "Bobby Bethoven is a multidisciplinary artist, DJ and producer based in Miami.",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 29,
+      "tag": "div",
+      "name": "bonamasa",
+      "y": 12592,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 592,
+        "gutterRight": 592,
+        "width": 256,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Bonamasa",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 120,
+      "excerpt": "Sitting at his piano, accompanied by analogue synths and drum machines, BONAMASA",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 30,
+      "tag": "div",
+      "name": "casimir-geelhoed",
+      "y": 12654,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 508,
+        "gutterRight": 508,
+        "width": 425,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          29,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Casimir Geelhoed",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 184,
+      "excerpt": "Casimir Geelhoed is an electronic musician, composer and software developer who explores",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 31,
+      "tag": "div",
+      "name": "catalyst",
+      "y": 12717,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 622,
+        "gutterRight": 622,
+        "width": 196,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          14,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Catalyst",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 66,
+      "excerpt": "Catalyst Institute for Creative Arts and Technology opens a portal into an",
+      "media": {}
+    },
+    {
+      "i": 32,
+      "tag": "div",
+      "name": "croatian-amor",
+      "y": 12779,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 548,
+        "gutterRight": 548,
+        "width": 344,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Croatian Amor",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 267,
+      "excerpt": "Croatian Amor iis the solo alias of Loke Rahbek. He realizes a",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 33,
+      "tag": "div",
+      "name": "dj-deathdefy",
+      "y": 12842,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 558,
+        "gutterRight": 558,
+        "width": 324,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          22,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "DJ Deathdefy",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 92,
+      "excerpt": "Saturday evening, co-curated by Richie Culver and PASSAGE, features a guest performance",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 34,
+      "tag": "div",
+      "name": "ems-synthi-100",
+      "y": 12904,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 533,
+        "gutterRight": 533,
+        "width": 374,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          26,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "EMS Synthi 100",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 98,
+      "excerpt": "Written, recorded, produced and mixed at DEEWEE by David & Stephen Dewaele",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 35,
+      "tag": "div",
+      "name": "evita-manji",
+      "y": 12966,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 594,
+        "gutterRight": 594,
+        "width": 252,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Evita Manji",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 251,
+      "excerpt": "Evita Manji is an Athens-based musician and vocalist whose work connects the",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 36,
+      "tag": "div",
+      "name": "gaika",
+      "y": 13029,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 652,
+        "gutterRight": 652,
+        "width": 137,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Gaika",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 186,
+      "excerpt": "GAIKA is a multidisciplinary artist working across sound, industrial installation, perfor…",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 37,
+      "tag": "div",
+      "name": "genesis-p-orridge",
+      "y": 13091,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 499,
+        "gutterRight": 499,
+        "width": 442,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Genesis P-Orridge",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 71,
+      "excerpt": "Genesis P-Orridge (1950–2020) was a transdisciplinary artist and provocateur known for co…",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 38,
+      "tag": "div",
+      "name": "grand-river",
+      "y": 13154,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 580,
+        "gutterRight": 580,
+        "width": 281,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          19,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Grand River",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 237,
+      "excerpt": "Aimée Portioli is a Berlin-based Dutch-Italian composer and sound designer who performs",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 39,
+      "tag": "div",
+      "name": "hems",
+      "y": 13216,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 642,
+        "gutterRight": 642,
+        "width": 156,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          11,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "HEMS",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 146,
+      "excerpt": "Henrique Matias (Hems) is a London-based artist whose work blends experimental electronics",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 40,
+      "tag": "div",
+      "name": "hesaitix",
+      "y": 13279,
+      "height": 62,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 624,
+        "gutterRight": 624,
+        "width": 192,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          13,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Hesaitix",
+          "family": "NeueHaasGroteskDisplayPro55Roman",
+          "size": 56.3,
+          "weight": "450",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NeueHaasGroteskDisplayPro55Roman",
+        "size": 12.82,
+        "weight": "450",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "TICKETS"
+      ],
+      "words": 190,
+      "excerpt": "James Whipple returns from a long period of musical dormancy with his",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 76,
+    "title": "Spatial Festival",
+    "award": "HM",
+    "url": "https://spatial-festival.program.studio/",
+    "awwwards": "https://www.awwwards.com/sites/spatial-festival",
+    "categories": [
+      "Web & Interactive",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

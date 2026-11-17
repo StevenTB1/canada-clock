@@ -1,0 +1,364 @@
+{
+  "page": {
+    "url": "https://mubien.com/",
+    "title": "Mubien | Branding, motion and digital products",
+    "description": "Mubien is a design agency working across branding, motion and digital products. We build the infrastructure and the AI systems.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.94
+      },
+      {
+        "value": "#f8f8f8",
+        "share": 0.032
+      },
+      {
+        "value": "#dddddd",
+        "share": 0.008
+      },
+      {
+        "value": "#e8e8e899",
+        "share": 0.008
+      },
+      {
+        "value": "#c7c7c780",
+        "share": 0.008
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0.002
+      },
+      {
+        "value": "#1d1d1d",
+        "share": 0.002
+      },
+      {
+        "value": "#eeeeee",
+        "share": 0.001
+      },
+      {
+        "value": "#c8c8c8",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.462
+      },
+      {
+        "value": "#1d1d1d",
+        "share": 0.384
+      },
+      {
+        "value": "#a1a1a1",
+        "share": 0.154
+      }
+    ],
+    "borders": [
+      {
+        "value": "#eeeeee",
+        "share": 0.333
+      },
+      {
+        "value": "#1d1d1d",
+        "share": 0.333
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.333
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "base",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.39,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 165
+      },
+      {
+        "family": "base",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 103
+      },
+      {
+        "family": "base",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 89
+      }
+    ],
+    "loadedFonts": [
+      "base normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 39
+    },
+    {
+      "px": 4,
+      "uses": 16
+    },
+    {
+      "px": 18,
+      "uses": 4
+    },
+    {
+      "px": 28,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 36,
+      "uses": 1
+    },
+    {
+      "px": 20,
+      "uses": 1
+    },
+    {
+      "px": 60,
+      "uses": 1
+    },
+    {
+      "px": 64,
+      "uses": 1
+    },
+    {
+      "px": 16,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "8px",
+      "uses": 13
+    },
+    {
+      "value": "50%",
+      "uses": 9
+    },
+    {
+      "value": "16px",
+      "uses": 2
+    },
+    {
+      "value": "100%",
+      "uses": 2
+    },
+    {
+      "value": "64px",
+      "uses": 1
+    },
+    {
+      "value": "4px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.55s cubic-bezier(0.66, 0, 0.107, 0.995)",
+        "uses": 8
+      },
+      {
+        "value": "0.4s cubic-bezier(0.771, 0.029, 0.189, 1.007)",
+        "uses": 4
+      },
+      {
+        "value": "0.4s linear(0 0%, 0.956 10.8%, 1.152 16%, 0.977 32.8%, 1 100%)",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 1,
+    "videos": 11
+  },
+  "cssVariables": {
+    "--csk-rev": "\"csk-6b3d8e28-f1cd-4986-a997-7c178cbf519f\"",
+    "--mobileMax": "540",
+    "--resp": "1194",
+    "--padgrid": ".8rem",
+    "--multi": "calc(((100vw - 1440px) / 1440 * -5))",
+    "--padgut": "calc(var(--gutgrid) + var(--padgrid))",
+    "--padgut-s": "calc(var(--gutgrid) + var(--padgrid-s))",
+    "--sizegrid": "calc(100vw - ((var(--padgrid)) * 2))",
+    "--gutgrid": ".8rem",
+    "--dragdev": "0px",
+    "--drag": "0",
+    "--dragSc": "0",
+    "--devstate": "0",
+    "--clickstate": "1",
+    "--prgmail": "0",
+    "--opmenu": "0",
+    "--stateclk": "paused",
+    "--heightnav": "clamp(64px, calc(64px + ((100vw - 1440px) * .0214286)), 88px)",
+    "--bottomnav": "calc(16px * var(--clickstate))",
+    "--heightdev": "min(calc(100dvh - 32px),calc((960px - var(--dragdev)) * var(--devstate)))",
+    "--heightstatic": "min(calc(100dvh - 32px),calc((960px - var(--dragdev))))",
+    "--widthnav": "calc(100vw - 32px)",
+    "--mdlbg": "0",
+    "--opmdl": "0"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "app",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 24,
+        "gutterBottom": -617
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          15,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "AVATR - Vision Xpectra AVATR - Vision Xpectra",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Youtube Shopping Youtube Shopping",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "El Capricho de Gaudí El Capricho de Gaudí",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Lifemed Website & Motion Lifemed Website & Motion",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.39,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Cookie policy",
+        "Reject",
+        "Settings",
+        "Accept",
+        "Updates Latest news",
+        "Archive More work",
+        "Work Selected projects",
+        "Studio About us"
+      ],
+      "words": 70,
+      "excerpt": "We use cookies to track and enhance your experience.",
+      "media": {
+        "img": 10,
+        "video": 11,
+        "canvas": 1,
+        "svg": 12
+      }
+    }
+  ],
+  "listing": {
+    "rank": 127,
+    "title": "Mubien",
+    "award": "HM",
+    "url": "https://mubien.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/mubien",
+    "categories": [
+      "Portfolio",
+      "Design Agencies",
+      "Mobile & Apps",
+      "Web & Interactive"
+    ]
+  }
+}

@@ -1,0 +1,1376 @@
+{
+  "page": {
+    "url": "https://www.idealworks.com/en",
+    "title": "Idealworks | Industrial Robotics Systems",
+    "description": "Idealworks builds industrial automation as a coordinated system – integrating robots, software, and simulation to scale production.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 13293,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.843
+      },
+      {
+        "value": "#000000",
+        "share": 0.101
+      },
+      {
+        "value": "#00000099",
+        "share": 0.027
+      },
+      {
+        "value": "#f2f2f2",
+        "share": 0.019
+      },
+      {
+        "value": "#c7c7c7",
+        "share": 0.006
+      },
+      {
+        "value": "#383838",
+        "share": 0.001
+      },
+      {
+        "value": "#fff81f",
+        "share": 0.001
+      },
+      {
+        "value": "#1e1e1e",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.476
+      },
+      {
+        "value": "#000000",
+        "share": 0.409
+      },
+      {
+        "value": "#14151b",
+        "share": 0.088
+      },
+      {
+        "value": "#787878",
+        "share": 0.017
+      },
+      {
+        "value": "#0000004d",
+        "share": 0.01
+      },
+      {
+        "value": "#ff3737",
+        "share": 0
+      }
+    ],
+    "borders": [
+      {
+        "value": "#1d1d1d1a",
+        "share": 0.667
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.185
+      },
+      {
+        "value": "#1e1e1e4d",
+        "share": 0.111
+      },
+      {
+        "value": "#e5e5e5",
+        "share": 0.037
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.997,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Booton Medium",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1263
+      },
+      {
+        "family": "Booton SemiBold",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 861
+      },
+      {
+        "family": "Booton SemiBold",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 751
+      },
+      {
+        "family": "Booton Medium",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 566
+      },
+      {
+        "family": "Booton Medium",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 548
+      },
+      {
+        "family": "Booton Medium",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 483
+      },
+      {
+        "family": "Booton Medium",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 299
+      },
+      {
+        "family": "Booton SemiBold",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 216
+      },
+      {
+        "family": "Booton Medium",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 204
+      },
+      {
+        "family": "Booton Medium",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 145
+      },
+      {
+        "family": "Booton Medium",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 128
+      },
+      {
+        "family": "Booton Medium",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 93
+      },
+      {
+        "family": "Booton Medium",
+        "size": 13,
+        "weight": "700",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 40
+      },
+      {
+        "family": "Booton Medium",
+        "size": 128,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 28
+      }
+    ],
+    "loadedFonts": [
+      "Booton Medium 500 normal",
+      "Booton SemiBold 600 normal",
+      "Booton Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 195
+    },
+    {
+      "px": 24,
+      "uses": 144
+    },
+    {
+      "px": 12,
+      "uses": 132
+    },
+    {
+      "px": 8,
+      "uses": 86
+    },
+    {
+      "px": 4,
+      "uses": 52
+    },
+    {
+      "px": 32,
+      "uses": 43
+    },
+    {
+      "px": 40,
+      "uses": 22
+    },
+    {
+      "px": 72,
+      "uses": 22
+    },
+    {
+      "px": 64,
+      "uses": 16
+    },
+    {
+      "px": 128,
+      "uses": 12
+    },
+    {
+      "px": 20,
+      "uses": 11
+    },
+    {
+      "px": 80,
+      "uses": 9
+    },
+    {
+      "px": 2,
+      "uses": 6
+    },
+    {
+      "px": 1,
+      "uses": 6
+    },
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 88,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "6px",
+      "uses": 18
+    },
+    {
+      "value": "3.35544e+07px",
+      "uses": 12
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 105
+      },
+      {
+        "value": "0.2s cubic-bezier(0, 0, 0.2, 1)",
+        "uses": 27
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 19
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 13
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 11
+      },
+      {
+        "value": "0.25s cubic-bezier(0, 0, 0.2, 1)",
+        "uses": 8
+      }
+    ],
+    "cssAnimatedElements": 3,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--spacing": ".25rem",
+    "--breakpoint-2xl": "96rem",
+    "--container-sm": "24rem",
+    "--container-lg": "32rem",
+    "--container-3xl": "48rem",
+    "--container-4xl": "56rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1/.75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25/.875)",
+    "--font-weight-normal": "400",
+    "--font-weight-bold": "700",
+    "--tracking-widest": ".1em",
+    "--leading-relaxed": "1.625",
+    "--radius-sm": "calc(var(--radius) - 4px)",
+    "--ease-out": "cubic-bezier(0,0,.2,1)",
+    "--ease-in-out": "cubic-bezier(.4,0,.2,1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--animate-pulse": "pulse 2s cubic-bezier(.4,0,.6,1)infinite",
+    "--blur-xs": "4px",
+    "--blur-sm": "8px",
+    "--aspect-video": "16/9",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--font-medium": "var(--font-booton-medium)",
+    "--font-semibold": "var(--font-booton-semibold)",
+    "--color-yellow": "var(--yellow)",
+    "--color-mono-10": "var(--mono-10)",
+    "--color-mono-30": "var(--mono-30)",
+    "--color-mono-80": "var(--mono-80)",
+    "--color-ui-red": "var(--ui-red)",
+    "--color-dark": "var(--opacity-dark)",
+    "--color-darkest": "var(--opacity-darkest)",
+    "--color-image-overlay": "var(--image-overlay)",
+    "--color-dark-navy": "var(--dark-navy)",
+    "--font-booton-medium": "\"Booton Medium\",\"Booton Fallback\"",
+    "--font-booton-semibold": "\"Booton SemiBold\",\"Booton Fallback\"",
+    "--black": "#000",
+    "--white": "#fff",
+    "--yellow": "#fff81f",
+    "--yellow-30": "#e3dc1c",
+    "--yellow-20": "#fffc8f",
+    "--yellow-10": "#fffdc7",
+    "--gradient-start": "#e0380e",
+    "--gradient-end": "#f6d140",
+    "--mono-0": "#fff",
+    "--mono-10": "#f2f2f2",
+    "--mono-20": "#dddee2",
+    "--mono-30": "#c7c7c7",
+    "--mono-40": "#a3a3a3",
+    "--mono-50": "#787878",
+    "--mono-60": "#595959",
+    "--mono-70": "#4a4a4a",
+    "--mono-80": "#383838",
+    "--mono-90": "#1e1e1e",
+    "--mono-100": "#000",
+    "--dark-navy": "#14151b",
+    "--ui-red": "#ff3737",
+    "--ui-light-red": "#ff4b4b",
+    "--ui-pink": "#ffb9b9",
+    "--ui-green": "#32c55b",
+    "--ui-light-green": "#3de96d",
+    "--opacity-dark": "#1e1e1e1a",
+    "--opacity-light": "#ffffff4d",
+    "--opacity-lightest": "#ffffff1a",
+    "--opacity-darkest": "#1e1e1e4d",
+    "--image-overlay": "#0009",
+    "--radius": ".625rem",
+    "--background": "#fff",
+    "--foreground": "#0a0a0a",
+    "--card": "#fff",
+    "--card-foreground": "#0a0a0a",
+    "--popover": "#fff",
+    "--popover-foreground": "#0a0a0a",
+    "--primary": "#171717",
+    "--primary-foreground": "#fafafa"
+  },
+  "breakpoints": [
+    "min 48rem",
+    "min 64rem",
+    "max 1099px",
+    "min 40rem",
+    "min 80rem",
+    "min 96rem",
+    "min 1240px",
+    "min 1132px",
+    "min 600px",
+    "min 1400px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "bg-image-overlay.nav-compact:hidden",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#00000099",
+      "backgroundImage": false,
+      "color": "#0a0a0a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "layout-p.relative",
+      "y": 0,
+      "height": 828,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "128px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 24,
+        "width": 1344,
+        "gutterTop": 350,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          90
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Intralogistics automated in perfect harmony",
+          "family": "Booton Medium",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton Medium",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Book a demo"
+      ],
+      "words": 25,
+      "excerpt": "Idealworks transforms your industrial environments into models of efficiency where logist…",
+      "media": {
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "w-full.overflow-x-hidden",
+      "y": 828,
+      "height": 351,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "128px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 198,
+        "width": 1170,
+        "gutterTop": 124,
+        "gutterBottom": 128
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "60px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          21,
+          21,
+          21,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "98.5%",
+          "family": "Booton Medium",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton Medium",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 14,
+      "excerpt": "Robots in operation",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "layout-py.layout-px",
+      "y": 1179,
+      "height": 407,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "80px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 182,
+        "gutterRight": 468,
+        "width": 790,
+        "gutterTop": 80,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          52
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Built in production. Proven under pressure.",
+          "family": "Booton Medium",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton SemiBold",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 30,
+      "excerpt": "Automation that performs in live factory environments. Our systems accommodate production…",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "layout-p.relative",
+      "y": 1587,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "128px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 214,
+        "gutterRight": 214,
+        "width": 1012,
+        "gutterTop": 324,
+        "gutterBottom": 336
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          90,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h5",
+          "text": "Operational reliability at scale",
+          "family": "Booton Medium",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton Medium",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 49,
+      "excerpt": "Stable performance across mixed-traffic, multi-site environments",
+      "media": {
+        "img": 1,
+        "svg": 6
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "relative.layout-p",
+      "y": 2487,
+      "height": 615,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "128px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 237,
+        "width": 1131,
+        "gutterTop": 128,
+        "gutterBottom": 161
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          90,
+          90
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Industries we work with",
+          "family": "Booton SemiBold",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Automotive & mobility manufacturing",
+          "family": "Booton SemiBold",
+          "size": 23,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Industrial manufacturing",
+          "family": "Booton SemiBold",
+          "size": 23,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Intralogistics & material handling",
+          "family": "Booton SemiBold",
+          "size": 23,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton SemiBold",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 28,
+      "excerpt": "Agricultural & heavy machinery production",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "layout-py.layout-px",
+      "y": 3102,
+      "height": 407,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "80px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 182,
+        "gutterRight": 468,
+        "width": 790,
+        "gutterTop": 80,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          36,
+          52
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "One ecosystem. Fully orchestrated.",
+          "family": "Booton Medium",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton SemiBold",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 28,
+      "excerpt": "Idealworks delivers automation as a coordinated system. Software, robots, and human intel…",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "sticky.top-0",
+      "y": 3509,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "sticky.top-0",
+      "y": 3509,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "88px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 792,
+        "gutterRight": 72,
+        "width": 576,
+        "gutterTop": 90,
+        "gutterBottom": 198
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Industrial Robots",
+          "family": "Booton Medium",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "On-Edge Intelligence",
+          "family": "Booton Medium",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Industrial Orchestration",
+          "family": "Booton Medium",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Simulation",
+          "family": "Booton Medium",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton Medium",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Industrial Robots",
+        "On-Edge Intelligence",
+        "Industrial Orchestration",
+        "Simulation"
+      ],
+      "words": 37,
+      "excerpt": "Industry-proven robots designed for safe, reliable transport in dynamic environments.",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "relative",
+      "y": 8009,
+      "height": 1800,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 206,
+        "width": 1162,
+        "gutterTop": 257,
+        "gutterBottom": 1101
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          90,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "One accountable partner — one number to call",
+          "family": "Booton SemiBold",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton Medium",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 61,
+      "excerpt": "Automation fails when responsibility is fragmented. As your single contract partner, Idea…",
+      "media": {
+        "img": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "layout-p.max-w-screen",
+      "y": 9809,
+      "height": 1166,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "128px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 128,
+        "gutterBottom": 128
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "80px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          90,
+          90,
+          90
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Automation at work",
+          "family": "Booton SemiBold",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "1,200",
+          "family": "Booton Medium",
+          "size": 128,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "45",
+          "family": "Booton Medium",
+          "size": 128,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "ROI",
+          "family": "Booton Medium",
+          "size": 128,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton SemiBold",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Previous slide",
+        "Next slide",
+        "Read",
+        "All customer stories"
+      ],
+      "words": 184,
+      "excerpt": "Across industries, Idealworks systems operate daily at scale, improving throughput, flexi…",
+      "media": {
+        "img": 15,
+        "svg": 11
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "layout-p.bg-mono-10",
+      "y": 10975,
+      "height": 536,
+      "position": "relative",
+      "background": "#f2f2f2",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "128px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 96,
+        "width": 1272,
+        "gutterTop": 128,
+        "gutterBottom": 152
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "0px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          29,
+          52
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Set new standards for your industrial operations",
+          "family": "Booton SemiBold",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton Medium",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Explore Idealworks OS",
+        "Partnership opportunities"
+      ],
+      "words": 55,
+      "excerpt": "See how Idealworks combines fleet orchestration, simulation, and robotics into one integr…",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "bg-black.p-6",
+      "y": 11511,
+      "height": 532,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "24px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 74,
+        "gutterRight": 74,
+        "width": 1292,
+        "gutterTop": 88,
+        "gutterBottom": 88
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 3,
+        "childWidthsPct": [
+          52,
+          37,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Stay in tune",
+          "family": "Booton SemiBold",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton Medium",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Privacy Policy",
+        "datenschutz@idealworks.com",
+        "I'm not a robot",
+        "Subscribe"
+      ],
+      "words": 62,
+      "excerpt": "You can withdraw consent at any time via the unsubscribe link in",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "footer",
+      "name": "relative.overflow-hidden",
+      "y": 12044,
+      "height": 1249,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 80,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          29,
+          59
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "ROBOTICS",
+          "family": "Booton Medium",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "FLEET ORCHESTRATION",
+          "family": "Booton Medium",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "AUTOMATION INFRASTRUCTURE",
+          "family": "Booton Medium",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "SOLUTIONS",
+          "family": "Booton Medium",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Booton Medium",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Underride transport",
+        "Floor-to-floor pallet transport",
+        "Floor-to-station pallet transport",
+        "Idealworks OS",
+        "Simulation to live",
+        "Sensors and peripherals",
+        "Automotive manufacturing",
+        "Industrial manufacturing",
+        "Intralogistics and warehousing",
+        "Tugger-train replacement"
+      ],
+      "words": 80,
+      "excerpt": "Idealworks delivers end-to-end automation through integrated robotics, software, and orch…",
+      "media": {
+        "img": 12
+      }
+    }
+  ],
+  "listing": {
+    "rank": 179,
+    "title": "Idealworks",
+    "award": "HM",
+    "url": "https://www.idealworks.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/idealworks",
+    "categories": [
+      "Business & Corporate",
+      "Other",
+      "Technology"
+    ]
+  }
+}

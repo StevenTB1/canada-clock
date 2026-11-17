@@ -1,0 +1,1074 @@
+{
+  "page": {
+    "url": "https://forgeautomotive.co.uk/",
+    "title": "Bespoke Vehicle Builds & Styling | Forge Automotive",
+    "description": "A luxury automotive atelier for bespoke styling, performance and craftsmanship — one-off Defender, G63, Range Rover, Urus and 911 builds.",
+    "lang": "en-GB",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#0c0c0c",
+        "share": 0.452
+      },
+      {
+        "value": "#000000",
+        "share": 0.442
+      },
+      {
+        "value": "#161616",
+        "share": 0.102
+      },
+      {
+        "value": "#0000001a",
+        "share": 0.004
+      },
+      {
+        "value": "#f2f1ed",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#f2f1edcc",
+        "share": 0.751
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.139
+      },
+      {
+        "value": "#ffffffcc",
+        "share": 0.043
+      },
+      {
+        "value": "#ffffff8c",
+        "share": 0.039
+      },
+      {
+        "value": "#f2f0ed8c",
+        "share": 0.016
+      },
+      {
+        "value": "#f2f2ed99",
+        "share": 0.006
+      },
+      {
+        "value": "#0c0c0c",
+        "share": 0.006
+      }
+    ],
+    "borders": [
+      {
+        "value": "#f5f5eb1a",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "GeistSans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.028,
+        "transform": "none",
+        "chars": 2060
+      },
+      {
+        "family": "GeistSans",
+        "size": 10,
+        "weight": "600",
+        "lineHeight": 2,
+        "letterSpacing": 0.3,
+        "transform": "uppercase",
+        "chars": 342
+      },
+      {
+        "family": "GeistSans",
+        "size": 8,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 100
+      },
+      {
+        "family": "editorial",
+        "size": 80,
+        "weight": "200",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.013,
+        "transform": "none",
+        "chars": 92
+      },
+      {
+        "family": "Times",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 34
+      },
+      {
+        "family": "editorial",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.028,
+        "transform": "uppercase",
+        "chars": 24
+      },
+      {
+        "family": "editorial",
+        "size": 24,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.021,
+        "transform": "capitalize",
+        "chars": 18
+      },
+      {
+        "family": "GeistSans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.036,
+        "transform": "none",
+        "chars": 15
+      }
+    ],
+    "loadedFonts": [
+      "GeistSans 100 900 normal",
+      "editorial 300 normal",
+      "editorial 200 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 82
+    },
+    {
+      "px": 32,
+      "uses": 53
+    },
+    {
+      "px": 1,
+      "uses": 52
+    },
+    {
+      "px": 8,
+      "uses": 18
+    },
+    {
+      "px": 24,
+      "uses": 16
+    },
+    {
+      "px": 11,
+      "uses": 16
+    },
+    {
+      "px": 64,
+      "uses": 7
+    },
+    {
+      "px": 136,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 40,
+      "uses": 2
+    },
+    {
+      "px": 272,
+      "uses": 2
+    },
+    {
+      "px": 450,
+      "uses": 2
+    },
+    {
+      "px": 112,
+      "uses": 1
+    },
+    {
+      "px": 168,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s cubic-bezier(0.43, 0.195, 0.02, 1)",
+        "uses": 235
+      },
+      {
+        "value": "0.75s cubic-bezier(0.43, 0.195, 0.02, 1)",
+        "uses": 28
+      },
+      {
+        "value": "0.5s ease-in-out",
+        "uses": 26
+      },
+      {
+        "value": "0.6s ease-in-out",
+        "uses": 19
+      },
+      {
+        "value": "0.15s ease-in-out",
+        "uses": 1
+      },
+      {
+        "value": "1s cubic-bezier(0.43, 0.195, 0.02, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 15,
+    "canvases": 3,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--page-beat-dur": ".6s",
+    "--page-leave-dur": "var(--page-beat-dur)",
+    "--page-enter-dur": "var(--page-beat-dur)",
+    "--page-enter-ease": "cubic-bezier(.2, .7, .2, 1)",
+    "--black": "var(--global-black)",
+    "--white": "var(--global-white)",
+    "--bezzy": "var(--easing-bezzy)",
+    "--bezzy2": "var(--easing-bezzy2)",
+    "--bezzy3": "var(--easing-bezzy3)",
+    "--brand-bc1": "#0C0C0C",
+    "--brand-bc2": "#161616",
+    "--brand-bc3": "#410306",
+    "--brand-bc4": "#C5A064",
+    "--brand-bc5": "#F2F1ED",
+    "--global-white": "#ffffff",
+    "--global-black": "#000000",
+    "--feedback-positive": "#3adb76",
+    "--feedback-negative": "#cc4b37",
+    "--feedback-warning": "#face10",
+    "--space-s": "4.8rem",
+    "--space-m": "6rem",
+    "--space-l": "10rem",
+    "--space-xl": "12rem",
+    "--space-col": "calc(8.333vw + 1.8rem)",
+    "--gap-xxs": "0.2rem",
+    "--gap-xs": "0.4rem",
+    "--gap-s": "0.8rem",
+    "--gap-sm": "1.6rem",
+    "--gap-m": "2.4rem",
+    "--gap-l": "3.2rem",
+    "--gap-xl": "4rem",
+    "--gap-xxl": "6.4rem",
+    "--gap-huge": "8rem",
+    "--gap-uber": "9.6rem",
+    "--gap-massive": "12.8rem",
+    "--gap-col": "calc(8.333vw + 1.6rem)",
+    "--br-xs": "0.3rem",
+    "--br-s": "0.6rem",
+    "--br-m": "1.2rem",
+    "--br-l": "1.8rem",
+    "--br-round": "999rem",
+    "--easing-bezzy": "cubic-bezier(0.8, 0, 0, 1)",
+    "--easing-bezzy2": "cubic-bezier(0.430, 0.195, 0.020, 1)",
+    "--easing-bezzy3": "cubic-bezier(0.5, 0, 0, 1)",
+    "--easing-ease": "ease-in-out",
+    "--time-s": "0.15s",
+    "--time-m": "0.3s",
+    "--time-l": "0.6s",
+    "--font-heading": "var(--editorial),Georgia,Times,\"Times New Roman\",serif",
+    "--font-body": "var(--font-geist-sans),Arial,Helvetica,\"Liberation Sans\",sans-serif",
+    "--font-mono": "var(--font-geist-mono),\"SFMono-Regular\",\"Menlo\",\"Monaco\",\"Consolas\",\"Liberation ",
+    "--font-script": "var(--inter),\"Comic Sans MS\",\"Comic Sans\",cursive,Arial,sans-serif",
+    "--header-size": "3.2rem",
+    "--header-size-mobile": "8.8rem",
+    "--header-size-desktop": "9.6rem"
+  },
+  "breakpoints": [
+    "min 1024px",
+    "min 700px",
+    "min 1200px",
+    "min 420px",
+    "min 1600px",
+    "min 1400px",
+    "min 320px",
+    "min 1920px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "sc-337305d3-0.sc-cf9722b1-0",
+      "y": 0,
+      "height": 100,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "Welcome to Forge Automotive",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff8c",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 520,
+        "gutterRight": 520,
+        "width": 400,
+        "gutterTop": 430,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          28
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "A",
+          "family": "editorial",
+          "size": 18,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.028,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 8,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "ACCEPT & ENTER",
+        "REJECT & ENTER",
+        "ANALYTICS COOKIES"
+      ],
+      "words": 56,
+      "excerpt": "to improve the site. Either choice enters — change it any time",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "sc-2b3d2147-1.gGcwzA",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "",
+          "family": "editorial",
+          "size": 80,
+          "weight": "200",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "capitalize",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "",
+          "family": "editorial",
+          "size": 90,
+          "weight": "200",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.022,
+          "transform": "capitalize",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 10,
+        "canvas": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "sc-2b3d2147-3.fHUmBT",
+      "y": 900,
+      "height": 1260,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "sc-2b3d2147-4.cAyyRd",
+      "y": 2160,
+      "height": 1000,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffffcc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1027,
+        "gutterRight": 19,
+        "width": 394,
+        "gutterTop": -257,
+        "gutterBottom": 1094
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "24px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 3,
+        "childWidthsPct": [
+          120,
+          120,
+          120
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Every decision is intentional, every detail has purpose based on your taste, yo…",
+          "family": "GeistSans",
+          "size": 18,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#ffffffcc"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [
+        "START YOUR PROJECT"
+      ],
+      "words": 33,
+      "excerpt": "Every decision is intentional, every detail has purpose based on your taste,",
+      "media": {
+        "img": 29
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "sc-337305d3-0.sc-3a017878-2",
+      "y": 3160,
+      "height": 900,
+      "position": "sticky",
+      "background": "#161616",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 7,
+      "tag": "waffl-grid",
+      "name": "sc-fb7e828b-0.kENtrF",
+      "y": 3160,
+      "height": 2700,
+      "position": "static",
+      "background": "#161616",
+      "backgroundImage": false,
+      "color": "#f2f1edcc",
+      "padding": "0px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 856,
+        "gutterRight": 256,
+        "width": 328,
+        "gutterTop": 226,
+        "gutterBottom": 243
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "em",
+          "text": "01 / 03",
+          "family": "editorial",
+          "size": 24,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.021,
+          "transform": "capitalize",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [
+        "START YOUR PROJECT"
+      ],
+      "words": 120,
+      "excerpt": "Every build begins with the person behind the wheel, shaped around their",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "sc-337305d3-0.sc-d69e8bb7-0",
+      "y": 5860,
+      "height": 900,
+      "position": "relative",
+      "background": "#0c0c0c",
+      "backgroundImage": false,
+      "color": "#f2f1edcc",
+      "padding": "135.995px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 125,
+        "gutterRight": 550,
+        "width": 765,
+        "gutterTop": 146,
+        "gutterBottom": 174
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "A vehicle should say something before it moves. Every line, material, and finis…",
+          "family": "editorial",
+          "size": 80,
+          "weight": "200",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#181818"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [
+        "START YOUR PROJECT"
+      ],
+      "words": 59,
+      "excerpt": "Our services are shaped with intent, from exterior styling and interior refinement",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "sc-337305d3-0.sc-ec8dda4b-1",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0c0c0c",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "sc-337305d3-0.sc-ec8dda4b-5",
+      "y": 6310,
+      "height": 900,
+      "position": "sticky",
+      "background": "#0c0c0c",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 11,
+      "tag": "figure",
+      "name": null,
+      "y": 12160,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "svg",
+      "name": null,
+      "y": 11902,
+      "height": 2584,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "waffl-grid",
+      "name": "sc-fb7e828b-0.kENtrF",
+      "y": 12432,
+      "height": 154,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "sc-337305d3-0.sc-dd0c2790-4",
+      "y": 12722,
+      "height": 1402,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "135.995px 0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 15,
+      "tag": "waffl-grid",
+      "name": "sc-fb7e828b-0.kENtrF",
+      "y": 14260,
+      "height": 212,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f2f1edcc",
+      "padding": "0px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 552,
+        "gutterRight": 552,
+        "width": 336,
+        "gutterTop": -302,
+        "gutterBottom": 477
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Complete expressions of taste, intent and individuality, shaped through detail,…",
+          "family": "GeistSans",
+          "size": 18,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#f2f1edcc"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 13,
+      "excerpt": "Complete expressions of taste, intent and individuality, shaped through detail, restraint…",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "section",
+      "name": "sc-337305d3-0.sc-8d5ca2ab-0",
+      "y": 14744,
+      "height": 900,
+      "position": "relative",
+      "background": "#0c0c0c",
+      "backgroundImage": false,
+      "color": "#f2f1edcc",
+      "padding": "450px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 496,
+        "gutterRight": 496,
+        "width": 448,
+        "gutterTop": 668,
+        "gutterBottom": 112
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "A collection of previous bespoke builds, shaped by craft, character and the peo…",
+          "family": "GeistSans",
+          "size": 18,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#f2f1edcc"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [
+        "EXPLORE BUILDS"
+      ],
+      "words": 29,
+      "excerpt": "A collection of previous bespoke builds, shaped by craft, character and the",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 17,
+      "tag": "section",
+      "name": "sc-337305d3-0.sc-8d5ca2ab-0",
+      "y": 15644,
+      "height": 900,
+      "position": "relative",
+      "background": "#0c0c0c",
+      "backgroundImage": false,
+      "color": "#f2f1edcc",
+      "padding": "450px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 496,
+        "gutterRight": 496,
+        "width": 448,
+        "gutterTop": 668,
+        "gutterBottom": 112
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Builds available for purchase, refined with intent, engineered with purpose, an…",
+          "family": "GeistSans",
+          "size": 18,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#f2f1edcc"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [
+        "BROWSE STOCK"
+      ],
+      "words": 27,
+      "excerpt": "Builds available for purchase, refined with intent, engineered with purpose, and ready",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 18,
+      "tag": "footer",
+      "name": "sc-337305d3-0.sc-a2c8839e-0",
+      "y": 16544,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f2f2ed99",
+      "padding": "167.995px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 649,
+        "gutterRight": 650,
+        "width": 141,
+        "gutterTop": 168,
+        "gutterBottom": 64
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Refuse Ordinary",
+          "family": "editorial",
+          "size": 96,
+          "weight": "200",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.021,
+          "transform": "capitalize",
+          "color": "#f2f1ed"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 10,
+        "weight": "600",
+        "lineHeight": 2,
+        "letterSpacing": 0.3,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "BACK TO TOP"
+      ],
+      "words": 13,
+      "excerpt": "Are you ready to",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 177,
+    "title": "Forge Automotive",
+    "award": "SOTD",
+    "url": "https://forgeautomotive.co.uk/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/forge-automotive",
+    "categories": [
+      "Business & Corporate",
+      "Other",
+      "Luxury"
+    ]
+  }
+}

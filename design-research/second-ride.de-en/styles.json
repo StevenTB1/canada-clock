@@ -1,0 +1,616 @@
+{
+  "page": {
+    "url": "https://second-ride.de/en",
+    "title": "Second Ride",
+    "description": "Electrify your classic: e-conversion kits for Simson mopeds and ready-to-ride e-mopeds by Second Ride.",
+    "lang": "de",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 1430,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#050505",
+        "share": 0.418
+      },
+      {
+        "value": "#282828",
+        "share": 0.263
+      },
+      {
+        "value": "#00000026",
+        "share": 0.263
+      },
+      {
+        "value": "#fffffff2",
+        "share": 0.028
+      },
+      {
+        "value": "#ffffffb2",
+        "share": 0.022
+      },
+      {
+        "value": "#e4b854",
+        "share": 0.004
+      },
+      {
+        "value": "#e4e4e4",
+        "share": 0.002
+      }
+    ],
+    "text": [
+      {
+        "value": "#282828bf",
+        "share": 0.385
+      },
+      {
+        "value": "#ffffff59",
+        "share": 0.154
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.133
+      },
+      {
+        "value": "#050505",
+        "share": 0.118
+      },
+      {
+        "value": "#e4e4e4",
+        "share": 0.096
+      },
+      {
+        "value": "#060606b3",
+        "share": 0.05
+      },
+      {
+        "value": "#282828b3",
+        "share": 0.028
+      },
+      {
+        "value": "#ffffff4c",
+        "share": 0.026
+      },
+      {
+        "value": "#ffffff40",
+        "share": 0.009
+      }
+    ],
+    "borders": [
+      {
+        "value": "#282828",
+        "share": 0.5
+      },
+      {
+        "value": "#ffffff66",
+        "share": 0.25
+      },
+      {
+        "value": "#0000000f",
+        "share": 0.25
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.996,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Nunito Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.63,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 284
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 146
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 128
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 37
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 24,
+        "weight": "700",
+        "lineHeight": 1.33,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 23
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1.43,
+        "letterSpacing": 0.025,
+        "transform": "uppercase",
+        "chars": 23
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 20,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 22
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 19
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 12,
+        "weight": "600",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "ui-monospace",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 7
+      },
+      {
+        "family": "Nunito Sans",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.2,
+        "transform": "uppercase",
+        "chars": 7
+      }
+    ],
+    "loadedFonts": [
+      "Nunito Sans 400 normal",
+      "Nunito Sans 500 normal",
+      "Nunito Sans 700 normal",
+      "Nunito Sans Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 20
+    },
+    {
+      "px": 12,
+      "uses": 16
+    },
+    {
+      "px": 16,
+      "uses": 16
+    },
+    {
+      "px": 8,
+      "uses": 14
+    },
+    {
+      "px": 5,
+      "uses": 9
+    },
+    {
+      "px": 36,
+      "uses": 6
+    },
+    {
+      "px": 10,
+      "uses": 5
+    },
+    {
+      "px": 64,
+      "uses": 4
+    },
+    {
+      "px": 20,
+      "uses": 3
+    },
+    {
+      "px": 4,
+      "uses": 3
+    },
+    {
+      "px": 32,
+      "uses": 2
+    },
+    {
+      "px": 43,
+      "uses": 2
+    },
+    {
+      "px": 70,
+      "uses": 2
+    },
+    {
+      "px": 173,
+      "uses": 2
+    },
+    {
+      "px": 28,
+      "uses": 2
+    },
+    {
+      "px": 18,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "18px",
+      "uses": 5
+    },
+    {
+      "value": "16px",
+      "uses": 3
+    },
+    {
+      "value": "8px",
+      "uses": 2
+    },
+    {
+      "value": "3.35544e+07px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 40
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.5s cubic-bezier(0, 0, 0.2, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.7s cubic-bezier(0, 0, 0.2, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.42s cubic-bezier(0.32, 0.72, 0, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--color-red-50": "oklch(97.1% .013 17.38)",
+    "--color-red-100": "oklch(93.6% .032 17.717)",
+    "--color-red-200": "oklch(88.5% .062 18.334)",
+    "--color-red-300": "oklch(80.8% .114 19.571)",
+    "--color-red-400": "oklch(70.4% .191 22.216)",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-red-600": "oklch(57.7% .245 27.325)",
+    "--color-red-700": "oklch(50.5% .213 27.518)",
+    "--color-red-800": "oklch(44.4% .177 26.899)",
+    "--color-red-900": "oklch(39.6% .141 25.723)",
+    "--color-amber-50": "oklch(98.7% .022 95.277)",
+    "--color-amber-100": "oklch(96.2% .059 95.617)",
+    "--color-amber-200": "oklch(92.4% .12 95.746)",
+    "--color-amber-300": "oklch(87.9% .169 91.605)",
+    "--color-amber-500": "oklch(76.9% .188 70.08)",
+    "--color-amber-600": "oklch(66.6% .179 58.318)",
+    "--color-amber-700": "oklch(55.5% .163 48.998)",
+    "--color-amber-800": "oklch(47.3% .137 46.201)",
+    "--color-amber-900": "oklch(41.4% .112 45.904)",
+    "--color-green-100": "oklch(96.2% .044 156.743)",
+    "--color-green-600": "oklch(62.7% .194 149.214)",
+    "--color-green-700": "oklch(52.7% .154 150.069)",
+    "--color-emerald-100": "oklch(95% .052 163.051)",
+    "--color-emerald-500": "oklch(69.6% .17 162.48)",
+    "--color-emerald-700": "oklch(50.8% .118 165.612)",
+    "--color-emerald-800": "oklch(43.2% .095 166.913)",
+    "--color-sky-100": "oklch(95.1% .026 236.824)",
+    "--color-sky-800": "oklch(44.3% .11 240.79)",
+    "--color-violet-100": "oklch(94.3% .029 294.588)",
+    "--color-violet-800": "oklch(43.2% .232 292.759)",
+    "--color-gray-50": "oklch(98.5% .002 247.839)",
+    "--color-gray-100": "oklch(96.7% .003 264.542)",
+    "--color-gray-200": "oklch(92.8% .006 264.531)",
+    "--color-gray-300": "oklch(87.2% .01 258.338)",
+    "--color-gray-400": "oklch(70.7% .022 261.325)",
+    "--color-gray-500": "oklch(55.1% .027 264.364)",
+    "--color-gray-600": "oklch(44.6% .03 256.802)",
+    "--color-gray-700": "oklch(37.3% .034 259.733)",
+    "--color-gray-800": "oklch(27.8% .033 256.848)",
+    "--color-gray-900": "oklch(21% .034 264.665)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--container-xs": "20rem",
+    "--container-sm": "24rem",
+    "--container-md": "28rem",
+    "--container-xl": "36rem",
+    "--container-2xl": "42rem",
+    "--container-3xl": "48rem",
+    "--container-4xl": "56rem",
+    "--container-7xl": "80rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "calc(1.5 / 1)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75 / 1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "calc(2.25 / 1.875)",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5 / 2.25)",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--font-weight-black": "900",
+    "--tracking-tight": "-.025em",
+    "--tracking-normal": "0em",
+    "--tracking-wide": ".025em",
+    "--tracking-wider": ".05em"
+  },
+  "breakpoints": [
+    "min 48rem",
+    "min 40rem",
+    "min 64rem",
+    "min 80rem",
+    "min 96rem",
+    "min 389px",
+    "min 360px",
+    "min 390px",
+    "min 768px",
+    "min 916px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "hero",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#282828",
+      "backgroundImage": false,
+      "color": "#e4e4e4",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 265,
+        "gutterRight": 270,
+        "width": 905,
+        "gutterTop": 789,
+        "gutterBottom": 43
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "E-Mopeds",
+          "family": "Nunito Sans",
+          "size": 24,
+          "weight": "700",
+          "lineHeight": 1.33,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#e4e4e4"
+        },
+        {
+          "tag": "h2",
+          "text": "Conversion Kits",
+          "family": "Nunito Sans",
+          "size": 24,
+          "weight": "700",
+          "lineHeight": 1.33,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#e4e4e4"
+        }
+      ],
+      "bodyType": {
+        "family": "Nunito Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "E-Mopeds Classics with electric drive",
+        "Conversion Kits Electrify your moped"
+      ],
+      "words": 10,
+      "excerpt": "Classics with electric drive",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 2,
+      "tag": "footer",
+      "name": "border-t.border-v1-dark",
+      "y": 900,
+      "height": 530,
+      "position": "static",
+      "background": "#050505",
+      "backgroundImage": false,
+      "color": "#ffffff59",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "1px solid #282828",
+      "content": {
+        "gutterLeft": 173,
+        "gutterRight": 173,
+        "width": 1094,
+        "gutterTop": 71,
+        "gutterBottom": 70
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "64px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          25,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "PRODUCTS",
+          "family": "Nunito Sans",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff4c"
+        },
+        {
+          "tag": "h4",
+          "text": "HELP",
+          "family": "Nunito Sans",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff4c"
+        },
+        {
+          "tag": "h4",
+          "text": "COMPANY",
+          "family": "Nunito Sans",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff4c"
+        }
+      ],
+      "bodyType": {
+        "family": "Nunito Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SUBSCRIBE TO NEWSLETTER",
+        "Shop",
+        "E-Mopeds",
+        "Conversion Kits",
+        "Coming soon",
+        "Book a test ride",
+        "Contact",
+        "Community",
+        "About",
+        "Jobs"
+      ],
+      "words": 47,
+      "excerpt": "* incl. VAT, plus shipping",
+      "media": {
+        "img": 1,
+        "svg": 6
+      }
+    }
+  ],
+  "listing": {
+    "rank": 213,
+    "title": "Second Ride",
+    "award": "HM",
+    "url": "https://second-ride.de/en",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/second-ride",
+    "categories": [
+      "E-Commerce",
+      "Startups",
+      "Technology"
+    ]
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "page": {
+    "url": "https://rozaliabomawrites.com/",
+    "title": "Rozalia Boma — Multicultural Romance Author",
+    "description": "Official site of Rozalia Boma, author of multicultural YA romance. Books, diary entries, guestbook and newsletter.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6121,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f5dafb",
+        "share": 0.766
+      },
+      {
+        "value": "#fddf49",
+        "share": 0.13
+      },
+      {
+        "value": "#300940",
+        "share": 0.057
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.021
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.021
+      },
+      {
+        "value": "#000000",
+        "share": 0.003
+      },
+      {
+        "value": "#c0c0c0",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffffcc",
+        "share": 0.001
+      },
+      {
+        "value": "#0000004d",
+        "share": 0
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#491237cc",
+        "share": 0.44
+      },
+      {
+        "value": "#000000",
+        "share": 0.197
+      },
+      {
+        "value": "#7828c8",
+        "share": 0.118
+      },
+      {
+        "value": "#fa3899",
+        "share": 0.076
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.062
+      },
+      {
+        "value": "#209fdf",
+        "share": 0.05
+      },
+      {
+        "value": "#7e22ce",
+        "share": 0.021
+      },
+      {
+        "value": "#4d1966",
+        "share": 0.02
+      },
+      {
+        "value": "#ffffffe6",
+        "share": 0.012
+      },
+      {
+        "value": "#491237bf",
+        "share": 0.005
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 0.269
+      },
+      {
+        "value": "#981b59",
+        "share": 0.192
+      },
+      {
+        "value": "#6b248f",
+        "share": 0.154
+      },
+      {
+        "value": "#e699bf80",
+        "share": 0.115
+      },
+      {
+        "value": "#83184333",
+        "share": 0.077
+      },
+      {
+        "value": "#bf8cf2",
+        "share": 0.038
+      },
+      {
+        "value": "#8318434d",
+        "share": 0.038
+      },
+      {
+        "value": "#93ceec",
+        "share": 0.038
+      },
+      {
+        "value": "#be185d66",
+        "share": 0.038
+      },
+      {
+        "value": "#404040",
+        "share": 0.038
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.047,
+      "text": 0.271
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1275
+      },
+      {
+        "family": "Barlow Condensed",
+        "size": 30,
+        "weight": "800",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.025,
+        "transform": "uppercase",
+        "chars": 612
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 492
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 1.33,
+        "letterSpacing": 0.05,
+        "transform": "uppercase",
+        "chars": 145
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.63,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 111
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1.43,
+        "letterSpacing": 0.05,
+        "transform": "uppercase",
+        "chars": 110
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.025,
+        "transform": "uppercase",
+        "chars": 85
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 11,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.025,
+        "transform": "uppercase",
+        "chars": 68
+      },
+      {
+        "family": "Knewave",
+        "size": 36,
+        "weight": "400",
+        "lineHeight": 1.11,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 58
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 45
+      },
+      {
+        "family": "Knewave",
+        "size": 94.18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 28
+      },
+      {
+        "family": "Knewave",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 13.6,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 23
+      },
+      {
+        "family": "Gochi Hand",
+        "size": 30,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 13
+      }
+    ],
+    "loadedFonts": [
+      "Barlow Condensed 800 normal",
+      "Gochi Hand 400 normal",
+      "Knewave 400 normal",
+      "Plus Jakarta Sans 400 normal",
+      "Plus Jakarta Sans 600 normal",
+      "Plus Jakarta Sans 700 normal",
+      "VT323 400 normal",
+      "Gochi Hand Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 83
+    },
+    {
+      "px": 4,
+      "uses": 82
+    },
+    {
+      "px": 6,
+      "uses": 64
+    },
+    {
+      "px": 57,
+      "uses": 56
+    },
+    {
+      "px": 14,
+      "uses": 56
+    },
+    {
+      "px": 8,
+      "uses": 52
+    },
+    {
+      "px": 7,
+      "uses": 50
+    },
+    {
+      "px": 5,
+      "uses": 42
+    },
+    {
+      "px": 16,
+      "uses": 38
+    },
+    {
+      "px": 24,
+      "uses": 35
+    },
+    {
+      "px": 2,
+      "uses": 21
+    },
+    {
+      "px": 32,
+      "uses": 14
+    },
+    {
+      "px": 160,
+      "uses": 7
+    },
+    {
+      "px": 96,
+      "uses": 7
+    },
+    {
+      "px": 64,
+      "uses": 6
+    },
+    {
+      "px": 20,
+      "uses": 6
+    }
+  ],
+  "radii": [
+    {
+      "value": "9999px",
+      "uses": 8
+    },
+    {
+      "value": "999px",
+      "uses": 7
+    },
+    {
+      "value": "4px",
+      "uses": 6
+    },
+    {
+      "value": "2px",
+      "uses": 6
+    },
+    {
+      "value": "12px",
+      "uses": 5
+    },
+    {
+      "value": "8px",
+      "uses": 3
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 14
+      },
+      {
+        "value": "0.12s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.45s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--background": "290 80% 92%",
+    "--foreground": "320 60% 18%",
+    "--card": "0 0% 100%",
+    "--card-foreground": "320 60% 18%",
+    "--popover": "0 0% 100%",
+    "--popover-foreground": "320 60% 18%",
+    "--primary": "330 95% 60%",
+    "--primary-foreground": "0 0% 100%",
+    "--secondary": "280 85% 78%",
+    "--secondary-foreground": "320 60% 18%",
+    "--muted": "320 60% 95%",
+    "--muted-foreground": "320 25% 45%",
+    "--accent": "195 90% 75%",
+    "--accent-foreground": "320 60% 18%",
+    "--destructive": "0 84% 60%",
+    "--destructive-foreground": "0 0% 100%",
+    "--border": "330 90% 70%",
+    "--input": "330 50% 92%",
+    "--ring": "330 95% 60%",
+    "--radius": "12px",
+    "--window-bar": "215 90% 60%",
+    "--window-bar-alt": "270 80% 75%",
+    "--window-bar-orange": "25 95% 62%",
+    "--holo-cyan": "195 90% 75%",
+    "--holo-pink": "330 100% 80%",
+    "--holo-lilac": "280 90% 85%",
+    "--chrome-light": "320 50% 96%",
+    "--chrome-dark": "330 60% 35%",
+    "--ticker-yellow": "50 98% 64%",
+    "--cream": "50 100% 75%",
+    "--dusty-rose": "330 100% 70%",
+    "--lavender": "280 85% 78%",
+    "--denim": "200 80% 70%",
+    "--blush": "330 100% 92%",
+    "--paper": "0 0% 100%",
+    "--sidebar-background": "0 0% 100%",
+    "--sidebar-foreground": "320 60% 18%",
+    "--sidebar-primary": "330 95% 60%",
+    "--sidebar-primary-foreground": "0 0% 100%",
+    "--sidebar-accent": "280 85% 78%",
+    "--sidebar-accent-foreground": "320 60% 18%",
+    "--sidebar-border": "330 90% 70%",
+    "--sidebar-ring": "330 95% 60%"
+  },
+  "breakpoints": [
+    "max 640px",
+    "min 640px",
+    "min 1400px",
+    "min 768px",
+    "min 1024px",
+    "max 600px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "canvas",
+      "name": "fixed.inset-0",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f5dafb",
+      "backgroundImage": false,
+      "color": "#491237",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 30,
+    "title": "Rozalia Boma - Writer",
+    "award": "HM",
+    "url": "https://rozaliabomawrites.com/",
+    "awwwards": "https://www.awwwards.com/sites/rozalia-boma-writer",
+    "categories": [
+      "Magazine / Newspaper / Blog"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

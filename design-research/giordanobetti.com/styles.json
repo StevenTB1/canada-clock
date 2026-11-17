@@ -1,0 +1,280 @@
+{
+  "page": {
+    "url": "https://giordanobetti.com/",
+    "title": "Giordano Betti - Independent Cinematographer",
+    "description": "Giordano Betti is an independent cinematographer and Director of Photography based in Tuscany, Italy.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#171717",
+        "share": 0.838
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.148
+      },
+      {
+        "value": "#00000080",
+        "share": 0.015
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.621
+      },
+      {
+        "value": "#171717",
+        "share": 0.266
+      },
+      {
+        "value": "#ffffff4c",
+        "share": 0.113
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Host Grotesk",
+        "size": 14.52,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.069,
+        "transform": "none",
+        "chars": 798
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 62.05,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.016,
+        "transform": "uppercase",
+        "chars": 79
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 18.77,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.053,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "Host Grotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      }
+    ],
+    "loadedFonts": [
+      "Instrument Serif 400 normal",
+      "Host Grotesk 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 2,
+      "uses": 105
+    },
+    {
+      "px": 22,
+      "uses": 86
+    },
+    {
+      "px": 1,
+      "uses": 53
+    },
+    {
+      "px": 7,
+      "uses": 28
+    },
+    {
+      "px": 5,
+      "uses": 20
+    },
+    {
+      "px": 3,
+      "uses": 10
+    },
+    {
+      "px": 4,
+      "uses": 9
+    },
+    {
+      "px": 9,
+      "uses": 9
+    },
+    {
+      "px": 12,
+      "uses": 3
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 64,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 3,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "\"Host Grotesk\", ui-sans-serif, system-ui, sans-serif",
+    "--font-serif": "\"Instrument Serif\", ui-serif, serif",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--container-3xl": "48rem",
+    "--font-weight-normal": "400",
+    "--blur-lg": "16px",
+    "--aspect-video": "16 / 9",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-foreground": "#fff",
+    "--color-background": "#171717",
+    "--gap": "clamp(14px, 1.5vw, 32px)"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 0,
+      "position": "static",
+      "background": "#171717",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 22,
+        "gutterRight": 22,
+        "width": 1397,
+        "gutterTop": -108,
+        "gutterBottom": -895
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "SOMETHING IN MIND?",
+          "family": "Instrument Serif",
+          "size": 62.05,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.016,
+          "transform": "uppercase",
+          "color": "#171717"
+        },
+        {
+          "tag": "h2",
+          "text": "JUPITER",
+          "family": "Instrument Serif",
+          "size": 62.05,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.016,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "AVAVAV X ADIDAS SS25",
+          "family": "Instrument Serif",
+          "size": 62.05,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.016,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "PARLAMI D'AMORE MARIU",
+          "family": "Instrument Serif",
+          "size": 62.05,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.016,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Host Grotesk",
+        "size": 14.52,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.069,
+        "transform": "none"
+      },
+      "labels": [
+        "Skip to content",
+        "Giordano Betti Independent Cinematograp…",
+        "Works Works",
+        "About About",
+        "Contact Contact",
+        "contact@giordanobetti.com contact@giord…",
+        "instagram instagram",
+        "youtube youtube",
+        "linkedin linkedin",
+        "Music video Accademia Bizantina JUPITER…"
+      ],
+      "words": 149,
+      "excerpt": "contact@giordanobetti.com",
+      "media": {
+        "canvas": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 124,
+    "title": "Giordano Betti",
+    "award": "HM",
+    "url": "https://giordanobetti.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/giordano-betti",
+    "categories": [
+      "Film & TV",
+      "Web & Interactive",
+      "Experimental",
+      "Portfolio"
+    ]
+  }
+}

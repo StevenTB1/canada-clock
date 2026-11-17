@@ -1,0 +1,341 @@
+{
+  "page": {
+    "url": "https://etablissements.studio/?lang=en",
+    "title": "Etablissements – Studio de design pluridisciplinaire",
+    "description": "Établissements is a multidisciplinary design studio founded by Romain Chirat in 2016, specialised in the visual identity of heritage brands.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f7f4ef",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#644530",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Caslon",
+        "size": 15.12,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 87
+      },
+      {
+        "family": "Sweet Sans",
+        "size": 10.94,
+        "weight": "700",
+        "lineHeight": 1.45,
+        "letterSpacing": 0.16,
+        "transform": "uppercase",
+        "chars": 18
+      },
+      {
+        "family": "Sweet Sans",
+        "size": 10.94,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0.16,
+        "transform": "uppercase",
+        "chars": 15
+      }
+    ],
+    "loadedFonts": [
+      "Sweet Sans 700 normal",
+      "Caslon 400 italic"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 66,
+      "uses": 4
+    },
+    {
+      "px": 32,
+      "uses": 4
+    },
+    {
+      "px": 4,
+      "uses": 3
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 14,
+      "uses": 2
+    },
+    {
+      "px": 40,
+      "uses": 2
+    },
+    {
+      "px": 64,
+      "uses": 1
+    },
+    {
+      "px": 5,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--wp--preset--aspect-ratio--square": "1",
+    "--wp--preset--aspect-ratio--4-3": "4/3",
+    "--wp--preset--aspect-ratio--3-4": "3/4",
+    "--wp--preset--aspect-ratio--3-2": "3/2",
+    "--wp--preset--aspect-ratio--2-3": "2/3",
+    "--wp--preset--aspect-ratio--16-9": "16/9",
+    "--wp--preset--aspect-ratio--9-16": "9/16",
+    "--wp--preset--color--black": "#000000",
+    "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+    "--wp--preset--color--white": "#ffffff",
+    "--wp--preset--color--pale-pink": "#f78da7",
+    "--wp--preset--color--vivid-red": "#cf2e2e",
+    "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+    "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+    "--wp--preset--color--light-green-cyan": "#7bdcb5",
+    "--wp--preset--color--vivid-green-cyan": "#00d084",
+    "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+    "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+    "--wp--preset--color--vivid-purple": "#9b51e0",
+    "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+    "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+    "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+    "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+    "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+    "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 4",
+    "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+    "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%",
+    "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 10",
+    "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) ",
+    "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+    "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+    "--wp--preset--font-size--small": "13px",
+    "--wp--preset--font-size--medium": "20px",
+    "--wp--preset--font-size--large": "36px",
+    "--wp--preset--font-size--x-large": "42px",
+    "--wp--preset--spacing--20": "0.44rem",
+    "--wp--preset--spacing--30": "0.67rem",
+    "--wp--preset--spacing--40": "1rem",
+    "--wp--preset--spacing--50": "1.5rem",
+    "--wp--preset--spacing--60": "2.25rem",
+    "--wp--preset--spacing--70": "3.38rem",
+    "--wp--preset--spacing--80": "5.06rem",
+    "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+    "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+    "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+    "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+    "--wp--preset--shadow--crisp": "6px 6px 0px rgb(0, 0, 0)",
+    "--c-bg": "#f7f4ef",
+    "--c-ink": "#644530",
+    "--pad-x": "clamp(20px, 4.6vw, 66px)",
+    "--pad-y": "18px",
+    "--stage-x": "6vw",
+    "--stage-y": "16vh",
+    "--fs-nav": "10px",
+    "--ls-nav": "0.16em"
+  },
+  "breakpoints": [
+    "max 1439px",
+    "max 1023px",
+    "max 767px",
+    "max 374px"
+  ],
+  "tech": [
+    "gsap",
+    "wordpress"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "site-header",
+      "y": 0,
+      "height": 136,
+      "position": "fixed",
+      "background": "#f7f4ef",
+      "backgroundImage": true,
+      "color": "#644530",
+      "padding": "39.6px 66px 64px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 66,
+        "width": 1308,
+        "gutterTop": 46,
+        "gutterBottom": 70
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          38,
+          15,
+          38
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "INFO",
+          "family": "Sweet Sans",
+          "size": 10.94,
+          "weight": "700",
+          "lineHeight": 1.45,
+          "letterSpacing": 0.16,
+          "transform": "uppercase",
+          "color": "#644530"
+        }
+      ],
+      "bodyType": {
+        "family": "Sweet Sans",
+        "size": 10.94,
+        "weight": "700",
+        "lineHeight": 1.45,
+        "letterSpacing": 0.16,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "INFO",
+        "PROJECTS"
+      ],
+      "words": 2,
+      "excerpt": "Projects",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "slider__stage",
+      "y": 180,
+      "height": 540,
+      "position": "absolute",
+      "background": "#f7f4ef",
+      "backgroundImage": false,
+      "color": "#644530",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 14
+      }
+    },
+    {
+      "i": 3,
+      "tag": "footer",
+      "name": "site-footer",
+      "y": 819,
+      "height": 81,
+      "position": "fixed",
+      "background": "#f7f4ef",
+      "backgroundImage": false,
+      "color": "#644530",
+      "padding": "0px 66px 39.6px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 878,
+        "width": 496,
+        "gutterTop": 0,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          34,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "LIGNON",
+          "family": "Sweet Sans",
+          "size": 10.94,
+          "weight": "700",
+          "lineHeight": 1.45,
+          "letterSpacing": 0.16,
+          "transform": "uppercase",
+          "color": "#644530"
+        }
+      ],
+      "bodyType": {
+        "family": "Caslon",
+        "size": 15.12,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 11,
+      "excerpt": "Art direction, Brand identity, Product design, Editorial design, Packaging, Photography",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 148,
+    "title": "Établissements",
+    "url": "https://etablissements.studio/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

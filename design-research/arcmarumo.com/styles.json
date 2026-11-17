@@ -1,0 +1,260 @@
+{
+  "page": {
+    "url": "https://www.arcmarumo.com/",
+    "title": "Arc ©'26",
+    "description": "Arc: a multi-disciplinary designer and Awwwards Juror with over 7 years of experience crafting digital products for agencies, studios and startups.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#111111",
+        "share": 0.655
+      },
+      {
+        "value": "#050505",
+        "share": 0.345
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.371
+      },
+      {
+        "value": "#e4dfd9",
+        "share": 0.343
+      },
+      {
+        "value": "#ece9e180",
+        "share": 0.194
+      },
+      {
+        "value": "#f6f5ee",
+        "share": 0.091
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "mono",
+        "size": 13.75,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.035,
+        "transform": "uppercase",
+        "chars": 125
+      },
+      {
+        "family": "mono",
+        "size": 13.75,
+        "weight": "500",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.035,
+        "transform": "uppercase",
+        "chars": 34
+      },
+      {
+        "family": "bit",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 8
+      },
+      {
+        "family": "mono",
+        "size": 13.75,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.035,
+        "transform": "uppercase",
+        "chars": 8
+      }
+    ],
+    "loadedFonts": [
+      "mono 500 normal",
+      "bit 700 normal",
+      "bit Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 30
+    },
+    {
+      "px": 2,
+      "uses": 5
+    },
+    {
+      "px": 9,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 3,
+      "uses": 1
+    },
+    {
+      "px": 4,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "6px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.9s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 14
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.95s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 6,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--bg": "#111",
+    "--brand": "#ff3131",
+    "--light": "#fcf8ef",
+    "--gray-100": "#e4dfd9",
+    "--gray-200": "#b2aeab",
+    "--body": "clamp(13px, .926vw, 18px)",
+    "--foot": "clamp(14px, 1.042vw, 20px)",
+    "--label": "#ffffffbf",
+    "--edge": "20px",
+    "--channel-ms": ".9s",
+    "--channel-snow": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' he",
+    "--channel-bands": "repeating-linear-gradient(to bottom, #000 0 14px, transparent 14px 19px, #000 19"
+  },
+  "breakpoints": [
+    "max 700px",
+    "max 1024px",
+    "min 701px",
+    "max 900px",
+    "min 1025px"
+  ],
+  "tech": [
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "tv",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#050505",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 101,
+        "width": 1238,
+        "gutterTop": 89,
+        "gutterBottom": 73
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "9.16618px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          5,
+          16,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "REMYSHOOTS",
+          "family": "mono",
+          "size": 13.75,
+          "weight": "500",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.035,
+          "transform": "uppercase",
+          "color": "#ece9e180"
+        }
+      ],
+      "bodyType": {
+        "family": "mono",
+        "size": 13.75,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.035,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "YEAR 2026",
+        "HOME",
+        "PROFILE",
+        "NEWS WATCH",
+        "CONTACT",
+        "REMYSHOOTS",
+        "B&W [OFF]",
+        "EMAIL"
+      ],
+      "words": 35,
+      "excerpt": "Built to get the work seen, and recognised with four CSSDA awards",
+      "media": {
+        "img": 2,
+        "canvas": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 6,
+    "title": "Arc's Portfolio",
+    "award": "HM",
+    "url": "https://www.arcmarumo.com/",
+    "awwwards": "https://www.awwwards.com/sites/arcs-portfolio",
+    "categories": [
+      "Web & Interactive",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

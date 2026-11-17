@@ -1,0 +1,1111 @@
+{
+  "page": {
+    "url": "https://www.gobold.live/",
+    "title": "GOBOLD — Digital Agency [Website Creation | AI | Branding | 3D]",
+    "description": "GOBOLD — digital agency specializing in website creation, AI, branding and 3D [WEB3].",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 11640,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.824
+      },
+      {
+        "value": "#030303",
+        "share": 0.086
+      },
+      {
+        "value": "#050505",
+        "share": 0.033
+      },
+      {
+        "value": "#020202",
+        "share": 0.031
+      },
+      {
+        "value": "#080000",
+        "share": 0.023
+      },
+      {
+        "value": "#ff00000d",
+        "share": 0.003
+      },
+      {
+        "value": "#111111",
+        "share": 0.001
+      },
+      {
+        "value": "#ff0000",
+        "share": 0
+      },
+      {
+        "value": "#818181",
+        "share": 0
+      },
+      {
+        "value": "#242424",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#777777",
+        "share": 0.214
+      },
+      {
+        "value": "#818181",
+        "share": 0.188
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.17
+      },
+      {
+        "value": "#6a6a6a",
+        "share": 0.141
+      },
+      {
+        "value": "#242424",
+        "share": 0.114
+      },
+      {
+        "value": "#e9eaec",
+        "share": 0.102
+      },
+      {
+        "value": "#ff2b2b",
+        "share": 0.05
+      },
+      {
+        "value": "#a2a2a2",
+        "share": 0.01
+      },
+      {
+        "value": "#cfcfcf",
+        "share": 0.006
+      },
+      {
+        "value": "#000000",
+        "share": 0.003
+      },
+      {
+        "value": "#19e65a",
+        "share": 0.001
+      },
+      {
+        "value": "#444444",
+        "share": 0
+      }
+    ],
+    "borders": [
+      {
+        "value": "#262626",
+        "share": 0.784
+      },
+      {
+        "value": "#181818",
+        "share": 0.118
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.088
+      },
+      {
+        "value": "#1a1a1a",
+        "share": 0.01
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.998,
+      "text": 0.778
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Kode Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.05,
+        "transform": "uppercase",
+        "chars": 901
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 6.2,
+        "weight": "400",
+        "lineHeight": 1.37,
+        "letterSpacing": 0.137,
+        "transform": "uppercase",
+        "chars": 600
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 6.2,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0.137,
+        "transform": "uppercase",
+        "chars": 594
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 6.5,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0.154,
+        "transform": "uppercase",
+        "chars": 503
+      },
+      {
+        "family": "p--l",
+        "size": 300,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.053,
+        "transform": "uppercase",
+        "chars": 336
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 5.6,
+        "weight": "400",
+        "lineHeight": 1.07,
+        "letterSpacing": 0.134,
+        "transform": "uppercase",
+        "chars": 276
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 0,
+        "weight": "400",
+        "lineHeight": null,
+        "letterSpacing": null,
+        "transform": "uppercase",
+        "chars": 256
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 5.4,
+        "weight": "400",
+        "lineHeight": 1.07,
+        "letterSpacing": 0.126,
+        "transform": "uppercase",
+        "chars": 225
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 6,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.233,
+        "transform": "uppercase",
+        "chars": 151
+      },
+      {
+        "family": "Kode Mono",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.047,
+        "transform": "uppercase",
+        "chars": 146
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 6.4,
+        "weight": "400",
+        "lineHeight": 1.41,
+        "letterSpacing": 0.141,
+        "transform": "uppercase",
+        "chars": 146
+      },
+      {
+        "family": "p--l",
+        "size": 124,
+        "weight": "400",
+        "lineHeight": 0.78,
+        "letterSpacing": -0.055,
+        "transform": "uppercase",
+        "chars": 120
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 6,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.225,
+        "transform": "uppercase",
+        "chars": 100
+      },
+      {
+        "family": "Anonymous Pro",
+        "size": 5.4,
+        "weight": "400",
+        "lineHeight": 1.11,
+        "letterSpacing": 0.204,
+        "transform": "uppercase",
+        "chars": 88
+      }
+    ],
+    "loadedFonts": [
+      "Anonymous Pro 400 normal",
+      "Anonymous Pro 700 normal",
+      "Kode Mono 400 normal",
+      "Noto Sans Symbols 400 normal",
+      "Noto Sans Symbols 2 400 normal",
+      "p--l 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 3,
+      "uses": 140
+    },
+    {
+      "px": 2,
+      "uses": 104
+    },
+    {
+      "px": 4,
+      "uses": 97
+    },
+    {
+      "px": 12,
+      "uses": 36
+    },
+    {
+      "px": 8,
+      "uses": 35
+    },
+    {
+      "px": 6,
+      "uses": 26
+    },
+    {
+      "px": 7,
+      "uses": 19
+    },
+    {
+      "px": 9,
+      "uses": 14
+    },
+    {
+      "px": 10,
+      "uses": 12
+    },
+    {
+      "px": 5,
+      "uses": 9
+    },
+    {
+      "px": 14,
+      "uses": 9
+    },
+    {
+      "px": 44,
+      "uses": 7
+    },
+    {
+      "px": 11,
+      "uses": 6
+    },
+    {
+      "px": 16,
+      "uses": 3
+    },
+    {
+      "px": 18,
+      "uses": 3
+    },
+    {
+      "px": 22,
+      "uses": 3
+    }
+  ],
+  "radii": [
+    {
+      "value": "3px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 12
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 8,
+    "canvases": 16,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--red": "#ff0000",
+    "--orange": "#ff5a00",
+    "--grey": "#818181",
+    "--dark": "#414141"
+  },
+  "breakpoints": [
+    "max 767px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "scene3d",
+      "y": -7,
+      "height": 885,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#818181",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "giant",
+      "y": 890,
+      "height": 818,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#242424",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 561,
+        "gutterRight": 10,
+        "width": 869,
+        "gutterTop": -19,
+        "gutterBottom": -19
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "GOBOLD DIGITAL AGENCY SPECIALIZING IN",
+          "family": "p--l",
+          "size": 124,
+          "weight": "400",
+          "lineHeight": 0.78,
+          "letterSpacing": -0.055,
+          "transform": "uppercase",
+          "color": "#242424"
+        }
+      ],
+      "bodyType": {
+        "family": "p--l",
+        "size": 124,
+        "weight": "400",
+        "lineHeight": 0.78,
+        "letterSpacing": -0.055,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 14,
+      "excerpt": "WEBSITE DEVELOPMENT",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "globeWrap",
+      "y": 932,
+      "height": 1240,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#818181",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "vidband",
+      "y": 1765,
+      "height": 778,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#242424",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 133,
+        "gutterRight": 13,
+        "width": 1294,
+        "gutterTop": 316,
+        "gutterBottom": 13
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "WE BUILD BOLD WEBSITES, BRANDS & EXPERIENCES FOR COMPANIES THAT REFUSE TO LOOK …",
+          "family": "p--l",
+          "size": 54,
+          "weight": "400",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.054,
+          "transform": "uppercase",
+          "color": "#242424"
+        }
+      ],
+      "bodyType": {
+        "family": "p--l",
+        "size": 54,
+        "weight": "400",
+        "lineHeight": 0.96,
+        "letterSpacing": -0.054,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIDEO FX 01",
+        "SOUND OFF"
+      ],
+      "words": 19,
+      "excerpt": "We build bold websites, brands & experiences for companies that refuse to",
+      "media": {
+        "video": 1,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "faq",
+      "y": 4492,
+      "height": 541,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#6a6a6a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 8,
+        "width": 1432,
+        "gutterTop": 160,
+        "gutterBottom": -38
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "FAQ",
+          "family": "p--l",
+          "size": 124,
+          "weight": "400",
+          "lineHeight": 0.78,
+          "letterSpacing": -0.055,
+          "transform": "uppercase",
+          "color": "#242424"
+        }
+      ],
+      "bodyType": {
+        "family": "Kode Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.05,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "I ALREADY HAVE A SITE — IS THIS FOR ME?…",
+        "WHO DO YOU LOVE BUILDING FOR? [+]",
+        "HOW DO WE START? [+]",
+        "WHEN WILL I SEE RESULTS LIVE? [+]",
+        "WILL I ALWAYS KNOW WHAT'S HAPPENING? [+]",
+        "WILL I OWN THE KEYS TO MY SITE? [+]",
+        "DO YOU MAINTAIN PROJECTS AFTER LAUNCH? …"
+      ],
+      "words": 169,
+      "excerpt": "The world's changing fast, so timing is everything. And we understand this",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "p",
+      "name": "teamHead",
+      "y": 3610,
+      "height": 136,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#242424",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "TEAM",
+          "family": "p--l",
+          "size": 124,
+          "weight": "400",
+          "lineHeight": 0.78,
+          "letterSpacing": -0.055,
+          "transform": "uppercase",
+          "color": "#242424"
+        }
+      ],
+      "bodyType": {
+        "family": "p--l",
+        "size": 124,
+        "weight": "400",
+        "lineHeight": 0.78,
+        "letterSpacing": -0.055,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "TEAM",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "processFlow",
+      "y": 3763,
+      "height": 588,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ff0000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 10,
+        "width": 1420,
+        "gutterTop": 18,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "18px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "LILITH",
+          "family": "Kode Mono",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.047,
+          "transform": "uppercase",
+          "color": "#e9eaec"
+        }
+      ],
+      "bodyType": {
+        "family": "Anonymous Pro",
+        "size": 6.2,
+        "weight": "400",
+        "lineHeight": 1.37,
+        "letterSpacing": 0.137,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "T-KO.LIVE",
+        "SEARCHING FOR MARKETING LEGEND"
+      ],
+      "words": 118,
+      "excerpt": "The one who started GOBOLD. No old projects here, it's about what's",
+      "media": {
+        "canvas": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "p",
+      "name": "servicesHead",
+      "y": 5265,
+      "height": 136,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#242424",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "WE DO",
+          "family": "p--l",
+          "size": 124,
+          "weight": "400",
+          "lineHeight": 0.78,
+          "letterSpacing": -0.055,
+          "transform": "uppercase",
+          "color": "#242424"
+        }
+      ],
+      "bodyType": {
+        "family": "p--l",
+        "size": 124,
+        "weight": "400",
+        "lineHeight": 0.78,
+        "letterSpacing": -0.055,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "WE DO",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "processScene",
+      "y": 5043,
+      "height": 1153,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#818181",
+      "padding": "0px",
+      "margin": "0px 0px 0px -60px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "p",
+      "name": "projHead",
+      "y": 8648,
+      "height": 136,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#242424",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "LATEST DON█",
+          "family": "p--l",
+          "size": 124,
+          "weight": "400",
+          "lineHeight": 0.78,
+          "letterSpacing": -0.055,
+          "transform": "uppercase",
+          "color": "#242424"
+        }
+      ],
+      "bodyType": {
+        "family": "p--l",
+        "size": 124,
+        "weight": "400",
+        "lineHeight": 0.78,
+        "letterSpacing": -0.055,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "LATEST DON█",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "projGrid",
+      "y": 8802,
+      "height": 1575,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#818181",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 10,
+        "width": 1420,
+        "gutterTop": 18,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "60px 18px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          48,
+          48,
+          48,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "T&CO.2K",
+          "family": "Kode Mono",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.047,
+          "transform": "uppercase",
+          "color": "#e9eaec"
+        }
+      ],
+      "bodyType": {
+        "family": "Anonymous Pro",
+        "size": 6.2,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0.137,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "PLAY BLOOD MOON ON STAKE ↗",
+        "VISIT THEOTTER.ONKI.TV ↗"
+      ],
+      "words": 245,
+      "excerpt": "Launched and live on Stake — a dark-fantasy slot where every pixel",
+      "media": {
+        "img": 2,
+        "video": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "snakeBand",
+      "y": 2990,
+      "height": 553,
+      "position": "absolute",
+      "background": "#020202",
+      "backgroundImage": false,
+      "color": "#ff2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0.711111px solid #ff0000",
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 28,
+        "width": 1385,
+        "gutterTop": 10,
+        "gutterBottom": 244
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "EDEN RUN",
+          "family": "Anonymous Pro",
+          "size": 7,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0.071,
+          "transform": "uppercase",
+          "color": "#818181"
+        }
+      ],
+      "bodyType": {
+        "family": "Anonymous Pro",
+        "size": 0,
+        "weight": "400",
+        "lineHeight": null,
+        "letterSpacing": null,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "PLAY GAME →"
+      ],
+      "words": 11,
+      "excerpt": "/////////////////////////////////////////////////////////////////////////////////////////…",
+      "media": {
+        "img": 3,
+        "canvas": 2
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "bigmovingtext",
+      "y": 2544,
+      "height": 444,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#242424",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 24,
+        "childWidthsPct": [
+          107,
+          107,
+          107,
+          107,
+          107,
+          107,
+          107,
+          107
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "BUILD RESPECT©",
+          "family": "p--l",
+          "size": 300,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.053,
+          "transform": "uppercase",
+          "color": "#242424"
+        }
+      ],
+      "bodyType": {
+        "family": "p--l",
+        "size": 300,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.053,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 48,
+      "excerpt": "BUILD RESPECT©",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "carBand",
+      "y": 10448,
+      "height": 1191,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#818181",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "endcap",
+      "y": 11332,
+      "height": 276,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#818181",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 737,
+        "gutterRight": 139,
+        "width": 564,
+        "gutterTop": 165,
+        "gutterBottom": -7
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "HELLO@GOBOLD.LIVE",
+          "family": "p--l",
+          "size": 104,
+          "weight": "400",
+          "lineHeight": 0.81,
+          "letterSpacing": -0.058,
+          "transform": "uppercase",
+          "color": "#818181"
+        }
+      ],
+      "bodyType": {
+        "family": "p--l",
+        "size": 104,
+        "weight": "400",
+        "lineHeight": 0.81,
+        "letterSpacing": -0.058,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "HELLO@GOBOLD.LIVE"
+      ],
+      "words": 1,
+      "excerpt": "hello@gobold.live",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "rgbBlur",
+      "y": 700,
+      "height": 200,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#818181",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 53,
+    "title": "GOBOLD™ Agency",
+    "award": "HM",
+    "url": "https://gobold.live/",
+    "awwwards": "https://www.awwwards.com/sites/goboldtm-agency",
+    "categories": [
+      "Design Agencies",
+      "Fashion",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

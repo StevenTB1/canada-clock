@@ -1,0 +1,1066 @@
+{
+  "page": {
+    "url": "https://www.podiumautomation.com/",
+    "title": "Podium Automation | UL 508A Control Panels Built in 4 Weeks",
+    "description": "Custom control panels designed, built, and shipped in four weeks. Software-enabled precision, UL 508A certified, no surprises.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10781,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#fefbf6",
+        "share": 0.729
+      },
+      {
+        "value": "#ede8e4",
+        "share": 0.06
+      },
+      {
+        "value": "#252324",
+        "share": 0.054
+      },
+      {
+        "value": "#ffec88",
+        "share": 0.046
+      },
+      {
+        "value": "#fffce0",
+        "share": 0.041
+      },
+      {
+        "value": "#1a1a1a",
+        "share": 0.032
+      },
+      {
+        "value": "#413e40",
+        "share": 0.019
+      },
+      {
+        "value": "#625d60",
+        "share": 0.019
+      },
+      {
+        "value": "#000000",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.605
+      },
+      {
+        "value": "#fefbf6",
+        "share": 0.239
+      },
+      {
+        "value": "#252324",
+        "share": 0.14
+      },
+      {
+        "value": "#7a7772",
+        "share": 0.01
+      },
+      {
+        "value": "#929191",
+        "share": 0.006
+      }
+    ],
+    "borders": [
+      {
+        "value": "#23232333",
+        "share": 0.929
+      },
+      {
+        "value": "#fffaf533",
+        "share": 0.071
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.914,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Instrument Sans",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 1362
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 820
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 628
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 374
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 299
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 275
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 248
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 195
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 190
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 140
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 102
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 93
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 69
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 68,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 44
+      }
+    ],
+    "loadedFonts": [
+      "Instrument Sans 500 normal",
+      "Instrument Sans 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 82
+    },
+    {
+      "px": 40,
+      "uses": 74
+    },
+    {
+      "px": 24,
+      "uses": 44
+    },
+    {
+      "px": 12,
+      "uses": 35
+    },
+    {
+      "px": 20,
+      "uses": 31
+    },
+    {
+      "px": 16,
+      "uses": 22
+    },
+    {
+      "px": 5,
+      "uses": 18
+    },
+    {
+      "px": 4,
+      "uses": 16
+    },
+    {
+      "px": 32,
+      "uses": 4
+    },
+    {
+      "px": 141,
+      "uses": 4
+    },
+    {
+      "px": 240,
+      "uses": 2
+    },
+    {
+      "px": 64,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 126,
+      "uses": 2
+    },
+    {
+      "px": 91,
+      "uses": 1
+    },
+    {
+      "px": 54,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.99996px",
+      "uses": 14
+    },
+    {
+      "value": "28%",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 13
+      },
+      {
+        "value": "0.125s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.4s cubic-bezier(0.21, 1, 0.34, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.45s cubic-bezier(0.21, 1, 0.34, 1)",
+        "uses": 6
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--_color---primary--white": "#fefbf6",
+    "--_typography---text-regular--font-family": "var(--_typography---font-family--body)",
+    "--_color---primary--pure-black": "black",
+    "--_typography---text-regular--font-size": "1rem",
+    "--_typography---text-regular--line-height": "var(--line-height--1-5)",
+    "--_typography---text-regular--font-weight": "var(--font-weight--normal)",
+    "--_typography---h1--font-family": "var(--_typography---font-family--heading)",
+    "--_typography---h1--font-size": "4.25rem",
+    "--_typography---h1--line-height": "var(--line-height--1-1)",
+    "--_typography---h1--font-weight": "var(--font-weight--normal)",
+    "--_typography---h1--letter-spacing": "var(--letter-spacing--super-tight)",
+    "--_typography---h2--font-family": "var(--_typography---font-family--heading)",
+    "--_typography---h2--font-size": "4rem",
+    "--_typography---h2--line-height": "var(--line-height--1-1)",
+    "--_typography---h2--font-weight": "var(--font-weight--normal)",
+    "--_typography---h2--letter-spacing": "var(--letter-spacing--super-tight)",
+    "--_typography---h3--font-family": "var(--_typography---font-family--heading)",
+    "--_typography---h3--font-size": "3.5rem",
+    "--_typography---h3--line-height": "var(--line-height--1-1)",
+    "--_typography---h3--font-weight": "var(--font-weight--normal)",
+    "--_typography---h3--letter-spacing": "var(--letter-spacing--super-tight)",
+    "--_typography---h4--font-family": "var(--_typography---font-family--heading)",
+    "--_typography---h4--font-size": "3rem",
+    "--_typography---h4--line-height": "var(--line-height--1-1)",
+    "--_typography---h4--font-weight": "var(--font-weight--normal)",
+    "--_typography---h4--letter-spacing": "var(--letter-spacing--super-tight)",
+    "--_typography---h5--font-family": "var(--_typography---font-family--heading)",
+    "--_typography---h5--font-size": "2.5rem",
+    "--_typography---h5--line-height": "var(--line-height--1-1)",
+    "--_typography---h5--font-weight": "var(--font-weight--normal)",
+    "--_typography---h5--letter-spacing": "var(--letter-spacing--super-tight)",
+    "--_typography---h6--font-family": "var(--_typography---font-family--heading)",
+    "--_typography---h6--font-size": "2rem",
+    "--_typography---h6--line-height": "var(--line-height--1-1)",
+    "--_typography---h6--font-weight": "var(--font-weight--normal)",
+    "--_typography---h6--letter-spacing": "var(--letter-spacing--super-tight)",
+    "--_button---primary--border": "transparent",
+    "--_button---primary--background": "var(--_color---primary--dark-grey)",
+    "--_button---primary--text": "var(--_color---primary--white)",
+    "--_button---primary--border-hover": "transparent",
+    "--_button---primary--background-hover": "var(--_color---primary--primary-yellow)",
+    "--_button---primary--text-hover": "var(--_color---primary--dark-grey)",
+    "--font-weight--normal": "400",
+    "--_typography---subtitle-1--font-family": "var(--_typography---font-family--heading)",
+    "--_typography---subtitle-1--font-size": "2rem",
+    "--_typography---subtitle-1--line-height": "var(--line-height--1-2)",
+    "--font-weight--bold": "700",
+    "--_typography---subtitle-1--letter-spacing": "var(--letter-spacing--tighter)",
+    "--_typography---subtitle-2--font-family": "var(--_typography---font-family--heading)",
+    "--_typography---subtitle-2--font-size": "1.5rem",
+    "--_typography---subtitle-2--line-height": "var(--line-height--1-2)",
+    "--_typography---subtitle-2--letter-spacing": "var(--letter-spacing--tighter)",
+    "--_typography---text-regular--letter-spacing": "var(--letter-spacing--normal)",
+    "--_sizes---border-radius--small": ".5rem",
+    "--container--large": "85rem",
+    "--_sizes---global-padding": "2.5rem",
+    "--container--medium": "56.25rem",
+    "--container--small": "48rem",
+    "--font-weight--medium": "500",
+    "--_typography---text-large--font-family": "var(--_typography---font-family--body)",
+    "--_typography---text-large--font-size": "1.25rem",
+    "--_typography---text-large--line-height": "var(--line-height--1-5)",
+    "--_typography---text-large--letter-spacing": "var(--letter-spacing--tight)",
+    "--_typography---text-medium--font-family": "var(--_typography---font-family--body)",
+    "--_typography---text-medium--font-size": "1.125rem",
+    "--_typography---text-medium--line-height": "var(--line-height--1-5)",
+    "--_typography---text-medium--letter-spacing": "var(--letter-spacing--tight)",
+    "--_typography---text-tiny--font-family": "var(--_typography---font-family--body)",
+    "--_typography---text-tiny--font-size": ".75rem",
+    "--_typography---text-tiny--line-height": "var(--line-height--1-5)",
+    "--_typography---text-tiny--letter-spacing": "var(--letter-spacing--normal)",
+    "--_typography---text-small--font-family": "var(--_typography---font-family--body)",
+    "--_typography---text-small--font-size": ".875rem",
+    "--_typography---text-small--line-height": "var(--line-height--1-5)",
+    "--_typography---text-small--letter-spacing": "var(--letter-spacing--normal)",
+    "--_color---primary--black": "#1a1a1a",
+    "--_color---primary--dark-grey": "#252324",
+    "--_color---primary--primary-yellow": "#ffec88",
+    "--_color---greyscale--grey-750": "#413e40",
+    "--_color---greyscale--grey-700": "#535353"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 991px",
+    "max 479px",
+    "min 768px",
+    "min 992px",
+    "min 767px",
+    "max 375px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "section_home-hero.background-color-paper-yellow",
+      "y": 0,
+      "height": 917,
+      "position": "static",
+      "background": "#fffce0",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 86,
+        "width": 1314,
+        "gutterTop": 192,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "23.9998px 19.9998px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          71
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Faster is better.",
+          "family": "Instrument Sans",
+          "size": 68,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Your control panel design and build partners",
+          "family": "Instrument Sans",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#fefbf6"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 50,
+      "excerpt": "Higher quality control cabinets with shorter lead times. Podium is your design-build",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "section_home-difference.background-color-grey-150",
+      "y": 917,
+      "height": 1272,
+      "position": "static",
+      "background": "#ede8e4",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 150,
+        "gutterBottom": 160
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "23.9998px 19.9998px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          47,
+          23,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Trusted by scale-ups and Fortune 500 companies",
+          "family": "Instrument Sans",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Speed is just the beginning.",
+          "family": "Instrument Sans",
+          "size": 68,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 31,
+      "excerpt": "Our proprietary design software identifies issues before they arise and enables more",
+      "media": {
+        "img": 11,
+        "video": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "home-services_list",
+      "y": 2189,
+      "height": 1603,
+      "position": "sticky",
+      "background": "#fefbf6",
+      "backgroundImage": false,
+      "color": "#fefbf6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 322,
+        "width": 1078,
+        "gutterTop": 32,
+        "gutterBottom": 32
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Speed",
+          "family": "Instrument Sans",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fefbf6"
+        },
+        {
+          "tag": "h2",
+          "text": "Quality",
+          "family": "Instrument Sans",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fefbf6"
+        },
+        {
+          "tag": "h2",
+          "text": "Transparency",
+          "family": "Instrument Sans",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fefbf6"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Button Text Start your quote"
+      ],
+      "words": 87,
+      "excerpt": "Our software layer also helps us manage our supply chain and track",
+      "media": {
+        "img": 3,
+        "svg": 6
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "section_home-how",
+      "y": 4153,
+      "height": 964,
+      "position": "static",
+      "background": "#fefbf6",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 817,
+        "width": 543,
+        "gutterTop": 241,
+        "gutterBottom": 21
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "How we work",
+          "family": "Instrument Sans",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#252324"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Click to Start your quote Start your qu…"
+      ],
+      "words": 39,
+      "excerpt": "We’ve got your control panel covered. Our team of engineers and experts",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "section_home-tabs",
+      "y": 5117,
+      "height": 754,
+      "position": "static",
+      "background": "#fefbf6",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 172,
+        "width": 1208,
+        "gutterTop": 400,
+        "gutterBottom": 140
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "23.9998px 19.9998px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          31,
+          31,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Get a quote in about a day",
+          "family": "Instrument Sans",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "We get right to work",
+          "family": "Instrument Sans",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Shipped within four weeks",
+          "family": "Instrument Sans",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 49,
+      "excerpt": "Use our intake form and upload documentation to get custom pricing within",
+      "media": {
+        "svg": 10
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "overlap_section",
+      "y": 5871,
+      "height": 1220,
+      "position": "relative",
+      "background": "#fefbf6",
+      "backgroundImage": false,
+      "color": "#fefbf6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 840,
+        "gutterRight": 120,
+        "width": 480,
+        "gutterTop": 637,
+        "gutterBottom": 176
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "blockquote",
+          "text": "“In the time that it took our previous panel builder to turn around a quote to …",
+          "family": "Instrument Sans",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.3,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#fefbf6"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 56,
+      "excerpt": "“In the time that it took our previous panel builder to turn",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "overlap_section",
+      "y": 7091,
+      "height": 1520,
+      "position": "relative",
+      "background": "#fefbf6",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 176,
+        "gutterRight": 176,
+        "width": 1088,
+        "gutterTop": 345,
+        "gutterBottom": 319
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "7.99992px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          0,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our most important control panel is yours",
+          "family": "Instrument Sans",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Read more details about this case study…"
+      ],
+      "words": 324,
+      "excerpt": "When TLM stood up their first sawmill in Mississippi, they needed a",
+      "media": {
+        "img": 6,
+        "svg": 16
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "section_home-faq",
+      "y": 8612,
+      "height": 1262,
+      "position": "static",
+      "background": "#fefbf6",
+      "backgroundImage": false,
+      "color": "#252324",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 56,
+        "gutterRight": 79,
+        "width": 1305,
+        "gutterTop": 200,
+        "gutterBottom": 206
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "23.9998px 19.9998px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          15,
+          15,
+          55
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Answers to (almost) all your control panel questions",
+          "family": "Instrument Sans",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "How does ordering work?",
+        "intake form",
+        "hello@podiumautomation.com",
+        "Where is your factory?",
+        "What information do I need to send to g…",
+        "What does a design fee cover?",
+        "Who owns the drawings once complete?",
+        "How does pricing work?",
+        "How are Podium panels tested?",
+        "What are your standard payment terms?"
+      ],
+      "words": 91,
+      "excerpt": "to get a quote. Once the quote is accepted with a purchase",
+      "media": {
+        "img": 2,
+        "svg": 8
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "overlap_section",
+      "y": 9873,
+      "height": 908,
+      "position": "relative",
+      "background": "#fefbf6",
+      "backgroundImage": false,
+      "color": "#fefbf6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 205,
+        "width": 1195,
+        "gutterTop": -192,
+        "gutterBottom": -818
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "71.9993px 19.9998px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          70,
+          23,
+          39,
+          55
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Home",
+          "family": "Instrument Sans",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#fefbf6"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "Services",
+        "Careers",
+        "About us",
+        "Contact us",
+        "LinkedIn",
+        "Terms and Conditions",
+        "Privacy Policy",
+        "hello@podiumautomation.com",
+        "300 Meserole St, Brooklyn, NY 11206"
+      ],
+      "words": 56,
+      "excerpt": "Proudly Designed and Built in Brooklyn, NY",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 51,
+    "title": "Podium",
+    "award": "HM",
+    "url": "https://www.podiumautomation.com/",
+    "awwwards": "https://www.awwwards.com/sites/podium-1",
+    "categories": [
+      "Business & Corporate",
+      "Technology",
+      "Startups"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

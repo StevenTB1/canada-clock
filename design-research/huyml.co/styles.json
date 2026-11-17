@@ -1,0 +1,395 @@
+{
+  "page": {
+    "url": "https://huyml.co/",
+    "title": "Huy Phan - Award-winning designer",
+    "description": "Huy Phan (Huyml) is an award-winning designer and art director based in Ho Chi Minh city, Vietnam.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": "Framer c292b3e"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ececec",
+        "share": 0.477
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.239
+      },
+      {
+        "value": "#ededed",
+        "share": 0.238
+      },
+      {
+        "value": "#171717",
+        "share": 0.024
+      },
+      {
+        "value": "#d4d4d4",
+        "share": 0.016
+      },
+      {
+        "value": "#000000",
+        "share": 0.001
+      },
+      {
+        "value": "#051236",
+        "share": 0
+      },
+      {
+        "value": "#fffde2",
+        "share": 0
+      },
+      {
+        "value": "#0457d4",
+        "share": 0
+      },
+      {
+        "value": "#474747",
+        "share": 0
+      },
+      {
+        "value": "#e3e8ec",
+        "share": 0
+      },
+      {
+        "value": "#ebe8e2",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.758
+      },
+      {
+        "value": "#1e1e1e",
+        "share": 0.182
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.024
+      },
+      {
+        "value": "#1f1f1f85",
+        "share": 0.019
+      },
+      {
+        "value": "#000000",
+        "share": 0.009
+      },
+      {
+        "value": "#00000080",
+        "share": 0.006
+      },
+      {
+        "value": "#ff4949",
+        "share": 0.001
+      },
+      {
+        "value": "#181818",
+        "share": 0.001
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.995,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "BT Grotesk Medium",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 7318
+      },
+      {
+        "family": "F37 Bolton Trial Regular",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 227
+      },
+      {
+        "family": "BT Glyphius Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 132
+      },
+      {
+        "family": "BT Glyphius Regular",
+        "size": 19,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "BT Glyphius Regular",
+        "size": 23,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 18
+      },
+      {
+        "family": "BT Glyphius Regular",
+        "size": 220,
+        "weight": "400",
+        "lineHeight": 0.96,
+        "letterSpacing": -0.05,
+        "transform": "uppercase",
+        "chars": 7
+      },
+      {
+        "family": "BT Grotesk Regular",
+        "size": 180,
+        "weight": "400",
+        "lineHeight": 0.85,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": [
+      "BT Grotesk Medium 500 normal",
+      "BT Grotesk Regular 400 normal",
+      "F37 Bolton Trial Regular 400 normal",
+      "BT Glyphius Regular 400 normal",
+      "BT Grotesk Medium Placeholder normal normal",
+      "BT Grotesk Regular Placeholder normal normal",
+      "F37 Bolton Trial Regular Placeholder normal normal",
+      "BT Glyphius Regular Placeholder normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 88
+    },
+    {
+      "px": 24,
+      "uses": 28
+    },
+    {
+      "px": 8,
+      "uses": 26
+    },
+    {
+      "px": 20,
+      "uses": 23
+    },
+    {
+      "px": 18,
+      "uses": 23
+    },
+    {
+      "px": 4,
+      "uses": 22
+    },
+    {
+      "px": 6,
+      "uses": 16
+    },
+    {
+      "px": 32,
+      "uses": 14
+    },
+    {
+      "px": 30,
+      "uses": 6
+    },
+    {
+      "px": 88,
+      "uses": 4
+    },
+    {
+      "px": 45,
+      "uses": 2
+    },
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 14,
+      "uses": 2
+    },
+    {
+      "px": 3,
+      "uses": 2
+    },
+    {
+      "px": 31,
+      "uses": 2
+    },
+    {
+      "px": 100,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "8px",
+      "uses": 57
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.32s ease",
+        "uses": 11
+      },
+      {
+        "value": "0.45s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.22s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.52s cubic-bezier(0.22, 0.61, 0.36, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.6s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--token-0c68c7e4-90a1-4b80-b1f5-21051c127250": "#fff",
+    "--token-e93f529c-01a4-4879-a2e7-182bd1a3d9fa": "#ffffff80",
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1",
+    "--bt-grotesk-responsive-font-size": "14px"
+  },
+  "breakpoints": [
+    "min 1920px",
+    "min 800px",
+    "min 2360px",
+    "max 2199px",
+    "min 1100px",
+    "min 1800px",
+    "max 1799px",
+    "max 1099px",
+    "min 1440px",
+    "min 2400px"
+  ],
+  "tech": [
+    "three",
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "main",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ececec",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": -629,
+        "gutterBottom": -476
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "COME SAY HI",
+          "family": "BT Glyphius Regular",
+          "size": 23,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0.01,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "CREDITS",
+          "family": "BT Glyphius Regular",
+          "size": 23,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0.01,
+          "transform": "uppercase",
+          "color": "#181818"
+        }
+      ],
+      "bodyType": {
+        "family": "BT Grotesk Medium",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "DISTRICT2 STUDIO district2-studio Septe…",
+        "DAFI TROPICDANE dafi May 2019 Behance U…",
+        "EST POPULO est-populo February 2022 Beh…",
+        "BISON STUDIO bison-studio February 2022…",
+        "HUYML VOL.1 huyml-2022 August 2022 Awww…",
+        "RLY NETWORK rly-network October 2022 We…",
+        "MATHIJS HANENKAMP mathijs-hanenkamp Feb…",
+        "ASCON SYSTEMS ascon-system August 2023 …",
+        "UNCOMMON STUDIO uncommon-studio July 20…",
+        "SERIOUS BUSINESS serious-business Augus…"
+      ],
+      "words": 1269,
+      "excerpt": "Crafted a playful digital experience for Manchester-based interior and brand studio kin,",
+      "media": {
+        "img": 27,
+        "canvas": 2,
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 15,
+    "title": "Huy Phan Vol.2",
+    "award": "SOTD",
+    "url": "https://huyml.co/",
+    "awwwards": "https://www.awwwards.com/sites/huy-phan-vol-2",
+    "categories": [
+      "Promotional",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

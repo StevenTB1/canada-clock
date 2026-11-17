@@ -1,0 +1,1560 @@
+{
+  "page": {
+    "url": "https://www.butter.video/",
+    "title": "Butter Video | Online Video Editor Engineered for Creativity",
+    "description": "The first video editor and design platform built with creative code for creative teams. It's a whole new timeline.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 14876,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#fafafa",
+        "share": 0.771
+      },
+      {
+        "value": "#ededed",
+        "share": 0.147
+      },
+      {
+        "value": "#35353533",
+        "share": 0.05
+      },
+      {
+        "value": "#0a0909",
+        "share": 0.018
+      },
+      {
+        "value": "#151515",
+        "share": 0.014
+      },
+      {
+        "value": "#2e2e2e",
+        "share": 0
+      },
+      {
+        "value": "#1e1e1e",
+        "share": 0
+      },
+      {
+        "value": "#0f0f0f",
+        "share": 0
+      },
+      {
+        "value": "#00ffd0",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#0f0f0f",
+        "share": 0.393
+      },
+      {
+        "value": "#0f0f0f66",
+        "share": 0.36
+      },
+      {
+        "value": "#1e1e1e",
+        "share": 0.103
+      },
+      {
+        "value": "#0f0f0f80",
+        "share": 0.04
+      },
+      {
+        "value": "#0f0f0f4d",
+        "share": 0.036
+      },
+      {
+        "value": "#000000",
+        "share": 0.03
+      },
+      {
+        "value": "#b6b6b6",
+        "share": 0.015
+      },
+      {
+        "value": "#ebebeb",
+        "share": 0.015
+      },
+      {
+        "value": "#fafafa",
+        "share": 0.008
+      }
+    ],
+    "borders": [
+      {
+        "value": "#212121",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "DieGrotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.31,
+        "letterSpacing": 0.044,
+        "transform": "none",
+        "chars": 901
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 20.75,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": 0.033,
+        "transform": "none",
+        "chars": 840
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 60.4,
+        "weight": "400",
+        "lineHeight": 0.97,
+        "letterSpacing": 0.006,
+        "transform": "none",
+        "chars": 411
+      },
+      {
+        "family": "ABCDiatype",
+        "size": 13.49,
+        "weight": "400",
+        "lineHeight": 1.78,
+        "letterSpacing": 0.036,
+        "transform": "none",
+        "chars": 273
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 45.45,
+        "weight": "400",
+        "lineHeight": 0.96,
+        "letterSpacing": 0.008,
+        "transform": "none",
+        "chars": 159
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.044,
+        "transform": "none",
+        "chars": 84
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.044,
+        "transform": "none",
+        "chars": 82
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 41.67,
+        "weight": "400",
+        "lineHeight": 0.96,
+        "letterSpacing": 0.008,
+        "transform": "none",
+        "chars": 72
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 24.48,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0.03,
+        "transform": "none",
+        "chars": 69
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 107.57,
+        "weight": "400",
+        "lineHeight": 0.99,
+        "letterSpacing": 0.003,
+        "transform": "none",
+        "chars": 23
+      },
+      {
+        "family": "ABCDiatype",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.036,
+        "transform": "none",
+        "chars": 21
+      },
+      {
+        "family": "DieGrotesk",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      }
+    ],
+    "loadedFonts": [
+      "DieGrotesk 400 normal",
+      "ABCDiatype 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 50,
+      "uses": 65
+    },
+    {
+      "px": 10,
+      "uses": 56
+    },
+    {
+      "px": 25,
+      "uses": 32
+    },
+    {
+      "px": 66,
+      "uses": 28
+    },
+    {
+      "px": 8,
+      "uses": 28
+    },
+    {
+      "px": 16,
+      "uses": 18
+    },
+    {
+      "px": 30,
+      "uses": 15
+    },
+    {
+      "px": 140,
+      "uses": 13
+    },
+    {
+      "px": 26,
+      "uses": 12
+    },
+    {
+      "px": 5,
+      "uses": 12
+    },
+    {
+      "px": 14,
+      "uses": 11
+    },
+    {
+      "px": 15,
+      "uses": 10
+    },
+    {
+      "px": 27,
+      "uses": 9
+    },
+    {
+      "px": 40,
+      "uses": 8
+    },
+    {
+      "px": 20,
+      "uses": 8
+    },
+    {
+      "px": 13,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "8px",
+      "uses": 29
+    },
+    {
+      "value": "20px",
+      "uses": 24
+    },
+    {
+      "value": "22px",
+      "uses": 24
+    },
+    {
+      "value": "32px",
+      "uses": 23
+    },
+    {
+      "value": "16px",
+      "uses": 8
+    },
+    {
+      "value": "11px",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.8s cubic-bezier(0, 0, 0, 1)",
+        "uses": 100
+      },
+      {
+        "value": "1s cubic-bezier(0.2, 0.715, 0.205, 0.99)",
+        "uses": 48
+      },
+      {
+        "value": "0.5s cubic-bezier(0.2, 0.715, 0.205, 0.99)",
+        "uses": 34
+      },
+      {
+        "value": "0.5s cubic-bezier(0.835, 0.12, 0.225, 0.77)",
+        "uses": 12
+      },
+      {
+        "value": "0.8s cubic-bezier(0.2, 0.715, 0.205, 0.99)",
+        "uses": 6
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 49
+  },
+  "cssVariables": {
+    "--butter-white": "#FAFAFA",
+    "--butter-off-white": "#F7F7F7",
+    "--butter-black": "#1E1E1E",
+    "--butter-true-black": "#0F0F0F",
+    "--butter-charcoal": "#3C3C3C",
+    "--butter-light-grey": "#EDEDED",
+    "--butter-dark-grey": "#E2E2E2",
+    "--butter-light": "#EBEBEB",
+    "--butter-red": "#FF3333",
+    "--butter-blue": "#4DC5E5",
+    "--butter-green": "#63AD45",
+    "--butter-yellow": "#E9D352",
+    "--butter-pink": "#F9ABFF",
+    "--butter-font-primary": "'DieGrotesk','DieGrotesk Fallback'",
+    "--butter-font-secondary": "'ABCDiatype','ABCDiatype Fallback'",
+    "--butter-ease-out": "cubic-bezier(0.200, 0.715, 0.205, 0.990)",
+    "--butter-ease-in-out": "cubic-bezier(0.835, 0.120, 0.225, 0.770)",
+    "--leva-colors-elevation1": "#292d39",
+    "--leva-colors-elevation2": "#181c20",
+    "--leva-colors-elevation3": "#373c4b",
+    "--leva-colors-accent1": "#0066dc",
+    "--leva-colors-accent2": "#007bff",
+    "--leva-colors-accent3": "#3c93ff",
+    "--leva-colors-highlight1": "#535760",
+    "--leva-colors-highlight2": "#8c92a4",
+    "--leva-colors-highlight3": "#fefefe",
+    "--leva-colors-vivid1": "#ffcc00",
+    "--leva-colors-folderWidgetColor": "var(--leva-colors-highlight2)",
+    "--leva-colors-folderTextColor": "var(--leva-colors-highlight3)",
+    "--leva-colors-toolTipBackground": "var(--leva-colors-highlight3)",
+    "--leva-colors-toolTipText": "var(--leva-colors-elevation2)",
+    "--leva-radii-xs": "2px",
+    "--leva-radii-sm": "3px",
+    "--leva-radii-lg": "10px",
+    "--leva-space-xs": "3px",
+    "--leva-space-sm": "6px",
+    "--leva-space-md": "10px",
+    "--leva-space-rowGap": "7px",
+    "--leva-space-colGap": "7px",
+    "--leva-fonts-mono": "ui-monospace, SFMono-Regular, Menlo, 'Roboto Mono', monospace",
+    "--leva-fonts-sans": "system-ui, sans-serif",
+    "--leva-fontSizes-root": "11px",
+    "--leva-fontSizes-toolTip": "var(--leva-fontSizes-root)",
+    "--leva-sizes-rootWidth": "280px",
+    "--leva-sizes-controlWidth": "160px",
+    "--leva-sizes-numberInputMinWidth": "38px",
+    "--leva-sizes-scrubberWidth": "8px",
+    "--leva-sizes-scrubberHeight": "16px",
+    "--leva-sizes-rowHeight": "24px",
+    "--leva-sizes-folderTitleHeight": "20px",
+    "--leva-sizes-checkboxSize": "16px",
+    "--leva-sizes-joystickWidth": "100px",
+    "--leva-sizes-joystickHeight": "100px",
+    "--leva-sizes-colorPickerWidth": "var(--leva-sizes-controlWidth)",
+    "--leva-sizes-colorPickerHeight": "100px",
+    "--leva-sizes-imagePreviewWidth": "var(--leva-sizes-controlWidth)",
+    "--leva-sizes-imagePreviewHeight": "100px",
+    "--leva-sizes-monitorHeight": "60px",
+    "--leva-sizes-titleBarHeight": "39px",
+    "--leva-shadows-level1": "0 0 9px 0 #00000088",
+    "--leva-shadows-level2": "0 4px 14px #00000033",
+    "--leva-borderWidths-root": "0px",
+    "--leva-borderWidths-input": "1px",
+    "--leva-borderWidths-focus": "1px",
+    "--leva-borderWidths-hover": "1px",
+    "--leva-borderWidths-active": "1px",
+    "--leva-borderWidths-folder": "1px",
+    "--leva-fontWeights-label": "normal",
+    "--leva-fontWeights-folder": "normal",
+    "--leva-fontWeights-button": "normal",
+    "--perf-bg": "rgba(8, 10, 15, .92)",
+    "--perf-glass": "rgba(255, 255, 255, .03)",
+    "--perf-border": "rgba(255, 255, 255, .08)",
+    "--perf-text": "#ffffff",
+    "--perf-text-dim": "#a0aec0",
+    "--perf-text-muted": "#718096",
+    "--perf-gauge-bg": "rgba(0, 0, 0, .15)",
+    "--perf-fps": "#00ffd0",
+    "--perf-gpu": "#ff9f43",
+    "--perf-cpu": "#a78bfa"
+  },
+  "breakpoints": [
+    "min 48rem",
+    "min 64rem",
+    "min 77.5rem",
+    "min 640px",
+    "max 63.9375rem",
+    "min 40rem",
+    "min 992px",
+    "max 47.9375rem",
+    "max 639px",
+    "max 991px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "svg",
+      "name": null,
+      "y": 0,
+      "height": 1440,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "index-style__HeaderOverlay-sc-d968d94e-1.gRRfYC",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#35353533",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "header",
+      "name": "index-style__HeaderContainer-sc-d968d94e-0.kbhUnc",
+      "y": 0,
+      "height": 88,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1e1e1e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 8,
+        "gutterRight": 124,
+        "width": 1308,
+        "gutterTop": -55,
+        "gutterBottom": -387
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          49,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Skip to content",
+          "family": "DieGrotesk",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fafafa"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.044,
+        "transform": "none"
+      },
+      "labels": [
+        "Skip to content",
+        "Co-Create Co-Create",
+        "Product Product",
+        "Blocks Blocks",
+        "Templates Templates",
+        "Pricing Pricing",
+        "Blog Blog",
+        "Close",
+        "Product Product Explore features Explor…",
+        "Blocks Blocks Browse 1000s of butter bl…"
+      ],
+      "words": 38,
+      "excerpt": "Browse 1000s of butter",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "index-style__HomeHeroMain-sc-20afbf04-0.hsoZjO",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#fafafa",
+      "backgroundImage": true,
+      "color": "#0f0f0f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 179,
+        "gutterRight": 179,
+        "width": 1082,
+        "gutterTop": 358,
+        "gutterBottom": 312
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Engineered for Creativity Engineered for Creativity",
+          "family": "DieGrotesk",
+          "size": 107.57,
+          "weight": "400",
+          "lineHeight": 0.99,
+          "letterSpacing": 0.003,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 24.48,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "Get Started"
+      ],
+      "words": 14,
+      "excerpt": "Butter, the first video editor you can build on.",
+      "media": {
+        "img": 1,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "index-style__TickerSectionMain-sc-f994884c-0.glnUmG",
+      "y": 900,
+      "height": 220,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f4d",
+      "padding": "50px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 66,
+        "width": 1308,
+        "gutterTop": 50,
+        "gutterBottom": 146
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "100px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 48,
+        "childWidthsPct": [
+          8,
+          9,
+          8,
+          12,
+          6,
+          3,
+          12,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Teams from top brands and agencies build with Butter",
+          "family": "DieGrotesk",
+          "size": 20.75,
+          "weight": "400",
+          "lineHeight": 1.16,
+          "letterSpacing": 0.033,
+          "transform": "none",
+          "color": "#0f0f0f4d"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 20.75,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": 0.033,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 9,
+      "excerpt": "Teams from top brands and agencies build with Butter",
+      "media": {
+        "img": 48
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "index-style__StatementTimelineMain-sc-87b51a93-0.lhNRew",
+      "y": 1120,
+      "height": 1800,
+      "position": "relative",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 181,
+        "gutterRight": 181,
+        "width": 1078,
+        "gutterTop": 360,
+        "gutterBottom": 1257
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          104,
+          91
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Butter is the first video editor where creatives can build and remix custom des…",
+          "family": "DieGrotesk",
+          "size": 60.4,
+          "weight": "400",
+          "lineHeight": 0.97,
+          "letterSpacing": 0.006,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 60.4,
+        "weight": "400",
+        "lineHeight": 0.97,
+        "letterSpacing": 0.006,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 18,
+      "excerpt": "creatives",
+      "media": {
+        "img": 2,
+        "video": 4
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "index-style__StoryOneMain-sc-be78c17d-0.hKanzn",
+      "y": 2920,
+      "height": 1346,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "238px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 173,
+        "width": 1201,
+        "gutterTop": 271,
+        "gutterBottom": 313
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 25px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          37
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Browse curated blocks for motion graphics, kinetic type, 3D, shader effects, an…",
+          "family": "DieGrotesk",
+          "size": 60.4,
+          "weight": "400",
+          "lineHeight": 0.97,
+          "letterSpacing": 0.006,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 60.4,
+        "weight": "400",
+        "lineHeight": 0.97,
+        "letterSpacing": 0.006,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 102,
+      "excerpt": "Browse curated blocks for motion graphics, kinetic type, 3D, shader effects, and",
+      "media": {
+        "img": 11,
+        "video": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "index-style__StoryTwoMain-sc-623094fe-0.snjak",
+      "y": 4266,
+      "height": 1157,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "235px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 844,
+        "gutterRight": 66,
+        "width": 530,
+        "gutterTop": 407,
+        "gutterBottom": 407
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 25px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          37
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Make blocks your own with intuitive dials, sliders , prompts, and even with cod…",
+          "family": "DieGrotesk",
+          "size": 60.4,
+          "weight": "400",
+          "lineHeight": 0.97,
+          "letterSpacing": 0.006,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 60.4,
+        "weight": "400",
+        "lineHeight": 0.97,
+        "letterSpacing": 0.006,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 16,
+      "excerpt": "Infinitely customizable.",
+      "media": {
+        "img": 2,
+        "video": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "index-style__StoryThreeMain-sc-cb6ae55d-0.ihcPPz",
+      "y": 5659,
+      "height": 1800,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "0px",
+      "margin": "235px 0px 273.4px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 654,
+        "width": 720,
+        "gutterTop": 226,
+        "gutterBottom": 1291
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          91
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Customize and save your favorite blocks so your team never starts from scratch …",
+          "family": "DieGrotesk",
+          "size": 60.4,
+          "weight": "400",
+          "lineHeight": 0.97,
+          "letterSpacing": 0.006,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 60.4,
+        "weight": "400",
+        "lineHeight": 0.97,
+        "letterSpacing": 0.006,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 18,
+      "excerpt": "Your new creative toolkit",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "index-style__FeatureCardsMain-sc-2feb32ca-0.cQfKBM",
+      "y": 7732,
+      "height": 994,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f66",
+      "padding": "140px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 66,
+        "width": 1308,
+        "gutterTop": 140,
+        "gutterBottom": 170
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "25px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          21,
+          21,
+          21,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Your new all-in-one video editor. Your new all-in-one video editor.",
+          "family": "DieGrotesk",
+          "size": 45.45,
+          "weight": "400",
+          "lineHeight": 0.96,
+          "letterSpacing": 0.008,
+          "transform": "none",
+          "color": "#0f0f0f"
+        },
+        {
+          "tag": "h3",
+          "text": "Import Import",
+          "family": "DieGrotesk",
+          "size": 24.48,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0.03,
+          "transform": "none",
+          "color": "#0f0f0f"
+        },
+        {
+          "tag": "h3",
+          "text": "Edit Edit",
+          "family": "DieGrotesk",
+          "size": 24.48,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0.03,
+          "transform": "none",
+          "color": "#0f0f0f"
+        },
+        {
+          "tag": "h3",
+          "text": "Enhance Enhance",
+          "family": "DieGrotesk",
+          "size": 24.48,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0.03,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.31,
+        "letterSpacing": 0.044,
+        "transform": "none"
+      },
+      "labels": [
+        "View All Features"
+      ],
+      "words": 60,
+      "excerpt": "Collaborate in real time and export in up to",
+      "media": {
+        "img": 2,
+        "video": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "index-style__FeaturesHighlightMain-sc-109f6f7a-0.iiuFDH",
+      "y": 8726,
+      "height": 986,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "140px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 844,
+        "gutterRight": 288,
+        "width": 308,
+        "gutterTop": 295,
+        "gutterBottom": 321
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 25px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Remix Remix",
+          "family": "DieGrotesk",
+          "size": 21.06,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1e1e1e"
+        },
+        {
+          "tag": "h2",
+          "text": "Remix Remix",
+          "family": "DieGrotesk",
+          "size": 60.4,
+          "weight": "400",
+          "lineHeight": 0.97,
+          "letterSpacing": 0.006,
+          "transform": "none",
+          "color": "#1e1e1e"
+        },
+        {
+          "tag": "h3",
+          "text": "Describe Describe",
+          "family": "DieGrotesk",
+          "size": 21.06,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0f0f0f4d"
+        },
+        {
+          "tag": "h2",
+          "text": "Describe Describe",
+          "family": "DieGrotesk",
+          "size": 60.4,
+          "weight": "400",
+          "lineHeight": 0.97,
+          "letterSpacing": 0.006,
+          "transform": "none",
+          "color": "#0f0f0f4d"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 20.75,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": 0.033,
+        "transform": "none"
+      },
+      "labels": [
+        "Remix Remix",
+        "Describe Describe",
+        "Code Code"
+      ],
+      "words": 17,
+      "excerpt": "Start from templates and pre-built",
+      "media": {
+        "img": 1,
+        "video": 2
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "index-style__GalleryCarouselMain-sc-9c01e5f0-0.gayDpl",
+      "y": 9712,
+      "height": 1191,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "140px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 215,
+        "gutterRight": 103,
+        "width": 1122,
+        "gutterTop": 154,
+        "gutterBottom": 205
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 24,
+        "gap": "30px 25px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 24,
+        "childWidthsPct": [
+          21,
+          21,
+          21,
+          21,
+          21,
+          21,
+          21,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "The best stories are built block by block. The best stories are built block by …",
+          "family": "DieGrotesk",
+          "size": 45.45,
+          "weight": "400",
+          "lineHeight": 0.96,
+          "letterSpacing": 0.008,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 20.75,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": 0.033,
+        "transform": "none"
+      },
+      "labels": [
+        "Fit for Any Forecast Fit for Any Foreca…",
+        "Watermelon Rind Watermelon Rind Beauty …",
+        "Soda's Back, but Better Soda's Back, bu…",
+        "Gentle Exfoliant Gentle Exfoliant Beaut…",
+        "Acne Care Acne Care Beauty Beauty",
+        "One Platform One Platform Software / Ap…",
+        "Running Kit Running Kit Apparel Apparel",
+        "Mix & Match Flavors Mix & Match Flavors…",
+        "Browse All Templates"
+      ],
+      "words": 124,
+      "excerpt": "Templates inspired by leading brands",
+      "media": {
+        "video": 24,
+        "svg": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "index-style__FeaturesSectionMain-sc-b57d8255-0.eDYyKD",
+      "y": 10903,
+      "height": 921,
+      "position": "relative",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "140px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 844,
+        "width": 530,
+        "gutterTop": 344,
+        "gutterBottom": 344
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "60px 25px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          37,
+          45
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Accelerate your content production. Accelerate your content production.",
+          "family": "DieGrotesk",
+          "size": 45.45,
+          "weight": "400",
+          "lineHeight": 0.96,
+          "letterSpacing": 0.008,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 20.75,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": 0.033,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 30,
+      "excerpt": "Butter makes it simple to scale your creative to every",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "index-style__DoubleBlockMain-sc-d8afaae0-0.hAJdHi",
+      "y": 11825,
+      "height": 999,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f66",
+      "padding": "140px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 116,
+        "gutterRight": 182,
+        "width": 1142,
+        "gutterTop": 190,
+        "gutterBottom": 190
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "25px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          45
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Turn anything into everything. Turn anything into everything.",
+          "family": "DieGrotesk",
+          "size": 45.45,
+          "weight": "400",
+          "lineHeight": 0.96,
+          "letterSpacing": 0.008,
+          "transform": "none",
+          "color": "#0f0f0f"
+        },
+        {
+          "tag": "h3",
+          "text": "High performance. Totally programmable. High performance. Totally programmable.",
+          "family": "DieGrotesk",
+          "size": 45.45,
+          "weight": "400",
+          "lineHeight": 0.96,
+          "letterSpacing": 0.008,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.31,
+        "letterSpacing": 0.044,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 52,
+      "excerpt": "Butter makes it simple to level up your text, logos, product shots,",
+      "media": {
+        "img": 2,
+        "video": 1,
+        "svg": 4
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "index-style__BlockHighlightMain-sc-cf45c5f7-0.gnRSHS",
+      "y": 12823,
+      "height": 986,
+      "position": "static",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#0f0f0f80",
+      "padding": "140px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 844,
+        "gutterRight": 66,
+        "width": 530,
+        "gutterTop": 260,
+        "gutterBottom": 275
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 25px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          37
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Justified Justified Studio",
+          "family": "DieGrotesk",
+          "size": 21.06,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0f0f0f"
+        },
+        {
+          "tag": "h3",
+          "text": "Dedcool ilovecreatives",
+          "family": "DieGrotesk",
+          "size": 21.06,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0f0f0f"
+        },
+        {
+          "tag": "h3",
+          "text": "Sad Wild Thing Kiel Dangler",
+          "family": "DieGrotesk",
+          "size": 21.06,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0f0f0f"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 41.67,
+        "weight": "400",
+        "lineHeight": 0.96,
+        "letterSpacing": 0.008,
+        "transform": "none"
+      },
+      "labels": [
+        "Justified Justified Studio",
+        "Dedcool ilovecreatives",
+        "Sad Wild Thing Kiel Dangler",
+        "All Blocks & Templates"
+      ],
+      "words": 17,
+      "excerpt": "All Blocks & Templates",
+      "media": {
+        "video": 12,
+        "svg": 3
+      }
+    },
+    {
+      "i": 16,
+      "tag": "footer",
+      "name": "index-style__FooterMain-sc-144eedcf-0.bdNowa",
+      "y": 13749,
+      "height": 1127,
+      "position": "relative",
+      "background": "#ededed",
+      "backgroundImage": false,
+      "color": "#1e1e1e",
+      "padding": "160px 0px 60px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 66,
+        "gutterRight": 66,
+        "width": 1308,
+        "gutterTop": 160,
+        "gutterBottom": 46
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "50px 25px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          14,
+          14,
+          14,
+          14,
+          14,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Product",
+          "family": "DieGrotesk",
+          "size": 20.75,
+          "weight": "400",
+          "lineHeight": 1.16,
+          "letterSpacing": 0.033,
+          "transform": "none",
+          "color": "#1e1e1e"
+        }
+      ],
+      "bodyType": {
+        "family": "DieGrotesk",
+        "size": 20.75,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": 0.033,
+        "transform": "none"
+      },
+      "labels": [
+        "Product Product",
+        "Pricing Pricing",
+        "Get in touch Get in touch",
+        "Instagram Instagram",
+        "Youtube Youtube",
+        "X X",
+        "LinkedIn LinkedIn",
+        "Pinterest Pinterest",
+        "Figma Plugin Figma Plugin",
+        "Privacy Policy Privacy Policy"
+      ],
+      "words": 45,
+      "excerpt": "All rights reserved.",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "index-style__R3FWrapper-sc-79d7a145-0.vKsMM",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "iubenda-cs-banner",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0f0f0f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 25,
+    "title": "Butter",
+    "award": "SOTD",
+    "url": "https://www.butter.video/",
+    "awwwards": "https://www.awwwards.com/sites/butter",
+    "categories": [
+      "Business & Corporate",
+      "Mobile & Apps",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

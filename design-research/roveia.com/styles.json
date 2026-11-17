@@ -1,0 +1,1351 @@
+{
+  "page": {
+    "url": "https://www.roveia.com/",
+    "title": "Roveia Health – Growth Marketing for Health, Wellness & Telehealth Brands",
+    "description": "We help health, wellness, and telehealth companies scale with compliant creative, high-performance paid media, and conversion-optimized funnels. Let’s grow together.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 23389,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.898
+      },
+      {
+        "value": "#eeeeee",
+        "share": 0.033
+      },
+      {
+        "value": "#000000a6",
+        "share": 0.031
+      },
+      {
+        "value": "#000000bf",
+        "share": 0.03
+      },
+      {
+        "value": "#000000",
+        "share": 0.005
+      },
+      {
+        "value": "#1414140d",
+        "share": 0.003
+      },
+      {
+        "value": "#218aff",
+        "share": 0.001
+      },
+      {
+        "value": "#101010",
+        "share": 0
+      },
+      {
+        "value": "#f2f2f2",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#101010",
+        "share": 0.329
+      },
+      {
+        "value": "#ffffffa3",
+        "share": 0.299
+      },
+      {
+        "value": "#11111199",
+        "share": 0.153
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.152
+      },
+      {
+        "value": "#f2f2f2",
+        "share": 0.027
+      },
+      {
+        "value": "#000000a3",
+        "share": 0.02
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.013
+      },
+      {
+        "value": "#0f0f0f66",
+        "share": 0.003
+      },
+      {
+        "value": "#218aff",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#0d0d0d14",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.996
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.028,
+        "transform": "none",
+        "chars": 3720
+      },
+      {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 3308
+      },
+      {
+        "family": "Manrope",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 197
+      },
+      {
+        "family": "Manrope",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.71,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 166
+      },
+      {
+        "family": "Manrope",
+        "size": 70,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.029,
+        "transform": "none",
+        "chars": 141
+      },
+      {
+        "family": "Manrope",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 111
+      },
+      {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 88
+      },
+      {
+        "family": "Manrope",
+        "size": 32,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.016,
+        "transform": "none",
+        "chars": 84
+      },
+      {
+        "family": "Manrope",
+        "size": 40,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 54
+      },
+      {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 49
+      },
+      {
+        "family": "Manrope",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.031,
+        "transform": "none",
+        "chars": 42
+      },
+      {
+        "family": "Manrope",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.013,
+        "transform": "none",
+        "chars": 41
+      },
+      {
+        "family": "Manrope",
+        "size": 80,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.006,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "Manrope",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.021,
+        "transform": "none",
+        "chars": 30
+      }
+    ],
+    "loadedFonts": [
+      "Manrope 300 normal",
+      "Manrope 400 normal",
+      "Manrope 500 normal",
+      "Manrope 600 normal",
+      "Manrope 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 104
+    },
+    {
+      "px": 16,
+      "uses": 93
+    },
+    {
+      "px": 40,
+      "uses": 82
+    },
+    {
+      "px": 4,
+      "uses": 78
+    },
+    {
+      "px": 24,
+      "uses": 50
+    },
+    {
+      "px": 20,
+      "uses": 31
+    },
+    {
+      "px": 80,
+      "uses": 21
+    },
+    {
+      "px": 12,
+      "uses": 20
+    },
+    {
+      "px": 100,
+      "uses": 12
+    },
+    {
+      "px": 10,
+      "uses": 10
+    },
+    {
+      "px": 32,
+      "uses": 10
+    },
+    {
+      "px": 868,
+      "uses": 10
+    },
+    {
+      "px": 112,
+      "uses": 6
+    },
+    {
+      "px": 56,
+      "uses": 2
+    },
+    {
+      "px": 160,
+      "uses": 2
+    },
+    {
+      "px": 837,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "8px",
+      "uses": 29
+    },
+    {
+      "value": "24px",
+      "uses": 17
+    },
+    {
+      "value": "999px",
+      "uses": 7
+    },
+    {
+      "value": "100px",
+      "uses": 5
+    },
+    {
+      "value": "40px",
+      "uses": 3
+    },
+    {
+      "value": "50%",
+      "uses": 3
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 27
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 12
+  },
+  "cssVariables": {
+    "--text-dark": "#101010",
+    "--white-smoke": "#f2f2f2",
+    "--black-15": "#10101026",
+    "--black-40": "#10101066",
+    "--primary-blue": "#218aff",
+    "--white-10": "#ffffff1a",
+    "--black-64": "#000000a3",
+    "--gray": "#222"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 767px",
+    "max 479px",
+    "min 768px",
+    "min 992px",
+    "min 1280px",
+    "min 1440px",
+    "min 1920px",
+    "min 0px",
+    "min 480px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "cursor-wrapper",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Open",
+          "family": "Manrope",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "Read full case study",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "section_home-hero",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#101010",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 152,
+        "gutterRight": 152,
+        "width": 1136,
+        "gutterTop": 156,
+        "gutterBottom": 116
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "56px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          79,
+          79,
+          79
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Where Health Brands Come to Scale Faster and Smarter",
+          "family": "Manrope",
+          "size": 70,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.029,
+          "transform": "none",
+          "color": "#101010"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Get Started"
+      ],
+      "words": 35,
+      "excerpt": "Compliant creative. High-performance media. Conversion-optimized funnels.",
+      "media": {
+        "img": 8,
+        "video": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "section_home-where-we-work",
+      "y": 1890,
+      "height": 630,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#101010",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 859,
+        "width": 461,
+        "gutterTop": 112,
+        "gutterBottom": 112
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          19,
+          83
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Who We Work With",
+          "family": "Manrope",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.016,
+          "transform": "none",
+          "color": "#101010"
+        },
+        {
+          "tag": "h3",
+          "text": "Telehealth",
+          "family": "Manrope",
+          "size": 80,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.006,
+          "transform": "none",
+          "color": "#101010"
+        },
+        {
+          "tag": "h3",
+          "text": "Health CPG",
+          "family": "Manrope",
+          "size": 80,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.006,
+          "transform": "none",
+          "color": "#101010"
+        },
+        {
+          "tag": "h3",
+          "text": "Health Tech",
+          "family": "Manrope",
+          "size": 80,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.006,
+          "transform": "none",
+          "color": "#101010"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 80,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.006,
+        "transform": "none"
+      },
+      "labels": [
+        "01 Telehealth",
+        "02 Health CPG",
+        "03 Health Tech"
+      ],
+      "words": 12,
+      "excerpt": "Who We Work With",
+      "media": {
+        "img": 9,
+        "svg": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "trusted",
+      "y": 2520,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffa3",
+      "padding": "16px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 222,
+        "gutterRight": 222,
+        "width": 996,
+        "gutterTop": 356,
+        "gutterBottom": -800
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          26,
+          34
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Trusted by over 100+ companies",
+          "family": "Manrope",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.021,
+          "transform": "none",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 341,
+      "excerpt": "July Health is a virtual clinic treating overlapping chronic conditions in women",
+      "media": {
+        "img": 26
+      }
+    },
+    {
+      "i": 5,
+      "tag": "a",
+      "name": "case-study-video-item.w-inline-block",
+      "y": 7020,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffb3",
+      "padding": "16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 194,
+        "gutterRight": 706,
+        "width": 540,
+        "gutterTop": 625,
+        "gutterBottom": 131
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          85,
+          85,
+          38
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Graymatter",
+          "family": "Manrope",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 43,
+      "excerpt": "Graymatter Labs’ Bright Mind is a plant-based, PhD-formulated drinkable ADHD supplement d…",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "a",
+      "name": "case-study-video-item.w-inline-block",
+      "y": 7920,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffb3",
+      "padding": "16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 194,
+        "gutterRight": 706,
+        "width": 540,
+        "gutterTop": 668,
+        "gutterBottom": 131
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          85,
+          38,
+          85
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Wellvia",
+          "family": "Manrope",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 17,
+      "excerpt": "Wellvia is a telehealth-based weight-loss provider offering personalized, medically suppo…",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "a",
+      "name": "case-study-video-item.w-inline-block",
+      "y": 8820,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffb3",
+      "padding": "16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 194,
+        "gutterRight": 706,
+        "width": 540,
+        "gutterTop": 625,
+        "gutterBottom": 131
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          85,
+          38,
+          85
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "DrWell",
+          "family": "Manrope",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 43,
+      "excerpt": "DrWell, a modern medical weight-loss brand, saw growing demand for its GLP-1",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "a",
+      "name": "case-study-video-item.w-inline-block",
+      "y": 9720,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffb3",
+      "padding": "16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 194,
+        "gutterRight": 706,
+        "width": 540,
+        "gutterTop": 646,
+        "gutterBottom": 131
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          85,
+          38,
+          85
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "TrimRX",
+          "family": "Manrope",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 32,
+      "excerpt": "Trim-Rx, a telehealth platform for prescription weight loss medications, wanted to lower",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "a",
+      "name": "case-study-video-item.w-inline-block",
+      "y": 10620,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffb3",
+      "padding": "16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 194,
+        "gutterRight": 706,
+        "width": 540,
+        "gutterTop": 625,
+        "gutterBottom": 131
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          85,
+          38,
+          85
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Verve Health",
+          "family": "Manrope",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 41,
+      "excerpt": "Verve Health, a provider of clinician-guided wellness services like BHRT and GLP-1",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "section_home-what-we-do",
+      "y": 11520,
+      "height": 847,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#101010",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 34,
+        "width": 1286,
+        "gutterTop": 112,
+        "gutterBottom": 160
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          12,
+          83
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What We Do",
+          "family": "Manrope",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.016,
+          "transform": "none",
+          "color": "#101010"
+        },
+        {
+          "tag": "h3",
+          "text": "Paid Acquisition",
+          "family": "Manrope",
+          "size": 32,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.016,
+          "transform": "none",
+          "color": "#101010"
+        },
+        {
+          "tag": "h3",
+          "text": "Creative Production",
+          "family": "Manrope",
+          "size": 32,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.016,
+          "transform": "none",
+          "color": "#101010"
+        },
+        {
+          "tag": "h3",
+          "text": "Email & SMS",
+          "family": "Manrope",
+          "size": 32,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.016,
+          "transform": "none",
+          "color": "#101010"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 96,
+      "excerpt": "Built To Reduce CAC And Grow Customer Lifetime Value",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "section_home-process",
+      "y": 14947,
+      "height": 877,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffa3",
+      "padding": "20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 260,
+        "width": 1060,
+        "gutterTop": 100,
+        "gutterBottom": 100
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          83
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "3 Step Growth Program",
+          "family": "Manrope",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.031,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "Internal Company Audit",
+          "family": "Manrope",
+          "size": 40,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        },
+        {
+          "tag": "h4",
+          "text": "Strategy and Planning",
+          "family": "Manrope",
+          "size": 40,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        },
+        {
+          "tag": "h4",
+          "text": "Let’s Scale",
+          "family": "Manrope",
+          "size": 40,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2f2"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 35,
+      "excerpt": "Understand needs, goals, KPI, customer base, product",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "founders",
+      "y": 15825,
+      "height": 750,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#101010",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 427,
+        "gutterRight": 19,
+        "width": 994,
+        "gutterTop": 298,
+        "gutterBottom": 298
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 7,
+        "childWidthsPct": [
+          41,
+          24,
+          26,
+          27,
+          28,
+          27,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Hear from founders ‍we've scaled",
+          "family": "Manrope",
+          "size": 70,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.029,
+          "transform": "none",
+          "color": "#101010"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 247,
+      "excerpt": "When our campaigns went live, results came fast. Within the first couple",
+      "media": {
+        "img": 6,
+        "video": 5
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "section_home-faq",
+      "y": 21975,
+      "height": 584,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#11111199",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 120,
+        "width": 1200,
+        "gutterTop": 60,
+        "gutterBottom": -28
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          34,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Answers to Popular Questions",
+          "family": "Manrope",
+          "size": 70,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.029,
+          "transform": "none",
+          "color": "#101010"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.028,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 229,
+      "excerpt": "We’re a lean, senior-led team of marketers, strategists, and creatives - with",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "footer",
+      "y": 22559,
+      "height": 830,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#101010",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 120,
+        "width": 1200,
+        "gutterTop": 112,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          52,
+          24,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Where the next decade of health gets built",
+          "family": "Manrope",
+          "size": 70,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.029,
+          "transform": "none",
+          "color": "#101010"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Get Started",
+        "Telehealth",
+        "Health CPG",
+        "Health Tech",
+        "Our Work",
+        "Blog",
+        "About Us",
+        "Careers",
+        "Privacy Policy",
+        "Terms of Service"
+      ],
+      "words": 44,
+      "excerpt": "Let’s build a compliant, scalable growth engine.",
+      "media": {
+        "img": 1,
+        "svg": 7
+      }
+    }
+  ],
+  "listing": {
+    "rank": 215,
+    "title": "Roveia Health",
+    "award": "HM",
+    "url": "https://www.roveia.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/roveia-health",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Technology"
+    ]
+  }
+}

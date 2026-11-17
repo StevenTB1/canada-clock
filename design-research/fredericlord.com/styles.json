@@ -1,0 +1,401 @@
+{
+  "page": {
+    "url": "https://fredericlord.com/",
+    "title": "Frédéric Lord — Creative director, Montréal",
+    "description": "Fred Lord helps businesses make sense and move forward, from strategy and design to code, in Montréal.",
+    "lang": "en-CA",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 3320,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#211b0f",
+        "share": 1
+      },
+      {
+        "value": "#a5d035",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#8c7f54",
+        "share": 0.557
+      },
+      {
+        "value": "#b5a96f",
+        "share": 0.431
+      },
+      {
+        "value": "#dfc767",
+        "share": 0.012
+      }
+    ],
+    "borders": [
+      {
+        "value": "#312a19",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0,
+      "text": 0
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4588
+      }
+    ],
+    "loadedFonts": [
+      "Inter 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 56
+    },
+    {
+      "px": 8,
+      "uses": 12
+    },
+    {
+      "px": 16,
+      "uses": 9
+    },
+    {
+      "px": 2,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 40,
+      "uses": 2
+    },
+    {
+      "px": 182,
+      "uses": 1
+    },
+    {
+      "px": 160,
+      "uses": 1
+    },
+    {
+      "px": 64,
+      "uses": 1
+    },
+    {
+      "px": 128,
+      "uses": 1
+    },
+    {
+      "px": 348,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s ease",
+        "uses": 65
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--bg": "#171209",
+    "--text": "#b5a96f",
+    "--muted": "#8c7f54",
+    "--line": "#312a19",
+    "--img": "#211b0f",
+    "--hover": "#c9c2a1",
+    "--status": "#e5483a",
+    "--online": "#a5d035",
+    "--new": "#dfc767",
+    "--u": "calc(100cqw / 1440)"
+  },
+  "breakpoints": [],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "index",
+      "y": 760,
+      "height": 1122,
+      "position": "absolute",
+      "background": "#171209",
+      "backgroundImage": false,
+      "color": "#8c7f54",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 664,
+        "gutterRight": 16,
+        "width": 760,
+        "gutterTop": 5,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 5,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          3,
+          17,
+          11,
+          17,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "No.",
+          "family": "Inter",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#8c7f54"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 409,
+      "excerpt": "“Frais du toît” campaign website",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "work",
+      "y": 2064,
+      "height": 468,
+      "position": "static",
+      "background": "#171209",
+      "backgroundImage": false,
+      "color": "#8c7f54",
+      "padding": "0px",
+      "margin": "182px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 0,
+        "gutterBottom": 1
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "normal 16px",
+        "justify": "normal",
+        "align": "start",
+        "children": 4,
+        "childWidthsPct": [
+          24,
+          24,
+          24,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Selected work",
+          "family": "Inter",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#8c7f54"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 26,
+      "excerpt": "Mtl you're so fly, digital experience",
+      "media": {
+        "img": 19
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "approach",
+      "y": 2692,
+      "height": 208,
+      "position": "static",
+      "background": "#171209",
+      "backgroundImage": false,
+      "color": "#b5a96f",
+      "padding": "0px",
+      "margin": "160px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "normal 16px",
+        "justify": "normal",
+        "align": "start",
+        "children": 4,
+        "childWidthsPct": [
+          24,
+          24,
+          24,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Approach",
+          "family": "Inter",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#8c7f54"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 114,
+      "excerpt": "Every project starts with understanding you: your business, your audience and how",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "footer",
+      "name": "ftr",
+      "y": 3248,
+      "height": 72,
+      "position": "static",
+      "background": "#171209",
+      "backgroundImage": false,
+      "color": "#8c7f54",
+      "padding": "0px 0px 40px",
+      "margin": "348px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 0,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          74,
+          24,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Thanks for scrolling by. Let’s make it make sense.",
+          "family": "Inter",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#b5a96f"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Let’s make it make sense.",
+        "EN",
+        "FR"
+      ],
+      "words": 18,
+      "excerpt": "Let’s make it make sense.",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 145,
+    "title": "Frédéric Lord",
+    "url": "https://fredericlord.com/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

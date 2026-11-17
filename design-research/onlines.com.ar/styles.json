@@ -1,0 +1,1164 @@
+{
+  "page": {
+    "url": "https://onlines.com.ar/",
+    "title": "Onlines — Diseño y desarrollo de sitios web",
+    "description": "Diseñamos y desarrollamos sitios web de alta calidad para empresas y organizaciones. Preparados para las personas y para los agentes de IA.",
+    "lang": "es-AR",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 9050,
+    "generator": "performance-lab 4.2.0; plugins: embed-optimizer, image-prioritizer, nocache-bfcache, speculation-rules, view-transitions"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.658
+      },
+      {
+        "value": "#fcf9f9",
+        "share": 0.117
+      },
+      {
+        "value": "#0859d4",
+        "share": 0.07
+      },
+      {
+        "value": "#f5f5f7",
+        "share": 0.061
+      },
+      {
+        "value": "#222222",
+        "share": 0.06
+      },
+      {
+        "value": "#ffffffe6",
+        "share": 0.014
+      },
+      {
+        "value": "#0659d32e",
+        "share": 0.011
+      },
+      {
+        "value": "#fbfbfb",
+        "share": 0.007
+      },
+      {
+        "value": "#1d1d1f",
+        "share": 0
+      },
+      {
+        "value": "#1bc47d",
+        "share": 0
+      },
+      {
+        "value": "#18a0fb",
+        "share": 0
+      },
+      {
+        "value": "#ef5533",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#424242",
+        "share": 0.307
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.232
+      },
+      {
+        "value": "#1d1d1f",
+        "share": 0.22
+      },
+      {
+        "value": "#98989c",
+        "share": 0.119
+      },
+      {
+        "value": "#41414166",
+        "share": 0.052
+      },
+      {
+        "value": "#f5f5f7",
+        "share": 0.037
+      },
+      {
+        "value": "#888888",
+        "share": 0.025
+      },
+      {
+        "value": "#d2d2d2",
+        "share": 0.007
+      },
+      {
+        "value": "#ffffffeb",
+        "share": 0.001
+      }
+    ],
+    "borders": [
+      {
+        "value": "#14141433",
+        "share": 0.348
+      },
+      {
+        "value": "#1d1d1f",
+        "share": 0.304
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.13
+      },
+      {
+        "value": "#d2d2d2",
+        "share": 0.13
+      },
+      {
+        "value": "#0859d4cc",
+        "share": 0.043
+      },
+      {
+        "value": "#1414141a",
+        "share": 0.043
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.917,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Inter Display",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 464
+      },
+      {
+        "family": "Inter Display",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 459
+      },
+      {
+        "family": "Inter Display",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 327
+      },
+      {
+        "family": "Inter Display",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 300
+      },
+      {
+        "family": "Inter Display",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 275
+      },
+      {
+        "family": "Inter Display",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 176
+      },
+      {
+        "family": "JetBrains Mono",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 169
+      },
+      {
+        "family": "Inter Display",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 143
+      },
+      {
+        "family": "Inter Display",
+        "size": 28,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 136
+      },
+      {
+        "family": "Inter Display",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 110
+      },
+      {
+        "family": "Inter Display",
+        "size": 13,
+        "weight": "500",
+        "lineHeight": 1.45,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 103
+      },
+      {
+        "family": "Inter Display",
+        "size": 36,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 101
+      },
+      {
+        "family": "Inter Display",
+        "size": 96,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.016,
+        "transform": "none",
+        "chars": 67
+      },
+      {
+        "family": "JetBrains Mono",
+        "size": 8,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.063,
+        "transform": "uppercase",
+        "chars": 67
+      }
+    ],
+    "loadedFonts": [
+      "Inter Display Fallback normal normal",
+      "JetBrains Mono Fallback normal normal",
+      "Inter Display 400 normal",
+      "Inter Display 500 normal",
+      "Inter Display 600 normal",
+      "Inter Display 700 normal",
+      "JetBrains Mono 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 5,
+      "uses": 52
+    },
+    {
+      "px": 10,
+      "uses": 34
+    },
+    {
+      "px": 16,
+      "uses": 20
+    },
+    {
+      "px": 20,
+      "uses": 18
+    },
+    {
+      "px": 54,
+      "uses": 18
+    },
+    {
+      "px": 6,
+      "uses": 17
+    },
+    {
+      "px": 2,
+      "uses": 17
+    },
+    {
+      "px": 15,
+      "uses": 13
+    },
+    {
+      "px": 25,
+      "uses": 13
+    },
+    {
+      "px": 4,
+      "uses": 10
+    },
+    {
+      "px": 40,
+      "uses": 9
+    },
+    {
+      "px": 100,
+      "uses": 6
+    },
+    {
+      "px": 14,
+      "uses": 6
+    },
+    {
+      "px": 120,
+      "uses": 4
+    },
+    {
+      "px": 50,
+      "uses": 4
+    },
+    {
+      "px": 35,
+      "uses": 3
+    }
+  ],
+  "radii": [
+    {
+      "value": "10px",
+      "uses": 22
+    },
+    {
+      "value": "20px",
+      "uses": 17
+    },
+    {
+      "value": "8px",
+      "uses": 10
+    },
+    {
+      "value": "100px",
+      "uses": 7
+    },
+    {
+      "value": "12px",
+      "uses": 6
+    },
+    {
+      "value": "6px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.8s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 77
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 38
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 21
+      },
+      {
+        "value": "0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "uses": 16
+      },
+      {
+        "value": "0.16s ease",
+        "uses": 16
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 12
+      }
+    ],
+    "cssAnimatedElements": 3,
+    "canvases": 7,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px",
+    "--wp-block-synced-color": "#7a00df",
+    "--wp-block-synced-color--rgb": "122,0,223",
+    "--wp-bound-block-color": "var(--wp-block-synced-color)",
+    "--wp-editor-canvas-background": "#ddd",
+    "--wp-admin-theme-color": "#007cba",
+    "--wp-admin-theme-color--rgb": "0,124,186",
+    "--wp-admin-theme-color-darker-10": "#006ba1",
+    "--wp-admin-theme-color-darker-10--rgb": "0,107,160.5",
+    "--wp-admin-theme-color-darker-20": "#005a87",
+    "--wp-admin-theme-color-darker-20--rgb": "0,90,135",
+    "--wp-admin-border-width-focus": "1.5px",
+    "--wp--preset--font-size--normal": "1rem",
+    "--wp--preset--font-size--huge": "42px",
+    "--wp--preset--aspect-ratio--square": "1",
+    "--wp--preset--aspect-ratio--4-3": "4/3",
+    "--wp--preset--aspect-ratio--3-4": "3/4",
+    "--wp--preset--aspect-ratio--3-2": "3/2",
+    "--wp--preset--aspect-ratio--2-3": "2/3",
+    "--wp--preset--aspect-ratio--16-9": "16/9",
+    "--wp--preset--aspect-ratio--9-16": "9/16",
+    "--wp--preset--color--black": "#000000",
+    "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+    "--wp--preset--color--white": "#ffffff",
+    "--wp--preset--color--pale-pink": "#f78da7",
+    "--wp--preset--color--vivid-red": "#cf2e2e",
+    "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+    "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+    "--wp--preset--color--light-green-cyan": "#7bdcb5",
+    "--wp--preset--color--vivid-green-cyan": "#00d084",
+    "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+    "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+    "--wp--preset--color--vivid-purple": "#9b51e0",
+    "--wp--preset--color--principal": "#000000",
+    "--wp--preset--color--secundario": "#666666",
+    "--wp--preset--color--texto": "#333333",
+    "--wp--preset--color--alternativo": "#fff",
+    "--wp--preset--color--custom-texto-corrido": "#424242",
+    "--wp--preset--color--custom-azul": "#0859d4",
+    "--wp--preset--color--custom-figma-verde": "#1bc47d",
+    "--wp--preset--color--custom-figma-violeta": "#6465ed",
+    "--wp--preset--color--custom-figma-rosa": "#ee46d3",
+    "--wp--preset--color--custom-figma-turquesa": "#00b5ce",
+    "--wp--preset--color--custom-figma-amarillo": "#ffc700",
+    "--wp--preset--color--custom-figma-naranja": "#ef5533",
+    "--wp--preset--color--custom-figma-celeste": "#18a0fb",
+    "--wp--preset--color--custom-titulos": "#1d1d1f",
+    "--wp--preset--color--custom-gris-claro": "#f5f5f7",
+    "--wp--preset--color--custom-azul-hover": "#1a59f9",
+    "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+    "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+    "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+    "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+    "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+    "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 4",
+    "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+    "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%",
+    "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 10",
+    "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) ",
+    "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+    "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+    "--wp--preset--gradient--custom-degrade": "linear-gradient(180deg,rgb(0,0,0) 1%,rgb(250,35,38) 17%,rgb(250,208,52) 34%,rgb(",
+    "--wp--preset--font-size--small": "0.75rem",
+    "--wp--preset--font-size--medium": "1.25rem",
+    "--wp--preset--font-size--large": "1.5rem",
+    "--wp--preset--font-size--x-large": "2rem",
+    "--wp--preset--font-size--semi-normal": ".875rem",
+    "--wp--preset--font-size--semi-medium": "1.125rem",
+    "--wp--preset--font-size--2-x-large": "2.5rem",
+    "--wp--preset--font-size--3-x-large": "3rem",
+    "--wp--preset--font-size--4-x-large": "4rem",
+    "--wp--preset--font-size--5-x-large": "5rem",
+    "--wp--preset--font-size--6-x-large": "6rem",
+    "--wp--preset--font-family--inter-display": "\"Inter Display\", \"Inter Display Fallback\", sans-serif",
+    "--wp--preset--font-family--jetbrains-mono": "\"JetBrains Mono\", \"JetBrains Mono Fallback\", monospace",
+    "--wp--preset--spacing--20": "0.44rem",
+    "--wp--preset--spacing--30": "0.67rem",
+    "--wp--preset--spacing--40": "1rem",
+    "--wp--preset--spacing--50": "5px"
+  },
+  "breakpoints": [
+    "max 1023px",
+    "max 63.9375rem",
+    "max 1400px",
+    "max 369px",
+    "max 600px",
+    "max 89.5rem"
+  ],
+  "tech": [
+    "lenis",
+    "wordpress"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header.wp-block-template-part",
+      "y": 0,
+      "height": 88,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1326,
+        "gutterRight": 20,
+        "width": 94,
+        "gutterTop": 32,
+        "gutterBottom": 25
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "20px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          5,
+          99
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Hablemos",
+          "family": "Inter Display",
+          "size": 14,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Hablemos"
+      ],
+      "words": 1,
+      "excerpt": "Hablemos",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "home-hero.wp-block-onlines-home-hero",
+      "y": 88,
+      "height": 800,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 165,
+        "gutterRight": 173,
+        "width": 1102,
+        "gutterTop": 182,
+        "gutterBottom": 134
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "internet.",
+          "family": "Inter Display",
+          "size": 180,
+          "weight": "700",
+          "lineHeight": 0.53,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#1d1d1f"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 13,
+        "weight": "500",
+        "lineHeight": 1.45,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 34,
+      "excerpt": "Diseñado y desarrollado a medida.",
+      "media": {
+        "img": 13,
+        "svg": 7
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "home-quote-block__sticky.js-quote-sticky",
+      "y": 1008,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#f5f5f7",
+      "padding": "120px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 271,
+        "gutterRight": 271,
+        "width": 897,
+        "gutterTop": 188,
+        "gutterBottom": 197
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Hacemos sitios web de alta calidad para empresas, gobiernos y organizaciones.",
+          "family": "Inter Display",
+          "size": 96,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": -0.016,
+          "transform": "none",
+          "color": "#1d1d1f"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 96,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.016,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 21,
+      "excerpt": "organizaciones.",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "home-servicios.px-1rem-mob",
+      "y": 3903,
+      "height": 774,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "30px 0px 160px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 124,
+        "gutterBottom": 120
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          31,
+          31,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Diseño de experiencias y de interfaces",
+          "family": "Inter Display",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Desarrollo de sitios web a medida",
+          "family": "Inter Display",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Servicios digitales personalizados",
+          "family": "Inter Display",
+          "size": 36,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Diseño de experiencias y de interfaces …",
+        "Desarrollo de sitios web a medida Nuest…",
+        "Servicios digitales personalizados Nos …"
+      ],
+      "words": 135,
+      "excerpt": "Nuestro equipo se especializa en desarrollar sitios web completamente autoadministrables …",
+      "media": {
+        "canvas": 3
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "home-bloque-dark-mode.px-1rem-mob",
+      "y": 4677,
+      "height": 1041,
+      "position": "relative",
+      "background": "#fcf9f9",
+      "backgroundImage": false,
+      "color": "#1d1d1f",
+      "padding": "150px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 140,
+        "gutterRight": 665,
+        "width": 635,
+        "gutterTop": 250,
+        "gutterBottom": 150
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "25px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          81,
+          81
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "De cero a uno",
+          "family": "Inter Display",
+          "size": 72,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#1d1d1f"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Agendar una llamada"
+      ],
+      "words": 70,
+      "excerpt": "Sabemos que es difícil que las ideas se conviertan en realidad y",
+      "media": {
+        "img": 2,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "home-equipo.wp-block-onlines-home-equipo",
+      "y": 5718,
+      "height": 947,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1f",
+      "padding": "100px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 112,
+        "gutterRight": 59,
+        "width": 1270,
+        "gutterTop": 221,
+        "gutterBottom": 218
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          84,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Un equipo que ama internet.",
+          "family": "Inter Display",
+          "size": 96,
+          "weight": "700",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#1d1d1f"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Ver búsquedas abiertas"
+      ],
+      "words": 41,
+      "excerpt": "Buscamos desarrollar front-end",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "home-portfolio.pt-[80px]",
+      "y": 6665,
+      "height": 989,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#98989c",
+      "padding": "80px 0px 200px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 140,
+        "gutterRight": 132,
+        "width": 1168,
+        "gutterTop": 125,
+        "gutterBottom": 390
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          39,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Los detalles no son detalles",
+          "family": "Inter Display",
+          "size": 72,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#1d1d1f"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Ver portfolio"
+      ],
+      "words": 44,
+      "excerpt": "Consideramos que diseño y desarrollo son inseparables e indivisibles en nuestro proceso",
+      "media": {
+        "img": 17
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "ultimas-noticias.px-1rem-mob",
+      "y": 7655,
+      "height": 522,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#424242",
+      "padding": "0px",
+      "margin": "0px 20px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 360,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          31,
+          31,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "La IA está cambiando la ciberseguridad: ¿está preparado tu sitio web?",
+          "family": "Inter Display",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1f"
+        },
+        {
+          "tag": "h4",
+          "text": "Publicar en tu sitio web y distribuir en otros lugares",
+          "family": "Inter Display",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1f"
+        },
+        {
+          "tag": "h4",
+          "text": "Diseño web centrado en el usuario y sus principios clave",
+          "family": "Inter Display",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1f"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "La IA está cambiando la ciberseguridad:…",
+        "Publicar en tu sitio web y distribuir e…",
+        "Diseño web centrado en el usuario y sus…"
+      ],
+      "words": 106,
+      "excerpt": "OpenAI publicó una carta que llama a fortalecer colectivamente la ciberdefensa frente",
+      "media": {
+        "img": 3,
+        "canvas": 3
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "home-contacto.wp-block-onlines-home-contacto",
+      "y": 8177,
+      "height": 809,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#98989c",
+      "padding": "150px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 90,
+        "gutterRight": 230,
+        "width": 1120,
+        "gutterTop": 226,
+        "gutterBottom": 202
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "50px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          36,
+          43
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Hagamos un proyecto juntos",
+          "family": "Inter Display",
+          "size": 72,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#1d1d1f"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Display",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Hablemos"
+      ],
+      "words": 29,
+      "excerpt": "Transformemos tus ideas en un sitio web de alta calidad que funcione",
+      "media": {
+        "img": 11,
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "footer",
+      "name": "footer.mt-0",
+      "y": 8986,
+      "height": 64,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#41414166",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 201,
+        "gutterRight": 201,
+        "width": 1038,
+        "gutterTop": 26,
+        "gutterBottom": 25
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "2008–2026 TODOS LOS DERECHOS RESERVADOS. ONLINES ES PARTE DE ÓRBITA HOLDING. CÓ…",
+          "family": "JetBrains Mono",
+          "size": 10,
+          "weight": "500",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#41414166"
+        }
+      ],
+      "bodyType": {
+        "family": "JetBrains Mono",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "CÓRDOBA 645 PISO 1 OFICINA 3, ROSARIO, …",
+        "SERVICIOS",
+        "TÉRMINOS Y CONDICIONES",
+        "PRIVACIDAD"
+      ],
+      "words": 28,
+      "excerpt": "2008–2026 Todos los derechos reservados. Onlines es parte de Órbita Holding.",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 123,
+    "title": "Onlines",
+    "award": "HM",
+    "url": "https://onlines.com.ar/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/onlines",
+    "categories": [
+      "Web & Interactive",
+      "Portfolio",
+      "Design Agencies"
+    ]
+  }
+}

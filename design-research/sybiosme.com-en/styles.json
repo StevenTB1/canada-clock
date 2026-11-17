@@ -1,0 +1,589 @@
+{
+  "page": {
+    "url": "https://www.sybiosme.com/en",
+    "title": "Custom Website Design Subscription | SYBIOSME",
+    "description": "A custom website, live in 10 days with no setup fees. Our team provides ongoing support from CA$169/month. You own your site from month 13.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.637
+      },
+      {
+        "value": "#f5f5f5",
+        "share": 0.156
+      },
+      {
+        "value": "#00000073",
+        "share": 0.06
+      },
+      {
+        "value": "#f3f2f2",
+        "share": 0.042
+      },
+      {
+        "value": "#666666",
+        "share": 0.025
+      },
+      {
+        "value": "#fa6b2a",
+        "share": 0.018
+      },
+      {
+        "value": "#1f1f1f",
+        "share": 0.018
+      },
+      {
+        "value": "#ffffff0d",
+        "share": 0.014
+      },
+      {
+        "value": "#fe4701",
+        "share": 0.013
+      },
+      {
+        "value": "#111111",
+        "share": 0.009
+      },
+      {
+        "value": "#c6c6c6",
+        "share": 0.006
+      },
+      {
+        "value": "#0000008c",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#111111",
+        "share": 0.396
+      },
+      {
+        "value": "#686868",
+        "share": 0.201
+      },
+      {
+        "value": "#aaaaaa",
+        "share": 0.16
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.151
+      },
+      {
+        "value": "#ffffffcc",
+        "share": 0.038
+      },
+      {
+        "value": "#fe4701",
+        "share": 0.023
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0.016
+      },
+      {
+        "value": "#eeeeee",
+        "share": 0.012
+      },
+      {
+        "value": "#ffffffb8",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#00000033",
+        "share": 0.886
+      },
+      {
+        "value": "#ffffff1f",
+        "share": 0.091
+      },
+      {
+        "value": "#111111",
+        "share": 0.023
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.968,
+      "text": 0.976
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 17,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 2494
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 513
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 23.04,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 507
+      },
+      {
+        "family": "Overused Grotesk",
+        "size": 46.08,
+        "weight": "500",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 310
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 17,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 279
+      },
+      {
+        "family": "Overused Grotesk",
+        "size": 48,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 236
+      },
+      {
+        "family": "Overused Grotesk",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 211
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 17,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 211
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.028,
+        "transform": "none",
+        "chars": 168
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 17,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 131
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 130
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 88
+      },
+      {
+        "family": "Overused Grotesk",
+        "size": 51.12,
+        "weight": "500",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 58
+      },
+      {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.028,
+        "transform": "uppercase",
+        "chars": 38
+      }
+    ],
+    "loadedFonts": [
+      "SYBIOSME Numerals Copy 400 normal",
+      "SYBIOSME Numerals Copy 500 normal",
+      "Overused Grotesk 400 normal",
+      "Overused Grotesk 500 normal",
+      "Overused Grotesk Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 145
+    },
+    {
+      "px": 16,
+      "uses": 130
+    },
+    {
+      "px": 32,
+      "uses": 113
+    },
+    {
+      "px": 48,
+      "uses": 61
+    },
+    {
+      "px": 12,
+      "uses": 54
+    },
+    {
+      "px": 8,
+      "uses": 45
+    },
+    {
+      "px": 43,
+      "uses": 32
+    },
+    {
+      "px": 9,
+      "uses": 24
+    },
+    {
+      "px": 1,
+      "uses": 24
+    },
+    {
+      "px": 13,
+      "uses": 20
+    },
+    {
+      "px": 60,
+      "uses": 18
+    },
+    {
+      "px": 4,
+      "uses": 15
+    },
+    {
+      "px": 73,
+      "uses": 12
+    },
+    {
+      "px": 21,
+      "uses": 11
+    },
+    {
+      "px": 6,
+      "uses": 8
+    },
+    {
+      "px": 96,
+      "uses": 8
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 29
+    },
+    {
+      "value": "54px",
+      "uses": 23
+    },
+    {
+      "value": "38px",
+      "uses": 21
+    },
+    {
+      "value": "24px",
+      "uses": 12
+    },
+    {
+      "value": "999px",
+      "uses": 9
+    },
+    {
+      "value": "16px",
+      "uses": 6
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.14s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 54
+      },
+      {
+        "value": "0.2s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 52
+      },
+      {
+        "value": "0.14s ease",
+        "uses": 19
+      },
+      {
+        "value": "0.28s cubic-bezier(0.2, 1, 0.25, 1)",
+        "uses": 13
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.24s cubic-bezier(0.32, 0.72, 0, 1)",
+        "uses": 6
+      }
+    ],
+    "cssAnimatedElements": 19,
+    "canvases": 14,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--lattice": "10.5px",
+    "--rule-day": "300px",
+    "--rule-line": ".5",
+    "--rule-align": "0",
+    "--font-sans": "\"SYBIOSME Numerals Copy\", \"Overused Grotesk\", \"Overused Grotesk Fallback\", \"Helv",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--spacing": ".25rem",
+    "--font-weight-normal": "400",
+    "--ease-in": "cubic-bezier(.4, 0, 1, 1)",
+    "--ease-out": "cubic-bezier(.22, 1, .36, 1)",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-brand-ink": "#111",
+    "--color-brand-ink-soft": "#686868",
+    "--color-brand-paper": "#f5f5f5",
+    "--color-brand-white": "#fff",
+    "--color-brand-rule": "#0000001f",
+    "--color-brand-orange": "#fe4701",
+    "--color-brand-orange-deep": "#db3e00",
+    "--color-brand-red": "#e91923",
+    "--color-brand-blush": "#fedfe0",
+    "--color-brand-grey": "#6a6a6a",
+    "--color-brand-graphite": "#3f3f3f",
+    "--color-brand-void": "#141414",
+    "--color-resource-cover-background": "#2b2b2b",
+    "--color-brand-live": "#4ade80",
+    "--color-floating-panel": "#00000073",
+    "--color-canvas": "var(--color-brand-paper)",
+    "--color-ink": "var(--color-brand-ink)",
+    "--color-ink-soft": "var(--color-brand-ink-soft)",
+    "--color-rule": "var(--color-brand-rule)",
+    "--color-rule-soft": "#0000001a",
+    "--color-ring": "#11111142",
+    "--color-panel": "var(--color-brand-white)",
+    "--color-panel-ink": "var(--color-brand-ink)",
+    "--color-field": "#1111110d",
+    "--color-sink": "#11111114",
+    "--color-accent": "var(--color-brand-orange)",
+    "--color-focus": "var(--color-brand-orange)",
+    "--color-button-primary": "var(--color-brand-orange)",
+    "--color-button-border": "#0000002e",
+    "--color-error": "var(--color-brand-red)",
+    "--color-field-error": "var(--color-brand-blush)",
+    "--color-mark-sepa": "#10298e",
+    "--color-mark-sepa-ink": "#fff",
+    "--spacing-gutter": "clamp(1.5rem, 1.0628rem + 1.7937vw, 3rem)",
+    "--spacing-margin": "var(--spacing-gutter)",
+    "--spacing-3xs": "calc(var(--spacing-gutter) / 6)",
+    "--spacing-2xs": "calc(var(--spacing-gutter) / 4)",
+    "--spacing-xs": "calc(var(--spacing-gutter) / 3)",
+    "--spacing-sm": "calc(var(--spacing-gutter) / 2)",
+    "--spacing-md": "var(--spacing-gutter)",
+    "--spacing-copy": "calc(var(--spacing-gutter) * 2 / 3)",
+    "--spacing-row": "max(1.25rem, calc(var(--spacing-gutter) / 2))",
+    "--spacing-lg": "clamp(2.25rem, 1.7399rem + 2.0927vw, 4rem)",
+    "--spacing-xl": "clamp(3rem, 2.417rem + 2.3916vw, 5rem)",
+    "--spacing-2xl": "clamp(4rem, 3.1256rem + 3.5874vw, 7rem)",
+    "--spacing-3xl": "clamp(5rem, 3.8341rem + 4.7833vw, 9rem)",
+    "--spacing-logo": "2rem",
+    "--spacing-menu": "3rem",
+    "--spacing-tap": "3rem",
+    "--spacing-tap-min": "1.5rem",
+    "--spacing-field": "4.875rem",
+    "--spacing-field-x": "clamp(1.5rem, 1.3543rem + .5979vw, 2rem)",
+    "--spacing-btn": "3rem",
+    "--spacing-btn-compact": "2rem",
+    "--spacing-btn-x": "1rem",
+    "--spacing-btn-inset": "2px",
+    "--spacing-btn-icon": "1rem",
+    "--spacing-btn-label": "3.75rem",
+    "--spacing-btn-end": "2rem",
+    "--spacing-btn-nudge": ".75rem",
+    "--spacing-disc": "2rem",
+    "--spacing-toggle": "clamp(2.5rem, 2.3543rem + .5979vw, 3rem)",
+    "--header-inset": "var(--spacing-margin)",
+    "--header-control": "3rem",
+    "--mark-width": "38px"
+  },
+  "breakpoints": [
+    "min 48rem",
+    "min 64rem",
+    "max 47.999rem",
+    "max 89.999rem",
+    "min 68rem",
+    "min 80rem",
+    "max 63.999rem",
+    "min 90rem",
+    "min 40rem",
+    "min 96rem"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#f5f5f5",
+      "backgroundImage": false,
+      "color": "#111111",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 21,
+        "gutterRight": 18,
+        "width": 1401,
+        "gutterTop": -75,
+        "gutterBottom": -18249
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Your custom website, live in 10 days. A team behind your growth.",
+          "family": "Overused Grotesk",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "A website that works for you. Not the other way around.",
+          "family": "Overused Grotesk",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "You share the essentials. You share the essentials.",
+          "family": "Overused Grotesk",
+          "size": 46.08,
+          "weight": "500",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "You discover a first design. You discover a first design.",
+          "family": "Overused Grotesk",
+          "size": 46.08,
+          "weight": "500",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "SYBIOSME Numerals Copy",
+        "size": 17,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Skip to content",
+        "Contact",
+        "Audio",
+        "Account",
+        "Menu",
+        "Book a call 20min – No commitment Book …",
+        "Explore our plans Explore our plans",
+        "Get started Get started",
+        "Remove a language",
+        "Add a language"
+      ],
+      "words": 981,
+      "excerpt": "Your tailor-made website is online in 10 days, with no setup fee.",
+      "media": {
+        "img": 56,
+        "canvas": 14,
+        "svg": 34
+      }
+    }
+  ],
+  "listing": {
+    "rank": 199,
+    "title": "SYBIOSME",
+    "award": "HM",
+    "url": "https://sybiosme.com/en",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/sybiosme",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive"
+    ]
+  }
+}

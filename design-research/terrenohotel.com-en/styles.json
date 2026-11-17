@@ -1,0 +1,1128 @@
+{
+  "page": {
+    "url": "https://www.terrenohotel.com/en/",
+    "title": "Terreno Barrio Hotel | Boutique hotel in Palma de Mallorca",
+    "description": "Boutique hotel in Palma de Mallorca with Mediterranean design, local character, rooftop moments and direct booking benefits on the official website.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10842,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#da423d",
+        "share": 0.81
+      },
+      {
+        "value": "#12121280",
+        "share": 0.067
+      },
+      {
+        "value": "#46464633",
+        "share": 0.067
+      },
+      {
+        "value": "#570007",
+        "share": 0.038
+      },
+      {
+        "value": "#ecffb2",
+        "share": 0.011
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.005
+      },
+      {
+        "value": "#d93636",
+        "share": 0.001
+      },
+      {
+        "value": "#ecffb3",
+        "share": 0.001
+      },
+      {
+        "value": "#590007",
+        "share": 0
+      },
+      {
+        "value": "#5d010b",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ecffb3",
+        "share": 0.31
+      },
+      {
+        "value": "#d93636",
+        "share": 0.302
+      },
+      {
+        "value": "#e3f0a9",
+        "share": 0.129
+      },
+      {
+        "value": "#590007",
+        "share": 0.114
+      },
+      {
+        "value": "#570007",
+        "share": 0.097
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.017
+      },
+      {
+        "value": "#666666",
+        "share": 0.011
+      },
+      {
+        "value": "#333333",
+        "share": 0.01
+      },
+      {
+        "value": "#000000",
+        "share": 0.006
+      },
+      {
+        "value": "#ecffb2",
+        "share": 0.003
+      },
+      {
+        "value": "#ebffb7",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ecffb3",
+        "share": 0.571
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.19
+      },
+      {
+        "value": "#570007",
+        "share": 0.095
+      },
+      {
+        "value": "#dddddd",
+        "share": 0.048
+      },
+      {
+        "value": "#d93636",
+        "share": 0.048
+      },
+      {
+        "value": "#590007",
+        "share": 0.048
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.139,
+      "text": 0.044
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Tiempos Text",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1343
+      },
+      {
+        "family": "Tiempos Text",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 341
+      },
+      {
+        "family": "Tiempos Text",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 316
+      },
+      {
+        "family": "WT Central Avenue",
+        "size": 40,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 188
+      },
+      {
+        "family": "WT Central Avenue",
+        "size": 50,
+        "weight": "700",
+        "lineHeight": 0.92,
+        "letterSpacing": 0.048,
+        "transform": "uppercase",
+        "chars": 173
+      },
+      {
+        "family": "Tiempos Text",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.21,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 162
+      },
+      {
+        "family": "PP Monument Extended",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 120
+      },
+      {
+        "family": "WT Central Avenue",
+        "size": 68,
+        "weight": "700",
+        "lineHeight": 0.88,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 106
+      },
+      {
+        "family": "PP Monument Extended",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 93
+      },
+      {
+        "family": "PP Monument Extended",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 65
+      },
+      {
+        "family": "WT Central Avenue",
+        "size": 50,
+        "weight": "700",
+        "lineHeight": 0.92,
+        "letterSpacing": 0.048,
+        "transform": "none",
+        "chars": 55
+      },
+      {
+        "family": "PP Monument Extended",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 53
+      },
+      {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.29,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 37
+      },
+      {
+        "family": "PP Monument Extended",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.07,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 31
+      }
+    ],
+    "loadedFonts": [
+      "PP Monument Extended 400 normal",
+      "Tiempos Text 400 normal",
+      "Tiempos Text 700 normal",
+      "WT Central Avenue 700 normal",
+      "Blitz Script 400 normal",
+      "PP Monument Extended 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 88
+    },
+    {
+      "px": 8,
+      "uses": 52
+    },
+    {
+      "px": 40,
+      "uses": 27
+    },
+    {
+      "px": 20,
+      "uses": 19
+    },
+    {
+      "px": 7,
+      "uses": 16
+    },
+    {
+      "px": 16,
+      "uses": 14
+    },
+    {
+      "px": 15,
+      "uses": 12
+    },
+    {
+      "px": 2,
+      "uses": 11
+    },
+    {
+      "px": 30,
+      "uses": 9
+    },
+    {
+      "px": 38,
+      "uses": 8
+    },
+    {
+      "px": 24,
+      "uses": 7
+    },
+    {
+      "px": 80,
+      "uses": 7
+    },
+    {
+      "px": 28,
+      "uses": 6
+    },
+    {
+      "px": 14,
+      "uses": 6
+    },
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 70,
+      "uses": 5
+    }
+  ],
+  "radii": [
+    {
+      "value": "20px",
+      "uses": 4
+    },
+    {
+      "value": "4px",
+      "uses": 2
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    },
+    {
+      "value": "8px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s ease-in",
+        "uses": 10
+      },
+      {
+        "value": "0.3s ease-out",
+        "uses": 8
+      },
+      {
+        "value": "0.6s linear",
+        "uses": 5
+      },
+      {
+        "value": "0.6s ease-out",
+        "uses": 4
+      },
+      {
+        "value": "0.2s cubic-bezier(0.1, 0.1, 0.25, 0.9)",
+        "uses": 2
+      },
+      {
+        "value": "0.85s ease-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 7,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--mirai-ui-font": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"A",
+    "--mirai-ui-font-weight": "400",
+    "--mirai-ui-font-medium": "var(--mirai-ui-font)",
+    "--mirai-ui-font-medium-weight": "500",
+    "--mirai-ui-font-bold": "var(--mirai-ui-font)",
+    "--mirai-ui-font-bold-weight": "700",
+    "--mirai-ui-font-size-headline-1": "32px",
+    "--mirai-ui-line-height-headline-1": "40px",
+    "--mirai-ui-font-size-headline-2": "24px",
+    "--mirai-ui-line-height-headline-2": "32px",
+    "--mirai-ui-font-size-headline-3": "20px",
+    "--mirai-ui-line-height-headline-3": "24px",
+    "--mirai-ui-font-size-paragraph": "16px",
+    "--mirai-ui-line-height-paragraph": "20px",
+    "--mirai-ui-font-size-action": "14px",
+    "--mirai-ui-line-height-action": "18px",
+    "--mirai-ui-font-size-small": "12px",
+    "--mirai-ui-line-height-small": "16px",
+    "--mirai-ui-font-size-tiny": "10px",
+    "--mirai-ui-line-height-tiny": "12px",
+    "--mirai-ui-text-direction": "ltr",
+    "--mirai-ui-text-align": "left",
+    "--mirai-ui-base": "#fff",
+    "--mirai-ui-content": "#333",
+    "--mirai-ui-content-background": "#f6f6f6",
+    "--mirai-ui-content-border": "#ddd",
+    "--mirai-ui-content-light": "#666",
+    "--mirai-ui-content-dark": "#000",
+    "--mirai-ui-accent": "#2574a9",
+    "--mirai-ui-accent-background": "#edf3f8",
+    "--mirai-ui-accent-border": "#a8c7dd",
+    "--mirai-ui-accent-light": "#669ec3",
+    "--mirai-ui-accent-dark": "#174868",
+    "--mirai-ui-error": "#d32f2f",
+    "--mirai-ui-error-background": "#fdeded",
+    "--mirai-ui-error-border": "#fad6d6",
+    "--mirai-ui-error-light": "#e58282",
+    "--mirai-ui-error-dark": "#7f1c1c",
+    "--mirai-ui-warning": "#663c00",
+    "--mirai-ui-warning-background": "#fff4e5",
+    "--mirai-ui-warning-border": "#ffe5c2",
+    "--mirai-ui-warning-light": "#a38a66",
+    "--mirai-ui-warning-dark": "#3d2400",
+    "--mirai-ui-success": "#0f7614",
+    "--mirai-ui-success-background": "#edf7ed",
+    "--mirai-ui-success-border": "#d5ecd5",
+    "--mirai-ui-success-light": "#789079",
+    "--mirai-ui-success-dark": "#122a13",
+    "--mirai-ui-info": "#014361",
+    "--mirai-ui-info-background": "#e6f5fd",
+    "--mirai-ui-info-border": "#c6e8fa",
+    "--mirai-ui-info-light": "#678ea0",
+    "--mirai-ui-info-dark": "#01283a",
+    "--mirai-ui-space-XXS": "4px",
+    "--mirai-ui-space-XS": "8px",
+    "--mirai-ui-space-S": "12px",
+    "--mirai-ui-space-M": "16px",
+    "--mirai-ui-space-L": "24px",
+    "--mirai-ui-space-XL": "48px",
+    "--mirai-ui-space-XXL": "64px",
+    "--mirai-ui-breakpoint-S": "480px",
+    "--mirai-ui-breakpoint-M": "1180px",
+    "--mirai-ui-breakpoint-L": "1366px",
+    "--mirai-ui-breakpoint-content": "1280px",
+    "--mirai-ui-motion-collapse": ".2s",
+    "--mirai-ui-motion-expand": ".3s",
+    "--mirai-ui-motion-easing": "cubic-bezier(.1,.1,.25,.9)",
+    "--mirai-ui-input-font": "var(--mirai-ui-font)",
+    "--mirai-ui-input-font-size": "16px",
+    "--mirai-ui-input-min-height": "var(--mirai-ui-space-XL)",
+    "--mirai-ui-border-color": "var(--mirai-ui-content-light)",
+    "--mirai-ui-border-radius": "var(--mirai-ui-space-XXS)",
+    "--mirai-ui-border-width": "1px",
+    "--mirai-ui-shadow": "0 0 var(--mirai-ui-space-S)#00000026",
+    "--mirai-ui-focus-color": "var(--mirai-ui-accent-dark)",
+    "--mirai-ui-focus-color-shadow": "var(--mirai-ui-accent-border)",
+    "--mirai-ui-focus-width": "var(--mirai-ui-space-XXS)",
+    "--mirai-ui-focus-shadow": "0 0 0 var(--mirai-ui-focus-width)var(--mirai-ui-focus-color-shadow)",
+    "--mirai-ui-row-direction": "row",
+    "--mirai-ui-checkbox-background": "var(--mirai-ui-base)"
+  },
+  "breakpoints": [
+    "min 1280px",
+    "min 768px",
+    "min 1024px",
+    "max 767px",
+    "max 1023px",
+    "max 551px",
+    "max 1194px",
+    "max 834px",
+    "max 1279px",
+    "max 440px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "panel_herohome0_0",
+      "y": 50,
+      "height": 900,
+      "position": "relative",
+      "background": "#da423d",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 475,
+        "gutterRight": 475,
+        "width": 490,
+        "gutterTop": 569,
+        "gutterBottom": 141
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px 34px",
+        "justify": "flex-end",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          59,
+          34
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "A HOTEL WITH A NEIGHBORHOOD SOUL",
+          "family": "WT Central Avenue",
+          "size": 68,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.29,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SCROLL TO DISCOVER TERRENO"
+      ],
+      "words": 22,
+      "excerpt": "a hotel with a neighborhood soul",
+      "media": {
+        "img": 1,
+        "svg": 10
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "panel_seofull0_0",
+      "y": 610,
+      "height": 1103,
+      "position": "relative",
+      "background": "#da423d",
+      "backgroundImage": false,
+      "color": "#e3f0a9",
+      "padding": "0px 0px 340px",
+      "margin": "-340px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 340,
+        "gutterRight": 340,
+        "width": 760,
+        "gutterTop": 108,
+        "gutterBottom": 356
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          17,
+          53,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "TERRENO IS PART OF THE NEIGHBOURHOOD. THE NEIGHBOURHOOD IS PART OF TERRENO.",
+          "family": "WT Central Avenue",
+          "size": 68,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#e3f0a9"
+        }
+      ],
+      "bodyType": {
+        "family": "Tiempos Text",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 73,
+      "excerpt": "Some neighbourhoods have something you can’t quite put your finger on. You",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 3,
+      "tag": "header",
+      "name": "module-header",
+      "y": 1773,
+      "height": 104,
+      "position": "static",
+      "background": "#da423d",
+      "backgroundImage": false,
+      "color": "#ecffb3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "25px 40px",
+        "justify": "flex-start",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          55,
+          37
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "OUR ROOMS",
+          "family": "PP Monument Extended",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.44,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ecffb3"
+        },
+        {
+          "tag": "h2",
+          "text": "THE PLACE TO STAY",
+          "family": "WT Central Avenue",
+          "size": 50,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.048,
+          "transform": "uppercase",
+          "color": "#ecffb3"
+        }
+      ],
+      "bodyType": {
+        "family": "Tiempos Text",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 56,
+      "excerpt": "It isn’t easy to feel at home. It all starts with a",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "main",
+      "name": "module-items",
+      "y": 1957,
+      "height": 2368,
+      "position": "static",
+      "background": "#da423d",
+      "backgroundImage": false,
+      "color": "#ecffb3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 100,
+        "width": 1300,
+        "gutterTop": 20,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "80px 40px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 8,
+        "childWidthsPct": [
+          46,
+          46,
+          46,
+          46,
+          46,
+          46,
+          46,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "DELUXE DOUBLE WITH BALCONY",
+          "family": "WT Central Avenue",
+          "size": 40,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ecffb3"
+        }
+      ],
+      "bodyType": {
+        "family": "WT Central Avenue",
+        "size": 40,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 66,
+      "excerpt": "BELLVER JUNIOR SUITE WITH TERRACE",
+      "media": {
+        "img": 8,
+        "svg": 8
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "panel_24horas0_0",
+      "y": 4505,
+      "height": 956,
+      "position": "static",
+      "background": "#da423d",
+      "backgroundImage": false,
+      "color": "#d93636",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 33,
+        "gutterBottom": 72
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "38px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          26,
+          40,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "LIVE LIKE A LOCAL",
+          "family": "PP Monument Extended",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.44,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#d93636"
+        },
+        {
+          "tag": "h2",
+          "text": "A DAY IN OUR NEIGHBOURHOOD",
+          "family": "WT Central Avenue",
+          "size": 50,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.048,
+          "transform": "uppercase",
+          "color": "#d93636"
+        }
+      ],
+      "bodyType": {
+        "family": "Tiempos Text",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "A DAY IN THE NEIGHBOURHOOD"
+      ],
+      "words": 63,
+      "excerpt": "Are neighbours born or made? See what a day in our neighbourhood",
+      "media": {
+        "img": 4,
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "module-content",
+      "y": 5461,
+      "height": 720,
+      "position": "sticky",
+      "background": "#da423d",
+      "backgroundImage": false,
+      "color": "#d93636",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1034,
+        "gutterRight": 36,
+        "width": 370,
+        "gutterTop": 123,
+        "gutterBottom": 100
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "130.92px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          57,
+          0,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FOOD, UNFILTERED",
+          "family": "WT Central Avenue",
+          "size": 50,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.048,
+          "transform": "uppercase",
+          "color": "#d93636"
+        },
+        {
+          "tag": "h2",
+          "text": "ON THE ROOFTOP, WATCHING THE SEA WITH A DRINK IN HAND",
+          "family": "WT Central Avenue",
+          "size": 50,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.048,
+          "transform": "uppercase",
+          "color": "#d93636"
+        },
+        {
+          "tag": "h2",
+          "text": "FILM, DANCING OR PURE RELAXATION",
+          "family": "WT Central Avenue",
+          "size": 50,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.048,
+          "transform": "uppercase",
+          "color": "#d93636"
+        },
+        {
+          "tag": "h2",
+          "text": "WHATEVER YOUR BODY FEELS LIKE",
+          "family": "WT Central Avenue",
+          "size": 50,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.048,
+          "transform": "uppercase",
+          "color": "#d93636"
+        }
+      ],
+      "bodyType": {
+        "family": "Tiempos Text",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SEE MORE"
+      ],
+      "words": 127,
+      "excerpt": "Stopping for a drink. It’s how we take a break and meet",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "panel_destacadosbarrio0_0",
+      "y": 8161,
+      "height": 1730,
+      "position": "static",
+      "background": "#da423d",
+      "backgroundImage": false,
+      "color": "#570007",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 354,
+        "gutterRight": 359,
+        "width": 727,
+        "gutterTop": 114,
+        "gutterBottom": 125
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          48,
+          94,
+          56
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Welcome to",
+          "family": "Blitz Script",
+          "size": 156,
+          "weight": "400",
+          "lineHeight": 0.83,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#570007"
+        },
+        {
+          "tag": "h2",
+          "text": "A HOTEL IN A NEIGHBOURHOOD. A NEIGHBOURHOOD IN A HOTEL.",
+          "family": "WT Central Avenue",
+          "size": 50,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.048,
+          "transform": "none",
+          "color": "#570007"
+        }
+      ],
+      "bodyType": {
+        "family": "Tiempos Text",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "EXPLORE THE NEIGHBOURHOOD"
+      ],
+      "words": 55,
+      "excerpt": "A neighbourhood only makes sense if you help build it. This project",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "panel_footer0_0",
+      "y": 9891,
+      "height": 951,
+      "position": "static",
+      "background": "#da423d",
+      "backgroundImage": false,
+      "color": "#ecffb3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 544,
+        "gutterBottom": 101
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "9,7",
+          "family": "PP Monument Extended",
+          "size": 26,
+          "weight": "400",
+          "lineHeight": 1.46,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ecffb3"
+        }
+      ],
+      "bodyType": {
+        "family": "Tiempos Text",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.21,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "(+34) 871624624",
+        "hola@terrenohotel.com",
+        "CONTACT",
+        "Barrio",
+        "Hotel",
+        "FAQs",
+        "Instagram",
+        "Tripadvisor",
+        "Legal Notice",
+        "Privacy Policy"
+      ],
+      "words": 57,
+      "excerpt": "Terreno barrio hotel is a property of grupo piñero in palma de",
+      "media": {
+        "img": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "cookiescript_injected_wrapper",
+      "y": 1187,
+      "height": 900,
+      "position": "fixed",
+      "background": "#12121280",
+      "backgroundImage": false,
+      "color": "#590007",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 375,
+        "gutterRight": 360,
+        "width": 705,
+        "gutterTop": 352,
+        "gutterBottom": 351
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "normal",
+        "justify": "right",
+        "align": "flex-start",
+        "children": 5,
+        "childWidthsPct": [
+          1,
+          48,
+          48,
+          26,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "This website uses cookies",
+          "family": "Tiempos Text",
+          "size": 21,
+          "weight": "600",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#590007"
+        }
+      ],
+      "bodyType": {
+        "family": "Tiempos Text",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Política de cookies"
+      ],
+      "words": 66,
+      "excerpt": "We use cookies to personalise content, ads and to analyse our traffic.",
+      "media": {
+        "svg": 5
+      }
+    }
+  ],
+  "listing": {
+    "rank": 182,
+    "title": "https://www.terrenohotel.com/",
+    "award": "HM",
+    "url": "https://www.terrenohotel.com/en/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/https-www-terrenohotel-com",
+    "categories": [
+      "Business & Corporate",
+      "Hotel / Restaurant"
+    ]
+  }
+}

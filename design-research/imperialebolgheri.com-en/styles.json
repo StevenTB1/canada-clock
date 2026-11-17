@@ -1,0 +1,466 @@
+{
+  "page": {
+    "url": "https://www.imperialebolgheri.com/en/",
+    "title": "Imperiale Bolgheri Wine Estate",
+    "description": "Welcome to our world: a wine estate in the heart of Bolgheri, where wine tells true stories and warmly welcomes wine lovers.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.462
+      },
+      {
+        "value": "#131313",
+        "share": 0.307
+      },
+      {
+        "value": "#1d1d1d",
+        "share": 0.231
+      }
+    ],
+    "text": [
+      {
+        "value": "#e6ddaa",
+        "share": 0.983
+      },
+      {
+        "value": "#000000",
+        "share": 0.017
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.017
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "DM Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 329
+      },
+      {
+        "family": "Alfarn",
+        "size": 25.92,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 86
+      },
+      {
+        "family": "Alfarn",
+        "size": 150.43,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 48
+      },
+      {
+        "family": "DM Mono",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 34
+      },
+      {
+        "family": "DM Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 24
+      }
+    ],
+    "loadedFonts": [
+      "DM Mono 400 normal",
+      "DM Mono 500 normal",
+      "Inter 100 900 italic",
+      "Inter 100 900 normal",
+      "alfarn 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 50
+    },
+    {
+      "px": 23,
+      "uses": 8
+    },
+    {
+      "px": 18,
+      "uses": 4
+    },
+    {
+      "px": 28,
+      "uses": 4
+    },
+    {
+      "px": 144,
+      "uses": 4
+    },
+    {
+      "px": 9,
+      "uses": 4
+    },
+    {
+      "px": 27,
+      "uses": 2
+    },
+    {
+      "px": 46,
+      "uses": 2
+    },
+    {
+      "px": 35,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 198,
+      "uses": 1
+    },
+    {
+      "px": 54,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "9px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 13
+      },
+      {
+        "value": "1s cubic-bezier(0.23, 1, 0.32, 1)",
+        "uses": 7
+      },
+      {
+        "value": "1.6s cubic-bezier(0.23, 1, 0.32, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.8s cubic-bezier(0.165, 0.84, 0.44, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.5s cubic-bezier(0.165, 0.84, 0.44, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--fluid-screen": "2560px",
+    "--fluid-bp": "calc((var(--fluid-screen) - 20rem) / 2240)",
+    "--step--2": "12px",
+    "--step--1": "14px",
+    "--step-0": "calc(1rem + 4 * var(--fluid-bp))",
+    "--step-1": "calc(1.15rem + 7.2 * var(--fluid-bp))",
+    "--step-2": "calc(1.3225rem + 11.61 * var(--fluid-bp))",
+    "--step-3": "calc(1.520625rem + 17.61 * var(--fluid-bp))",
+    "--step-4": "calc(1.74875rem + 25.71 * var(--fluid-bp))",
+    "--step-5": "calc(2.01125rem + 36.54 * var(--fluid-bp))",
+    "--step-6": "calc(2.313125rem + 50.95 * var(--fluid-bp))",
+    "--step-7": "calc(2.66rem + 70.03 * var(--fluid-bp))",
+    "--step-8": "calc(3.05875rem + 95.18 * var(--fluid-bp))",
+    "--step-9": "calc(3.518125rem + 128.18 * var(--fluid-bp))",
+    "--step-10": "calc(4.045625rem + 171.39 * var(--fluid-bp))",
+    "--space-3xs": "calc(0.25rem + 1 * var(--fluid-bp))",
+    "--space-2xs": "calc(0.5rem + 2 * var(--fluid-bp))",
+    "--space-xs": "calc(0.75rem + 3 * var(--fluid-bp))",
+    "--space-s": "calc(1rem + 4 * var(--fluid-bp))",
+    "--space-m": "calc(1.5rem + 6 * var(--fluid-bp))",
+    "--space-l": "calc(2rem + 8 * var(--fluid-bp))",
+    "--space-xl": "calc(3rem + 12 * var(--fluid-bp))",
+    "--space-2xl": "calc(4rem + 16 * var(--fluid-bp))",
+    "--space-3xl": "calc(6rem + 24 * var(--fluid-bp))",
+    "--space-4xl": "calc(8rem + 32 * var(--fluid-bp))",
+    "--space-5xl": "calc(10rem + 40 * var(--fluid-bp))",
+    "--space-3xs-2xs": "calc(0.25rem + 6 * var(--fluid-bp))",
+    "--space-2xs-xs": "calc(0.5rem + 7 * var(--fluid-bp))",
+    "--space-xs-s": "calc(0.75rem + 8 * var(--fluid-bp))",
+    "--space-s-m": "calc(1rem + 14 * var(--fluid-bp))",
+    "--space-m-l": "calc(1.5rem + 16 * var(--fluid-bp))",
+    "--space-l-xl": "calc(2rem + 28 * var(--fluid-bp))",
+    "--space-xl-2xl": "calc(3rem + 32 * var(--fluid-bp))",
+    "--space-2xl-3xl": "calc(4rem + 56 * var(--fluid-bp))",
+    "--space-3xl-4xl": "calc(6rem + 64 * var(--fluid-bp))",
+    "--space-4xl-5xl": "calc(8rem + 72 * var(--fluid-bp))",
+    "--space-2xs-s": "calc(0.5rem + 12 * var(--fluid-bp))",
+    "--space-xs-m": "calc(0.75rem + 18 * var(--fluid-bp))",
+    "--space-s-l": "calc(1rem + 24 * var(--fluid-bp))",
+    "--space-xl-4xl": "calc(3rem + 112 * var(--fluid-bp))",
+    "--space-2xl-5xl": "calc(4rem + 136 * var(--fluid-bp))",
+    "--container-padding": "var(--space-s-m)",
+    "--gutter-x": "var(--space-s-m)",
+    "--gutter-y": "var(--space-s-m)",
+    "--color-black": "#000",
+    "--color-almost-black": "#131313",
+    "--color-dark-gray": "#1d1d1d",
+    "--color-sand": "#e6ddaa",
+    "--color-blue-dark": "#101f32",
+    "--color-blue": "#1c2a3c",
+    "--color-light-blue": "#2b3d54",
+    "--theme-swatch-1": "var(--color-black)",
+    "--theme-swatch-2": "var(--color-almost-black)",
+    "--theme-swatch-3": "var(--color-dark-gray)",
+    "--font-family-body": "\"Inter\",sans-serif",
+    "--font-family-mono": "\"DM Mono\",sans-serif",
+    "--font-family-heading": "\"Alfarn\",sans-serif",
+    "--body-font-family": "var(--font-family-body)",
+    "--body-bg": "var(--theme-swatch-1)",
+    "--body-color": "var(--color-sand)",
+    "--body-line-height": "calc(0.8em + 0.7rem)",
+    "--space-section": "var(--space-2xl)",
+    "--btn-py": "var(--space-xs-s)",
+    "--btn-px": "var(--space-s)",
+    "--btn-small-py": "var(--space-2xs-s)",
+    "--btn-small-px": "var(--space-s)",
+    "--btn-large-py": "var(--space-xs-m)",
+    "--btn-large-px": "var(--space-s-l)",
+    "--btn-line-height": "1.2",
+    "--btn-font-size": "var(--step--1)",
+    "--btn-height": "calc(var(--btn-font-size) * var(--btn-line-height) + var(--btn-py) * 2)",
+    "--btn-small-height": "calc(var(--btn-font-size) * var(--btn-line-height) + var(--btn-small-py) * 2)",
+    "--site-header-padding": "var(--container-padding)",
+    "--site-header-height": "calc(var(--btn-small-height) + var(--site-header-padding) * 2)",
+    "--logo-height": "calc(var(--btn-small-height) - 4px)",
+    "--column-width": "calc((100% - var(--gutter-x) * 11) / 12)",
+    "--column-width-gutter": "calc(var(--column-width) + var(--gutter-x))",
+    "--swiper-pagination-color": "var(--body-color)",
+    "--swiper-pagination-bullet-inactive-color": "var(--body-color)",
+    "--swiper-pagination-bullet-inactive-opacity": "0.5"
+  },
+  "breakpoints": [
+    "min 768px",
+    "min 992px",
+    "max 767.98px",
+    "max 991.98px",
+    "min 1420px",
+    "max 576px",
+    "max 440px",
+    "max 352px",
+    "max 425px",
+    "min 1960px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "c-site-header",
+      "y": 0,
+      "height": 91,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#e6ddaa",
+      "padding": "23px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "c-site-menu",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#e6ddaa",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 23,
+        "gutterRight": 23,
+        "width": 1394,
+        "gutterTop": 23,
+        "gutterBottom": 141
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          97,
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "HOME",
+          "family": "Alfarn",
+          "size": 25.92,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#e6ddaa"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "MENU CLOSE",
+        "ITALIANO",
+        "00 HOME 00 HOME",
+        "01 THE IDEA 01 THE IDEA",
+        "02 THE STORIES 02 THE STORIES",
+        "03 WINE 03 WINE",
+        "04 DRINK IT 04 DRINK IT",
+        "05 CONTACTS 05 CONTACTS",
+        "DISCOVER THE RISTOENOTECA",
+        "LOC. LE FERRUGGINI 155/A 57022 - BOLGHE…"
+      ],
+      "words": 50,
+      "excerpt": "57022 - Bolgheri Castagneto",
+      "media": {
+        "img": 6,
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "c-mask",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#e6ddaa",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "c-loading.is-ready",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#e6ddaa",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 144,
+        "gutterRight": 144,
+        "width": 1152,
+        "gutterTop": 315,
+        "gutterBottom": 150
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "IMPERIALE BOLGHERI",
+          "family": "Alfarn",
+          "size": 150.43,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#e6ddaa"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 12,
+      "excerpt": "and we like it",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 81,
+    "title": "Imperiale Bolgheri",
+    "award": "HM",
+    "url": "https://www.imperialebolgheri.com/en/",
+    "awwwards": "https://www.awwwards.com/sites/imperiale-bolgheri",
+    "categories": [
+      "Business & Corporate",
+      "Food & Drink"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

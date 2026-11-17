@@ -1,0 +1,597 @@
+{
+  "page": {
+    "url": "https://grids03.obys.agency/",
+    "title": "Grids — DES Season 03",
+    "description": "Grids is an interactive project exploring grids, composition, and key design principles through visual experiments. First launched in 2021 and visited by 600,000+ designers, it now continues as Season 03 of Design Education Series.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 39270,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.878
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0.079
+      },
+      {
+        "value": "#dedfd9",
+        "share": 0.036
+      },
+      {
+        "value": "#000000",
+        "share": 0.007
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.985
+      },
+      {
+        "value": "#b2b2b2",
+        "share": 0.011
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.004
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 2376
+      },
+      {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 925
+      },
+      {
+        "family": "Obys Sans",
+        "size": 90,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 45
+      },
+      {
+        "family": "Obys Sans",
+        "size": 378,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 25
+      }
+    ],
+    "loadedFonts": [
+      "Obys Sans 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 1,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--s": "calc(var(--vw,100vw) / 1440)",
+    "--color-bg": "#fff",
+    "--color-ink": "#000",
+    "--color-ground": "#dedfd9",
+    "--color-rule": "#e1e1e1",
+    "--layer-gl": "0",
+    "--layer-content": "2",
+    "--layer-header": "3",
+    "--layer-preloader": "50",
+    "--grid-columns": "12",
+    "--grid-margin": "20",
+    "--grid-gutter": "20"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "preloader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "canvas",
+      "name": "stage",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "intro",
+      "y": 0,
+      "height": 1235,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 19,
+        "gutterRight": 21,
+        "width": 1400,
+        "gutterTop": 128,
+        "gutterBottom": 113
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "A B O U T G R I D S S 0 3",
+          "family": "Obys Sans",
+          "size": 90,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.06,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Grids"
+      ],
+      "words": 228,
+      "excerpt": "4+ hours on grids and composition.",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "grid-block",
+      "y": 1235,
+      "height": 2137,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 110,
+        "gutterRight": 20,
+        "width": 1310,
+        "gutterTop": 28,
+        "gutterBottom": 482
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "00",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.17,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 52,
+      "excerpt": "Basics of Composition,",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "story__stage",
+      "y": 3372,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 97,
+        "gutterRight": 7,
+        "width": 1336,
+        "gutterTop": 6,
+        "gutterBottom": -115
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "4 - C O L U M N",
+          "family": "Obys Sans",
+          "size": 90,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "G R I D",
+          "family": "Obys Sans",
+          "size": 90,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "1 0 P X",
+          "family": "Obys Sans",
+          "size": 90,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "G U T T E R",
+          "family": "Obys Sans",
+          "size": 90,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 48,
+      "excerpt": "Set Up Columns",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "grid-block",
+      "y": 8187,
+      "height": 2377,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 110,
+        "gutterRight": 20,
+        "width": 1310,
+        "gutterTop": 28,
+        "gutterBottom": 167
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "06",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.17,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 64,
+      "excerpt": "Useful Tools for Grids...",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "interlude__stage",
+      "y": 10564,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 242,
+        "gutterRight": 154,
+        "width": 1044,
+        "gutterTop": -6,
+        "gutterBottom": 528
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "i",
+          "text": "G",
+          "family": "Obys Sans",
+          "size": 378,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 378,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 29,
+      "excerpt": "these tools",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "grid-block",
+      "y": 18609,
+      "height": 2042,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 110,
+        "gutterRight": 20,
+        "width": 1310,
+        "gutterTop": -2,
+        "gutterBottom": 414
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "12",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.17,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 62,
+      "excerpt": "Working on Project pt.1:",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "about",
+      "y": 20651,
+      "height": 1010,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 110,
+        "gutterRight": 20,
+        "width": 1310,
+        "gutterTop": 620,
+        "gutterBottom": -6
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "i",
+          "text": "About Project:",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b2b2b2"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Grids",
+        "More About Season",
+        "Enroll Now",
+        "Learn for Free",
+        "Obys"
+      ],
+      "words": 141,
+      "excerpt": "been visited by more than 600,000 designers. It later",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "finale",
+      "y": 21662,
+      "height": 1800,
+      "position": "relative",
+      "background": "#dedfd9",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "1px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 195,
+    "title": "Grids",
+    "award": "SOTD",
+    "url": "https://grids03.obys.agency/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/grids-1",
+    "categories": [
+      "Culture & Education",
+      "Web & Interactive",
+      "Experimental"
+    ]
+  }
+}

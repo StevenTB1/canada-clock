@@ -1,0 +1,540 @@
+{
+  "page": {
+    "url": "https://www.mondriantribute.com/",
+    "title": "Mondrian — Interactive Journey Through Piet Mondrian's Art",
+    "description": "Explore Piet Mondrian's artistic evolution in an interactive WebGL experience — from early landscapes to neoplastic abstraction and the rhythm of New York.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f6f3ee",
+        "share": 0.5
+      },
+      {
+        "value": "#0a0908",
+        "share": 0.5
+      },
+      {
+        "value": "#1a2a8f",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#d8d1c8",
+        "share": 0.928
+      },
+      {
+        "value": "#c1121f",
+        "share": 0.04
+      },
+      {
+        "value": "#0a0908",
+        "share": 0.031
+      }
+    ],
+    "borders": [
+      {
+        "value": "#0a0908",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.959
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ZT Neue Ralewe",
+        "size": 27,
+        "weight": "500",
+        "lineHeight": 2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 577
+      },
+      {
+        "family": "GeneralSans",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "GeneralSans",
+        "size": 15,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 19
+      },
+      {
+        "family": "ZT Neue Ralewe",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.05,
+        "transform": "uppercase",
+        "chars": 13
+      },
+      {
+        "family": "ZT Neue Ralewe",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 12
+      },
+      {
+        "family": "ZT Neue Ralewe",
+        "size": 180,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 12
+      },
+      {
+        "family": "GeneralSans",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.05,
+        "transform": "uppercase",
+        "chars": 8
+      },
+      {
+        "family": "ZT Neue Ralewe",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 8
+      }
+    ],
+    "loadedFonts": [
+      "ZT Neue Ralewe 400 normal",
+      "GeneralSans 500 normal",
+      "GeneralSans 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 1,
+      "uses": 4
+    },
+    {
+      "px": 6,
+      "uses": 4
+    },
+    {
+      "px": 15,
+      "uses": 4
+    },
+    {
+      "px": 10,
+      "uses": 3
+    },
+    {
+      "px": 60,
+      "uses": 2
+    },
+    {
+      "px": 30,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "100%",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.8s ease-out",
+        "uses": 3
+      },
+      {
+        "value": "0.6s ease-in-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 3,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-primary": "\"ZT Neue Ralewe\", sans-serif",
+    "--font-secondary": "\"GeneralSans\", sans-serif",
+    "--black-m": "#0a0908",
+    "--red-m": "#c1121f",
+    "--red-m-hover": "#9e0f19",
+    "--yellow-m": "#d9b70d",
+    "--yellow-m-light": "#e8cd58",
+    "--blue-m": "#1a2a8f",
+    "--blue-m-light": "#4052b5",
+    "--blue-m-dark": "#19232a",
+    "--white-m": "#f6f3ee",
+    "--white-m-light": "#f9f7f4",
+    "--orange-m": "#d93718",
+    "--base-m": "#d8d1c8",
+    "--base-m-soft": "#e5ded5",
+    "--base-m-dark": "#c8bdb0",
+    "--stone-light": "#d9d2cb",
+    "--stone-medium": "#bdafa3",
+    "--mobile-gutter": "2.4rem",
+    "--mobile-cols": "12",
+    "--leva-colors-elevation1": "#292d39",
+    "--leva-colors-elevation2": "#181c20",
+    "--leva-colors-elevation3": "#373c4b",
+    "--leva-colors-accent1": "#0066dc",
+    "--leva-colors-accent2": "#007bff",
+    "--leva-colors-accent3": "#3c93ff",
+    "--leva-colors-highlight1": "#535760",
+    "--leva-colors-highlight2": "#8c92a4",
+    "--leva-colors-highlight3": "#fefefe",
+    "--leva-colors-vivid1": "#ffcc00",
+    "--leva-colors-folderWidgetColor": "var(--leva-colors-highlight2)",
+    "--leva-colors-folderTextColor": "var(--leva-colors-highlight3)",
+    "--leva-colors-toolTipBackground": "var(--leva-colors-highlight3)",
+    "--leva-colors-toolTipText": "var(--leva-colors-elevation2)",
+    "--leva-radii-xs": "2px",
+    "--leva-radii-sm": "3px",
+    "--leva-radii-lg": "10px",
+    "--leva-space-xs": "3px",
+    "--leva-space-sm": "6px",
+    "--leva-space-md": "10px",
+    "--leva-space-rowGap": "7px",
+    "--leva-space-colGap": "7px",
+    "--leva-fonts-mono": "ui-monospace, SFMono-Regular, Menlo, 'Roboto Mono', monospace",
+    "--leva-fonts-sans": "system-ui, sans-serif",
+    "--leva-fontSizes-root": "11px",
+    "--leva-fontSizes-toolTip": "var(--leva-fontSizes-root)",
+    "--leva-sizes-rootWidth": "280px",
+    "--leva-sizes-controlWidth": "160px",
+    "--leva-sizes-numberInputMinWidth": "38px",
+    "--leva-sizes-scrubberWidth": "8px",
+    "--leva-sizes-scrubberHeight": "16px",
+    "--leva-sizes-rowHeight": "24px",
+    "--leva-sizes-folderTitleHeight": "20px",
+    "--leva-sizes-checkboxSize": "16px",
+    "--leva-sizes-joystickWidth": "100px",
+    "--leva-sizes-joystickHeight": "100px",
+    "--leva-sizes-colorPickerWidth": "var(--leva-sizes-controlWidth)",
+    "--leva-sizes-colorPickerHeight": "100px",
+    "--leva-sizes-imagePreviewWidth": "var(--leva-sizes-controlWidth)",
+    "--leva-sizes-imagePreviewHeight": "100px",
+    "--leva-sizes-monitorHeight": "60px",
+    "--leva-sizes-titleBarHeight": "39px",
+    "--leva-shadows-level1": "0 0 9px 0 #00000088",
+    "--leva-shadows-level2": "0 4px 14px #00000033",
+    "--leva-borderWidths-root": "0px",
+    "--leva-borderWidths-input": "1px",
+    "--leva-borderWidths-focus": "1px",
+    "--leva-borderWidths-hover": "1px",
+    "--leva-borderWidths-active": "1px",
+    "--leva-borderWidths-folder": "1px",
+    "--leva-fontWeights-label": "normal",
+    "--leva-fontWeights-folder": "normal",
+    "--leva-fontWeights-button": "normal"
+  },
+  "breakpoints": [
+    "max 979px",
+    "max 1279px",
+    "min 1280px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "Loader-module__HxmtFG__intro.flex",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f6f3ee",
+      "backgroundImage": false,
+      "color": "#c1121f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 525,
+        "gutterRight": 525,
+        "width": 390,
+        "gutterTop": 271,
+        "gutterBottom": 232
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          17,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "PIET MON DRI AN",
+          "family": "ZT Neue Ralewe",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#c1121f"
+        }
+      ],
+      "bodyType": {
+        "family": "ZT Neue Ralewe",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 14,
+      "excerpt": "Enter",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "basis-8/12.Home-module__kroEBW__col__center",
+      "y": 15,
+      "height": 870,
+      "position": "relative",
+      "background": "#0a0908",
+      "backgroundImage": false,
+      "color": "#d8d1c8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 368,
+        "gutterRight": 17,
+        "width": 1056,
+        "gutterTop": 223,
+        "gutterBottom": 223
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Mondrian spent his entire",
+          "family": "ZT Neue Ralewe",
+          "size": 27,
+          "weight": "500",
+          "lineHeight": 2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#d8d1c8"
+        }
+      ],
+      "bodyType": {
+        "family": "ZT Neue Ralewe",
+        "size": 27,
+        "weight": "500",
+        "lineHeight": 2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 112,
+      "excerpt": "life searching for balance and perfection.",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "Home-module__kroEBW__scroll__container",
+      "y": 781,
+      "height": 79,
+      "position": "absolute",
+      "background": "#0a0908",
+      "backgroundImage": false,
+      "color": "#d8d1c8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 10,
+        "gutterBottom": 54
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "SCROLL TO DECOMPOSE",
+          "family": "GeneralSans",
+          "size": 15,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#d8d1c8"
+        }
+      ],
+      "bodyType": {
+        "family": "GeneralSans",
+        "size": 15,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "Scroll to decompose",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "cursor-module__2w3xva__cursor__container",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f6f3ee",
+      "backgroundImage": false,
+      "color": "#0a0908",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "canvas-container",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f6f3ee",
+      "backgroundImage": false,
+      "color": "#0a0908",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "canvas-menu",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f6f3ee",
+      "backgroundImage": false,
+      "color": "#0a0908",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "canvas-intro",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f6f3ee",
+      "backgroundImage": false,
+      "color": "#0a0908",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 58,
+    "title": "A tribute to Piet Mondrian",
+    "award": "HM",
+    "url": "https://www.mondriantribute.com/",
+    "awwwards": "https://www.awwwards.com/sites/a-tribute-to-piet-mondrian",
+    "categories": [
+      "Art & Illustration"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

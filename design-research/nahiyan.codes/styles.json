@@ -1,0 +1,414 @@
+{
+  "page": {
+    "url": "https://nahiyan.codes/",
+    "title": "Home • Personal site",
+    "description": "Nahiyan Khan is a product engineer at Block, building agentic products, human-AI interfaces, and tools for builders.",
+    "lang": "en-US",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": "Astro v4.15.11"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#101012",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#ebeeef",
+        "share": 0.969
+      },
+      {
+        "value": "#a7b1b4",
+        "share": 0.02
+      },
+      {
+        "value": "#859093",
+        "share": 0.011
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Commit Mono",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 934
+      },
+      {
+        "family": "Commit Mono",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 58
+      },
+      {
+        "family": "Commit Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 21
+      },
+      {
+        "family": "Commit Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 2.91,
+        "letterSpacing": 0.1,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Widescreen Ex",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 12
+      }
+    ],
+    "loadedFonts": [
+      "Widescreen Ex 400 normal",
+      "Commit Mono 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 15
+    },
+    {
+      "px": 16,
+      "uses": 11
+    },
+    {
+      "px": 12,
+      "uses": 6
+    },
+    {
+      "px": 40,
+      "uses": 4
+    },
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 32,
+      "uses": 2
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 56,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "8px",
+      "uses": 5
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.12s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 4,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--slate-0": "0deg 0% 100%",
+    "--slate-10": "233deg 100% 96%",
+    "--slate-20": "233deg 28% 81%",
+    "--slate-30": "233deg 22% 41%",
+    "--slate-40": "250deg 11% 26%",
+    "--slate-50": "250deg 9% 17%",
+    "--slate-60": "247deg 8% 12%",
+    "--phosphor-void": "0deg 0% 0%",
+    "--crt-housing-deep": "0deg 0% 0%",
+    "--crt-housing": "240deg 3% 4%",
+    "--phosphor-void-lift": "var(--crt-housing-deep)",
+    "--phosphor-primary": "29deg 98% 52%",
+    "--phosphor-bright": "25deg 95% 58%",
+    "--phosphor-mid": "22deg 72% 43%",
+    "--phosphor-dim": "22deg 48% 30%",
+    "--phosphor-grid": "215deg 48% 43%",
+    "--phosphor-grid-deep": "213deg 86% 33%",
+    "--phosphor-blue": "218deg 76% 48%",
+    "--phosphor-blue-glow": "218deg 82% 58%",
+    "--phosphor-white": "192deg 10% 93%",
+    "--phosphor-data": "var(--phosphor-white)",
+    "--phosphor-data-dim": "192deg 8% 68%",
+    "--paper-bg": "42deg 24% 94%",
+    "--paper-raised": "40deg 22% 97%",
+    "--paper-shell": "38deg 16% 86%",
+    "--paper-ink": "240deg 7% 13%",
+    "--vwave-0": "29deg 98% 52%",
+    "--vwave-10": "25deg 95% 58%",
+    "--vwave-20": "215deg 48% 43%",
+    "--vwave-30": "213deg 86% 33%",
+    "--vwave-40": "22deg 72% 43%",
+    "--vwave-50": "220deg 55% 12%",
+    "--vwave-60": "220deg 75% 2%",
+    "--theme-bg": "var(--paper-bg)",
+    "--theme-bg-inverse": "var(--paper-shell)",
+    "--theme-link": "216deg 60% 34%",
+    "--theme-text": "var(--paper-ink)",
+    "--theme-text-inverse": "var(--paper-raised)",
+    "--theme-accent": "29deg 86% 43%",
+    "--theme-accent-2": "var(--paper-ink)",
+    "--theme-quote": "29deg 69% 35%",
+    "--border-divider": "240deg 7% 13%",
+    "--redact-bg": "var(--paper-raised)",
+    "--text-primary": "var(--paper-ink)",
+    "--text-secondary": "240deg 6% 24%",
+    "--text-tertiary": "238deg 6% 34%",
+    "--text-muted": "236deg 5% 42%",
+    "--text-subtle": "235deg 5% 50%",
+    "--text-faint": "234deg 5% 59%",
+    "--crt-chromatic-opacity": ".62",
+    "--crt-dither-opacity": ".05",
+    "--crt-phosphor-blur": "0px",
+    "--crt-corner": "superellipse(2)",
+    "--crt-radius": "4rem",
+    "--crt-chromatic-shift": "1.25px",
+    "--crt-chromatic-warm": "29deg 85% 48%",
+    "--crt-chromatic-cool": "215deg 55% 42%",
+    "--crt-chromatic-mask": "radial-gradient(ellipse 74% 70% at 50% 50%,transparent 54%,#000 100%)"
+  },
+  "breakpoints": [
+    "min 640px",
+    "min 768px",
+    "min 1024px",
+    "min 1280px",
+    "min 1536px",
+    "max 380px",
+    "min 680px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "noise",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#101012",
+      "backgroundImage": false,
+      "color": "#ebeeef",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "depth-container",
+      "y": 0,
+      "height": 855,
+      "position": "relative",
+      "background": "#101012",
+      "backgroundImage": false,
+      "color": "#ebeeef",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 48,
+        "gutterBottom": -53
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "nahiyan khan",
+          "family": "Widescreen Ex",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ebeeef"
+        },
+        {
+          "tag": "h2",
+          "text": "tldr",
+          "family": "Commit Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.43,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#a7b1b4"
+        },
+        {
+          "tag": "h2",
+          "text": "in the background",
+          "family": "Commit Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.43,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#a7b1b4"
+        }
+      ],
+      "bodyType": {
+        "family": "Commit Mono",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Astro",
+        "Vercel",
+        "Privacy"
+      ],
+      "words": 169,
+      "excerpt": "i also like building tools that handle the repetitive decisions, so i",
+      "media": {
+        "canvas": 3,
+        "svg": 3
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "site-menu-shell",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#101012",
+      "backgroundImage": false,
+      "color": "#859093",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 1164,
+        "width": 228,
+        "gutterTop": 855,
+        "gutterBottom": 1
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 32px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 3,
+        "childWidthsPct": [
+          3,
+          3,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "root",
+          "family": "Commit Mono",
+          "size": 11,
+          "weight": "400",
+          "lineHeight": 2.91,
+          "letterSpacing": 0.1,
+          "transform": "none",
+          "color": "#ebeeef"
+        }
+      ],
+      "bodyType": {
+        "family": "Commit Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 2.91,
+        "letterSpacing": 0.1,
+        "transform": "none"
+      },
+      "labels": [
+        "root",
+        "work",
+        "contact"
+      ],
+      "words": 3,
+      "excerpt": "contact",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 18,
+    "title": "Nahiyan Khan - Personal Site",
+    "award": "HM",
+    "url": "https://nahiyan.codes/",
+    "awwwards": "https://www.awwwards.com/sites/nahiyan-khan-personal-site",
+    "categories": [
+      "Web & Interactive",
+      "Portfolio",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

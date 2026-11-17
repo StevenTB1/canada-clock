@@ -1,0 +1,960 @@
+{
+  "page": {
+    "url": "https://www.roomandpillar.com/",
+    "title": "Home | Room & Pillar",
+    "description": "Crafting the future of the property insurance and real estate ecosystem",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 7812,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f2f2f6",
+        "share": 0.503
+      },
+      {
+        "value": "#131419",
+        "share": 0.389
+      },
+      {
+        "value": "#000000",
+        "share": 0.105
+      },
+      {
+        "value": "#1f202acc",
+        "share": 0.002
+      },
+      {
+        "value": "#d2fe71",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#131419",
+        "share": 0.71
+      },
+      {
+        "value": "#f2f2f6",
+        "share": 0.129
+      },
+      {
+        "value": "#c2c2dd",
+        "share": 0.118
+      },
+      {
+        "value": "#d2fe71",
+        "share": 0.03
+      },
+      {
+        "value": "#dbdbe9",
+        "share": 0.01
+      },
+      {
+        "value": "#63646a",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#dbdbe9",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 0.853
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "diatypeFont",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 3066
+      },
+      {
+        "family": "diatypeFont",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 450
+      },
+      {
+        "family": "fraktionMonoFont",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.06,
+        "transform": "uppercase",
+        "chars": 257
+      },
+      {
+        "family": "diatypeFont",
+        "size": 52,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 244
+      },
+      {
+        "family": "fraktionMonoFont",
+        "size": 9.99,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.06,
+        "transform": "uppercase",
+        "chars": 209
+      },
+      {
+        "family": "fraktionMonoFont",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.06,
+        "transform": "uppercase",
+        "chars": 165
+      },
+      {
+        "family": "diatypeFont",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 116
+      },
+      {
+        "family": "diatypeFont",
+        "size": 130,
+        "weight": "700",
+        "lineHeight": 1.02,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 49
+      },
+      {
+        "family": "diatypeFont",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 46
+      },
+      {
+        "family": "fraktionMonoFont",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.06,
+        "transform": "uppercase",
+        "chars": 40
+      },
+      {
+        "family": "diatypeFont",
+        "size": 116.01,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "diatypeFont",
+        "size": 257,
+        "weight": "700",
+        "lineHeight": 0.92,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 11
+      },
+      {
+        "family": "diatypeFont",
+        "size": 22,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 10
+      }
+    ],
+    "loadedFonts": [
+      "diatypeFont 100 900 normal",
+      "fraktionMonoFont 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 57
+    },
+    {
+      "px": 14,
+      "uses": 15
+    },
+    {
+      "px": 24,
+      "uses": 15
+    },
+    {
+      "px": 12,
+      "uses": 14
+    },
+    {
+      "px": 10,
+      "uses": 10
+    },
+    {
+      "px": 40,
+      "uses": 8
+    },
+    {
+      "px": 20,
+      "uses": 8
+    },
+    {
+      "px": 18,
+      "uses": 7
+    },
+    {
+      "px": 22,
+      "uses": 6
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 5,
+      "uses": 5
+    },
+    {
+      "px": 11,
+      "uses": 3
+    },
+    {
+      "px": 96,
+      "uses": 3
+    },
+    {
+      "px": 44,
+      "uses": 2
+    },
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 60,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "31.9968px",
+      "uses": 11
+    },
+    {
+      "value": "11.9952px",
+      "uses": 7
+    },
+    {
+      "value": "18px",
+      "uses": 1
+    },
+    {
+      "value": "29.9952px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.25s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 27
+      },
+      {
+        "value": "0.8s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 7
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 3,
+    "canvases": 0,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--qglfp70": "0",
+    "--qglfp71": "0",
+    "--qglfp72": "0",
+    "--qglfp73": "1",
+    "--y3kxgx0": "color(display-p3 .0745 .0784 .098)",
+    "--y3kxgx1": "color(display-p3 .1255 .1294 .1529)",
+    "--y3kxgx2": "color(display-p3 .1412 .1451 .1686)",
+    "--y3kxgx3": "color(display-p3 .3882 .3922 .4118)",
+    "--y3kxgx4": "color(display-p3 .949 .949 .9647)",
+    "--y3kxgx5": "color(display-p3 .8588 .8588 .9098)",
+    "--y3kxgx6": "color(display-p3 .7608 .7608 .8588)",
+    "--y3kxgx7": "color(display-p3 .8588 .9922 .5216)",
+    "--y3kxgx8": "color(display-p3 .9922 .5216 .5216)",
+    "--y3kxgx9": "color(display-p3 1 1 1)",
+    "--y3kxgxa": "color(display-p3 0 0 0)",
+    "--y3kxgxb": "transparent",
+    "--y3kxgxc": "color(display-p3 .1216 .1294 .1608)",
+    "--y3kxgxd": "color(display-p3 .851 .8706 .9059)"
+  },
+  "breakpoints": [
+    "max 1024px",
+    "min 701px",
+    "min 1025px",
+    "min 1601px",
+    "max 600px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "_1ln3ruo0",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f2f2f6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "header",
+      "name": "dv0vnk0",
+      "y": 0,
+      "height": 96,
+      "position": "absolute",
+      "background": "#131419",
+      "backgroundImage": false,
+      "color": "#f2f2f6",
+      "padding": "40.0032px 20.0016px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 40,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "20.0016px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          47,
+          1,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Room",
+          "family": "diatypeFont",
+          "size": 22,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#f2f2f6"
+        }
+      ],
+      "bodyType": {
+        "family": "diatypeFont",
+        "size": 22,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Pillar",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "_97o5ox0",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#131419",
+      "backgroundImage": false,
+      "color": "#f2f2f6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 96,
+        "gutterRight": 119,
+        "width": 1225,
+        "gutterTop": 366,
+        "gutterBottom": 366
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          97,
+          48,
+          87
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Empowering Innovation",
+          "family": "diatypeFont",
+          "size": 130,
+          "weight": "700",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#f2f2f6"
+        }
+      ],
+      "bodyType": {
+        "family": "fraktionMonoFont",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.06,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 28,
+      "excerpt": "A family office born in forensic engineering, betting on the future of",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "_1a5dsvu0",
+      "y": 900,
+      "height": 1175,
+      "position": "static",
+      "background": "#131419",
+      "backgroundImage": false,
+      "color": "#f2f2f6",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 96,
+        "gutterRight": 96,
+        "width": 1247,
+        "gutterTop": 360,
+        "gutterBottom": 374
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "44.0064px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          87,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Room & Pillar harnesses industry",
+          "family": "diatypeFont",
+          "size": 52,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#f2f2f6"
+        }
+      ],
+      "bodyType": {
+        "family": "diatypeFont",
+        "size": 52,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [
+        "Our Focus"
+      ],
+      "words": 36,
+      "excerpt": "knowledge, investment capital, operational excellence, raw",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 2075,
+      "height": 991,
+      "position": "relative",
+      "background": "#131419",
+      "backgroundImage": false,
+      "color": "#c2c2dd",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 96,
+        "gutterRight": 103,
+        "width": 1241,
+        "gutterTop": -12,
+        "gutterBottom": 255
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "60.0048px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          87,
+          87
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our Investment Philosophy",
+          "family": "diatypeFont",
+          "size": 116.01,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#f2f2f6"
+        },
+        {
+          "tag": "h3",
+          "text": "We know the industry from the inside.",
+          "family": "diatypeFont",
+          "size": 16,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#f2f2f6"
+        },
+        {
+          "tag": "h3",
+          "text": "Backing founders, not just companies is our DNA",
+          "family": "diatypeFont",
+          "size": 16,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#f2f2f6"
+        },
+        {
+          "tag": "h3",
+          "text": "We invest where it matters most.",
+          "family": "diatypeFont",
+          "size": 16,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#f2f2f6"
+        }
+      ],
+      "bodyType": {
+        "family": "diatypeFont",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 110,
+      "excerpt": "Early stage investing is a people business. We bring more than capital.",
+      "media": {
+        "img": 9
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "fkzaur0",
+      "y": 3066,
+      "height": 855,
+      "position": "relative",
+      "background": "#f2f2f6",
+      "backgroundImage": false,
+      "color": "#131419",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 96,
+        "gutterRight": 96,
+        "width": 1247,
+        "gutterTop": 108,
+        "gutterBottom": 174
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 5,
+        "childWidthsPct": [
+          87,
+          87,
+          87,
+          25,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Scaling Early Stage Companies",
+          "family": "diatypeFont",
+          "size": 52,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#131419"
+        }
+      ],
+      "bodyType": {
+        "family": "diatypeFont",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [
+        "ARMADILLO INSURTECH ARMADILLO.ONE",
+        "SOURCE 7 INSURTECH SOURCE7.COM",
+        "ECO CLAIM INSURTECH ECOCLAIM.CA",
+        "SUBLYNK INSURTECH SUBLYNK.COM",
+        "ROOF MARKETPLACE INSURTECH ROOFMARKETPL…",
+        "ADAPTIVE INSURANCE PROPERTY TECH VC ADA…",
+        "PLNAR INSURTECH PLNAR.AI",
+        "View Our Portfolio"
+      ],
+      "words": 87,
+      "excerpt": "We have been inside over a million properties across all fifty states.",
+      "media": {
+        "img": 3,
+        "svg": 3
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "_1hd9v820",
+      "y": 3921,
+      "height": 930,
+      "position": "relative",
+      "background": "#f2f2f6",
+      "backgroundImage": false,
+      "color": "#131419",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 96,
+        "gutterRight": 111,
+        "width": 1233,
+        "gutterTop": 211,
+        "gutterBottom": 245
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our Mission",
+          "family": "diatypeFont",
+          "size": 257,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#131419"
+        }
+      ],
+      "bodyType": {
+        "family": "diatypeFont",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 69,
+      "excerpt": "Room & Pillar is a family office built on eight decades of",
+      "media": {
+        "img": 4,
+        "video": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "_3tlpq20",
+      "y": 4851,
+      "height": 1274,
+      "position": "relative",
+      "background": "#f2f2f6",
+      "backgroundImage": false,
+      "color": "#131419",
+      "padding": "96.0048px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 726,
+        "gutterRight": 96,
+        "width": 618,
+        "gutterTop": 113,
+        "gutterBottom": 110
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "72px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          32,
+          87,
+          87,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Our Focus",
+          "family": "diatypeFont",
+          "size": 18,
+          "weight": "500",
+          "lineHeight": "normal",
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#d2fe71"
+        }
+      ],
+      "bodyType": {
+        "family": "diatypeFont",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [
+        "Our Focus"
+      ],
+      "words": 339,
+      "excerpt": "Lyle Donan is the founder of Room & Pillar. He studied Civil",
+      "media": {
+        "img": 8,
+        "svg": 5
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "_1i5gw8m0",
+      "y": 6125,
+      "height": 853,
+      "position": "static",
+      "background": "#f2f2f6",
+      "backgroundImage": false,
+      "color": "#131419",
+      "padding": "96.0048px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 96,
+        "gutterRight": 96,
+        "width": 1247,
+        "gutterTop": 113,
+        "gutterBottom": 440
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 77,
+        "gap": "47.9952px normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          87,
+          87
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Powering Innovation, Together",
+          "family": "diatypeFont",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#131419"
+        }
+      ],
+      "bodyType": {
+        "family": "fraktionMonoFont",
+        "size": 9.99,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.06,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 14,
+      "excerpt": "We understand the current landscape",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "footer",
+      "name": "tnlqwj0",
+      "y": 6978,
+      "height": 834,
+      "position": "relative",
+      "background": "#131419",
+      "backgroundImage": false,
+      "color": "#d2fe71",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 134,
+        "gutterRight": 260,
+        "width": 1046,
+        "gutterTop": 292,
+        "gutterBottom": 302
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "26.0064px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          86,
+          86
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "HOME",
+          "family": "fraktionMonoFont",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.06,
+          "transform": "uppercase",
+          "color": "#63646a"
+        }
+      ],
+      "bodyType": {
+        "family": "diatypeFont",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [
+        "Home Home",
+        "Our Focus Our Focus",
+        "Portfolio Portfolio",
+        "Contact Us Contact Us",
+        "info@roomandpillar.com info@roomandpill…"
+      ],
+      "words": 26,
+      "excerpt": "Copyright © 2026 Room & Pillar. All rights reserved.",
+      "media": {
+        "img": 4,
+        "svg": 7
+      }
+    }
+  ],
+  "listing": {
+    "rank": 13,
+    "title": "Room and Pillar",
+    "award": "HM",
+    "url": "https://www.roomandpillar.com/",
+    "awwwards": "https://www.awwwards.com/sites/room-and-pillar-2",
+    "categories": [
+      "Business & Corporate",
+      "Technology"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

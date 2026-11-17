@@ -1,0 +1,175 @@
+{
+  "page": {
+    "url": "https://ntch.design/",
+    "title": "Ilnaz Khasanshin — Senior Product Designer",
+    "description": "Ilnaz Khasanshin, senior product designer. Yandex Browser, Avito Garage, B2C and B2B apps for TaxDome",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "condensed",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 757
+      }
+    ],
+    "loadedFonts": [
+      "condensed 500 normal",
+      "condensed 900 normal",
+      "condensed Fallback normal normal",
+      "walsheim 500 normal"
+    ]
+  },
+  "spacing": [],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 3,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto S",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--spacing": ".25rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--font-weight-medium": "500",
+    "--leading-snug": "1.375",
+    "--ease-in": "cubic-bezier(.4, 0, 1, 1)",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-bg": "#000",
+    "--color-accent": "#dfcd2e",
+    "--color-fg": "#fff",
+    "--color-fg-invert": "#000",
+    "--color-screen": "#111",
+    "--color-dot": "#303030",
+    "--color-seen": "#3d3d3d",
+    "--color-skeleton": "#fff",
+    "--color-page": "#000",
+    "--color-backdrop-groceries": "#d3d8e2",
+    "--color-backdrop-castingform": "#957c4b",
+    "--color-backdrop-taxdome": "#b3d9ff",
+    "--font-display": "var(--font-condensed), \"Arial Narrow\", sans-serif",
+    "--lightningcss-light": "",
+    "--lightningcss-dark": "initial"
+  },
+  "breakpoints": [
+    "min 40rem",
+    "min 48rem",
+    "min 64rem",
+    "min 80rem",
+    "min 96rem"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": "antialiased",
+      "y": 0,
+      "height": 0,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 55,
+        "gutterRight": 1297,
+        "width": 88,
+        "gutterTop": 2234,
+        "gutterBottom": -2252
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "a",
+          "text": "1520 — Groceries Delivery",
+          "family": "condensed",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "condensed",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "1520 — Groceries Delivery",
+        "Kasseta Synthesizer",
+        "Car App",
+        "Cyrillic Design",
+        "Concerts",
+        "Awillix",
+        "Aloud",
+        "Buyer Portal",
+        "Atom OS",
+        "Volume Attack — Echo"
+      ],
+      "words": 118,
+      "excerpt": "Art by @rarebiscuit on Instagram (opens in a new tab)",
+      "media": {
+        "canvas": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 160,
+    "title": "Ilnaz Khasanshin",
+    "url": "https://ntch.design/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "page": {
+    "url": "https://www.martinfoucaut.com/",
+    "title": "Martin Foucaut",
+    "description": "Independent motion designer based in Rotterdam, NL.",
+    "lang": null,
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 943,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#696969",
+        "share": 0.67
+      },
+      {
+        "value": "#242424",
+        "share": 0.177
+      },
+      {
+        "value": "#000000",
+        "share": 0.153
+      }
+    ],
+    "text": [
+      {
+        "value": "#efefef",
+        "share": 0.821
+      },
+      {
+        "value": "#808080",
+        "share": 0.179
+      }
+    ],
+    "borders": [
+      {
+        "value": "#696969",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Arial",
+        "size": 12.96,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 3056
+      },
+      {
+        "family": "Arial",
+        "size": 12.96,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2942
+      },
+      {
+        "family": "Arial",
+        "size": 9.72,
+        "weight": "400",
+        "lineHeight": 0,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 487
+      },
+      {
+        "family": "Arial",
+        "size": 20.16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 374
+      },
+      {
+        "family": "Arial",
+        "size": 20.16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 252
+      },
+      {
+        "family": "Arial",
+        "size": 12.96,
+        "weight": "400",
+        "lineHeight": 3.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 98
+      },
+      {
+        "family": "Arial",
+        "size": 20.16,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 28
+      },
+      {
+        "family": "Arial",
+        "size": 12.96,
+        "weight": "500",
+        "lineHeight": 3.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 16
+      }
+    ],
+    "loadedFonts": []
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 425
+    },
+    {
+      "px": 1,
+      "uses": 348
+    },
+    {
+      "px": 7,
+      "uses": 244
+    },
+    {
+      "px": 84,
+      "uses": 132
+    },
+    {
+      "px": 16,
+      "uses": 44
+    },
+    {
+      "px": 4,
+      "uses": 12
+    },
+    {
+      "px": 8,
+      "uses": 1
+    },
+    {
+      "px": 43,
+      "uses": 1
+    },
+    {
+      "px": 98,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "7.2px",
+      "uses": 335
+    },
+    {
+      "value": "1.44px",
+      "uses": 44
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.1s ease",
+        "uses": 20
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 3
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--general-font": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+    "--black": "#efefef",
+    "--desktop-text": ".9vw",
+    "--widescreen-text": ".9vw",
+    "--table-text": "1.2vw",
+    "--phone-text": "2.6vw",
+    "--border": "grey",
+    "--white": "#000",
+    "--transparent": "#fff0",
+    "--margins-desktop": ".1vw",
+    "--border-color": "#696969",
+    "--phone-margins": ".4vw",
+    "--special": "#242424"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 991px",
+    "max 767px",
+    "min 768px",
+    "min 1280px",
+    "min 1440px",
+    "min 100px"
+  ],
+  "tech": [
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "container",
+      "y": 43,
+      "height": 900,
+      "position": "static",
+      "background": "#696969",
+      "backgroundImage": false,
+      "color": "#efefef",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1,
+        "gutterRight": 43,
+        "width": 1396,
+        "gutterTop": -42,
+        "gutterBottom": -19705
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 23,
+        "childWidthsPct": [
+          94,
+          94,
+          94,
+          94,
+          94,
+          94,
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Soft Node Base Tool",
+          "family": "Arial",
+          "size": 20.16,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#efefef"
+        },
+        {
+          "tag": "h2",
+          "text": "Motion design",
+          "family": "Arial",
+          "size": 12.96,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#efefef"
+        },
+        {
+          "tag": "h2",
+          "text": "2026",
+          "family": "Arial",
+          "size": 12.96,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#efefef"
+        },
+        {
+          "tag": "h2",
+          "text": "slanted.de",
+          "family": "Arial",
+          "size": 12.96,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#efefef"
+        }
+      ],
+      "bodyType": {
+        "family": "Arial",
+        "size": 12.96,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Martin Foucaut",
+        "All projects",
+        "Motion",
+        "Graphic",
+        "Web",
+        "Mail",
+        "Instagram",
+        "email",
+        "martinfoucaut@gmail.com",
+        "Buymeacoffee"
+      ],
+      "words": 1112,
+      "excerpt": "Martin Foucaut is an independent motion designer based in Rotterdam. His R&D-driven",
+      "media": {
+        "img": 115
+      }
+    }
+  ],
+  "listing": {
+    "rank": 144,
+    "title": "Martin Foucaut",
+    "url": "https://www.martinfoucaut.com/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

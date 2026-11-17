@@ -1,0 +1,1354 @@
+{
+  "page": {
+    "url": "https://www.pilato.it/it",
+    "title": "Autofunebri e limousine Pilato su base Mercedes",
+    "description": "Pilato propone autofunebri di lusso e limousine su base Mercedes, nuove ed usate: la nostra gamma autofunebre è realizzata con materiali scelti con cura che vengono lavorati artigianalmente per offrire il massimo comfort.",
+    "lang": "it",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 11273,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#212121",
+        "share": 0.769
+      },
+      {
+        "value": "#000000",
+        "share": 0.119
+      },
+      {
+        "value": "#f0f2f4",
+        "share": 0.101
+      },
+      {
+        "value": "#333333",
+        "share": 0.011
+      },
+      {
+        "value": "#e42127",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.582
+      },
+      {
+        "value": "#000000",
+        "share": 0.26
+      },
+      {
+        "value": "#eeeeee",
+        "share": 0.129
+      },
+      {
+        "value": "#dddddd",
+        "share": 0.012
+      },
+      {
+        "value": "#e7000b",
+        "share": 0.005
+      },
+      {
+        "value": "#000000ed",
+        "share": 0.005
+      },
+      {
+        "value": "#0000001c",
+        "share": 0.004
+      },
+      {
+        "value": "#ebebeb0d",
+        "share": 0.003
+      },
+      {
+        "value": "#00000095",
+        "share": 0.001
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff4c",
+        "share": 0.857
+      },
+      {
+        "value": "#00000033",
+        "share": 0.071
+      },
+      {
+        "value": "#999999",
+        "share": 0.071
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.996
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "sans",
+        "size": 25,
+        "weight": "400",
+        "lineHeight": 1.28,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 384
+      },
+      {
+        "family": "light",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.88,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 353
+      },
+      {
+        "family": "sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 240
+      },
+      {
+        "family": "system-ui",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.57,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 232
+      },
+      {
+        "family": "sans",
+        "size": 65,
+        "weight": "400",
+        "lineHeight": 1.11,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 135
+      },
+      {
+        "family": "sans",
+        "size": 65,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 123
+      },
+      {
+        "family": "sans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 59
+      },
+      {
+        "family": "sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 50
+      },
+      {
+        "family": "system-ui",
+        "size": 20,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 47
+      },
+      {
+        "family": "system-ui",
+        "size": 11,
+        "weight": "700",
+        "lineHeight": 0,
+        "letterSpacing": 0.018,
+        "transform": "none",
+        "chars": 46
+      },
+      {
+        "family": "light",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 40
+      },
+      {
+        "family": "system-ui",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 38
+      },
+      {
+        "family": "sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.05,
+        "transform": "none",
+        "chars": 36
+      },
+      {
+        "family": "sans",
+        "size": 45,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 35
+      }
+    ],
+    "loadedFonts": [
+      "sans 500 normal",
+      "light 300 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 28,
+      "uses": 31
+    },
+    {
+      "px": 20,
+      "uses": 21
+    },
+    {
+      "px": 12,
+      "uses": 20
+    },
+    {
+      "px": 8,
+      "uses": 16
+    },
+    {
+      "px": 24,
+      "uses": 12
+    },
+    {
+      "px": 32,
+      "uses": 7
+    },
+    {
+      "px": 40,
+      "uses": 7
+    },
+    {
+      "px": 80,
+      "uses": 5
+    },
+    {
+      "px": 64,
+      "uses": 4
+    },
+    {
+      "px": 13,
+      "uses": 4
+    },
+    {
+      "px": 112,
+      "uses": 3
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 208,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 14,
+      "uses": 2
+    },
+    {
+      "px": 17,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.35544e+07px",
+      "uses": 11
+    },
+    {
+      "value": "4px",
+      "uses": 3
+    },
+    {
+      "value": "5px",
+      "uses": 3
+    },
+    {
+      "value": "8px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 55
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 10
+      },
+      {
+        "value": "0.25s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 10
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      },
+      {
+        "value": "1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      }
+    ],
+    "cssAnimatedElements": 19,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--font-sans": "\"sans\",ui-sans-serif,system-ui,sans-serif",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-red-600": "oklch(57.7% .245 27.325)",
+    "--color-sky-400": "oklch(74.6% .16 232.661)",
+    "--color-slate-400": "oklch(70.4% .04 256.788)",
+    "--color-gray-50": "oklch(98.5% .002 247.839)",
+    "--color-gray-100": "oklch(96.7% .003 264.542)",
+    "--color-gray-200": "oklch(92.8% .006 264.531)",
+    "--color-gray-300": "oklch(87.2% .01 258.338)",
+    "--color-gray-400": "oklch(70.7% .022 261.325)",
+    "--color-gray-500": "oklch(55.1% .027 264.364)",
+    "--color-gray-600": "oklch(44.6% .03 256.802)",
+    "--color-gray-700": "oklch(37.3% .034 259.733)",
+    "--color-gray-900": "oklch(21% .034 264.665)",
+    "--color-gray-950": "oklch(13% .028 261.692)",
+    "--color-zinc-700": "oklch(37% .013 285.805)",
+    "--color-zinc-800": "oklch(27.4% .006 286.033)",
+    "--color-zinc-900": "oklch(21% .006 285.885)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--breakpoint-sm": "640px",
+    "--breakpoint-md": "960px",
+    "--breakpoint-lg": "1200px",
+    "--breakpoint-xl": "1600px",
+    "--breakpoint-2xl": "96rem",
+    "--container-3xs": "16rem",
+    "--container-xs": "20rem",
+    "--container-sm": "24rem",
+    "--container-md": "28rem",
+    "--container-lg": "32rem",
+    "--container-xl": "36rem",
+    "--container-2xl": "42rem",
+    "--container-3xl": "48rem",
+    "--container-4xl": "56rem",
+    "--container-5xl": "64rem",
+    "--container-6xl": "72rem",
+    "--container-7xl": "80rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1/.75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25/.875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "1.5",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75/1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75/1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2/1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "1.2",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--font-weight-thin": "100",
+    "--font-weight-extralight": "200",
+    "--font-weight-light": "300",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--font-weight-extrabold": "800",
+    "--font-weight-black": "900",
+    "--tracking-tighter": "-.05em",
+    "--tracking-tight": "-.025em",
+    "--tracking-wide": ".025em",
+    "--tracking-wider": ".05em",
+    "--tracking-widest": ".1em",
+    "--leading-normal": "1.5",
+    "--leading-relaxed": "1.625",
+    "--leading-loose": "2",
+    "--radius-xs": ".125rem",
+    "--radius-sm": ".25rem",
+    "--radius-md": ".375rem",
+    "--radius-lg": ".5rem",
+    "--radius-xl": ".75rem",
+    "--drop-shadow-lg": "0 4px 4px #00000026",
+    "--ease-in": "cubic-bezier(.4,0,1,1)",
+    "--ease-out": "cubic-bezier(0,0,.2,1)"
+  },
+  "breakpoints": [
+    "min 960px",
+    "min 1200px",
+    "min 640px",
+    "min 1600px",
+    "min 96rem",
+    "max 959px",
+    "min 1450px",
+    "max 639px",
+    "max 1199px",
+    "max 1599px"
+  ],
+  "tech": [
+    "lenis",
+    "barba"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "fixed.font-light",
+      "y": 0,
+      "height": 81,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "32px 64px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 64,
+        "gutterRight": 76,
+        "width": 1300,
+        "gutterTop": 34,
+        "gutterBottom": 2
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          42,
+          7,
+          42
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "MODELLI",
+          "family": "light",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "light",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "MODELLI",
+        "UTILITY VAN",
+        "USATO",
+        "CONSEGNE",
+        "AZIENDA",
+        "PRENOTA UN APPUNTAMENTO",
+        "IT"
+      ],
+      "words": 10,
+      "excerpt": "Prenota un appuntamento",
+      "media": {
+        "img": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "c-sfumaturaHeader.absolute",
+      "y": 0,
+      "height": 208,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": true,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "sticky.top-0",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 317,
+        "gutterRight": 317,
+        "width": 806,
+        "gutterTop": 750,
+        "gutterBottom": 90
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Innovazione Italiana dal 1963",
+          "family": "sans",
+          "size": 65,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 65,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Innovazione",
+      "media": {
+        "img": 4,
+        "video": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "c-testoAnimato.bg-white",
+      "y": 2700,
+      "height": 776,
+      "position": "static",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "208px 28px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 220,
+        "gutterRight": 226,
+        "width": 994,
+        "gutterTop": 205,
+        "gutterBottom": 205
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Innovare",
+          "family": "sans",
+          "size": 65,
+          "weight": "400",
+          "lineHeight": 1.11,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 65,
+        "weight": "400",
+        "lineHeight": 1.11,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 20,
+      "excerpt": "internazionale",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "bg-bottom.bg-no-repeat",
+      "y": 3476,
+      "height": 1243,
+      "position": "relative",
+      "background": "#f0f2f4",
+      "backgroundImage": true,
+      "color": "#000000",
+      "padding": "0px 0px 40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 245,
+        "gutterRight": 645,
+        "width": 550,
+        "gutterTop": 88,
+        "gutterBottom": 793
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          18
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "PILATO DriveSafe",
+          "family": "sans",
+          "size": 65,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "light",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.88,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Approfondisci"
+      ],
+      "words": 53,
+      "excerpt": ": il software ESP® di controllo della stabilità specifico per veicoli allungati,",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 6,
+      "tag": "h2",
+      "name": "c-title.c-lingua-it",
+      "y": 4719,
+      "height": 389,
+      "position": "sticky",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ebebeb0d",
+      "padding": "0px",
+      "margin": "0px 0px 80px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Gamma",
+          "family": "sans",
+          "size": 259.2,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ebebeb0d"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 259.2,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "Gamma",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "figure",
+      "name": "c-figure.md:sticky",
+      "y": 4975,
+      "height": 507,
+      "position": "sticky",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 335px",
+      "border": null,
+      "content": {
+        "gutterLeft": 335,
+        "gutterRight": 335,
+        "width": 770,
+        "gutterTop": 419,
+        "gutterBottom": 20
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Ilios",
+          "family": "sans",
+          "size": 45,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 45,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Ilios"
+      ],
+      "words": 1,
+      "excerpt": "Ilios",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "figure",
+      "name": "c-figure.md:sticky",
+      "y": 5481,
+      "height": 507,
+      "position": "sticky",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 335px",
+      "border": null,
+      "content": {
+        "gutterLeft": 335,
+        "gutterRight": 335,
+        "width": 770,
+        "gutterTop": 419,
+        "gutterBottom": 20
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Pulsar",
+          "family": "sans",
+          "size": 45,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 45,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Pulsar"
+      ],
+      "words": 1,
+      "excerpt": "Pulsar",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "figure",
+      "name": "c-figure.md:sticky",
+      "y": 5988,
+      "height": 507,
+      "position": "sticky",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 335px",
+      "border": null,
+      "content": {
+        "gutterLeft": 335,
+        "gutterRight": 335,
+        "width": 770,
+        "gutterTop": 419,
+        "gutterBottom": 20
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Elysium",
+          "family": "sans",
+          "size": 45,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 45,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Elysium"
+      ],
+      "words": 1,
+      "excerpt": "Elysium",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "figure",
+      "name": "c-figure.md:sticky",
+      "y": 6494,
+      "height": 507,
+      "position": "sticky",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 335px",
+      "border": null,
+      "content": {
+        "gutterLeft": 335,
+        "gutterRight": 335,
+        "width": 770,
+        "gutterTop": 419,
+        "gutterBottom": 20
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Artika",
+          "family": "sans",
+          "size": 45,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 45,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Artika"
+      ],
+      "words": 1,
+      "excerpt": "Artika",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "figure",
+      "name": "c-figure.md:sticky",
+      "y": 7001,
+      "height": 507,
+      "position": "sticky",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 335px",
+      "border": null,
+      "content": {
+        "gutterLeft": 335,
+        "gutterRight": 335,
+        "width": 770,
+        "gutterTop": 419,
+        "gutterBottom": 20
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Polaris",
+          "family": "sans",
+          "size": 45,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 45,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Polaris"
+      ],
+      "words": 1,
+      "excerpt": "Polaris",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "figure",
+      "name": "c-figure.md:sticky",
+      "y": 7507,
+      "height": 507,
+      "position": "sticky",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 335px",
+      "border": null,
+      "content": {
+        "gutterLeft": 335,
+        "gutterRight": 335,
+        "width": 770,
+        "gutterTop": 419,
+        "gutterBottom": 20
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Lyra",
+          "family": "sans",
+          "size": 45,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 45,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Lyra"
+      ],
+      "words": 1,
+      "excerpt": "Lyra",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "lanci",
+      "y": 8227,
+      "height": 819,
+      "position": "static",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "40px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 336,
+        "width": 1104,
+        "gutterTop": 40,
+        "gutterBottom": 70
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          57,
+          57,
+          57,
+          57,
+          57
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "su base Mercedes, con anima Pilato",
+          "family": "sans",
+          "size": 65,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 25,
+        "weight": "400",
+        "lineHeight": 1.28,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "About us Design all’avanguardia. Vision…",
+        "La nostra storia Una storia di eccellen…",
+        "Assistenza Pilato Prenota un appuntamen…",
+        "Contattaci Contattaci per richiedere in…",
+        "Consegne Ogni consegna è una promessa m…"
+      ],
+      "words": 41,
+      "excerpt": "informazioni o preventivi.",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "c-bg-fullscreen-cta.relative",
+      "y": 9046,
+      "height": 900,
+      "position": "relative",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "80px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 515,
+        "gutterRight": 515,
+        "width": 410,
+        "gutterTop": 341,
+        "gutterBottom": 341
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Diamo forma alla tua visione",
+          "family": "sans",
+          "size": 65,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 65,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Prenota un appuntamento"
+      ],
+      "words": 8,
+      "excerpt": "Prenota un appuntamento",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "c-consegne.bg-white",
+      "y": 9946,
+      "height": 767,
+      "position": "static",
+      "background": "#212121",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "40px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 340,
+        "width": 1100,
+        "gutterTop": 40,
+        "gutterBottom": 70
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          57,
+          57,
+          57,
+          57,
+          57
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Ogni consegna, una promessa mantenuta.",
+          "family": "sans",
+          "size": 65,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 25,
+        "weight": "400",
+        "lineHeight": 1.28,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "12/11/2026 DI.SE.F. DISTRIBUZIONE SERVI…",
+        "06/11/2026 ARCICONFRATERNITA MISERICORD…",
+        "14/10/2026 POMPES FUNEBRES DES COMMUNES…",
+        "01/10/2026 AMIR ONORANZE FUNEBRI S.R.L.",
+        "16/09/2026 CENTRO SERVIZI NORD MILANO S…"
+      ],
+      "words": 37,
+      "excerpt": "POMPES FUNEBRES DES COMMUNES OCCITANES LE PECH BLEU",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 16,
+      "tag": "footer",
+      "name": "bg-black.h-[460px]",
+      "y": 340,
+      "height": 560,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "112px 64px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 64,
+        "gutterRight": 72,
+        "width": 1304,
+        "gutterTop": 310,
+        "gutterBottom": 28
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          61
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "SEGUICI SU",
+          "family": "sans",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Cookies policy",
+        "Privacy",
+        "Dati legali",
+        "Mappa del sito",
+        "Codice etico",
+        "Whistleblowing",
+        "Credits"
+      ],
+      "words": 37,
+      "excerpt": "Alcuni contenuti di questa pagina sono stati generati con l'ausilio dell'intelligenza art…",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "page_loader",
+      "y": 900,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 143,
+    "title": "Pilato",
+    "award": "HM",
+    "url": "https://www.pilato.it/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/pilato",
+    "categories": [
+      "Business & Corporate",
+      "Portfolio"
+    ]
+  }
+}

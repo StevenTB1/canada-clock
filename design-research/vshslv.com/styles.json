@@ -1,0 +1,354 @@
+{
+  "page": {
+    "url": "https://vshslv.com/",
+    "title": "Viacheslav Novoseltsev — Senior Designer and Creative Developer",
+    "description": "I design brand websites and build them end-to-end. Typography, motion, and the code underneath — one mind, one stack.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.978
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0.022
+      }
+    ],
+    "text": [
+      {
+        "value": "#f2f2ef",
+        "share": 0.974
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.026
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ABC Diatype",
+        "size": 11.21,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 417
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 11.21,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 55
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 11.21,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 33
+      }
+    ],
+    "loadedFonts": [
+      "ABC Diatype 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 52
+    },
+    {
+      "px": 6,
+      "uses": 23
+    },
+    {
+      "px": 10,
+      "uses": 14
+    },
+    {
+      "px": 5,
+      "uses": 12
+    },
+    {
+      "px": 7,
+      "uses": 6
+    },
+    {
+      "px": 1,
+      "uses": 3
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 3,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "5.04312px",
+      "uses": 29
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 78
+      },
+      {
+        "value": "0.18s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.45s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 1
+      },
+      {
+        "value": "1s linear(0 0%, 0.18 6%, 0.36 13%, 0.48 22%, 0.5 26%, 0.5 65%, 0.55 70%, 0.65 77%, 0.77 84%, 0.86 89%, 0.93 93%, 0.97 97%, 1 100%)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 4,
+    "canvases": 2,
+    "videos": 8
+  },
+  "cssVariables": {
+    "--text": "#1a1a17",
+    "--text-faint": "#0000004d",
+    "--text-muted": "#00000080",
+    "--text-invert": "#f2f2ef",
+    "--surface": "#fff",
+    "--surface-dark": "#000",
+    "--line": "#0000001a",
+    "--hairline": "1px",
+    "--pill-tint": "#00000040",
+    "--pill-tint-hover": "#ffffff1f",
+    "--pill-tint-dim": "#00000021",
+    "--pill-invert": "#fff3",
+    "--pill-invert-hover": "#fff6",
+    "--pill-invert-dim": "#ffffff1a",
+    "--skeleton-shimmer": "linear-gradient(110deg, #2a2a2a 25%, #3d3d3d 50%, #2a2a2a 75%)",
+    "--z-nav": "999",
+    "--z-window": "9000",
+    "--z-window-nav": "9100",
+    "--z-shortcuts": "9200",
+    "--z-modal": "9999",
+    "--z-cursor-hint": "10000",
+    "--z-loader": "10010",
+    "--z-terminal": "10020",
+    "--rhythm-cols": "1fr 1fr 1fr",
+    "--rhythm-gap": ".63rem",
+    "--text-inset": ".315rem",
+    "--edge-inset": ".625rem",
+    "--section-gap": "1.26rem",
+    "--nav-col": "calc((100vw - 2 * var(--edge-inset) - 2 * var(--rhythm-gap)) / 3)",
+    "--prose-inset-right": "calc(6 * var(--edge-inset))",
+    "--pill-line-height": "1.2",
+    "--pill-box-h": "calc(.7rem * var(--pill-line-height) + 2 * var(--text-inset))",
+    "--open-ease": "linear( 0, .18 6%, .36 13%, .48 22%, .5 26%, .5 65%, .55 70%, .65 77%, .77 84%, ",
+    "--image-modal-pad": "1.5rem"
+  },
+  "breakpoints": [
+    "max 479px",
+    "min 480px",
+    "max 991px",
+    "max 767px",
+    "min 768px",
+    "min 992px",
+    "max 1440px",
+    "max 568px",
+    "max 390px",
+    "max 640px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "image-wrap.demo-1",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 86,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "hero-container.hero-container--grad",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f2f2ef",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 15,
+        "gutterRight": 10,
+        "width": 1415,
+        "gutterTop": 289,
+        "gutterBottom": 170
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "10.0862px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          32,
+          32,
+          32,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Senior Designer Creative Developer",
+          "family": "ABC Diatype",
+          "size": 11.21,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f2f2ef"
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Diatype",
+        "size": 11.21,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "A1.gallery",
+        "Mindsparkle Mag",
+        "A-fresh.website",
+        "Minimal.Gallery",
+        "CSS Winner",
+        "CSS Nectar",
+        "Admire The Web",
+        "SOTD by VICE",
+        "No-Code Supply Co.",
+        "Supahero"
+      ],
+      "words": 59,
+      "excerpt": "Interactive Experiences",
+      "media": {
+        "svg": 25
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "hero-cover",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 1,
+        "canvas": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "Image viewer",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 66,
+    "title": "Viacheslav Novoseltsev",
+    "award": "HM",
+    "url": "https://vshslv.com/",
+    "awwwards": "https://www.awwwards.com/sites/viacheslav-novoseltsev",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

@@ -1,0 +1,1645 @@
+{
+  "page": {
+    "url": "https://www.huxleysaga.com/",
+    "title": "Huxley | Home",
+    "description": "The HUXLEY® saga is an original sci-fi universe created by renowned concept artist Ben Mauro. Explore all the books, products, artwork and lore.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10881,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.997
+      },
+      {
+        "value": "#111111",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      },
+      {
+        "value": "#666666",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#999999",
+        "share": 0.602
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.362
+      },
+      {
+        "value": "#666666",
+        "share": 0.027
+      },
+      {
+        "value": "#000000",
+        "share": 0.009
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 0.548
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.378
+      },
+      {
+        "value": "#666666",
+        "share": 0.069
+      },
+      {
+        "value": "#ffffff29",
+        "share": 0.004
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none",
+        "chars": 4726
+      },
+      {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 1,
+        "transform": "none",
+        "chars": 901
+      },
+      {
+        "family": "NB Architekt Light",
+        "size": 30.25,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.063,
+        "transform": "none",
+        "chars": 203
+      },
+      {
+        "family": "NB Architekt Light",
+        "size": 78.3,
+        "weight": "300",
+        "lineHeight": 0.9,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 85
+      },
+      {
+        "family": "NB Architekt Light",
+        "size": 20,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.1,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "NB Architekt Regular",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.03,
+        "transform": "none",
+        "chars": 64
+      },
+      {
+        "family": "NB Architekt Light",
+        "size": 80,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "NB Architekt Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": 0.75,
+        "transform": "none",
+        "chars": 14
+      }
+    ],
+    "loadedFonts": [
+      "NB Architekt Light 300 normal",
+      "NB Architekt Regular 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 486
+    },
+    {
+      "px": 8,
+      "uses": 142
+    },
+    {
+      "px": 4,
+      "uses": 140
+    },
+    {
+      "px": 1,
+      "uses": 60
+    },
+    {
+      "px": 32,
+      "uses": 30
+    },
+    {
+      "px": 10,
+      "uses": 26
+    },
+    {
+      "px": 24,
+      "uses": 16
+    },
+    {
+      "px": 64,
+      "uses": 16
+    },
+    {
+      "px": 58,
+      "uses": 14
+    },
+    {
+      "px": 16,
+      "uses": 13
+    },
+    {
+      "px": 6,
+      "uses": 6
+    },
+    {
+      "px": 68,
+      "uses": 2
+    },
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 36,
+      "uses": 1
+    },
+    {
+      "px": 96,
+      "uses": 1
+    },
+    {
+      "px": 20,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.08s cubic-bezier(0.785, 0.135, 0.15, 0.86)",
+        "uses": 320
+      },
+      {
+        "value": "0.15s steps(3)",
+        "uses": 73
+      },
+      {
+        "value": "0.25s cubic-bezier(0.23, 1, 0.32, 1)",
+        "uses": 52
+      },
+      {
+        "value": "0.15s cubic-bezier(0.785, 0.135, 0.15, 0.86)",
+        "uses": 14
+      },
+      {
+        "value": "0.15s cubic-bezier(0.23, 1, 0.32, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.08s steps(3)",
+        "uses": 7
+      }
+    ],
+    "cssAnimatedElements": 420,
+    "canvases": 1,
+    "videos": 3
+  },
+  "cssVariables": {
+    "--white": "#fff",
+    "--white-0": "hsla(0,0%,100%,0)",
+    "--white-5": "hsla(0,0%,100%,.05)",
+    "--white-10": "hsla(0,0%,100%,.1)",
+    "--white-15": "hsla(0,0%,100%,.15)",
+    "--white-20": "hsla(0,0%,100%,.2)",
+    "--white-25": "hsla(0,0%,100%,.25)",
+    "--white-30": "hsla(0,0%,100%,.3)",
+    "--white-35": "hsla(0,0%,100%,.35)",
+    "--white-40": "hsla(0,0%,100%,.4)",
+    "--white-45": "hsla(0,0%,100%,.45)",
+    "--white-50": "hsla(0,0%,100%,.5)",
+    "--white-55": "hsla(0,0%,100%,.55)",
+    "--white-60": "hsla(0,0%,100%,.6)",
+    "--white-65": "hsla(0,0%,100%,.65)",
+    "--white-70": "hsla(0,0%,100%,.7)",
+    "--white-75": "hsla(0,0%,100%,.75)",
+    "--white-80": "hsla(0,0%,100%,.8)",
+    "--white-85": "hsla(0,0%,100%,.85)",
+    "--white-90": "hsla(0,0%,100%,.9)",
+    "--white-95": "hsla(0,0%,100%,.95)",
+    "--black": "#000",
+    "--black-0": "transparent",
+    "--black-5": "rgb(0 0 0/5%)",
+    "--black-10": "rgba(0,0,0,.1)",
+    "--black-15": "rgba(0,0,0,.15)",
+    "--black-20": "rgba(0,0,0,.2)",
+    "--black-25": "rgba(0,0,0,.25)",
+    "--black-30": "rgba(0,0,0,.3)",
+    "--black-35": "rgba(0,0,0,.35)",
+    "--black-40": "rgba(0,0,0,.4)",
+    "--black-45": "rgba(0,0,0,.45)",
+    "--black-50": "rgba(0,0,0,.5)",
+    "--black-55": "rgba(0,0,0,.55)",
+    "--black-60": "rgba(0,0,0,.6)",
+    "--black-65": "rgba(0,0,0,.65)",
+    "--black-70": "rgba(0,0,0,.7)",
+    "--black-75": "rgba(0,0,0,.75)",
+    "--black-80": "rgba(0,0,0,.8)",
+    "--black-85": "rgba(0,0,0,.85)",
+    "--black-90": "rgba(0,0,0,.9)",
+    "--black-95": "rgba(0,0,0,.95)",
+    "--red": "red",
+    "--red-0": "rgba(255,0,0,0)",
+    "--red-5": "rgb(255 0 0/5%)",
+    "--red-10": "rgba(255,0,0,.1)",
+    "--red-15": "rgba(255,0,0,.15)",
+    "--red-20": "rgba(255,0,0,.2)",
+    "--red-25": "rgba(255,0,0,.25)",
+    "--red-30": "rgba(255,0,0,.3)",
+    "--red-35": "rgba(255,0,0,.35)",
+    "--red-40": "rgba(255,0,0,.4)",
+    "--red-45": "rgba(255,0,0,.45)",
+    "--red-50": "rgba(255,0,0,.5)",
+    "--red-55": "rgba(255,0,0,.55)",
+    "--red-60": "rgba(255,0,0,.6)",
+    "--red-65": "rgba(255,0,0,.65)",
+    "--red-70": "rgba(255,0,0,.7)",
+    "--red-75": "rgba(255,0,0,.75)",
+    "--red-80": "rgba(255,0,0,.8)",
+    "--red-85": "rgba(255,0,0,.85)",
+    "--red-90": "rgba(255,0,0,.9)",
+    "--red-95": "rgba(255,0,0,.95)",
+    "--redContact": "#9c0703",
+    "--redContact-0": "rgba(156,7,3,0)",
+    "--redContact-5": "rgb(156 7 3/5%)",
+    "--redContact-10": "rgba(156,7,3,.1)",
+    "--redContact-15": "rgba(156,7,3,.15)",
+    "--redContact-20": "rgba(156,7,3,.2)",
+    "--redContact-25": "rgba(156,7,3,.25)",
+    "--redContact-30": "rgba(156,7,3,.3)",
+    "--redContact-35": "rgba(156,7,3,.35)",
+    "--redContact-40": "rgba(156,7,3,.4)",
+    "--redContact-45": "rgba(156,7,3,.45)",
+    "--redContact-50": "rgba(156,7,3,.5)",
+    "--redContact-55": "rgba(156,7,3,.55)",
+    "--redContact-60": "rgba(156,7,3,.6)",
+    "--redContact-65": "rgba(156,7,3,.65)",
+    "--redContact-70": "rgba(156,7,3,.7)",
+    "--redContact-75": "rgba(156,7,3,.75)"
+  },
+  "breakpoints": [
+    "min 950px",
+    "max 949px",
+    "min 1680px"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "page-transition",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "s-banner-hero",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 871,
+        "gutterBottom": 12
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "A post-apocalyptic sci-fi universe",
+          "family": "NB Architekt Regular",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 1,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 19,
+      "excerpt": "A post-apocalyptic sci-fi universe",
+      "media": {
+        "video": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 900,
+      "height": 64,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "s-small-header",
+      "y": 964,
+      "height": 272,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#666666",
+      "padding": "0px 0px 96px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 358,
+        "width": 1070,
+        "gutterTop": 25,
+        "gutterBottom": 96
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The HUXLEY® saga",
+          "family": "NB Architekt Light",
+          "size": 30.25,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "An original sci-fi universe created by renowned concept artist Ben Mauro. Origi…",
+          "family": "NB Architekt Light",
+          "size": 30.25,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Light",
+        "size": 30.25,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.063,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 31,
+      "excerpt": "Originating",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "s-featured",
+      "y": 1236,
+      "height": 1800,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 958,
+        "width": 470,
+        "gutterTop": 709,
+        "gutterBottom": 13
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "THE ORACLE",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "HUXLEY",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [
+        "VIEW THE ORACLE",
+        "VIEW HUXLEY"
+      ],
+      "words": 95,
+      "excerpt": "post-apocalyptic",
+      "media": {
+        "video": 2,
+        "svg": 6
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 3036,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "s-parallax",
+      "y": 3132,
+      "height": 1216,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 488,
+        "gutterRight": 488,
+        "width": 464,
+        "gutterTop": 489,
+        "gutterBottom": 496
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "STORY",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [
+        "Discover More"
+      ],
+      "words": 61,
+      "excerpt": "Over the course of a millennia, a once thriving planet was laid",
+      "media": {
+        "svg": 7
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 4348,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "s-small-header.centered",
+      "y": 4444,
+      "height": 119,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 0px 64px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 623,
+        "gutterRight": 623,
+        "width": 195,
+        "gutterTop": 25,
+        "gutterBottom": 64
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CHARACTERS",
+          "family": "NB Architekt Light",
+          "size": 30.25,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Light",
+        "size": 30.25,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.063,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "CHARACTERS",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "s-character",
+      "y": 4564,
+      "height": 838,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 73,
+        "gutterRight": 71,
+        "width": 1296,
+        "gutterTop": 59,
+        "gutterBottom": 12
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "12px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "MAX",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 161,
+      "excerpt": "An experienced warrior, Max survived for years in the Wastelands, proving his",
+      "media": {
+        "img": 61,
+        "svg": 4
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 5401,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "s-testimonial",
+      "y": 5497,
+      "height": 816,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 273,
+        "gutterRight": 273,
+        "width": 893,
+        "gutterTop": 271,
+        "gutterBottom": 335
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "“Huxley is original",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "sci-fi done right”",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "Neill Blomkamp",
+          "family": "NB Architekt Regular",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": 0.75,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 15,
+      "excerpt": "Director of District 9, Elysium & Chappie",
+      "media": {
+        "img": 1,
+        "svg": 12
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 6313,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "u-block-list",
+      "y": 6421,
+      "height": 548,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#999999",
+      "padding": "0px",
+      "margin": "12px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 16,
+        "width": 1412,
+        "gutterTop": 0,
+        "gutterBottom": 18
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          74
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "PRESS",
+          "family": "NB Architekt Light",
+          "size": 30.25,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [
+        "IGN HUXLEY: The Oracle View",
+        "Cartoon Brew From ‘Astartes’ To ‘Huxley…",
+        "Military.com Huxley: The Oracle Is an O…",
+        "GameRant Huxley: The Oracle Is an Origi…",
+        "Monkeys Fighting Robots Sci-Fi Epic HUX…",
+        "Business Wire Ben Mauro's Sci-Fi Epic '…",
+        "Space.com Is Ben Mauro's 'Huxley' graph…",
+        "IGN HUXLEY - Official Graphic Novel Tra…",
+        "The Comic Crush Concept artist Ben Maur…",
+        "Press Release Hub Ben Mauro Announces E…"
+      ],
+      "words": 149,
+      "excerpt": "Ben Mauro's Sci-Fi Epic 'HUXLEY' Launches Globally with Hardcover & Softcover Editions;",
+      "media": {
+        "svg": 11
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 6969,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "u-block-events",
+      "y": 7065,
+      "height": 308,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#999999",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 16,
+        "width": 1412,
+        "gutterTop": 0,
+        "gutterBottom": 5
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          74
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EVENTS",
+          "family": "NB Architekt Light",
+          "size": 30.25,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "10.23.26",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "02.28.26",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "03.05.26",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [
+        "10.23.26 HUXLEY comes to LightBox Expo …",
+        "02.28.26 A presentation on the creation…",
+        "03.05.26 HUXLEY joined Emerald City Com…"
+      ],
+      "words": 66,
+      "excerpt": "A presentation on the creation of the original sci-fi universe HUXLEY, followed",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 7373,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "u-block-stats",
+      "y": 7481,
+      "height": 405,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#999999",
+      "padding": "0px",
+      "margin": "12px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 25,
+        "width": 1390,
+        "gutterTop": 13,
+        "gutterBottom": 13
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          25,
+          25,
+          25,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Stats",
+          "family": "NB Architekt Light",
+          "size": 30.25,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Years",
+          "family": "NB Architekt Light",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.1,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Views",
+          "family": "NB Architekt Light",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.1,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Subscribers",
+          "family": "NB Architekt Light",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.1,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 118,
+      "excerpt": "Ben Mauro reaches over 500,000 combined followers worldwide—an engaged community followin…",
+      "media": {}
+    },
+    {
+      "i": 19,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 7887,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 20,
+      "tag": "section",
+      "name": "s-parallax",
+      "y": 7983,
+      "height": 1216,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 488,
+        "gutterRight": 488,
+        "width": 464,
+        "gutterTop": 489,
+        "gutterBottom": 496
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Books",
+          "family": "NB Architekt Light",
+          "size": 78.3,
+          "weight": "300",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [
+        "SHOP ALL"
+      ],
+      "words": 50,
+      "excerpt": "Set thousands of years after humanity's collapse, the HUXLEY Saga is a",
+      "media": {
+        "svg": 7
+      }
+    },
+    {
+      "i": 21,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 9199,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 22,
+      "tag": "section",
+      "name": "s-shop-cards.--slider",
+      "y": 9307,
+      "height": 662,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#999999",
+      "padding": "0px",
+      "margin": "12px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 25,
+        "width": 1390,
+        "gutterTop": 13,
+        "gutterBottom": 27
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "HUXLEY Graphic Novel",
+          "family": "NB Architekt Light",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.1,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "HUXLEY Deluxe Edition",
+          "family": "NB Architekt Light",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.1,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "The Oracle",
+          "family": "NB Architekt Light",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.1,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [
+        "Buy Now",
+        "Sold Out"
+      ],
+      "words": 340,
+      "excerpt": "Return to FURY-7, a scorched planet ruled by machine emperors known as",
+      "media": {
+        "img": 3,
+        "svg": 14
+      }
+    },
+    {
+      "i": 23,
+      "tag": "div",
+      "name": "u-spacer",
+      "y": 9969,
+      "height": 96,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 24,
+      "tag": "section",
+      "name": "e-prefooter.--show-hud",
+      "y": 10065,
+      "height": 481,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 354,
+        "gutterRight": 354,
+        "width": 732,
+        "gutterTop": 162,
+        "gutterBottom": 147
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          65
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "\"It was a time of great change and order for humanity. The A.I. Wars had begun\"",
+          "family": "NB Architekt Regular",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 18,
+      "excerpt": "The Oracle",
+      "media": {
+        "img": 1,
+        "svg": 4
+      }
+    },
+    {
+      "i": 25,
+      "tag": "div",
+      "name": "footer-mask",
+      "y": 10558,
+      "height": 323,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "12px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 26,
+      "tag": "footer",
+      "name": "e-footer.layout-block",
+      "y": 577,
+      "height": 323,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#999999",
+      "padding": "0px",
+      "margin": "12px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 170,
+        "gutterBottom": 12
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          98,
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Explore",
+          "family": "NB Architekt Regular",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 1,
+          "transform": "none",
+          "color": "#999999"
+        }
+      ],
+      "bodyType": {
+        "family": "NB Architekt Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 1,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "Story",
+        "Shop",
+        "Huxley",
+        "The Oracle",
+        "About",
+        "Contact",
+        "Youtube",
+        "Instagram",
+        "X"
+      ],
+      "words": 106,
+      "excerpt": "© 2026 HUXLEY LLC. All Rights Reserved",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 27,
+      "tag": "canvas",
+      "name": null,
+      "y": -225,
+      "height": 1350,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 5,
+    "title": "Huxley Saga",
+    "award": "HM",
+    "url": "https://www.huxleysaga.com/",
+    "awwwards": "https://www.awwwards.com/sites/huxley-saga",
+    "categories": [
+      "Art & Illustration",
+      "Film & TV",
+      "Games & Entertainment"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

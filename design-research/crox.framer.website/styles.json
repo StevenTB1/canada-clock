@@ -1,0 +1,446 @@
+{
+  "page": {
+    "url": "https://crox.framer.website/",
+    "title": "CROX - Precision engineering studio",
+    "description": "CROX designs, builds and proves precision hardware: mechanics, electronics, firmware and controls engineered as one system, tested before it reaches your line.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 12211,
+    "generator": "Framer 2f857c8"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#e3e7eb",
+        "share": 0.715
+      },
+      {
+        "value": "#1a1b1c",
+        "share": 0.192
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.078
+      },
+      {
+        "value": "#191b1c",
+        "share": 0.011
+      },
+      {
+        "value": "#ff5f14",
+        "share": 0.004
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#1a1b1c",
+        "share": 0.712
+      },
+      {
+        "value": "#e3e7eb",
+        "share": 0.273
+      },
+      {
+        "value": "#1a1c1ca6",
+        "share": 0.011
+      },
+      {
+        "value": "#e3e8eb99",
+        "share": 0.003
+      },
+      {
+        "value": "#ff5f14",
+        "share": 0.001
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.996,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Geist",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.29,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 2602
+      },
+      {
+        "family": "Apfel Grotezk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 1419
+      },
+      {
+        "family": "Apfel Grotezk",
+        "size": 26,
+        "weight": "500",
+        "lineHeight": 1.23,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 251
+      },
+      {
+        "family": "Geist",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.56,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 179
+      },
+      {
+        "family": "Apfel Grotezk",
+        "size": 48,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 174
+      },
+      {
+        "family": "Geist",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1.29,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 96
+      },
+      {
+        "family": "Apfel Grotezk",
+        "size": 34,
+        "weight": "500",
+        "lineHeight": 1.18,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 87
+      },
+      {
+        "family": "Geist",
+        "size": 40,
+        "weight": "800",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 45
+      },
+      {
+        "family": "Apfel Grotezk",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 20
+      },
+      {
+        "family": "Apfel Grotezk",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.17,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 17
+      },
+      {
+        "family": "Apfel Grotezk",
+        "size": 48,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "Geist 700 normal",
+      "Geist 800 normal",
+      "Geist 300 normal",
+      "Apfel Grotezk 500 normal",
+      "Apfel Grotezk 400 normal",
+      "Geist Placeholder normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 40,
+      "uses": 150
+    },
+    {
+      "px": 8,
+      "uses": 144
+    },
+    {
+      "px": 20,
+      "uses": 112
+    },
+    {
+      "px": 4,
+      "uses": 106
+    },
+    {
+      "px": 24,
+      "uses": 40
+    },
+    {
+      "px": 12,
+      "uses": 20
+    },
+    {
+      "px": 80,
+      "uses": 6
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 32,
+      "uses": 2
+    },
+    {
+      "px": 160,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 5
+    },
+    {
+      "value": "11px",
+      "uses": 2
+    },
+    {
+      "value": "999px",
+      "uses": 1
+    },
+    {
+      "value": "100px",
+      "uses": 1
+    },
+    {
+      "value": "10px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 3
+  },
+  "cssVariables": {
+    "--token-9c8bae5e-24dd-4840-9b54-80249c57f853": "#e3e7eb",
+    "--token-e00aaa18-733f-41d8-a258-063f58c3c602": "#fff",
+    "--token-46e7daa7-0d8d-48a9-9199-41b547d4a4dc": "#1a1b1c",
+    "--token-eaa41aee-23dc-4bf9-b62a-2e292cfbd510": "#ff5f14",
+    "--token-f70900ed-ccfd-4d33-ab55-0de30ebc18d2": "#282829",
+    "--token-a553927d-1300-483a-8a7e-d993bc990a38": "#1a1b1ca6",
+    "--token-f5de5d1c-283e-43d2-b129-8d6e9077b798": "#e3e7eb99",
+    "--token-33238a7e-934f-47a5-b413-30192f21e57b": "#1a1b1c1f",
+    "--token-b1e290b9-56f5-433b-b019-85bfb2da468d": "#e3e7eb33",
+    "--token-fcc975a2-0607-4abe-9dad-e0e616fedfdb": "#e3e7eb1a",
+    "--token-e3f044a9-c48a-47ad-b534-2d7840a1ef15": "#262424",
+    "--token-f51106e2-f4e1-4897-8c80-d9895b2343e4": "#505159",
+    "--token-48cec9d9-009c-4d2d-8e71-7bcdae1ee8e8": "#969696",
+    "--token-df3d5a91-ab8d-42d5-acc4-90c5964a695e": "#1a1b1cf0",
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1",
+    "--framer-aspect-ratio-supported": "auto"
+  },
+  "breakpoints": [
+    "min 810px",
+    "max 1199px",
+    "max 809px",
+    "max 1199.98px",
+    "max 809.98px"
+  ],
+  "tech": [
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "framer-cssprb-container",
+      "y": 0,
+      "height": 64,
+      "position": "sticky",
+      "background": "#e3e7eb",
+      "backgroundImage": false,
+      "color": "#1a1b1c",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 32,
+        "width": 1380,
+        "gutterTop": 18,
+        "gutterBottom": 18
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "CROX",
+          "family": "Apfel Grotezk",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.17,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1a1b1c"
+        }
+      ],
+      "bodyType": {
+        "family": "Apfel Grotezk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "CROX",
+        "WORK",
+        "ABOUT",
+        "SERVICES",
+        "PROCESS",
+        "JOURNAL",
+        "GET IN TOUCH →"
+      ],
+      "words": 10,
+      "excerpt": "Get in touch",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "framer-mb5ss8-container",
+      "y": 11123,
+      "height": 1088,
+      "position": "relative",
+      "background": "#e3e7eb",
+      "backgroundImage": false,
+      "color": "#e3e7eb",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 44,
+        "gutterRight": 44,
+        "width": 1352,
+        "gutterTop": 28,
+        "gutterBottom": 28
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "LET’S BUILD HARDWARE THAT DOESN’T FAIL.",
+          "family": "Apfel Grotezk",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#e3e7eb"
+        }
+      ],
+      "bodyType": {
+        "family": "Apfel Grotezk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "GET IN TOUCH →",
+        "WORK",
+        "ABOUT",
+        "SERVICES",
+        "PROCESS",
+        "JOURNAL",
+        "CAREERS",
+        "HELLO@CROX.STUDIO",
+        "CRAFTED BY KONRAD MAKOWSKI",
+        "PRIVACY POLICY"
+      ],
+      "words": 68,
+      "excerpt": "Tell us what the machine has to do. We’ll tell you how",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "__framer-badge-container",
+      "y": 822,
+      "height": 78,
+      "position": "fixed",
+      "background": "#e3e7eb",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "20px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          1,
+          7
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [
+        "Create a free website with Framer, the …"
+      ],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 189,
+    "title": "CROX",
+    "award": "HM",
+    "url": "https://crox.framer.website/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/crox",
+    "categories": [
+      "Business & Corporate",
+      "Technology"
+    ]
+  }
+}

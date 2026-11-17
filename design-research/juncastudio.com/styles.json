@@ -1,0 +1,1892 @@
+{
+  "page": {
+    "url": "https://juncastudio.com/",
+    "title": "Junca Studio | Web, Brand & 3D for Tech and Deep Tech",
+    "description": "Your technology matured, your website and brand didn't. Junca designs both, with in-house 3D, for tech and deep tech companies, in Framer or custom code.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 21824,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#fbfbfb",
+        "share": 0.524
+      },
+      {
+        "value": "#080808",
+        "share": 0.106
+      },
+      {
+        "value": "#050505",
+        "share": 0.103
+      },
+      {
+        "value": "#0000000f",
+        "share": 0.041
+      },
+      {
+        "value": "#000000",
+        "share": 0.04
+      },
+      {
+        "value": "#ffffff0f",
+        "share": 0.031
+      },
+      {
+        "value": "#260503",
+        "share": 0.027
+      },
+      {
+        "value": "#4b0b06",
+        "share": 0.027
+      },
+      {
+        "value": "#711009",
+        "share": 0.027
+      },
+      {
+        "value": "#97150c",
+        "share": 0.027
+      },
+      {
+        "value": "#ededed",
+        "share": 0.026
+      },
+      {
+        "value": "#f3f3f3",
+        "share": 0.014
+      }
+    ],
+    "text": [
+      {
+        "value": "#333333",
+        "share": 0.28
+      },
+      {
+        "value": "#080808",
+        "share": 0.242
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.215
+      },
+      {
+        "value": "#666666",
+        "share": 0.053
+      },
+      {
+        "value": "#080808b8",
+        "share": 0.05
+      },
+      {
+        "value": "#ffffffb8",
+        "share": 0.044
+      },
+      {
+        "value": "#0c120c",
+        "share": 0.036
+      },
+      {
+        "value": "#707070",
+        "share": 0.017
+      },
+      {
+        "value": "#454545",
+        "share": 0.017
+      },
+      {
+        "value": "#ffffffbd",
+        "share": 0.01
+      },
+      {
+        "value": "#000000",
+        "share": 0.009
+      },
+      {
+        "value": "#ffffffc7",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffffb3",
+        "share": 0.37
+      },
+      {
+        "value": "#cfcfcf",
+        "share": 0.185
+      },
+      {
+        "value": "#080808",
+        "share": 0.185
+      },
+      {
+        "value": "#ffffff24",
+        "share": 0.148
+      },
+      {
+        "value": "#c9c9c9",
+        "share": 0.074
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0.037
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.885,
+      "text": 0.98
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 3364
+      },
+      {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 735
+      },
+      {
+        "family": "Geist",
+        "size": 16.56,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 613
+      },
+      {
+        "family": "Geist",
+        "size": 15.12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 603
+      },
+      {
+        "family": "Geist",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 599
+      },
+      {
+        "family": "Geist",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 597
+      },
+      {
+        "family": "Geist",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 572
+      },
+      {
+        "family": "Cabinet Grotesk",
+        "size": 22,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 517
+      },
+      {
+        "family": "Geist",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 431
+      },
+      {
+        "family": "Geist",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 386
+      },
+      {
+        "family": "Geist",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 384
+      },
+      {
+        "family": "Geist Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 364
+      },
+      {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 339
+      },
+      {
+        "family": "Geist",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 327
+      }
+    ],
+    "loadedFonts": [
+      "Cabinet Grotesk 300 normal",
+      "Cabinet Grotesk 400 normal",
+      "Cabinet Grotesk 500 normal",
+      "Geist 400 normal",
+      "Geist 500 normal",
+      "Geist 600 normal",
+      "Geist Mono 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 132
+    },
+    {
+      "px": 12,
+      "uses": 114
+    },
+    {
+      "px": 10,
+      "uses": 73
+    },
+    {
+      "px": 24,
+      "uses": 66
+    },
+    {
+      "px": 2,
+      "uses": 61
+    },
+    {
+      "px": 26,
+      "uses": 30
+    },
+    {
+      "px": 14,
+      "uses": 26
+    },
+    {
+      "px": 20,
+      "uses": 24
+    },
+    {
+      "px": 86,
+      "uses": 24
+    },
+    {
+      "px": 5,
+      "uses": 24
+    },
+    {
+      "px": 18,
+      "uses": 23
+    },
+    {
+      "px": 22,
+      "uses": 20
+    },
+    {
+      "px": 36,
+      "uses": 19
+    },
+    {
+      "px": 29,
+      "uses": 16
+    },
+    {
+      "px": 35,
+      "uses": 16
+    },
+    {
+      "px": 48,
+      "uses": 13
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 26
+    },
+    {
+      "value": "50%",
+      "uses": 14
+    },
+    {
+      "value": "3px",
+      "uses": 10
+    },
+    {
+      "value": "6px",
+      "uses": 5
+    },
+    {
+      "value": "1.33387px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 1632
+      },
+      {
+        "value": "1s ease",
+        "uses": 80
+      },
+      {
+        "value": "0.5s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 70
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 45
+      },
+      {
+        "value": "0.9s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.4s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 16
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 4,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--black": "#050505",
+    "--ink": "#080808",
+    "--ink-2": "#171717",
+    "--red": "#ed3327",
+    "--red-text": "#d6261c",
+    "--red-dark": "#ba2e27",
+    "--cream": "#f0efe3",
+    "--platinum": "#f3f5f7",
+    "--alabaster": "#e1e6eb",
+    "--onyx": "#0a0d10",
+    "--grey-card": "#ededed",
+    "--grey-100": "#e8e8e8",
+    "--grey-150": "#e5e6e2",
+    "--grey-200": "#c2c2c2",
+    "--grey-300": "#ababab",
+    "--grey-500": "#707070",
+    "--grey-600": "#666",
+    "--text-muted": "#666",
+    "--white": "#fff",
+    "--font-heading": "\"Cabinet Grotesk\", \"Helvetica Neue\", Arial, sans-serif",
+    "--font-body": "\"Geist\", \"Helvetica Neue\", Arial, sans-serif",
+    "--font-ui": "\"Geist\", sans-serif",
+    "--font-mono": "\"Geist Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+    "--page-max": "1300px",
+    "--container": "90%",
+    "--container-narrow": "90%",
+    "--gutter": "clamp(16px, 2.5vw, 32px)",
+    "--ease-out-quint": "cubic-bezier(.22, 1, .36, 1)",
+    "--ease-soft": "cubic-bezier(.16, 1, .3, 1)",
+    "--ease-inout": "cubic-bezier(.65, 0, .35, 1)",
+    "--fg": "#080808",
+    "--fg-2": "#666",
+    "--fg-3": "#ababab",
+    "--fg-muted": "#707070",
+    "--line": "#e5e6e2",
+    "--surface": "#ededed"
+  },
+  "breakpoints": [],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "robot-app",
+      "y": 2661,
+      "height": 900,
+      "position": "fixed",
+      "background": "#050505",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "robot-chargement",
+      "y": 2661,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "container.hero__content",
+      "y": 1440,
+      "height": 900,
+      "position": "sticky",
+      "background": "#050505",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 0px 200px",
+      "margin": "0px 36px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 626,
+        "width": 778,
+        "gutterTop": 529,
+        "gutterBottom": 200
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "We build premium web experiences for the world's most ambitious tech companies.…",
+          "family": "Cabinet Grotesk",
+          "size": 60,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cabinet Grotesk",
+        "size": 60,
+        "weight": "500",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 68,
+      "excerpt": "W",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "clients.container",
+      "y": 2340,
+      "height": 900,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808",
+      "padding": "120px 0px 150px",
+      "margin": "0px 36px",
+      "border": null,
+      "content": {
+        "gutterLeft": 994,
+        "gutterRight": 159,
+        "width": 287,
+        "gutterTop": 120,
+        "gutterBottom": 649
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "164px",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          28,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "OUR CLIENTS",
+          "family": "Geist",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 25,
+      "excerpt": "Y Combinator startups, industrial companies, US hardware manufacturers: they build techno…",
+      "media": {
+        "img": 18
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "statement.container",
+      "y": 3240,
+      "height": 534,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "120px 0px 150px",
+      "margin": "0px 36px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 619,
+        "width": 785,
+        "gutterTop": 120,
+        "gutterBottom": 150
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Your technology has outgrown your brand and your website. We close the gap: ide…",
+          "family": "Geist",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 20,
+      "excerpt": "Your technology has outgrown your brand and your website. We close the",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "pf__head.container",
+      "y": 3974,
+      "height": 215,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808b8",
+      "padding": "0px",
+      "margin": "0px 36px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 393,
+        "width": 1011,
+        "gutterTop": 0,
+        "gutterBottom": -5
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 40px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Websites, 3D, brand, fundraising and search, from one team.",
+          "family": "Cabinet Grotesk",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Discover all services Discover all serv…"
+      ],
+      "words": 36,
+      "excerpt": "Each category has its own page: the services inside it, the projects",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "pf__stage",
+      "y": 4309,
+      "height": 900,
+      "position": "sticky",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808b8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 211,
+        "gutterBottom": 365
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Websites",
+          "family": "Cabinet Grotesk",
+          "size": 28,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        },
+        {
+          "tag": "h3",
+          "text": "3D & Motion",
+          "family": "Cabinet Grotesk",
+          "size": 28,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        },
+        {
+          "tag": "h3",
+          "text": "Brand",
+          "family": "Cabinet Grotesk",
+          "size": 28,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        },
+        {
+          "tag": "h3",
+          "text": "Fundraising",
+          "family": "Cabinet Grotesk",
+          "size": 28,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Websites",
+        "Explore Websites Explore Websites",
+        "3D & Motion",
+        "Explore 3D & Motion Explore 3D & Motion",
+        "Brand",
+        "Explore Brand Explore Brand",
+        "Fundraising",
+        "Explore Fundraising Explore Fundraising",
+        "SEO & GEO",
+        "Explore SEO & GEO Explore SEO & GEO"
+      ],
+      "words": 139,
+      "excerpt": "Your technology has matured. Your website still explains the first prototype. We",
+      "media": {
+        "img": 5,
+        "canvas": 1,
+        "svg": 5
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "fw__top",
+      "y": 8519,
+      "height": 151,
+      "position": "relative",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "40px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          64,
+          28
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "They trusted us with their image.",
+          "family": "Cabinet Grotesk",
+          "size": 43.2,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 34,
+      "excerpt": "Extraordinary products, undersold by their websites: that's the gap we close for",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "li",
+      "name": "fw__card.is-reset",
+      "y": 8820,
+      "height": 565,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 56,
+        "gutterRight": 719,
+        "width": 665,
+        "gutterTop": 524,
+        "gutterBottom": -25
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          51,
+          51
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "BotBlox: Moving data where ethernet was never meant to run",
+          "family": "Cabinet Grotesk",
+          "size": 26,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Cabinet Grotesk",
+        "size": 26,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "DEEPTECH CORPORATE WEBSITE 01 / 05 · NE…"
+      ],
+      "words": 21,
+      "excerpt": "BotBlox: Moving data where ethernet was never meant to run",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "li",
+      "name": "fw__card.is-reset",
+      "y": 10208,
+      "height": 561,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#666666",
+      "padding": "0px",
+      "margin": "160px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 334,
+        "gutterRight": 615,
+        "width": 491,
+        "gutterTop": 467,
+        "gutterBottom": -7
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          56,
+          56
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Hylight: Deeptech startup in aerial inspection",
+          "family": "Cabinet Grotesk",
+          "size": 26,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "DEEPTECH SHOWCASE WEBSITE 03 / 05 · PAR…"
+      ],
+      "words": 23,
+      "excerpt": "Hylight: an aerial inspection technology driven by design.",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "li",
+      "name": "fw__card.is-reset",
+      "y": 11481,
+      "height": 565,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808",
+      "padding": "0px",
+      "margin": "-240px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 682,
+        "gutterRight": 97,
+        "width": 661,
+        "gutterTop": 488,
+        "gutterBottom": 10
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          51,
+          51
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Skipper NDT: Automating energy infrastructure maintenance",
+          "family": "Cabinet Grotesk",
+          "size": 26,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Cabinet Grotesk",
+        "size": 26,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "DEEPTECH SHOWCASE WEBSITE 05 / 05 · PAR…"
+      ],
+      "words": 15,
+      "excerpt": "Skipper NDT: Automating energy infrastructure maintenance",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "reel",
+      "y": 12501,
+      "height": 1364,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808",
+      "padding": "170px 0px 140px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 224,
+        "width": 1180,
+        "gutterTop": 170,
+        "gutterBottom": 403
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "22px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          42,
+          38,
+          42
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Great technology, undersold by its website. That's what founders tell us, every…",
+          "family": "Cabinet Grotesk",
+          "size": 66.24,
+          "weight": "500",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16.56,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Discover the studio Discover the studio"
+      ],
+      "words": 82,
+      "excerpt": "We give complex technology the clarity it needs: sleek, premium websites that",
+      "media": {
+        "img": 1,
+        "video": 1,
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "container.ws__head",
+      "y": 14025,
+      "height": 92,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#666666",
+      "padding": "0px",
+      "margin": "0px 36px 64px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "40px",
+        "justify": "normal",
+        "align": "end",
+        "children": 2,
+        "childWidthsPct": [
+          46,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Why work with us?",
+          "family": "Cabinet Grotesk",
+          "size": 43.2,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 42,
+      "excerpt": "At Junca, we believe a great website starts with a great relationship.",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "li",
+      "name": "ws__item",
+      "y": 14181,
+      "height": 608,
+      "position": "sticky",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#ffffffb8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 23,
+        "gutterBottom": 500
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal 24px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          8,
+          36,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Direct access to the designers",
+          "family": "Cabinet Grotesk",
+          "size": 31.68,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 34,
+      "excerpt": "At Junca, you work directly with the people who design your website.",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 15,
+      "tag": "li",
+      "name": "ws__item",
+      "y": 14789,
+      "height": 544,
+      "position": "sticky",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#ffffffb8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 23,
+        "gutterBottom": 414
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal 24px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          8,
+          36,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "A clear and fast process",
+          "family": "Cabinet Grotesk",
+          "size": 31.68,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 33,
+      "excerpt": "We give you access to the Junca client portal to follow every",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 16,
+      "tag": "li",
+      "name": "ws__item",
+      "y": 15333,
+      "height": 480,
+      "position": "sticky",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#ffffffb8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 23,
+        "gutterBottom": 372
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal 24px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          8,
+          36,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "No-code sites autonomous clients",
+          "family": "Cabinet Grotesk",
+          "size": 31.68,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 33,
+      "excerpt": "Your team updates the site on its own, in the Framer CMS",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 17,
+      "tag": "li",
+      "name": "ws__item.ws__item--last",
+      "y": 15813,
+      "height": 608,
+      "position": "sticky",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#ffffffb8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 23,
+        "gutterBottom": 500
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal 24px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          8,
+          36,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "A team that's ultra responsive",
+          "family": "Cabinet Grotesk",
+          "size": 31.68,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 30,
+      "excerpt": "We're an independent, human-sized studio, and genuinely available. Got a question? An",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 18,
+      "tag": "li",
+      "name": "ws__hold",
+      "y": 16421,
+      "height": 452,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 19,
+      "tag": "section",
+      "name": "ind.theme-dark",
+      "y": 16873,
+      "height": 900,
+      "position": "relative",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 119,
+        "width": 1285,
+        "gutterTop": 135,
+        "gutterBottom": 67
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 8,
+        "childWidthsPct": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Every tech sector convinces a different way.",
+          "family": "Cabinet Grotesk",
+          "size": 48.96,
+          "weight": "500",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "DeepTech",
+        "Climate Tech",
+        "AI & Data",
+        "Industry 4.0",
+        "Robotics & Hardware",
+        "SaaS B2B",
+        "Discover all Industries Discover all In…"
+      ],
+      "words": 252,
+      "excerpt": "Deeptech, climate, industry 4.0, AI, robotics, B2B SaaS: we shape each site",
+      "media": {
+        "img": 6,
+        "svg": 1
+      }
+    },
+    {
+      "i": 20,
+      "tag": "section",
+      "name": "hn",
+      "y": 17773,
+      "height": 1117,
+      "position": "relative",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#080808",
+      "padding": "160px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 14,
+        "gutterRight": 2,
+        "width": 1424,
+        "gutterTop": 160,
+        "gutterBottom": 97
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 8,
+        "childWidthsPct": [
+          28,
+          28,
+          28,
+          28,
+          28,
+          28,
+          28,
+          28
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our take on design, technology and what makes a website convert.",
+          "family": "Cabinet Grotesk",
+          "size": 43.2,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#080808"
+        },
+        {
+          "tag": "h3",
+          "text": "Deeptech branding: how to build an identity for invisible technology",
+          "family": "Cabinet Grotesk",
+          "size": 22,
+          "weight": "500",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        },
+        {
+          "tag": "h3",
+          "text": "Startup website after a seed round: what to change before Series A",
+          "family": "Cabinet Grotesk",
+          "size": 22,
+          "weight": "500",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        },
+        {
+          "tag": "h3",
+          "text": "How to show a hardware product on your website when photos fall short",
+          "family": "Cabinet Grotesk",
+          "size": 22,
+          "weight": "500",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "See all articles See all articles",
+        "Branding Oct 15, 2026 Deeptech branding…",
+        "Digital Strategy Oct 5, 2026 Startup we…",
+        "Web design Sep 25, 2026 How to show a h…",
+        "Web design Sep 16, 2026 The 12 best dee…",
+        "UX & Conversion Aug 4, 2026 How to expl…",
+        "Digital Strategy Jul 22, 2026 Astro vs …",
+        "Digital Strategy Jul 14, 2026 The inves…",
+        "Web design May 25, 2026 Why deeptech st…"
+      ],
+      "words": 745,
+      "excerpt": "How to explain complex technology on a website (without dumbing it down)",
+      "media": {
+        "img": 8,
+        "svg": 3
+      }
+    },
+    {
+      "i": 21,
+      "tag": "section",
+      "name": "voice",
+      "y": 18890,
+      "height": 1186,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "160px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 160,
+        "gutterBottom": 201
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "12px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our clients speak for themselves. Our clients speak for themselvesF",
+          "family": "Cabinet Grotesk",
+          "size": 43.2,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 15.12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Start a project",
+        "About the studio",
+        "Josh Elijah Josh Elijah CEO, BotBlox Sy…",
+        "Martin Bocken Martin Bocken CEO & co-fo…",
+        "Luigi Kassir Luigi Kassir CEO, Skipper …",
+        "Lucy Lyons Lucy Lyons CEO, Kestrix CEO,…"
+      ],
+      "words": 1080,
+      "excerpt": "Read the case study",
+      "media": {
+        "img": 4,
+        "svg": 5
+      }
+    },
+    {
+      "i": 22,
+      "tag": "section",
+      "name": "faqsec.page-white",
+      "y": 20075,
+      "height": 842,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": true,
+      "color": "#333333",
+      "padding": "64px 0px 120px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 163,
+        "width": 1241,
+        "gutterTop": 64,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "40px",
+        "justify": "space-between",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          58
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Got a question? We answer it here.",
+          "family": "Cabinet Grotesk",
+          "size": 55,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#080808"
+        },
+        {
+          "tag": "h3",
+          "text": "What does Junca Studio do?",
+          "family": "Geist",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#0c120c"
+        },
+        {
+          "tag": "h3",
+          "text": "How much does a website cost with Junca Studio?",
+          "family": "Geist",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#0c120c"
+        },
+        {
+          "tag": "h3",
+          "text": "How long does it take to build a website with Junca Studio?",
+          "family": "Geist",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#0c120c"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Get in touch Get in touch"
+      ],
+      "words": 796,
+      "excerpt": "Every project is priced on its scope, never from a package. As",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 23,
+      "tag": "footer",
+      "name": "footer",
+      "y": 20917,
+      "height": 907,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": true,
+      "color": "#080808",
+      "padding": "120px 0px 30px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 120,
+        "gutterBottom": 37
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "start",
+        "children": 4,
+        "childWidthsPct": [
+          21,
+          22,
+          22,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "H",
+          "family": "Cabinet Grotesk",
+          "size": 100,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "LinkedIn",
+        "X (Twitter)",
+        "Studio",
+        "Our projects",
+        "Our services",
+        "News",
+        "Contact",
+        "BotBlox Systems",
+        "Hylight",
+        "Kestrix"
+      ],
+      "words": 250,
+      "excerpt": "© 2026 Studio Junca All rights reserved.",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 22,
+    "title": "Junca Studio",
+    "award": "HM",
+    "url": "https://juncastudio.com/",
+    "awwwards": "https://www.awwwards.com/sites/junca-studio",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

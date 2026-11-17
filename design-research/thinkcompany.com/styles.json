@@ -1,0 +1,1336 @@
+{
+  "page": {
+    "url": "https://www.thinkcompany.com/",
+    "title": "User Experience Design & Development Agency | Think Company",
+    "description": "Think Company designs digital products for teams in finance, pharma, healthcare, and telecom where compliance and legacy systems are the real constraints.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 14396,
+    "generator": "Astro v7.1.3"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#fdffee",
+        "share": 0.527
+      },
+      {
+        "value": "#031b36",
+        "share": 0.229
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.15
+      },
+      {
+        "value": "#000000b3",
+        "share": 0.028
+      },
+      {
+        "value": "#ff2c17",
+        "share": 0.027
+      },
+      {
+        "value": "#000000",
+        "share": 0.02
+      },
+      {
+        "value": "#ffaaf6",
+        "share": 0.008
+      },
+      {
+        "value": "#b6ffff",
+        "share": 0.008
+      },
+      {
+        "value": "#ffffff26",
+        "share": 0.002
+      },
+      {
+        "value": "#151f2ae6",
+        "share": 0
+      },
+      {
+        "value": "#00000014",
+        "share": 0
+      },
+      {
+        "value": "#1a2233",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#fdffee",
+        "share": 0.429
+      },
+      {
+        "value": "#031b36",
+        "share": 0.336
+      },
+      {
+        "value": "#2d2d2d",
+        "share": 0.121
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.065
+      },
+      {
+        "value": "#ff2c17",
+        "share": 0.021
+      },
+      {
+        "value": "#0b2c52",
+        "share": 0.02
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.008
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff33",
+        "share": 0.5
+      },
+      {
+        "value": "#ffffff26",
+        "share": 0.2
+      },
+      {
+        "value": "#ff2c17",
+        "share": 0.1
+      },
+      {
+        "value": "#0000004d",
+        "share": 0.1
+      },
+      {
+        "value": "#c9c9c966",
+        "share": 0.1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.2,
+      "text": 0.194
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Family",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.19,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 461
+      },
+      {
+        "family": "Family",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.021,
+        "transform": "none",
+        "chars": 453
+      },
+      {
+        "family": "Bagoss",
+        "size": 24,
+        "weight": "600",
+        "lineHeight": 1.17,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 353
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 329
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 268
+      },
+      {
+        "family": "Bagoss",
+        "size": 38,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.011,
+        "transform": "none",
+        "chars": 224
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 19,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 188
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 143
+      },
+      {
+        "family": "Family",
+        "size": 30,
+        "weight": "400",
+        "lineHeight": 1.11,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 106
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 105
+      },
+      {
+        "family": "Bagoss",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 95
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 71
+      },
+      {
+        "family": "Bagoss",
+        "size": 64,
+        "weight": "650",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 70
+      },
+      {
+        "family": "ABC Diatype",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 66
+      }
+    ],
+    "loadedFonts": [
+      "Bagoss 500 normal",
+      "Bagoss 600 normal",
+      "Bagoss 700 normal",
+      "ABC Diatype 400 normal",
+      "ABC Diatype 700 normal",
+      "Family 400 normal",
+      "Space Mono 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 48
+    },
+    {
+      "px": 6,
+      "uses": 37
+    },
+    {
+      "px": 40,
+      "uses": 26
+    },
+    {
+      "px": 12,
+      "uses": 21
+    },
+    {
+      "px": 48,
+      "uses": 17
+    },
+    {
+      "px": 24,
+      "uses": 16
+    },
+    {
+      "px": 1,
+      "uses": 14
+    },
+    {
+      "px": 16,
+      "uses": 14
+    },
+    {
+      "px": 22,
+      "uses": 13
+    },
+    {
+      "px": 200,
+      "uses": 12
+    },
+    {
+      "px": 20,
+      "uses": 10
+    },
+    {
+      "px": 32,
+      "uses": 10
+    },
+    {
+      "px": 4,
+      "uses": 10
+    },
+    {
+      "px": 34,
+      "uses": 10
+    },
+    {
+      "px": 64,
+      "uses": 10
+    },
+    {
+      "px": 10,
+      "uses": 9
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 414
+    },
+    {
+      "value": "4px",
+      "uses": 19
+    },
+    {
+      "value": "999px",
+      "uses": 14
+    },
+    {
+      "value": "24px",
+      "uses": 7
+    },
+    {
+      "value": "8px",
+      "uses": 4
+    },
+    {
+      "value": "16px",
+      "uses": 3
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.25s ease",
+        "uses": 91
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 14
+      },
+      {
+        "value": "2s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 6
+      },
+      {
+        "value": "0.325s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 467,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--column-count": "12",
+    "--column-gap": "1.5rem",
+    "--column-width": "calc((100% - (var(--column-count) - 1) * var(--column-gap)) / var(--column-count"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 129,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#031b36",
+      "padding": "36px 0px 28px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 643,
+        "gutterRight": 643,
+        "width": 154,
+        "gutterTop": -106,
+        "gutterBottom": 193
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          11,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Skip Navigation",
+          "family": "Bagoss",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#031b36"
+        }
+      ],
+      "bodyType": {
+        "family": "Bagoss",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Skip Navigation"
+      ],
+      "words": 2,
+      "excerpt": "Skip Navigation",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "unicorn-bg-p58cf0n",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#031b36",
+      "backgroundImage": false,
+      "color": "#fdffee",
+      "padding": "0px",
+      "margin": "0px 0px -900px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "home-feature-lines",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#031b36",
+      "backgroundImage": false,
+      "color": "#fdffee",
+      "padding": "0px",
+      "margin": "0px 0px -900px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "home-feature-stage",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#031b36",
+      "backgroundImage": false,
+      "color": "#fdffee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 340,
+        "gutterRight": 340,
+        "width": 760,
+        "gutterTop": 258,
+        "gutterBottom": 316
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          53,
+          49,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "We’re the people you want in the room.",
+          "family": "Bagoss",
+          "size": 80,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#fdffee"
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Diatype",
+        "size": 19,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Ask us anything..."
+      ],
+      "words": 42,
+      "excerpt": "Think is a team of strategists, designers, and engineers who partner with",
+      "media": {
+        "img": 3,
+        "svg": 2,
+        "iframe": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "home-feature-scroll-spacer",
+      "y": 900,
+      "height": 1260,
+      "position": "static",
+      "background": "#031b36",
+      "backgroundImage": false,
+      "color": "#fdffee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "home-feature-heading-runway-end",
+      "y": 2160,
+      "height": 900,
+      "position": "static",
+      "background": "#031b36",
+      "backgroundImage": false,
+      "color": "#fdffee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "ask-think.ask-think--card-only",
+      "y": 3060,
+      "height": 450,
+      "position": "relative",
+      "background": "#031b36",
+      "backgroundImage": false,
+      "color": "#fdffee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 570,
+        "gutterRight": 570,
+        "width": 299,
+        "gutterTop": -171,
+        "gutterBottom": 394
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "8px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "What kind of work does Think do?",
+          "family": "ABC Diatype",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Diatype",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "What kind of work does Think do?",
+        "How does Think approach AI?",
+        "Show me work relevant to my industry...",
+        "How is Think different than a typical a…"
+      ],
+      "words": 27,
+      "excerpt": "How is Think different than a typical agency?",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "featured-work-header.is-ready",
+      "y": 3684,
+      "height": 304,
+      "position": "static",
+      "background": "#fdffee",
+      "backgroundImage": false,
+      "color": "#031b36",
+      "padding": "0px",
+      "margin": "0px 0px 90px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We solve the problems worth solving.",
+          "family": "Bagoss",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0b2c52"
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Diatype",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 32,
+      "excerpt": "We don’t start with the interface. We start with the people using",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "li",
+      "name": "work-list-item",
+      "y": 4078,
+      "height": 754,
+      "position": "static",
+      "background": "#fdffee",
+      "backgroundImage": false,
+      "color": "#031b36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 108,
+        "gutterRight": 727,
+        "width": 605,
+        "gutterTop": 60,
+        "gutterBottom": 68
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "This company’s support teams hunted for answers across a dozen tools. Now one p…",
+          "family": "Family",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.021,
+          "transform": "none",
+          "color": "#031b36"
+        }
+      ],
+      "bodyType": {
+        "family": "Family",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.021,
+        "transform": "none"
+      },
+      "labels": [
+        "Global Media & Tech Company"
+      ],
+      "words": 25,
+      "excerpt": "This company’s support teams hunted for answers across a dozen tools. Now",
+      "media": {
+        "img": 2,
+        "svg": 4,
+        "iframe": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "li",
+      "name": "work-list-item",
+      "y": 4864,
+      "height": 754,
+      "position": "static",
+      "background": "#fdffee",
+      "backgroundImage": false,
+      "color": "#031b36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 108,
+        "gutterRight": 792,
+        "width": 540,
+        "gutterTop": 60,
+        "gutterBottom": 100
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Merck’s information can save lives, but only if the right people can find it. T…",
+          "family": "Family",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.021,
+          "transform": "none",
+          "color": "#031b36"
+        }
+      ],
+      "bodyType": {
+        "family": "Family",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.021,
+        "transform": "none"
+      },
+      "labels": [
+        "Merck"
+      ],
+      "words": 21,
+      "excerpt": "Merck’s information can save lives, but only if the right people can",
+      "media": {
+        "img": 2,
+        "svg": 8,
+        "iframe": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "li",
+      "name": "work-list-item",
+      "y": 5650,
+      "height": 754,
+      "position": "static",
+      "background": "#fdffee",
+      "backgroundImage": false,
+      "color": "#031b36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 108,
+        "gutterRight": 724,
+        "width": 608,
+        "gutterTop": 60,
+        "gutterBottom": 68
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "One of the largest logistics operators moving vehicles and heavy equipment by s…",
+          "family": "Family",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.021,
+          "transform": "none",
+          "color": "#031b36"
+        }
+      ],
+      "bodyType": {
+        "family": "Family",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.021,
+        "transform": "none"
+      },
+      "labels": [
+        "Global Shipping and Logistics Operator"
+      ],
+      "words": 38,
+      "excerpt": "One of the largest logistics operators moving vehicles and heavy equipment by",
+      "media": {
+        "img": 2,
+        "svg": 4,
+        "iframe": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "work-list-footer",
+      "y": 6460,
+      "height": 68,
+      "position": "static",
+      "background": "#fdffee",
+      "backgroundImage": false,
+      "color": "#031b36",
+      "padding": "0px",
+      "margin": "55px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 88,
+        "gutterRight": 946,
+        "width": 406,
+        "gutterTop": 21,
+        "gutterBottom": 21
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "40px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          20,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "See more work",
+          "family": "ABC Diatype",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#031b36"
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Diatype",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Show me work in my industry...",
+        "See more work"
+      ],
+      "words": 9,
+      "excerpt": "Show me work in my industry...",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "how-we-help",
+      "y": 6702,
+      "height": 1481,
+      "position": "static",
+      "background": "#031b36",
+      "backgroundImage": false,
+      "color": "#fdffee",
+      "padding": "120px 0px 80px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 260,
+        "width": 1132,
+        "gutterTop": 120,
+        "gutterBottom": 312
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          93,
+          93,
+          93,
+          93,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "You’re navigating something complex.",
+          "family": "Bagoss",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ff2c17"
+        }
+      ],
+      "bodyType": {
+        "family": "Family",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.19,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Research & Product Strategy",
+        "Product Design & Build",
+        "Embedded Teams & Staffing",
+        "AI Strategy, Design & Build",
+        "Design Systems & AI Enablement"
+      ],
+      "words": 164,
+      "excerpt": "“Our software is outdated. Our users are suffering for it, and some",
+      "media": {
+        "svg": 6
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "mixtape-cards-backboard.is-ready",
+      "y": 8183,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0b2c52",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 438,
+        "gutterRight": 438,
+        "width": 564,
+        "gutterTop": 306,
+        "gutterBottom": 306
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          6,
+          39,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What we’re into right now.",
+          "family": "Bagoss",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0b2c52"
+        }
+      ],
+      "bodyType": {
+        "family": "Bagoss",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Explore the Mixtape"
+      ],
+      "words": 9,
+      "excerpt": "Explore the Mixtape",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "text-cta",
+      "y": 13047,
+      "height": 578,
+      "position": "relative",
+      "background": "#ff2c17",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "106px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 334,
+        "gutterRight": 334,
+        "width": 772,
+        "gutterTop": 186,
+        "gutterBottom": 185
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "26px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          54,
+          42,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "You’ve got a hard problem. We’re listening.",
+          "family": "Family",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.021,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Diatype",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Get in touch"
+      ],
+      "words": 20,
+      "excerpt": "Tell us what you’re navigating and we’ll go from there.",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 16,
+      "tag": "footer",
+      "name": "footer",
+      "y": 13625,
+      "height": 771,
+      "position": "relative",
+      "background": "#031b36",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px 0px 28px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 373,
+        "gutterBottom": 41
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "family": "Space Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0.114,
+          "transform": "uppercase",
+          "color": "#ffffffb3"
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Diatype",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Our Work",
+        "How We Help",
+        "Why Think",
+        "Who We Are",
+        "Mixtape",
+        "Careers at Think",
+        "Contact Us",
+        "LinkedIn",
+        "Instagram",
+        "YouTube"
+      ],
+      "words": 27,
+      "excerpt": "© 2026 All Rights Reserved",
+      "media": {
+        "canvas": 1,
+        "svg": 5
+      }
+    },
+    {
+      "i": 17,
+      "tag": "aside",
+      "name": "think-notice",
+      "y": 789,
+      "height": 61,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#fdffee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 64,
+        "gutterRight": 1137,
+        "width": 239,
+        "gutterTop": 12,
+        "gutterBottom": 13
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          17,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "We use cookies on this site to support analytics and user testing.",
+          "family": "ABC Diatype",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#fdffee"
+        }
+      ],
+      "bodyType": {
+        "family": "ABC Diatype",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 12,
+      "excerpt": "We use cookies on this site to support analytics and user testing.",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "hs-web-interactives-top-anchor",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#2d2d2d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 24,
+    "title": "Think Company",
+    "award": "HM",
+    "url": "https://www.thinkcompany.com/",
+    "awwwards": "https://www.awwwards.com/sites/think-company",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

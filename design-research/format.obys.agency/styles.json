@@ -1,0 +1,958 @@
+{
+  "page": {
+    "url": "https://format.obys.agency/",
+    "title": "FORMAT",
+    "description": "FORMAT is an interactive Obys × DES Special Project exploring format as a design tool. Discover how different shapes, proportions, and boundaries can change the way we think, compose, and design.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 15451,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#222222",
+        "share": 0.838
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.086
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0.049
+      },
+      {
+        "value": "#000000",
+        "share": 0.018
+      },
+      {
+        "value": "#e0ddbf",
+        "share": 0.004
+      },
+      {
+        "value": "#d2d2d233",
+        "share": 0.003
+      },
+      {
+        "value": "#e9e9e9",
+        "share": 0.001
+      },
+      {
+        "value": "#dedede",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.636
+      },
+      {
+        "value": "#bfbfbf",
+        "share": 0.238
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.091
+      },
+      {
+        "value": "#ffffff66",
+        "share": 0.034
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 0.571
+      },
+      {
+        "value": "#222222",
+        "share": 0.286
+      },
+      {
+        "value": "#e9e9e9",
+        "share": 0.143
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.995,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Obys Sans",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2068
+      },
+      {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 615
+      },
+      {
+        "family": "Obys Sans",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 440
+      },
+      {
+        "family": "Obys Sans",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 422
+      },
+      {
+        "family": "Obys Sans",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 316
+      },
+      {
+        "family": "Obys Sans",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 304
+      },
+      {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 290
+      },
+      {
+        "family": "Obys Sans",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 256
+      },
+      {
+        "family": "Obys Sans",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 187
+      },
+      {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 151
+      },
+      {
+        "family": "Obys Sans",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 126
+      },
+      {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 111
+      },
+      {
+        "family": "Obys Sans",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 60
+      },
+      {
+        "family": "Obys Sans",
+        "size": 92,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 33
+      }
+    ],
+    "loadedFonts": [
+      "Obys Sans 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 6,
+      "uses": 9
+    },
+    {
+      "px": 2,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 13
+    },
+    {
+      "value": "79px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.45s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 46
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 18
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--s": "calc(100vw / 1440)",
+    "--color-bg": "#222",
+    "--color-logo": "#fff",
+    "--color-plate": "#fff",
+    "--color-plate-ink": "#000",
+    "--color-nav-muted": "#939393",
+    "--color-dial": "#fff",
+    "--color-mark": "#bfbfbf",
+    "--color-mark-active": "#000",
+    "--color-hand": "#000",
+    "--color-dot": "#000",
+    "--color-note": "#e0ddbf",
+    "--color-note-ink": "#000",
+    "--layer-header": "0",
+    "--layer-content": "1",
+    "--layer-burst": "10",
+    "--layer-curtain": "50",
+    "--parallax": "70",
+    "--drift": ".07",
+    "--grid-columns": "8",
+    "--grid-margin": "20",
+    "--grid-gutter": "20",
+    "--content-width": "1400"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "logo-fixed",
+      "y": 20,
+      "height": 215,
+      "position": "fixed",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "screen",
+      "y": 0,
+      "height": 810,
+      "position": "relative",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 29,
+        "width": 1381,
+        "gutterTop": 243,
+        "gutterBottom": 540
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Format — Obys and DES Special Project",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Obys",
+        "DES",
+        "Grids Season",
+        "Notes Mode",
+        "My 6 y.o. Daughter’s Version"
+      ],
+      "words": 26,
+      "excerpt": "My 6 y.o. Daughter’s Version",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "ground",
+      "y": 1074,
+      "height": 999,
+      "position": "absolute",
+      "background": "#d9d9d9",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "article",
+      "name": "wide",
+      "y": 868,
+      "height": 448,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 565,
+        "gutterRight": 260,
+        "width": 615,
+        "gutterTop": -180,
+        "gutterBottom": -884
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Horizontal",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 51,
+      "excerpt": "Business Cards",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "clock-section",
+      "y": 1554,
+      "height": 513,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#bfbfbf",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 477,
+        "gutterRight": 477,
+        "width": 486,
+        "gutterTop": 13,
+        "gutterBottom": 13
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "(Format)",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 14,
+      "excerpt": "(Format)",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "fog",
+      "y": 6789,
+      "height": 1290,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "img",
+      "name": null,
+      "y": 3788,
+      "height": 1841,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "article",
+      "name": "v-card",
+      "y": 2913,
+      "height": 426,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#bfbfbf",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 560,
+        "gutterRight": 561,
+        "width": 319,
+        "gutterTop": 13,
+        "gutterBottom": 13
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "1.1",
+          "family": "Obys Sans",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 43,
+      "excerpt": "Editorial Design",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "win",
+      "y": 7144,
+      "height": 697,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 384,
+        "gutterRight": 383,
+        "width": 674,
+        "gutterTop": 12,
+        "gutterBottom": 12
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "b",
+          "text": "Circle",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 27,
+      "excerpt": "Frozen Bloom",
+      "media": {
+        "img": 9
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "vee",
+      "y": 7847,
+      "height": 841,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 31,
+        "gutterRight": 31,
+        "width": 1378,
+        "gutterTop": 6,
+        "gutterBottom": 79
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "TRIANGLE",
+          "family": "Obys Sans",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 65,
+      "excerpt": "Strong Horizontals",
+      "media": {
+        "img": 5,
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "gauge",
+      "y": 8808,
+      "height": 2050,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#bfbfbf",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 808,
+        "gutterBottom": 429
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "(Triangle)",
+          "family": "Obys Sans",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 48,
+      "excerpt": "(Horizontal)",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "poster.is-whole",
+      "y": 10864,
+      "height": 1617,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#ffffff66",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 15,
+        "gutterRight": 68,
+        "width": 1357,
+        "gutterTop": 6,
+        "gutterBottom": 173
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "T",
+          "family": "Obys Sans",
+          "size": 92,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 117,
+      "excerpt": "Editorial Design",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "field",
+      "y": 13581,
+      "height": 1247,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 0px 0px -700px",
+      "border": null,
+      "content": {
+        "gutterLeft": 31,
+        "gutterRight": 420,
+        "width": 989,
+        "gutterTop": 5,
+        "gutterBottom": 5
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "click,",
+          "family": "Obys Sans",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "Click...",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "footer",
+      "name": "footer",
+      "y": 15178,
+      "height": 273,
+      "position": "absolute",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 29,
+        "width": 1382,
+        "gutterTop": 225,
+        "gutterBottom": 17
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "©2026. Format — Obys and DES Special Project",
+          "family": "Obys Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Obys Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Obys",
+        "DES",
+        "Grids Season"
+      ],
+      "words": 23,
+      "excerpt": "by Design Educations Series",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "clock-spacer",
+      "y": 810,
+      "height": 2882,
+      "position": "static",
+      "background": "#222222",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 203,
+    "title": "FORMAT",
+    "award": "SOTD",
+    "url": "https://format.obys.agency/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/format",
+    "categories": [
+      "Culture & Education",
+      "Web & Interactive",
+      "Experimental"
+    ]
+  }
+}

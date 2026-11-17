@@ -1,0 +1,504 @@
+{
+  "page": {
+    "url": "https://yuyafilmstudio.dev/",
+    "title": "YUYA FILM STUDIO",
+    "description": "Walk through YUYA FILM STUDIO — a working film company built from Yuya's real Video OS, projects and footage.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#0b0b0a",
+        "share": 0.5
+      },
+      {
+        "value": "#09090938",
+        "share": 0.5
+      },
+      {
+        "value": "#7fb37a",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#f2ede4",
+        "share": 0.183
+      },
+      {
+        "value": "#f2ede49e",
+        "share": 0.169
+      },
+      {
+        "value": "#f2eee4db",
+        "share": 0.138
+      },
+      {
+        "value": "#f2ede499",
+        "share": 0.124
+      },
+      {
+        "value": "#f2ede4c7",
+        "share": 0.093
+      },
+      {
+        "value": "#f2ede366",
+        "share": 0.088
+      },
+      {
+        "value": "#c9a96e",
+        "share": 0.08
+      },
+      {
+        "value": "#f1ede380",
+        "share": 0.067
+      },
+      {
+        "value": "#f2ede48c",
+        "share": 0.031
+      },
+      {
+        "value": "#f1eee394",
+        "share": 0.027
+      }
+    ],
+    "borders": [
+      {
+        "value": "#f1ede247",
+        "share": 0.545
+      },
+      {
+        "value": "#f5ebe21a",
+        "share": 0.227
+      },
+      {
+        "value": "#f1ede438",
+        "share": 0.091
+      },
+      {
+        "value": "#c9a96e",
+        "share": 0.045
+      },
+      {
+        "value": "#c9a96ee6",
+        "share": 0.045
+      },
+      {
+        "value": "#f2ede48c",
+        "share": 0.045
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.92
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Cormorant Garamond",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 112
+      },
+      {
+        "family": "Inter",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 108
+      },
+      {
+        "family": "Inter",
+        "size": 10.5,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.2,
+        "transform": "none",
+        "chars": 75
+      },
+      {
+        "family": "Inter",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 74
+      },
+      {
+        "family": "Inter",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.12,
+        "transform": "none",
+        "chars": 71
+      },
+      {
+        "family": "Inter",
+        "size": 12,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.2,
+        "transform": "none",
+        "chars": 61
+      },
+      {
+        "family": "Inter",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0.32,
+        "transform": "none",
+        "chars": 50
+      },
+      {
+        "family": "Inter",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.3,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "Courier Prime",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "Inter",
+        "size": 9.5,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.28,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Inter",
+        "size": 11.5,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.34,
+        "transform": "uppercase",
+        "chars": 22
+      },
+      {
+        "family": "Inter",
+        "size": 9.5,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.3,
+        "transform": "none",
+        "chars": 22
+      },
+      {
+        "family": "Inter",
+        "size": 9.5,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0.32,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "Courier Prime",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 17
+      }
+    ],
+    "loadedFonts": [
+      "Inter 400 normal",
+      "Inter 500 normal",
+      "Inter 600 normal",
+      "Cormorant Garamond 400 normal",
+      "Cormorant Garamond 500 normal",
+      "Courier Prime 400 normal",
+      "Courier Prime 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 9,
+      "uses": 38
+    },
+    {
+      "px": 10,
+      "uses": 31
+    },
+    {
+      "px": 14,
+      "uses": 17
+    },
+    {
+      "px": 34,
+      "uses": 13
+    },
+    {
+      "px": 22,
+      "uses": 13
+    },
+    {
+      "px": 8,
+      "uses": 7
+    },
+    {
+      "px": 6,
+      "uses": 6
+    },
+    {
+      "px": 18,
+      "uses": 5
+    },
+    {
+      "px": 28,
+      "uses": 4
+    },
+    {
+      "px": 11,
+      "uses": 4
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 3,
+      "uses": 4
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 13,
+      "uses": 2
+    },
+    {
+      "px": 30,
+      "uses": 1
+    },
+    {
+      "px": 20,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 10
+    },
+    {
+      "value": "50%",
+      "uses": 2
+    },
+    {
+      "value": "3px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.25s ease",
+        "uses": 2
+      },
+      {
+        "value": "1.6s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.8s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 5,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--ink": "#0b0b0a",
+    "--paper": "#f2ede4",
+    "--muted": "#a39e94",
+    "--gold": "#c9a96e",
+    "--gold-dim": "#8c7650",
+    "--rec": "#e0402f",
+    "--serif": "\"Cormorant Garamond\", \"Baskerville\", Georgia, serif",
+    "--sans": "\"Inter\", \"Helvetica Neue\", Arial, sans-serif",
+    "--mono": "\"Courier Prime\", \"Courier New\", monospace"
+  },
+  "breakpoints": [
+    "max 720px",
+    "max 900px",
+    "max 1000px",
+    "max 640px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "canvas",
+      "name": "gl",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0b0b0a",
+      "backgroundImage": false,
+      "color": "#f2ede4",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "loader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#09090938",
+      "backgroundImage": true,
+      "color": "#f2ede4",
+      "padding": "28px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 160,
+        "gutterRight": 160,
+        "width": 1120,
+        "gutterTop": 122,
+        "gutterBottom": 121
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          78
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "YUYA FILM STUDIO",
+          "family": "Inter",
+          "size": 44,
+          "weight": "500",
+          "lineHeight": 1.06,
+          "letterSpacing": 0.12,
+          "transform": "none",
+          "color": "#f2ede4"
+        },
+        {
+          "tag": "h2",
+          "text": "MOVE",
+          "family": "Inter",
+          "size": 9.5,
+          "weight": "500",
+          "lineHeight": "normal",
+          "letterSpacing": 0.32,
+          "transform": "none",
+          "color": "#f1ede380"
+        },
+        {
+          "tag": "h2",
+          "text": "EXPLORE",
+          "family": "Inter",
+          "size": 9.5,
+          "weight": "500",
+          "lineHeight": "normal",
+          "letterSpacing": 0.32,
+          "transform": "none",
+          "color": "#f1ede380"
+        },
+        {
+          "tag": "h2",
+          "text": "OBJECTS",
+          "family": "Inter",
+          "size": 9.5,
+          "weight": "500",
+          "lineHeight": "normal",
+          "letterSpacing": 0.32,
+          "transform": "none",
+          "color": "#f1ede380"
+        }
+      ],
+      "bodyType": {
+        "family": "Cormorant Garamond",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ENTER YUYA FILM STUDIO",
+        "AUDIO OFF"
+      ],
+      "words": 159,
+      "excerpt": "Explore the studio, interact with the production process, and follow a film",
+      "media": {
+        "canvas": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 141,
+    "title": "Yuya Film Studio",
+    "award": "HM",
+    "url": "https://yuyafilmstudio.dev/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/yuya-film-studio",
+    "categories": [
+      "Experimental",
+      "Film & TV",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "page": {
+    "url": "https://secure-the-unknown.cyera.com/",
+    "title": "Cyera AI Guardian | Secure the Unknown",
+    "description": "AI launches your data into orbit and Cyera helps secure every landing. Learn more about how to discover, govern, protect your data with complete AI security platform combining AI Security Posture Management and runtime protection.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#6d2d93",
+        "share": 0.497
+      },
+      {
+        "value": "#000000",
+        "share": 0.249
+      },
+      {
+        "value": "#160a2480",
+        "share": 0.249
+      },
+      {
+        "value": "#160923",
+        "share": 0.003
+      },
+      {
+        "value": "#fbfbfb",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff38",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#f6e8ff",
+        "share": 0.531
+      },
+      {
+        "value": "#6d2d93",
+        "share": 0.438
+      },
+      {
+        "value": "#160923",
+        "share": 0.031
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.251,
+      "text": 0
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Haffer",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "Haffer",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 17
+      },
+      {
+        "family": "Haffer",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 14
+      },
+      {
+        "family": "Haffer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "Haffer 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 3
+    },
+    {
+      "px": 21,
+      "uses": 2
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 19,
+      "uses": 2
+    },
+    {
+      "px": 3,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "2px",
+      "uses": 4
+    },
+    {
+      "value": "8px",
+      "uses": 1
+    },
+    {
+      "value": "16px",
+      "uses": 1
+    },
+    {
+      "value": "10.4px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1.4s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.6s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 1
+      },
+      {
+        "value": "1.4s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.8s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 1
+      },
+      {
+        "value": "1s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {},
+  "breakpoints": [
+    "min 390px",
+    "min 1600px",
+    "max 768px",
+    "min 1280px",
+    "min 768px",
+    "max 600px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "Stage",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#6d2d93",
+      "backgroundImage": false,
+      "color": "#f6e8ff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 0,
+        "gutterBottom": 277
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Begin Your Mission",
+          "family": "Haffer",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Haffer",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "Begin Your Mission",
+      "media": {
+        "img": 30,
+        "canvas": 2,
+        "svg": 48
+      }
+    }
+  ],
+  "listing": {
+    "rank": 173,
+    "title": "Cyera AI Guardian",
+    "award": "SOTD",
+    "url": "https://secure-the-unknown.cyera.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/cyera-ai-guardian",
+    "categories": [
+      "Business & Corporate",
+      "Web & Interactive",
+      "Startups"
+    ]
+  }
+}

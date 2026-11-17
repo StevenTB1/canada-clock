@@ -1,0 +1,1967 @@
+{
+  "page": {
+    "url": "https://www.dopaminestudio.io/",
+    "title": "Web, 3D & AI Development Studio | Dopamine Studio",
+    "description": "Dopamine Studio is a digital studio combining Design, Development, 3D Experiences, and AI Business Integration into one offering.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 24274,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.872
+      },
+      {
+        "value": "#ccff00",
+        "share": 0.105
+      },
+      {
+        "value": "#1a1a1a",
+        "share": 0.01
+      },
+      {
+        "value": "#272727",
+        "share": 0.005
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.003
+      },
+      {
+        "value": "#0000001a",
+        "share": 0.002
+      },
+      {
+        "value": "#333333",
+        "share": 0.001
+      },
+      {
+        "value": "#363636",
+        "share": 0
+      },
+      {
+        "value": "#000000b8",
+        "share": 0
+      },
+      {
+        "value": "#126ef5",
+        "share": 0
+      },
+      {
+        "value": "#434343",
+        "share": 0
+      },
+      {
+        "value": "#c9f054",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.725
+      },
+      {
+        "value": "#ccff00",
+        "share": 0.166
+      },
+      {
+        "value": "#000000",
+        "share": 0.102
+      },
+      {
+        "value": "#a0a0a0",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff80",
+        "share": 0.32
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.24
+      },
+      {
+        "value": "#ffffff1f",
+        "share": 0.24
+      },
+      {
+        "value": "#000000",
+        "share": 0.12
+      },
+      {
+        "value": "#ccff00",
+        "share": 0.04
+      },
+      {
+        "value": "#0000002e",
+        "share": 0.04
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.893,
+      "text": 0.834
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4590
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2697
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 20,
+        "weight": "300",
+        "lineHeight": 1.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 359
+      },
+      {
+        "family": "IBM Plex Mono",
+        "size": 20,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 345
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 320
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 24,
+        "weight": "300",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 291
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 281
+      },
+      {
+        "family": "IBM Plex Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 225
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 169
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 111
+      },
+      {
+        "family": "IBM Plex Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 107
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 77
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 68
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 61
+      }
+    ],
+    "loadedFonts": [
+      "IBM Plex Mono 300 normal",
+      "IBM Plex Mono 400 normal",
+      "Space Grotesk 400 normal",
+      "Space Grotesk 600 normal",
+      "Space Grotesk 300 normal",
+      "ITC Avant Garde STD 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 170
+    },
+    {
+      "px": 20,
+      "uses": 102
+    },
+    {
+      "px": 12,
+      "uses": 87
+    },
+    {
+      "px": 16,
+      "uses": 81
+    },
+    {
+      "px": 14,
+      "uses": 75
+    },
+    {
+      "px": 24,
+      "uses": 47
+    },
+    {
+      "px": 40,
+      "uses": 39
+    },
+    {
+      "px": 4,
+      "uses": 35
+    },
+    {
+      "px": 1,
+      "uses": 32
+    },
+    {
+      "px": 60,
+      "uses": 30
+    },
+    {
+      "px": 101,
+      "uses": 20
+    },
+    {
+      "px": 32,
+      "uses": 20
+    },
+    {
+      "px": 23,
+      "uses": 18
+    },
+    {
+      "px": 5,
+      "uses": 18
+    },
+    {
+      "px": 100,
+      "uses": 14
+    },
+    {
+      "px": 9,
+      "uses": 12
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 52
+    },
+    {
+      "value": "24px",
+      "uses": 29
+    },
+    {
+      "value": "7px",
+      "uses": 13
+    },
+    {
+      "value": "50%",
+      "uses": 11
+    },
+    {
+      "value": "1000px",
+      "uses": 10
+    },
+    {
+      "value": "64px",
+      "uses": 8
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease-out",
+        "uses": 27
+      },
+      {
+        "value": "0.2s ease-out",
+        "uses": 9
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.35s cubic-bezier(0.2, 0.8, 0.2, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.35s cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 15,
+    "canvases": 3,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--neon-green": "#cf0"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 479px",
+    "max 991px",
+    "min 768px",
+    "min 1280px",
+    "min 1440px",
+    "min 1920px",
+    "min 0px",
+    "min 480px"
+  ],
+  "tech": [
+    "gsap",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "nav",
+      "name": "navbar",
+      "y": 0,
+      "height": 74,
+      "position": "fixed",
+      "background": "#0000001a",
+      "backgroundImage": false,
+      "color": "#ccff00",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1010,
+        "gutterRight": 50,
+        "width": 380,
+        "gutterTop": 17,
+        "gutterBottom": 17
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Menu",
+          "family": "Space Grotesk",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.43,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Menu",
+        "Start a Project"
+      ],
+      "words": 7,
+      "excerpt": "ROME - 19:48:53",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "section._100",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "100px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 668,
+        "width": 671,
+        "gutterTop": 232,
+        "gutterBottom": 240
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Most websites are forgettable. That is a choice.",
+          "family": "Space Grotesk",
+          "size": 54,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View our works",
+        "What we do"
+      ],
+      "words": 70,
+      "excerpt": "Dopamine Studio is a digital studio that combines Web Design, 3D Experiences,",
+      "media": {
+        "img": 2,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "h-wrapper",
+      "y": 1080,
+      "height": 225,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 317,
+        "gutterRight": 317,
+        "width": 806,
+        "gutterTop": 0,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "14px",
+        "justify": "center",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          7,
+          33,
+          56,
+          56
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Desire, built at scale.",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View all works",
+        "Discover our Lab"
+      ],
+      "words": 43,
+      "excerpt": "One project or a hundred, the standard holds. Each one engineered to",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "div-80",
+      "y": 1305,
+      "height": 80,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "div-80.mobile-not",
+      "y": 1385,
+      "height": 80,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "collection-item.w-dyn-item",
+      "y": 1465,
+      "height": 450,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 868,
+        "width": 471,
+        "gutterTop": 101,
+        "gutterBottom": 93
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "BIZZ Gums",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "SOME PRODUCTS NEED A WORLD, NOT A WEBSITE.",
+          "family": "IBM Plex Mono",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 54,
+      "excerpt": "BIZZ makes a clean-formula nicotine gum that charges a premium and earns",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "collection-item.w-dyn-item",
+      "y": 2095,
+      "height": 450,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 687,
+        "width": 652,
+        "gutterTop": 22,
+        "gutterBottom": 73
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Drake Related",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "REBUILDING DRAKE RELATED, PIXEL FOR PIXEL",
+          "family": "IBM Plex Mono",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "DOPAMINE LAB"
+      ],
+      "words": 76,
+      "excerpt": "Drake Related is one of the strangest commerce experiences online, in the",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "collection-item.w-dyn-item",
+      "y": 2725,
+      "height": 450,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 868,
+        "width": 471,
+        "gutterTop": 125,
+        "gutterBottom": 117
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "U Re Italo",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "ENGINEERED TO SELL OUT. AND IT DID.",
+          "family": "IBM Plex Mono",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 42,
+      "excerpt": "A product born from Calabrian land that exists nowhere else deserved a",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "collection-item.w-dyn-item",
+      "y": 3355,
+      "height": 450,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 868,
+        "width": 471,
+        "gutterTop": 105,
+        "gutterBottom": 97
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "N0VA",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "SITE ASSISTANT BUILT ON OUR AI ENGINE",
+          "family": "IBM Plex Mono",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 70,
+      "excerpt": "N0VA lives on this site and answers for the studio. Ask it",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "collection-item.w-dyn-item",
+      "y": 3985,
+      "height": 450,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 687,
+        "width": 652,
+        "gutterTop": 22,
+        "gutterBottom": 83
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Cyberpunk Redone",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "A NIGHT CITY TERMINAL, REBUILT FOR THE BROWSER",
+          "family": "IBM Plex Mono",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "DOPAMINE LAB"
+      ],
+      "words": 63,
+      "excerpt": "We took the neon terminal UI from Cyberpunk 2077 and made it",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "collection-item.w-dyn-item",
+      "y": 4615,
+      "height": 450,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 868,
+        "width": 471,
+        "gutterTop": 91,
+        "gutterBottom": 83
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Eat Assistant",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "THE AI WAITER THAT WORKS EVERY TABLE, EVERY NIGHT.",
+          "family": "IBM Plex Mono",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 66,
+      "excerpt": "EatAssistant is a SaaS platform for the Italian restaurant market, built end",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "collection-item.w-dyn-item",
+      "y": 5245,
+      "height": 450,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 868,
+        "width": 471,
+        "gutterTop": 91,
+        "gutterBottom": 83
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Sole",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "THE SHOE YOU CAN TURN OVER, AND PUT ON, BEFORE IT SHIPS",
+          "family": "IBM Plex Mono",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 77,
+      "excerpt": "A flat photograph asks the buyer to commit to a shape they",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "collection-item.w-dyn-item",
+      "y": 5875,
+      "height": 450,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 687,
+        "width": 652,
+        "gutterTop": 22,
+        "gutterBottom": 107
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Fallout Terminal",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "A FALLOUT TERMINAL, REBUILT FOR THE WEB",
+          "family": "IBM Plex Mono",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "DOPAMINE LAB"
+      ],
+      "words": 51,
+      "excerpt": "VaultTec rebuilds the Fallout RobCo terminal as a working web experience. We",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "section.more-space",
+      "y": 6585,
+      "height": 605,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "100px 0px 200px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 317,
+        "gutterRight": 317,
+        "width": 806,
+        "gutterTop": 100,
+        "gutterBottom": 216
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "14px",
+        "justify": "center",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          4,
+          26,
+          56,
+          56
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Deep craft. Total ownership.",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View all Services",
+        "Discover our Lab"
+      ],
+      "words": 51,
+      "excerpt": "We use 3D to make products impossible to ignore. AI to accelerate",
+      "media": {}
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "ghost_work-item",
+      "y": 7190,
+      "height": 2700,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "ghost_work-item",
+      "y": 9890,
+      "height": 2700,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "ghost_work-item",
+      "y": 12590,
+      "height": 2700,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "section",
+      "name": "section.desktop",
+      "y": 15290,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "100px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 237,
+        "gutterRight": 165,
+        "width": 1038,
+        "gutterTop": 124,
+        "gutterBottom": 199
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          65,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We Think First. Then we build.",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 164,
+      "excerpt": "Design, engineering, and 3D developed in parallel by the same team that",
+      "media": {
+        "img": 5,
+        "svg": 3
+      }
+    },
+    {
+      "i": 19,
+      "tag": "section",
+      "name": "section",
+      "y": 16190,
+      "height": 1570,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "100px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 142,
+        "gutterRight": 142,
+        "width": 1156,
+        "gutterTop": 100,
+        "gutterBottom": 169
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px 16px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          55,
+          29,
+          29,
+          55
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Results that matter.",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Conversion Rate",
+          "family": "Space Grotesk",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Average Session Time",
+          "family": "Space Grotesk",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Core Disciplines",
+          "family": "Space Grotesk",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "immersive e-commerce build."
+      ],
+      "words": 144,
+      "excerpt": "Numbers without context are decorative. These come from real projects, real timelines,",
+      "media": {
+        "img": 24,
+        "svg": 1
+      }
+    },
+    {
+      "i": 20,
+      "tag": "section",
+      "name": "target-trailer",
+      "y": 17760,
+      "height": 1434,
+      "position": "relative",
+      "background": "#ccff00",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "100px 0px 200px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 250,
+        "gutterRight": 250,
+        "width": 940,
+        "gutterTop": 100,
+        "gutterBottom": 627
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "13px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          17,
+          65,
+          65
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "See what we are capable of.",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Discover the Lab"
+      ],
+      "words": 95,
+      "excerpt": "The Lab is Dopamine Studio's self-initiated work. No brief, no client, no",
+      "media": {
+        "img": 125,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 21,
+      "tag": "section",
+      "name": "section.teamcards",
+      "y": 19194,
+      "height": 1016,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "100px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 141,
+        "gutterRight": 135,
+        "width": 1164,
+        "gutterTop": 108,
+        "gutterBottom": 132
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "14px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          9,
+          32,
+          52
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Built by people who care too much.",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Alessandro Cofone",
+          "family": "Space Grotesk",
+          "size": 21,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Dario Aversente",
+          "family": "Space Grotesk",
+          "size": 21,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Michela Potena",
+          "family": "Space Grotesk",
+          "size": 21,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "#01 DESIGN DIRECTION Alessandro Cofone …",
+        "#02 ENGINEERING TECH Dario Aversente En…",
+        "#03 3D ART WEBGL Michela Potena 3D and …",
+        "#04 Meet the team. Who does what, and w…"
+      ],
+      "words": 104,
+      "excerpt": "No handoffs, no middle layer, and the reason nothing gets lost between",
+      "media": {
+        "img": 3,
+        "svg": 9
+      }
+    },
+    {
+      "i": 22,
+      "tag": "div",
+      "name": "blog",
+      "y": 20310,
+      "height": 800,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 0px 100px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 101,
+        "width": 1238,
+        "gutterTop": 21,
+        "gutterBottom": 35
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "40px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          34,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Blog Posts",
+          "family": "Space Grotesk",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Blog Posts",
+        "How to train an AI chatbot on your webs…",
+        "How to add an AI chatbot to your websit…",
+        "Off-the-Shelf AI Tools or a Custom Buil…",
+        "How much does an AI chatbot for your we…",
+        "AI for Hospitality: Where It Works Beyo…"
+      ],
+      "words": 187,
+      "excerpt": "In 2025, 76% of enterprise AI moved to off-the-shelf tools, yet most",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 23,
+      "tag": "div",
+      "name": "cta-wrapper",
+      "y": 21210,
+      "height": 444,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "80px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 432,
+        "gutterRight": 432,
+        "width": 575,
+        "gutterTop": 88,
+        "gutterBottom": 96
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "14px",
+        "justify": "center",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          7,
+          35,
+          40,
+          75
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Your brand deserves better than adequate.",
+          "family": "Space Grotesk",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Start a Conversation",
+        "See our Works"
+      ],
+      "words": 28,
+      "excerpt": "Precision, depth, and a partner who owns the outcome as much as",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 24,
+      "tag": "div",
+      "name": "calendar-wrapper",
+      "y": 21734,
+      "height": 570,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "80px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "iframe": 1
+      }
+    },
+    {
+      "i": 25,
+      "tag": "div",
+      "name": "c-faq.margin-top",
+      "y": 22444,
+      "height": 676,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "140px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 121,
+        "gutterRight": 121,
+        "width": 1198,
+        "gutterTop": 20,
+        "gutterBottom": -41
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 7,
+        "childWidthsPct": [
+          86,
+          86,
+          86,
+          86,
+          86,
+          86,
+          86
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "What does Dopamine Studio do?",
+          "family": "Space Grotesk",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.8,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ccff00"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "EatAssistant",
+        "N0VA",
+        "hello@dopaminestudio.io"
+      ],
+      "words": 306,
+      "excerpt": "Dopamine Studio is a digital studio that combines Webflow design and development,",
+      "media": {}
+    },
+    {
+      "i": 26,
+      "tag": "footer",
+      "name": "footer",
+      "y": 23220,
+      "height": 1054,
+      "position": "relative",
+      "background": "#ccff00",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "40px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 41,
+        "gutterBottom": -40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 4,
+        "childWidthsPct": [
+          38,
+          38,
+          12,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "D",
+          "family": "ITC Avant Garde STD",
+          "size": 216,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Grotesk",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Start a Project",
+        "Home",
+        "About",
+        "Work",
+        "Services",
+        "Web Design",
+        "3D Experiences",
+        "AI Development",
+        "Lab",
+        "Blog"
+      ],
+      "words": 94,
+      "excerpt": "Nothing here is left to chance, and no detail goes unconsidered. We",
+      "media": {
+        "img": 16,
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 108,
+    "title": "Dopamine Studio",
+    "award": "HM",
+    "url": "https://www.dopaminestudio.io/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/dopamine-studio",
+    "categories": [
+      "Technology",
+      "Web & Interactive",
+      "Portfolio",
+      "Design Agencies"
+    ]
+  }
+}

@@ -1,0 +1,1069 @@
+{
+  "page": {
+    "url": "https://360lexingtonave.com/",
+    "title": "360 Lexington Avenue",
+    "description": "Located at 40th Street and Lexington Avenue, just a two-minute walk from Grand Central Terminal.",
+    "lang": "en-US",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 12787,
+    "generator": "Framer 6396d1e"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.805
+      },
+      {
+        "value": "#f5f5f5",
+        "share": 0.086
+      },
+      {
+        "value": "#111213",
+        "share": 0.047
+      },
+      {
+        "value": "#0000003d",
+        "share": 0.024
+      },
+      {
+        "value": "#d7d7d7",
+        "share": 0.024
+      },
+      {
+        "value": "#2e2520",
+        "share": 0.007
+      },
+      {
+        "value": "#18253a",
+        "share": 0.005
+      },
+      {
+        "value": "#ffffff29",
+        "share": 0
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      },
+      {
+        "value": "#11121366",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#11121366",
+        "share": 0.257
+      },
+      {
+        "value": "#ffffff66",
+        "share": 0.199
+      },
+      {
+        "value": "#111213",
+        "share": 0.197
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.135
+      },
+      {
+        "value": "#ffffffa8",
+        "share": 0.104
+      },
+      {
+        "value": "#ffffff52",
+        "share": 0.085
+      },
+      {
+        "value": "#00000066",
+        "share": 0.016
+      },
+      {
+        "value": "#ffffff29",
+        "share": 0.004
+      },
+      {
+        "value": "#1112131a",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.001
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.993,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 1499
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 414
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 210
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 147
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 127
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 115
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 113
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 95
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 74,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 94
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 67
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 458,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 7
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 369.72,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 7
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 88,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 6
+      }
+    ],
+    "loadedFonts": [
+      "Instrument Sans 500 normal",
+      "Instrument Sans 400 normal",
+      "Instrument Sans Placeholder normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 20,
+      "uses": 90
+    },
+    {
+      "px": 16,
+      "uses": 68
+    },
+    {
+      "px": 8,
+      "uses": 41
+    },
+    {
+      "px": 24,
+      "uses": 39
+    },
+    {
+      "px": 80,
+      "uses": 38
+    },
+    {
+      "px": 40,
+      "uses": 34
+    },
+    {
+      "px": 14,
+      "uses": 32
+    },
+    {
+      "px": 12,
+      "uses": 16
+    },
+    {
+      "px": 10,
+      "uses": 6
+    },
+    {
+      "px": 160,
+      "uses": 4
+    },
+    {
+      "px": 4,
+      "uses": 4
+    },
+    {
+      "px": 326,
+      "uses": 3
+    },
+    {
+      "px": 60,
+      "uses": 2
+    },
+    {
+      "px": 62,
+      "uses": 2
+    },
+    {
+      "px": 120,
+      "uses": 1
+    },
+    {
+      "px": 164,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 7
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--token-c796e2cf-d257-4b33-b047-54ba873a0aa1": "#111213",
+    "--token-12fc5a7c-f912-48c9-8238-1c64b516e639": "#fff",
+    "--token-fcb71b86-915a-48dc-848f-900a8d21781e": "#fff6",
+    "--token-1e846e4d-2af5-4cab-b763-361cb3703674": "#ffffff29",
+    "--token-fedfb1b7-b3b3-4fcd-a5c5-e2a1955b044e": "#11121366",
+    "--token-6ac23283-84f0-4aba-8ffe-b86657dd600d": "#1112130a",
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1"
+  },
+  "breakpoints": [
+    "min 810px",
+    "max 1023.98px",
+    "max 809.98px",
+    "min 1024px",
+    "max 1439.98px"
+  ],
+  "tech": [
+    "lenis",
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "framer-ago6w2-container",
+      "y": 0,
+      "height": 84,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 34,
+        "gutterBottom": 34
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Available Offices",
+          "family": "Instrument Sans",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.16,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "Available Offices",
+        "Prime Corner Retail",
+        "Contact Us"
+      ],
+      "words": 7,
+      "excerpt": "Prime Corner Retail",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "framer-1dhwq3l",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 622,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "flex-end",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Built For Difference Makers",
+          "family": "Instrument Sans",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "Explore Retail",
+        "Explore Offices"
+      ],
+      "words": 23,
+      "excerpt": "just a two-minute walk from Grand Central Terminal.",
+      "media": {
+        "img": 4,
+        "video": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "framer-1gfr7oz",
+      "y": 900,
+      "height": 800,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff66",
+      "padding": "120px 20px 80px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 39,
+        "width": 1361,
+        "gutterTop": 161,
+        "gutterBottom": -829
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Prime Midtown Location",
+          "family": "Instrument Sans",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#111213"
+        },
+        {
+          "tag": "h4",
+          "text": "Built-Out Office Suites",
+          "family": "Instrument Sans",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "Modern Amenities",
+          "family": "Instrument Sans",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 58,
+      "excerpt": "The renewed 24-story building features a 7,000+ SF amenity space with a",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "card scroll-trigger-01",
+      "y": 1710,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "Card Scroll Trigger 02",
+      "y": 2620,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "framer-8sft8i.hidden-l5vpik",
+      "y": 3530,
+      "height": 450,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "amenities",
+      "y": 3980,
+      "height": 1244,
+      "position": "relative",
+      "background": "#f5f5f5",
+      "backgroundImage": false,
+      "color": "#ffffffa8",
+      "padding": "80px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 264,
+        "gutterBottom": 446
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          0,
+          0,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "360 Lex has been thoroughly reimagined with a new facade, amenity space and bui…",
+          "family": "Instrument Sans",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#111213"
+        },
+        {
+          "tag": "h4",
+          "text": "Hospitality-Inspired Amenities",
+          "family": "Instrument Sans",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "Built-Out Office Suites",
+          "family": "Instrument Sans",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 69,
+      "excerpt": "The new 7,000SF Club 360 on the 8th floor includes a pantry,",
+      "media": {
+        "img": 2,
+        "svg": 4
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "framer-8ag5j9",
+      "y": 6144,
+      "height": 618,
+      "position": "relative",
+      "background": "#f5f5f5",
+      "backgroundImage": false,
+      "color": "#111213",
+      "padding": "80px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 759,
+        "width": 661,
+        "gutterTop": 71,
+        "gutterBottom": 130
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          68,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "2-Minute Walk to Grand Central",
+          "family": "Instrument Sans",
+          "size": 74,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#111213"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 68,
+      "excerpt": "Your commute just got a whole lot easier. With immediate access to",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "framer-wumtmp",
+      "y": 6762,
+      "height": 666,
+      "position": "relative",
+      "background": "#f5f5f5",
+      "backgroundImage": false,
+      "color": "#11121366",
+      "padding": "80px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 705,
+        "width": 715,
+        "gutterTop": 71,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          68,
+          68
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Surrounded By Dining & Entertainment",
+          "family": "Instrument Sans",
+          "size": 74,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#111213"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 65,
+      "excerpt": "Club 360, in partnership with FelFel, offers grab-n-go food from your favorite",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "framer-1g0cuoy",
+      "y": 7428,
+      "height": 606,
+      "position": "relative",
+      "background": "#f5f5f5",
+      "backgroundImage": false,
+      "color": "#11121366",
+      "padding": "80px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 434,
+        "width": 986,
+        "gutterTop": 80,
+        "gutterBottom": 192
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          68,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Private Fitness",
+          "family": "Instrument Sans",
+          "size": 74,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#111213"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 54,
+      "excerpt": "will appreciate 360 Lex’s on-site bike storage and locker room. There are",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "framer-ikf7e9",
+      "y": 8218,
+      "height": 458,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1112131a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 26,
+        "gutterRight": 26,
+        "width": 1388,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "G",
+          "family": "Instrument Sans",
+          "size": 458,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#1112131a"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 458,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "G",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "framer-sfg87w",
+      "y": 8836,
+      "height": 457,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 4,
+        "childWidthsPct": [
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "framer-1jjct42",
+      "y": 9373,
+      "height": 457,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 4,
+        "childWidthsPct": [
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "framer-1h1p15o",
+      "y": 9910,
+      "height": 549,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 4,
+        "childWidthsPct": [
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "framer-u7db69",
+      "y": 10539,
+      "height": 549,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "80px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 4,
+        "childWidthsPct": [
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 4
+      }
+    }
+  ],
+  "listing": {
+    "rank": 33,
+    "title": "360 Lexington Ave",
+    "award": "HM",
+    "url": "https://360lexingtonave.com/",
+    "awwwards": "https://www.awwwards.com/sites/360-lexington-ave",
+    "categories": [
+      "Real Estate"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

@@ -1,0 +1,1224 @@
+{
+  "page": {
+    "url": "https://davidspaeth.com/",
+    "title": "David Spaeth Photography",
+    "description": "David Spaeth entered the light of day for the first time in the South of Heaven.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 24505,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.972
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.018
+      },
+      {
+        "value": "#000000",
+        "share": 0.01
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.989
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.011
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.982,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 613
+      },
+      {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 126
+      },
+      {
+        "family": "Chroma",
+        "size": 28.8,
+        "weight": "500",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.015,
+        "transform": "uppercase",
+        "chars": 27
+      },
+      {
+        "family": "Chroma",
+        "size": 46.8,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 18
+      }
+    ],
+    "loadedFonts": [
+      "Chroma 700 normal",
+      "UN11 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 62
+    },
+    {
+      "px": 2,
+      "uses": 34
+    },
+    {
+      "px": 1,
+      "uses": 34
+    },
+    {
+      "px": 16,
+      "uses": 27
+    },
+    {
+      "px": 24,
+      "uses": 4
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 40,
+      "uses": 2
+    },
+    {
+      "px": 450,
+      "uses": 1
+    },
+    {
+      "px": 96,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 45
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 5,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--swiper-theme-color": "#007aff",
+    "--swiper-navigation-size": "44px"
+  },
+  "breakpoints": [
+    "max 640px",
+    "max 1280px",
+    "max 768px",
+    "max 1536px",
+    "max 1024px"
+  ],
+  "tech": [
+    "nuxt"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "z-10.sticky",
+      "y": 0,
+      "height": 60,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "4px 16px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1075,
+        "gutterRight": 87,
+        "width": 278,
+        "gutterTop": 6,
+        "gutterBottom": 3
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "INDEX",
+          "family": "Chroma",
+          "size": 46.8,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Chroma",
+        "size": 46.8,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "INDEX",
+        "INFO"
+      ],
+      "words": 2,
+      "excerpt": "Index",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "fixed.z-[100]",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "col-start-4.sm:col-start-1",
+      "y": 1178,
+      "height": 1489,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 230,
+        "gutterRight": 230,
+        "width": 981,
+        "gutterTop": 2,
+        "gutterBottom": 1473
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          5,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "EIKE KÖNIG",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "EIKE KÖNIG (20)"
+      ],
+      "words": 3,
+      "excerpt": "EIKE KÖNIG",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "col-start-1.col-span-20",
+      "y": 2684,
+      "height": 1074,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 2,
+        "gutterBottom": 1057
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "FALLEN ANGEL",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "FALLEN ANGEL (4)"
+      ],
+      "words": 3,
+      "excerpt": "FALLEN ANGEL",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "col-start-1.col-span-20",
+      "y": 3774,
+      "height": 738,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 2,
+        "gutterBottom": 721
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 12,
+        "childWidthsPct": [
+          33,
+          33,
+          33,
+          33,
+          33,
+          33,
+          33,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "VETEMENTS FW 24/25",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VETEMENTS FW 24/25 (35)"
+      ],
+      "words": 6,
+      "excerpt": "VETEMENTS FW 24/25",
+      "media": {
+        "img": 12
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "col-start-1.col-span-20",
+      "y": 5578,
+      "height": 957,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 2,
+        "gutterBottom": 940
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          4,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "MB TECH",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "MB TECH (7)"
+      ],
+      "words": 3,
+      "excerpt": "MB TECH",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "col-start-3.sm:col-start-1",
+      "y": 6550,
+      "height": 1702,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 158,
+        "gutterRight": 158,
+        "width": 1123,
+        "gutterTop": 2,
+        "gutterBottom": 1685
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "VETEMENTS PARIS 24",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VETEMENTS PARIS 24 (42)"
+      ],
+      "words": 4,
+      "excerpt": "VETEMENTS PARIS 24",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "col-start-3.sm:col-start-1",
+      "y": 9258,
+      "height": 767,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 158,
+        "gutterRight": 158,
+        "width": 1123,
+        "gutterTop": 2,
+        "gutterBottom": 751
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "MBCS F1 MOTORSPORT",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "MBCS F1 MOTORSPORT (10)"
+      ],
+      "words": 4,
+      "excerpt": "MBCS F1 MOTORSPORT",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "col-start-1.col-span-20",
+      "y": 10041,
+      "height": 738,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 2,
+        "gutterBottom": 721
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 8,
+        "childWidthsPct": [
+          33,
+          33,
+          33,
+          33,
+          33,
+          33,
+          33,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "UMTC FW 19/20",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "UMTC FW 19/20 (15)"
+      ],
+      "words": 6,
+      "excerpt": "UMTC FW 19/20",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "col-start-3.sm:col-start-1",
+      "y": 11873,
+      "height": 767,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 158,
+        "gutterRight": 158,
+        "width": 1123,
+        "gutterTop": 2,
+        "gutterBottom": 750
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "UMTC FW 20/21",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "UMTC FW 20/21 (22)"
+      ],
+      "words": 4,
+      "excerpt": "UMTC FW 20/21",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "col-start-1.col-span-20",
+      "y": 13386,
+      "height": 957,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 2,
+        "gutterBottom": 940
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          8,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "SIMONE WILD SS 22",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "SIMONE WILD SS 22 (15)"
+      ],
+      "words": 5,
+      "excerpt": "SIMONE WILD SS 22",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "col-start-3.sm:col-start-1",
+      "y": 15263,
+      "height": 767,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 158,
+        "gutterRight": 158,
+        "width": 1123,
+        "gutterTop": 2,
+        "gutterBottom": 750
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          16,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "LOVE SWEAT & TEARS, STADTPALAIS",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "LOVE SWEAT & TEARS, STADTPALAIS (13)"
+      ],
+      "words": 6,
+      "excerpt": "LOVE SWEAT & TEARS, STADTPALAIS",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "col-start-4.sm:col-start-1",
+      "y": 17126,
+      "height": 1244,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 230,
+        "gutterRight": 230,
+        "width": 981,
+        "gutterTop": 2,
+        "gutterBottom": 1227
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "TOO BROKE FOR FIJI",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "TOO BROKE FOR FIJI (25)"
+      ],
+      "words": 5,
+      "excerpt": "TOO BROKE FOR FIJI",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "col-start-1.col-span-20",
+      "y": 18386,
+      "height": 738,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 2,
+        "gutterBottom": 721
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 10,
+        "childWidthsPct": [
+          33,
+          75,
+          33,
+          33,
+          33,
+          33,
+          75,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "OLIVER POLAK",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "OLIVER POLAK (29)"
+      ],
+      "words": 5,
+      "excerpt": "OLIVER POLAK",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "col-start-3.sm:col-start-1",
+      "y": 20218,
+      "height": 917,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 158,
+        "gutterRight": 158,
+        "width": 1123,
+        "gutterTop": 2,
+        "gutterBottom": 900
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "DEM HIMMEL SO NAH",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "DEM HIMMEL SO NAH (16)"
+      ],
+      "words": 5,
+      "excerpt": "DEM HIMMEL SO NAH",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "col-start-3.sm:col-start-1",
+      "y": 21930,
+      "height": 1702,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 158,
+        "gutterRight": 158,
+        "width": 1123,
+        "gutterTop": 2,
+        "gutterBottom": 1685
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "JERA",
+          "family": "UN11",
+          "size": 11.69,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "UN11",
+        "size": 11.69,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "JERA (26)"
+      ],
+      "words": 2,
+      "excerpt": "JERA",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "fixed.w-[calc(50%_+_.75rem)]",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ff0000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "CART",
+          "family": "Chroma",
+          "size": 46.8,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Chroma",
+        "size": 28.8,
+        "weight": "500",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.015,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "CLOSE"
+      ],
+      "words": 7,
+      "excerpt": "Your Shopping Cart is Empty",
+      "media": {
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 50,
+    "title": "David Spaeth",
+    "award": "HM",
+    "url": "https://davidspaeth.com/",
+    "awwwards": "https://www.awwwards.com/sites/david-spaeth",
+    "categories": [
+      "Fashion",
+      "Portfolio",
+      "Photography",
+      "Luxury"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

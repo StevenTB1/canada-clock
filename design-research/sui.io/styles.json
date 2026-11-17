@@ -1,0 +1,1455 @@
+{
+  "page": {
+    "url": "https://www.sui.io/",
+    "title": "Sui | The Infrastructure for Trusted Autonomous Execution",
+    "description": "Sui is where AI transacts. The rules travel with the money and work at machine speed, for people and agents alike.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 13610,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.67
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.185
+      },
+      {
+        "value": "#f4f5f7",
+        "share": 0.092
+      },
+      {
+        "value": "#131518",
+        "share": 0.041
+      },
+      {
+        "value": "#222529",
+        "share": 0.007
+      },
+      {
+        "value": "#298dff",
+        "share": 0.005
+      },
+      {
+        "value": "#e0e2e6",
+        "share": 0
+      },
+      {
+        "value": "#6c7584",
+        "share": 0
+      },
+      {
+        "value": "#343940",
+        "share": 0
+      },
+      {
+        "value": "#011829",
+        "share": 0
+      },
+      {
+        "value": "#030f1c",
+        "share": 0
+      },
+      {
+        "value": "#4b515b",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.42
+      },
+      {
+        "value": "#000000",
+        "share": 0.292
+      },
+      {
+        "value": "#6c7584",
+        "share": 0.267
+      },
+      {
+        "value": "#d4d4d4",
+        "share": 0.018
+      },
+      {
+        "value": "#f3f0f0",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#4b515b",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.995,
+      "text": 0.733
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "TWK Everett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.111,
+        "transform": "none",
+        "chars": 1269
+      },
+      {
+        "family": "TWK Everett Mono",
+        "size": 13,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.065,
+        "transform": "none",
+        "chars": 491
+      },
+      {
+        "family": "TWK Everett",
+        "size": 78,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 233
+      },
+      {
+        "family": "TWK Everett Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 159
+      },
+      {
+        "family": "TWK Everett",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.019,
+        "transform": "none",
+        "chars": 119
+      },
+      {
+        "family": "TWK Everett",
+        "size": 44,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 110
+      },
+      {
+        "family": "TWK Everett",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.005,
+        "transform": "none",
+        "chars": 92
+      },
+      {
+        "family": "TWK Everett",
+        "size": 90,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 82
+      },
+      {
+        "family": "TWK Everett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.111,
+        "transform": "none",
+        "chars": 60
+      },
+      {
+        "family": "TWK Everett",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.1,
+        "transform": "none",
+        "chars": 58
+      },
+      {
+        "family": "TWK Everett",
+        "size": 21.01,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 56
+      },
+      {
+        "family": "TWK Everett",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 55
+      },
+      {
+        "family": "TWK Everett Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 54
+      },
+      {
+        "family": "TWK Everett",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 53
+      }
+    ],
+    "loadedFonts": [
+      "TWK Everett Mono 500 normal",
+      "TWK Everett Mono 400 normal",
+      "TWK Everett 700 normal",
+      "TWK Everett 400 normal",
+      "Inter 400 normal",
+      "Inter 500 normal",
+      "Inter 600 normal",
+      "Inter 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 6,
+      "uses": 159
+    },
+    {
+      "px": 8,
+      "uses": 102
+    },
+    {
+      "px": 16,
+      "uses": 88
+    },
+    {
+      "px": 12,
+      "uses": 75
+    },
+    {
+      "px": 10,
+      "uses": 63
+    },
+    {
+      "px": 7,
+      "uses": 58
+    },
+    {
+      "px": 20,
+      "uses": 46
+    },
+    {
+      "px": 24,
+      "uses": 44
+    },
+    {
+      "px": 32,
+      "uses": 27
+    },
+    {
+      "px": 18,
+      "uses": 20
+    },
+    {
+      "px": 14,
+      "uses": 17
+    },
+    {
+      "px": 40,
+      "uses": 15
+    },
+    {
+      "px": 11,
+      "uses": 14
+    },
+    {
+      "px": 4,
+      "uses": 13
+    },
+    {
+      "px": 80,
+      "uses": 13
+    },
+    {
+      "px": 36,
+      "uses": 11
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 1
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 104
+      },
+      {
+        "value": "0.2s ease-in-out",
+        "uses": 32
+      },
+      {
+        "value": "0.375s cubic-bezier(0.51, 0, 0.08, 1)",
+        "uses": 27
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.2s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 3
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 14,
+    "videos": 4
+  },
+  "cssVariables": {
+    "--color--grey-500": "#6c7584",
+    "--global--padding-global": "1em",
+    "--global--padding-global-mob": ".75em",
+    "--global--no-padd": "0em",
+    "--color--grey-700": "#343940",
+    "--gaps--gap-112": "7em",
+    "--gaps--gap-24": "1.5em",
+    "--gaps--gap-16": "1em",
+    "--gaps--gap-32": "2em",
+    "--gaps--gap-12": ".75em",
+    "--gaps--gap-8": ".375em",
+    "--gaps--gap-2": ".125em",
+    "--color--black": "black",
+    "--color--primary-blue": "#298dff",
+    "--color--white": "white",
+    "--gaps--gap-20": "1.25em",
+    "--gaps--gap-10": ".625em",
+    "--gaps--gap-6": ".375em",
+    "--gaps--gap-48": "3em",
+    "--blocks--size-block-16": "1em",
+    "--blocks--size-block-18": "1.125em",
+    "--blocks--size-block-4": ".125em",
+    "--color--grey-300": "#a1a7b2",
+    "--gaps--gap-64": "4em",
+    "--blocks--size-block-14": ".875em",
+    "--grey-400": "#89919f",
+    "--color--grey-600": "#4b515b",
+    "--color--grey-900": "#131518",
+    "--gaps--gap-4": ".25em",
+    "--color--cultured": "#f7f7f7",
+    "--gaps--gap-96": "6em",
+    "--gaps--gap-80": "5em",
+    "--gaps--gap-18": "1.125em",
+    "--color--grey-200": "#c2c6cd",
+    "--color--grey-50": "#f4f5f7",
+    "--color--grey-800": "#222529",
+    "--blocks--size-block-12": ".75em",
+    "--color--grey-100": "#e0e2e6",
+    "--_dropdown---dd-bg": "var(--color--grey-900)",
+    "--_dropdown---dd-plus_vertical": "white",
+    "--orange": "#ff6c3d",
+    "--_dropdown---dd-plus_bg": "var(--color--grey-700)",
+    "--_dropdown---divider": "#6c758400",
+    "--_dropdown---dd-border": "var(--color--grey-900)",
+    "--gaps--gap-40": "2.5em",
+    "--gaps--gap-128": "8em",
+    "--blocks--size-block-2": ".125em",
+    "--blocks--size-block-6": ".375em",
+    "--blocks--size-block-8": ".5em",
+    "--blocks--size-block-20": "1.25em",
+    "--ez-body-lock-z-index": "2400",
+    "--size-unit": "16",
+    "--size-container-ideal": "375",
+    "--size-container-min": "320px",
+    "--size-container-max": "479px",
+    "--size-container": "clamp(var(--size-container-min), 100vw, var(--size-container-max))",
+    "--size-font": "calc(var(--size-container) / (var(--size-container-ideal) / var(--size-unit)))",
+    "--cubic-default": "cubic-bezier(0.51, 0, 0.08, 1)",
+    "--duration-default": "0.525s",
+    "--duration-fast": "0.375s"
+  },
+  "breakpoints": [
+    "max 480px",
+    "max 800px",
+    "max 479px",
+    "max 767px",
+    "max 991px",
+    "max 1280px",
+    "min 768px",
+    "min 1280px",
+    "min 1920px",
+    "min 769px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "navigation",
+      "y": 1753,
+      "height": 72,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 379,
+        "gutterRight": 47,
+        "width": 1014,
+        "gutterTop": 31,
+        "gutterBottom": 23
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          4,
+          47,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Stack",
+          "family": "TWK Everett",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Docs",
+        "Blog",
+        "Get started"
+      ],
+      "words": 16,
+      "excerpt": "Solutions",
+      "media": {
+        "img": 1,
+        "svg": 157
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "gradient_background",
+      "y": 0,
+      "height": 1028,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#d4d4d4",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 357,
+        "gutterBottom": 206
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Where AI transacts",
+          "family": "TWK Everett",
+          "size": 90,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.065,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.1,
+        "transform": "none"
+      },
+      "labels": [
+        "Go to docs",
+        "Get a wallet"
+      ],
+      "words": 30,
+      "excerpt": "Sui is the infrastructure for trusted autonomous execution",
+      "media": {
+        "img": 1,
+        "video": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "home-carousel",
+      "y": 1028,
+      "height": 136,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 456,
+        "gutterRight": 456,
+        "width": 528,
+        "gutterTop": -1,
+        "gutterBottom": 104
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 16,
+        "childWidthsPct": [
+          7,
+          16,
+          8,
+          8,
+          10,
+          6,
+          10,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "The",
+          "family": "TWK Everett",
+          "size": 27.01,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 27.01,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "innovative",
+      "media": {
+        "img": 32
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "stickyblink",
+      "y": 1164,
+      "height": 844,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 210,
+        "gutterBottom": 92
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Money and work are being handed to agents. When you can't watch every action, t…",
+          "family": "TWK Everett",
+          "size": 78,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 78,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 50,
+      "excerpt": "Money and work are being handed to agents. When you can't watch",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "home-selection",
+      "y": 2008,
+      "height": 1124,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 464,
+        "width": 957,
+        "gutterTop": 0,
+        "gutterBottom": 649
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "flex-start",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Policy-enforced assets",
+          "family": "TWK Everett",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "All-or-nothing settlement",
+          "family": "TWK Everett",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Controlled visibility",
+          "family": "TWK Everett",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Always-on security",
+          "family": "TWK Everett",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 44,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 115,
+      "excerpt": "Sui is",
+      "media": {
+        "svg": 10
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "canvasPin",
+      "y": 1819,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#6c7584",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "timeline_heading",
+      "y": 3508,
+      "height": 126,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 353,
+        "gutterRight": 353,
+        "width": 735,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The stack autonomous systems run on",
+          "family": "TWK Everett",
+          "size": 90,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 90,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "The stack autonomous systems run on",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "timeline_main",
+      "y": 3671,
+      "height": 3968,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 223,
+        "gutterRight": 256,
+        "width": 960,
+        "gutterTop": 1342,
+        "gutterBottom": -320
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "60px",
+        "justify": "center",
+        "align": "stretch",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          0,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Walrus",
+          "family": "TWK Everett",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.111,
+          "transform": "none",
+          "color": "#6c7584"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 137,
+      "excerpt": "Verifiable agent identity",
+      "media": {
+        "img": 1,
+        "canvas": 6,
+        "svg": 6
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "sticky_overlap.home-page",
+      "y": 7641,
+      "height": 720,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#6c7584",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "home-benefits",
+      "y": 8361,
+      "height": 830,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "16px 0px 36px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 82,
+        "gutterRight": 123,
+        "width": 1235,
+        "gutterTop": 124,
+        "gutterBottom": 87
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "For businesses",
+          "family": "TWK Everett",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "For autonomous systems",
+          "family": "TWK Everett",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.111,
+        "transform": "none"
+      },
+      "labels": [
+        "Discover the Sui Stack"
+      ],
+      "words": 85,
+      "excerpt": "Coordinate treasury, collateral, and compliance on shared infrastructure.",
+      "media": {
+        "svg": 9
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "w-layout-vflex.gap-40",
+      "y": 9402,
+      "height": 184,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 272,
+        "gutterRight": 272,
+        "width": 897,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "4px 16px",
+        "justify": "center",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          22,
+          39,
+          24,
+          7,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Industry transformation powered by Sui",
+          "family": "TWK Everett",
+          "size": 16,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#6c7584"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 90,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "transformation",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "w-layout-grid.home-industry_grid",
+      "y": 9746,
+      "height": 853,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 0px 80px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 238,
+        "width": 1166,
+        "gutterTop": 196,
+        "gutterBottom": -140
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          48,
+          48,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "AI and agents",
+          "family": "TWK Everett",
+          "size": 21.01,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Capital Markets",
+          "family": "TWK Everett",
+          "size": 21.01,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Decentralized Finance (DeFi)",
+          "family": "TWK Everett",
+          "size": 21.01,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.111,
+        "transform": "none"
+      },
+      "labels": [
+        "AI and agents Agents transact under pol…",
+        "Capital Markets Control from issuance t…",
+        "Decentralized Finance (DeFi) Financial …"
+      ],
+      "words": 143,
+      "excerpt": "Run treasury and collateral on shared infrastructure",
+      "media": {
+        "svg": 33
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "w-layout-vflex.home-industry_start",
+      "y": 10839,
+      "height": 607,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#6c7584",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 56,
+        "gutterRight": 312,
+        "width": 1072,
+        "gutterTop": 16,
+        "gutterBottom": 13
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 9,
+        "childWidthsPct": [
+          97,
+          97,
+          97,
+          97,
+          97,
+          97,
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Start building",
+          "family": "TWK Everett",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Start coding",
+          "family": "TWK Everett",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Start earning",
+          "family": "TWK Everett",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Start connecting",
+          "family": "TWK Everett",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.111,
+        "transform": "none"
+      },
+      "labels": [
+        "Read launch playbook",
+        "Go to docs",
+        "Get a wallet",
+        "Join the community"
+      ],
+      "words": 60,
+      "excerpt": "Get started with Move, the most powerful smart contract programming language.",
+      "media": {
+        "svg": 17
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "home-loop",
+      "y": 11446,
+      "height": 989,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "184px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 258,
+        "gutterRight": 375,
+        "width": 807,
+        "gutterTop": 184,
+        "gutterBottom": 192
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "64px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          65
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Sui explainer video: The full stack, built on Sui",
+          "family": "TWK Everett",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Unlock Sui with the Right Wallet",
+          "family": "TWK Everett",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Reimagining Bitcoin’s Role in Sui DeFi",
+          "family": "TWK Everett",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.019,
+        "transform": "none"
+      },
+      "labels": [
+        "Sui explainer video: The full stack, bu…",
+        "Unlock Sui with the Right Wallet",
+        "Reimagining Bitcoin’s Role in Sui DeFi",
+        "Watch recap",
+        "DISCORD",
+        "X"
+      ],
+      "words": 56,
+      "excerpt": "Events, blogs, press, videos, podcasts, and livestreams—all in one place",
+      "media": {
+        "img": 3,
+        "video": 2,
+        "svg": 10
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "scroll_footer",
+      "y": 12434,
+      "height": 1176,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#6c7584",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 166,
+        "width": 1254,
+        "gutterTop": 148,
+        "gutterBottom": 306
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "112px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "STACK/",
+          "family": "TWK Everett Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0.017,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "SOLUTIONS/",
+          "family": "TWK Everett Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0.017,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "NETWORK/",
+          "family": "TWK Everett Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0.017,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "BUILD/",
+          "family": "TWK Everett Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0.017,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWK Everett Mono",
+        "size": 13,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.065,
+        "transform": "none"
+      },
+      "labels": [
+        "Intro to Sui Stack",
+        "zkLogin",
+        "Passkey",
+        "Hashi",
+        "DeepBook",
+        "Walrus",
+        "Seal",
+        "Nautilus",
+        "SuiNS",
+        "Mysticeti"
+      ],
+      "words": 504,
+      "excerpt": "©2026 Copyright Sui Foundation. All rights reserved",
+      "media": {
+        "canvas": 1,
+        "svg": 70
+      }
+    }
+  ],
+  "listing": {
+    "rank": 71,
+    "title": "Sui",
+    "award": "SOTD",
+    "url": "https://www.sui.io/",
+    "awwwards": "https://www.awwwards.com/sites/sui",
+    "categories": [
+      "Business & Corporate",
+      "Technology",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

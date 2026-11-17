@@ -1,0 +1,1097 @@
+{
+  "page": {
+    "url": "https://wearefleshandbones.com/",
+    "title": "Flesh and Bones",
+    "description": "Flesh and Bones - The mixed media production company.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 9042,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#1a1a1a",
+        "share": 0.851
+      },
+      {
+        "value": "#00000045",
+        "share": 0.081
+      },
+      {
+        "value": "#faeed9",
+        "share": 0.066
+      },
+      {
+        "value": "#f25f36",
+        "share": 0.002
+      }
+    ],
+    "text": [
+      {
+        "value": "#f25f36",
+        "share": 0.875
+      },
+      {
+        "value": "#faeed9",
+        "share": 0.095
+      },
+      {
+        "value": "#1a1a1a",
+        "share": 0.03
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.932,
+      "text": 0.03
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Graphik-Semibold",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 332
+      },
+      {
+        "family": "Graphik-Black",
+        "size": 44,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 191
+      },
+      {
+        "family": "tomarik-brush",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 186
+      },
+      {
+        "family": "tomarik-brush",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 94
+      },
+      {
+        "family": "MANIC-Regular",
+        "size": 30,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 92
+      },
+      {
+        "family": "MANIC-Regular",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 28
+      },
+      {
+        "family": "Graphik-Black",
+        "size": 102,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 24
+      },
+      {
+        "family": "MANIC-Regular",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 21
+      },
+      {
+        "family": "Graphik-Semibold",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.67,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      }
+    ],
+    "loadedFonts": [
+      "tomarik-brush 400 normal",
+      "Graphik-Semibold 400 normal",
+      "Graphik-Black 400 normal",
+      "MANIC-Regular 400 normal",
+      "MANIC-Alternates1 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 36
+    },
+    {
+      "px": 77,
+      "uses": 25
+    },
+    {
+      "px": 8,
+      "uses": 17
+    },
+    {
+      "px": 6,
+      "uses": 12
+    },
+    {
+      "px": 3,
+      "uses": 9
+    },
+    {
+      "px": 103,
+      "uses": 5
+    },
+    {
+      "px": 18,
+      "uses": 5
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 4,
+      "uses": 1
+    },
+    {
+      "px": 60,
+      "uses": 1
+    },
+    {
+      "px": 51,
+      "uses": 1
+    },
+    {
+      "px": 13,
+      "uses": 1
+    },
+    {
+      "px": 251,
+      "uses": 1
+    },
+    {
+      "px": 48,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 5
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.333s cubic-bezier(0.333, 1, 0.666, 1)",
+        "uses": 31
+      },
+      {
+        "value": "0.666s cubic-bezier(0.333, 1, 0.666, 1)",
+        "uses": 5
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--swiper-theme-color": "#007aff"
+  },
+  "breakpoints": [
+    "min 768px",
+    "min 1440px",
+    "min 320px",
+    "min 1280px",
+    "min 1680px",
+    "min 1024px",
+    "min 540px"
+  ],
+  "tech": [
+    "nuxt"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 120,
+      "position": "fixed",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#faeed9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 600,
+        "gutterRight": 600,
+        "width": 240,
+        "gutterTop": 28,
+        "gutterBottom": 28
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          17,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Flesh and Bones",
+          "family": "Graphik-Semibold",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.67,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Semibold",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.67,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Flesh and Bones"
+      ],
+      "words": 3,
+      "excerpt": "Flesh and Bones",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "background",
+      "y": 0,
+      "height": 9042,
+      "position": "absolute",
+      "background": "#1a1a1a",
+      "backgroundImage": true,
+      "color": "#faeed9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "home-hero-video.init",
+      "y": 0,
+      "height": 950,
+      "position": "relative",
+      "background": "#00000045",
+      "backgroundImage": false,
+      "color": "#faeed9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "iframe": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "home-hero.pad-b",
+      "y": 950,
+      "height": 698,
+      "position": "relative",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#faeed9",
+      "padding": "0px 0px 102.857px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 204,
+        "gutterRight": 204,
+        "width": 1032,
+        "gutterTop": 106,
+        "gutterBottom": 163
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          73,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "WHERE EDGE MEETSEXECUTION.",
+          "family": "Graphik-Black",
+          "size": 102,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "MANIC-Regular",
+        "size": 30,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 17,
+      "excerpt": "The Mixed Media Production Company Creating KIller Content for Brands, Bands, and",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "fifty-fifty.row",
+      "y": 1648,
+      "height": 656,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 151,
+        "gutterRight": 119,
+        "width": 1170,
+        "gutterTop": 488,
+        "gutterBottom": 90
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 77.1429px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "SPRINGWELL",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Semibold",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "The Strange Little Story of Walter READ…"
+      ],
+      "words": 14,
+      "excerpt": "The Strange Little Story of Walter",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "fifty-fifty.row",
+      "y": 2303,
+      "height": 628,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 151,
+        "gutterRight": 151,
+        "width": 1138,
+        "gutterTop": 491,
+        "gutterBottom": 77
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 77.1429px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "READ ABOUT IT",
+          "family": "tomarik-brush",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Semibold",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Welcome to our new site! Designed by Aa…",
+        "\"Andre is an Idiot\" in theaters in the …"
+      ],
+      "words": 34,
+      "excerpt": "Welcome to our new site! Designed by Aaron Ray. Developed by Seek",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "row",
+      "y": 2931,
+      "height": 694,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 119,
+        "gutterRight": 119,
+        "width": 1202,
+        "gutterTop": 528,
+        "gutterBottom": 90
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "ANDRE IS AN IDIOT - TRAILER",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Black",
+        "size": 44,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "Andre is an Idiot - Trailer",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "row",
+      "y": 3625,
+      "height": 694,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 119,
+        "gutterRight": 119,
+        "width": 1202,
+        "gutterTop": 528,
+        "gutterBottom": 90
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "THE CRANBERRIES",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "tomarik-brush",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "Director - Mardo El-Noor",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "row",
+      "y": 4320,
+      "height": 656,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 807,
+        "gutterRight": 151,
+        "width": 482,
+        "gutterTop": 491,
+        "gutterBottom": 122
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 77.1429px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "READ ABOUT IT",
+          "family": "tomarik-brush",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Semibold",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Podenco's mixed media work featured in …"
+      ],
+      "words": 13,
+      "excerpt": "Podenco's mixed media work featured in Adobe Creative Cloud film.",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "row",
+      "y": 4975,
+      "height": 694,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 119,
+        "gutterRight": 119,
+        "width": 1202,
+        "gutterTop": 528,
+        "gutterBottom": 90
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "ANDRE IS AN IDIOT - MAIN TITLES",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Black",
+        "size": 44,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 11,
+      "excerpt": "Andre is an Idiot - Main Titles",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "two-third-one-third.row",
+      "y": 5670,
+      "height": 511,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 119,
+        "gutterRight": 119,
+        "width": 1202,
+        "gutterTop": 212,
+        "gutterBottom": 90
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 77.1429px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          54,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "VOODOO RANGER",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        },
+        {
+          "tag": "h3",
+          "text": "WYOMING DEPT. OF HEALTH - SNOW WHITE",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Black",
+        "size": 44,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 17,
+      "excerpt": "Wyoming Dept. of Health - Snow White",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "row",
+      "y": 6181,
+      "height": 694,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 119,
+        "gutterRight": 119,
+        "width": 1202,
+        "gutterTop": 528,
+        "gutterBottom": 90
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "MAYTAG PETS",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "tomarik-brush",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "Director - Tony Benna",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "fifty-fifty.row",
+      "y": 6875,
+      "height": 656,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 151,
+        "gutterRight": 119,
+        "width": 1170,
+        "gutterTop": 445,
+        "gutterBottom": 90
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 77.1429px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "JEALOUS DEVIL - SLAPULA",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Semibold",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Ad Age's fiery article on Aaron Ray's a…"
+      ],
+      "words": 26,
+      "excerpt": "Ad Age's fiery article on Aaron Ray's animated ad series - Warrior's",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "row",
+      "y": 7531,
+      "height": 694,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 119,
+        "gutterRight": 119,
+        "width": 1202,
+        "gutterTop": 528,
+        "gutterBottom": 90
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "MODEST MOUSE",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "tomarik-brush",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "Director - Aaron Ray",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "big-cta-block.pad-t",
+      "y": 8199,
+      "height": 263,
+      "position": "static",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "102.857px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 538,
+        "gutterRight": 538,
+        "width": 365,
+        "gutterTop": 103,
+        "gutterBottom": 103
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "a",
+          "text": "VIEW ALL WORK",
+          "family": "Graphik-Black",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f25f36"
+        }
+      ],
+      "bodyType": {
+        "family": "Graphik-Black",
+        "size": 44,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIEW ALL WORK"
+      ],
+      "words": 3,
+      "excerpt": "View All Work",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "footer",
+      "name": "footer",
+      "y": 8462,
+      "height": 580,
+      "position": "relative",
+      "background": "#1a1a1a",
+      "backgroundImage": false,
+      "color": "#f25f36",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 417,
+        "gutterRight": 417,
+        "width": 607,
+        "gutterTop": 251,
+        "gutterBottom": 103
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          24,
+          45,
+          13,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "WORK",
+          "family": "tomarik-brush",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1a1a1a"
+        }
+      ],
+      "bodyType": {
+        "family": "tomarik-brush",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "WORK",
+        "DIRECTORS",
+        "MANIFESTO",
+        "CONTACT"
+      ],
+      "words": 13,
+      "excerpt": "© 2026 Flesh and Bones, Inc.",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 91,
+    "title": "Flesh and Bones",
+    "award": "HM",
+    "url": "https://wearefleshandbones.com/",
+    "awwwards": "https://www.awwwards.com/sites/flesh-and-bones",
+    "categories": [
+      "Art & Illustration",
+      "Design Agencies"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

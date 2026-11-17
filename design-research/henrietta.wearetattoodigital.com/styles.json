@@ -1,0 +1,939 @@
+{
+  "page": {
+    "url": "https://henrietta.wearetattoodigital.com/",
+    "title": "Henrietta Said : Scandalously Spicy",
+    "description": "It’s hard to contain this kind of spiciness. That’s why we’re bringing our scandalously spicy selves to the mainstream with bold wing-flavored peanuts",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 19740,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#e3a898",
+        "share": 0.771
+      },
+      {
+        "value": "#eae6e3",
+        "share": 0.075
+      },
+      {
+        "value": "#d32929",
+        "share": 0.054
+      },
+      {
+        "value": "#2d2a26",
+        "share": 0.031
+      },
+      {
+        "value": "#8b231a",
+        "share": 0.023
+      },
+      {
+        "value": "#efc415",
+        "share": 0.022
+      },
+      {
+        "value": "#f45016",
+        "share": 0.021
+      },
+      {
+        "value": "#000000",
+        "share": 0.003
+      },
+      {
+        "value": "#0c0c0c",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#eae6e3",
+        "share": 0.38
+      },
+      {
+        "value": "#333333",
+        "share": 0.23
+      },
+      {
+        "value": "#efc415",
+        "share": 0.094
+      },
+      {
+        "value": "#2d2a26",
+        "share": 0.08
+      },
+      {
+        "value": "#e3a898",
+        "share": 0.057
+      },
+      {
+        "value": "#d32929",
+        "share": 0.056
+      },
+      {
+        "value": "#8b231a",
+        "share": 0.055
+      },
+      {
+        "value": "#f45016",
+        "share": 0.049
+      }
+    ],
+    "borders": [
+      {
+        "value": "#2d2a26",
+        "share": 0.75
+      },
+      {
+        "value": "#d32929",
+        "share": 0.25
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.109,
+      "text": 0.69
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Thedodgerinky",
+        "size": 23.8,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1323
+      },
+      {
+        "family": "Thedodgerinky",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 563
+      },
+      {
+        "family": "Thedodgerinky",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 512
+      },
+      {
+        "family": "Thedodgerinky",
+        "size": 23.8,
+        "weight": "400",
+        "lineHeight": 0.84,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 176
+      },
+      {
+        "family": "Sink",
+        "size": 140,
+        "weight": "400",
+        "lineHeight": 0.14,
+        "letterSpacing": -0.014,
+        "transform": "none",
+        "chars": 167
+      },
+      {
+        "family": "Sink",
+        "size": 28.8,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 127
+      },
+      {
+        "family": "Thedodgerinky",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 119
+      },
+      {
+        "family": "Thedodgerinky",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 117
+      },
+      {
+        "family": "Sink",
+        "size": 43.2,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 93
+      },
+      {
+        "family": "Thedodgerinky",
+        "size": 21.6,
+        "weight": "400",
+        "lineHeight": 0.93,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 61
+      },
+      {
+        "family": "Sink",
+        "size": 28.8,
+        "weight": "700",
+        "lineHeight": 1.53,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 52
+      },
+      {
+        "family": "Sink",
+        "size": 86.4,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 38
+      },
+      {
+        "family": "Sink",
+        "size": 216,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 29
+      },
+      {
+        "family": "Sink",
+        "size": 403.2,
+        "weight": "900",
+        "lineHeight": 0.9,
+        "letterSpacing": 0.011,
+        "transform": "uppercase",
+        "chars": 26
+      }
+    ],
+    "loadedFonts": [
+      "Thedodgerinky 400 normal",
+      "Sink 400 normal",
+      "Changa One 400 italic",
+      "Changa One 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 53
+    },
+    {
+      "px": 29,
+      "uses": 33
+    },
+    {
+      "px": 43,
+      "uses": 22
+    },
+    {
+      "px": 21,
+      "uses": 10
+    },
+    {
+      "px": 4,
+      "uses": 10
+    },
+    {
+      "px": 3,
+      "uses": 6
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 24,
+      "uses": 5
+    },
+    {
+      "px": 45,
+      "uses": 5
+    },
+    {
+      "px": 72,
+      "uses": 5
+    },
+    {
+      "px": 22,
+      "uses": 4
+    },
+    {
+      "px": 58,
+      "uses": 4
+    },
+    {
+      "px": 5,
+      "uses": 4
+    },
+    {
+      "px": 101,
+      "uses": 3
+    },
+    {
+      "px": 65,
+      "uses": 3
+    },
+    {
+      "px": 346,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "100%",
+      "uses": 33
+    },
+    {
+      "value": "17.28px",
+      "uses": 8
+    },
+    {
+      "value": "5px",
+      "uses": 7
+    },
+    {
+      "value": "14.4px",
+      "uses": 5
+    },
+    {
+      "value": "2.88px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 4,
+    "canvases": 2,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--body": "#e3a898",
+    "--kimchi-red": "#d32929",
+    "--light-grey": "#eae6e3",
+    "--brown-chicken": "#8b231a",
+    "--orange": "#f45016",
+    "--lemon": "#efc415",
+    "--dark": "#2d2a26",
+    "--white": "#fff",
+    "--black": "#0E0E0E",
+    "--salmon": "#f7894e",
+    "--dark-red": "#761615",
+    "--blush": "#e3a898",
+    "--hst-duration-exit": "0.8s",
+    "--hst-duration-enter": "0.95s",
+    "--hst-easing": "cubic-bezier(0.76, 0, 0.24, 1)",
+    "--hst-scale": "0.9",
+    "--hst-opacity": "0.6",
+    "--hst-bg": "0, 0, 0",
+    "--hst-bg-opacity": "0.4",
+    "--cursor-cdn": "url(\"https://cdn.prod.website-files.com/67795d2b8c4e46abad8a139d/\")"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 479px",
+    "max 767px",
+    "min 768px",
+    "min 992px",
+    "max 1200px",
+    "min 0px",
+    "min 480px",
+    "max 1024px",
+    "max 480px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "header-wrapper",
+      "y": 14,
+      "height": 65,
+      "position": "fixed",
+      "background": "#e3a898",
+      "backgroundImage": false,
+      "color": "#2d2a26",
+      "padding": "0px",
+      "margin": "14.4px 14.4062px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 46,
+        "gutterRight": 101,
+        "width": 1293,
+        "gutterTop": 22,
+        "gutterBottom": 23
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 5,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          39,
+          20,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "h",
+          "family": "Thedodgerinky",
+          "size": 21,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2d2a26"
+        }
+      ],
+      "bodyType": {
+        "family": "Thedodgerinky",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "home",
+        "scandal pages",
+        "our story",
+        "press",
+        "contact us",
+        "our products"
+      ],
+      "words": 40,
+      "excerpt": "our products",
+      "media": {
+        "img": 8,
+        "svg": 4
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "hero-section",
+      "y": 0,
+      "height": 1800,
+      "position": "static",
+      "background": "#e3a898",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 83,
+        "gutterRight": 15,
+        "width": 1342,
+        "gutterTop": 125,
+        "gutterBottom": 966
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          100,
+          70,
+          70,
+          166
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "SCANDALOUSLY SPICY SNACKS",
+          "family": "Sink",
+          "size": 172.8,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#eae6e3"
+        }
+      ],
+      "bodyType": {
+        "family": "Thedodgerinky",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 0.95,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 103,
+      "excerpt": "ZERO GRAMS SUGAR PER SERVING",
+      "media": {
+        "img": 16,
+        "video": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "hp-section-2-sticky-wrapper",
+      "y": 900,
+      "height": 900,
+      "position": "sticky",
+      "background": "#e3a898",
+      "backgroundImage": false,
+      "color": "#eae6e3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 85,
+        "gutterRight": 85,
+        "width": 1269,
+        "gutterTop": -43,
+        "gutterBottom": -153
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 7,
+        "childWidthsPct": [
+          11,
+          17,
+          13,
+          11,
+          11,
+          100,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "KIMCHI",
+          "family": "Sink",
+          "size": 403.2,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.011,
+          "transform": "uppercase",
+          "color": "#e3a898"
+        },
+        {
+          "tag": "h1",
+          "text": "CHICKEN",
+          "family": "Sink",
+          "size": 403.2,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.011,
+          "transform": "uppercase",
+          "color": "#e3a898"
+        },
+        {
+          "tag": "h1",
+          "text": "BUFFALO",
+          "family": "Sink",
+          "size": 403.2,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.011,
+          "transform": "uppercase",
+          "color": "#e3a898"
+        },
+        {
+          "tag": "h1",
+          "text": "PEPPER",
+          "family": "Sink",
+          "size": 403.2,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.011,
+          "transform": "uppercase",
+          "color": "#eae6e3"
+        }
+      ],
+      "bodyType": {
+        "family": "Thedodgerinky",
+        "size": 23.8,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "view product"
+      ],
+      "words": 98,
+      "excerpt": "Jumbo roasted peanuts with bodaciously bold Nashville hot Chicken with pickle seasoning.",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "hp-section-3-sticky",
+      "y": 5400,
+      "height": 900,
+      "position": "sticky",
+      "background": "#e3a898",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 1083,
+        "width": 299,
+        "gutterTop": 337,
+        "gutterBottom": 197
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          25,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "7 GRAMS PROTEIN",
+          "family": "Sink",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#2d2a26"
+        },
+        {
+          "tag": "h1",
+          "text": "2 GRAMS OF FIBER",
+          "family": "Sink",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#e3a898"
+        },
+        {
+          "tag": "h1",
+          "text": "WING FLAVORED",
+          "family": "Sink",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#8b231a"
+        },
+        {
+          "tag": "h1",
+          "text": "VEGAN INGREDIENTS",
+          "family": "Sink",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#efc415"
+        }
+      ],
+      "bodyType": {
+        "family": "Thedodgerinky",
+        "size": 23.8,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 204,
+      "excerpt": "Keeping carbs in check doesn’t mean behaving yourself. These peanuts are keto",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "package-sticky-wrapper",
+      "y": 3600,
+      "height": 900,
+      "position": "sticky",
+      "background": "#e3a898",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "testimonials-wrapper",
+      "y": 13831,
+      "height": 900,
+      "position": "sticky",
+      "background": "#e3a898",
+      "backgroundImage": false,
+      "color": "#eae6e3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 385,
+        "gutterRight": 385,
+        "width": 669,
+        "gutterTop": 150,
+        "gutterBottom": -1768
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "DON’T JUST TAKE OUR WORD FOR IT",
+          "family": "Sink",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#eae6e3"
+        },
+        {
+          "tag": "h1",
+          "text": "LR",
+          "family": "Sink",
+          "size": 43.2,
+          "weight": "700",
+          "lineHeight": 1.02,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f45016"
+        },
+        {
+          "tag": "h1",
+          "text": "LAUREN RODRIGUEZ",
+          "family": "Sink",
+          "size": 28.8,
+          "weight": "700",
+          "lineHeight": 1.53,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#eae6e3"
+        },
+        {
+          "tag": "h1",
+          "text": "LJ",
+          "family": "Sink",
+          "size": 43.2,
+          "weight": "700",
+          "lineHeight": 1.02,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#efc415"
+        }
+      ],
+      "bodyType": {
+        "family": "Thedodgerinky",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "explore all articles",
+        "WHO IS HENRIETTA SAID",
+        "PRESS RELEASE: HENRIETTA SAID STRUTS ON…",
+        "SUSTAINABLE QUEEEN",
+        "PEANUTS PACK A PROTEIN PUNCH"
+      ],
+      "words": 217,
+      "excerpt": "Thought the Ancho Kimchi might be weird, but they are great! The",
+      "media": {
+        "img": 7,
+        "svg": 10
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "hp-section-6",
+      "y": 18288,
+      "height": 1452,
+      "position": "relative",
+      "background": "#eae6e3",
+      "backgroundImage": false,
+      "color": "#2d2a26",
+      "padding": "72px 0px 14.4px",
+      "margin": "-43.2px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 14,
+        "gutterRight": 14,
+        "width": 1411,
+        "gutterTop": 306,
+        "gutterBottom": 43
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          90
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "OUR SPICY SELVES ARE ON THE SHELVES",
+          "family": "Sink",
+          "size": 216,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#8b231a"
+        },
+        {
+          "tag": "h1",
+          "text": "SCANDALOUSLY SPICY",
+          "family": "Sink",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#eae6e3"
+        }
+      ],
+      "bodyType": {
+        "family": "Thedodgerinky",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "home",
+        "scandal pages",
+        "our story",
+        "press",
+        "contact us",
+        "Truly Good Foods",
+        "Terms & Conditions",
+        "Privacy Policy"
+      ],
+      "words": 131,
+      "excerpt": "© TrulyGood Foods 2023",
+      "media": {
+        "img": 1,
+        "svg": 4
+      }
+    },
+    {
+      "i": 8,
+      "tag": "canvas",
+      "name": "hero-canvas",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#e3a898",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 198,
+    "title": "Henrietta Said",
+    "award": "HM",
+    "url": "https://henrietta.wearetattoodigital.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/henrietta-said",
+    "categories": [
+      "E-Commerce",
+      "Food & Drink",
+      "Promotional"
+    ]
+  }
+}

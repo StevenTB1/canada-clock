@@ -1,0 +1,1070 @@
+{
+  "page": {
+    "url": "https://www.deepwhite-gallery.com/",
+    "title": "Deep White Gallery - Digital Art",
+    "description": "Explore contemporary digital artworks and custom framing at Deep White Gallery. Discover unique pieces and professional framing services for art collectors.",
+    "lang": null,
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 19481,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.62
+      },
+      {
+        "value": "#797762",
+        "share": 0.34
+      },
+      {
+        "value": "#000000",
+        "share": 0.04
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.614
+      },
+      {
+        "value": "#000000",
+        "share": 0.298
+      },
+      {
+        "value": "#333333",
+        "share": 0.038
+      },
+      {
+        "value": "#4b4b4b",
+        "share": 0.034
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.016
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff80",
+        "share": 0.583
+      },
+      {
+        "value": "#000000",
+        "share": 0.417
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.66,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2456
+      },
+      {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1262
+      },
+      {
+        "family": "DM Sans",
+        "size": 52,
+        "weight": "200",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 617
+      },
+      {
+        "family": "DM Sans",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 387
+      },
+      {
+        "family": "Arial",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 249
+      },
+      {
+        "family": "DM Sans",
+        "size": 20,
+        "weight": "100",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 195
+      },
+      {
+        "family": "DM Sans",
+        "size": 40,
+        "weight": "200",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 189
+      },
+      {
+        "family": "DM Sans",
+        "size": 52,
+        "weight": "200",
+        "lineHeight": 0.97,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 158
+      },
+      {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 115
+      },
+      {
+        "family": "DM Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.67,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 114
+      },
+      {
+        "family": "DM Sans",
+        "size": 20,
+        "weight": "300",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 105
+      },
+      {
+        "family": "DM Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "capitalize",
+        "chars": 105
+      },
+      {
+        "family": "DM Sans",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 77
+      },
+      {
+        "family": "DM Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 75
+      }
+    ],
+    "loadedFonts": [
+      "DM Sans 300 normal",
+      "DM Sans 400 normal",
+      "DM Sans 500 normal",
+      "DM Sans 600 normal",
+      "DM Sans 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 39
+    },
+    {
+      "px": 48,
+      "uses": 27
+    },
+    {
+      "px": 24,
+      "uses": 24
+    },
+    {
+      "px": 30,
+      "uses": 20
+    },
+    {
+      "px": 8,
+      "uses": 14
+    },
+    {
+      "px": 32,
+      "uses": 11
+    },
+    {
+      "px": 10,
+      "uses": 10
+    },
+    {
+      "px": 120,
+      "uses": 9
+    },
+    {
+      "px": 6,
+      "uses": 8
+    },
+    {
+      "px": 64,
+      "uses": 6
+    },
+    {
+      "px": 122,
+      "uses": 4
+    },
+    {
+      "px": 152,
+      "uses": 4
+    },
+    {
+      "px": 90,
+      "uses": 3
+    },
+    {
+      "px": 60,
+      "uses": 3
+    },
+    {
+      "px": 244,
+      "uses": 2
+    },
+    {
+      "px": 567,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.5s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 10
+  },
+  "cssVariables": {
+    "--_colors---body-background": "white",
+    "--_typography---font-main": "\"DM Sans\",sans-serif",
+    "--_typography---text-color": "#000",
+    "--_colors---accent": "#000",
+    "--_typography---text-color-light": "white",
+    "--_colors---body-background-dark": "#797762",
+    "--_colors---body-background-black": "#000",
+    "--_typography---font-titles": "Ppwriter,\"Times New Roman\",sans-serif",
+    "--_typography---font-size-abstract": "56"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 991px",
+    "max 767px",
+    "min 1280px",
+    "min 1440px",
+    "min 768px",
+    "max 991.98px",
+    "max 767.98px",
+    "max 479.98px"
+  ],
+  "tech": [
+    "gsap",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "nav__container",
+      "y": 0,
+      "height": 122,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "24px 48px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 964,
+        "gutterRight": 48,
+        "width": 428,
+        "gutterTop": 24,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "30px",
+        "justify": "stretch",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          22,
+          14,
+          6,
+          6
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "About",
+          "family": "DM Sans",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "About",
+        "Frames",
+        "Artworks",
+        "Contacts"
+      ],
+      "words": 4,
+      "excerpt": "Artworks",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "hero",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 520,
+        "width": 872,
+        "gutterTop": 454,
+        "gutterBottom": 80
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Deep White is a digital-art gallery that curates authentic artworks encased in …",
+          "family": "DM Sans",
+          "size": 52,
+          "weight": "200",
+          "lineHeight": 0.97,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 52,
+        "weight": "200",
+        "lineHeight": 0.97,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 24,
+      "excerpt": "Deep White is a digital-art gallery that curates authentic artworks encased in",
+      "media": {
+        "iframe": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "home-about__container",
+      "y": -354,
+      "height": 566,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "244px 0px 122px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 85,
+        "width": 1275,
+        "gutterTop": 244,
+        "gutterBottom": 102
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          89,
+          89
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Deep",
+          "family": "DM Sans",
+          "size": 52,
+          "weight": "200",
+          "lineHeight": 1.05,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 52,
+        "weight": "200",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 22,
+      "excerpt": "contemporary",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "home-video__container",
+      "y": 212,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "home-about2__container",
+      "y": 2582,
+      "height": 928,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "122px 48px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 63,
+        "gutterRight": 163,
+        "width": 1215,
+        "gutterTop": 122,
+        "gutterBottom": 122
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "30px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          6,
+          46,
+          22,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Bring digital art into physical spaces, preserving its original digital essence…",
+          "family": "DM Sans",
+          "size": 52,
+          "weight": "200",
+          "lineHeight": 1.05,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 124,
+      "excerpt": "Our mission is to bring digital art into the physical world, making",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "home-frames__container",
+      "y": 3509,
+      "height": 1779,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "120px 0px 0px",
+      "margin": "0px",
+      "border": "1px solid #000000",
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 241,
+        "gutterBottom": 253
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "30px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          22,
+          69
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The Frames",
+          "family": "DM Sans",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#4b4b4b"
+        },
+        {
+          "tag": "h3",
+          "text": "Designed for Easy Installation",
+          "family": "DM Sans",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 136,
+      "excerpt": "Designed to appear suspended, they are mounted on a slender structure that",
+      "media": {
+        "img": 3,
+        "video": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "home-curation__container",
+      "y": 5288,
+      "height": 884,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "120px 48px",
+      "margin": "0px",
+      "border": "1px solid #000000",
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 121,
+        "gutterBottom": 120
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "90px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          93,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Current Collection",
+          "family": "DM Sans",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#4b4b4b"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 52,
+        "weight": "200",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 63,
+      "excerpt": "The curatorial process is essential for our work, we carefully select the",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "where-light-is-born",
+      "y": 6262,
+      "height": 3611,
+      "position": "static",
+      "background": "#797762",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "30px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          38,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Where Light is Born",
+          "family": "DM Sans",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ASK FOR DETAILS & PRICING"
+      ],
+      "words": 181,
+      "excerpt": "Rosalia Di Maggio (Sicily, 1984) is an artist and illustrator whose practice",
+      "media": {
+        "img": 3,
+        "video": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "planetary-nervous-system",
+      "y": 10097,
+      "height": 3594,
+      "position": "static",
+      "background": "#797762",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "30px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          38,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Planetary Nervous System",
+          "family": "DM Sans",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ASK FOR DETAILS & PRICING"
+      ],
+      "words": 183,
+      "excerpt": "Our nervous system insists that everything is urgent, yet beyond it stretches",
+      "media": {
+        "img": 3,
+        "video": 2
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "constructed-perceptual-instability",
+      "y": 13914,
+      "height": 3746,
+      "position": "static",
+      "background": "#797762",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "30px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          38,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Constructed Perceptual Instability",
+          "family": "DM Sans",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ASK FOR DETAILS & PRICING"
+      ],
+      "words": 178,
+      "excerpt": "Through gradual movement and layered architectural forms, the animation invites viewers to",
+      "media": {
+        "img": 3,
+        "video": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "nl",
+      "y": 17780,
+      "height": 438,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "152px 48px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 470,
+        "gutterRight": 470,
+        "width": 500,
+        "gutterTop": 152,
+        "gutterBottom": 98
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          31,
+          35,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Inside the world of Deep White Gallery",
+          "family": "DM Sans",
+          "size": 52,
+          "weight": "400",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 25,
+      "excerpt": "Subscribe to our newsletter for updates on new artworks, artist stories, insights",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "footer",
+      "y": 18218,
+      "height": 684,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "244px 48px 122px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 244,
+        "gutterBottom": 122
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "30px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          14,
+          22,
+          22,
+          14,
+          22,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Digital-art gallery presenting authentic works in physical spaces through uniqu…",
+          "family": "DM Sans",
+          "size": 20,
+          "weight": "100",
+          "lineHeight": 1.05,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "DM Sans",
+        "size": 20,
+        "weight": "100",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Instagram",
+        "Linkedin",
+        "info@deepwhite-gallery.com",
+        "PRIVACY POLICY",
+        "COOKIES"
+      ],
+      "words": 54,
+      "excerpt": "Digital-art gallery presenting authentic works in physical spaces through unique handcraf…",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "div-block-21",
+      "y": 18902,
+      "height": 224,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 43,
+    "title": "Deep White Gallery",
+    "award": "HM",
+    "url": "https://www.deepwhite-gallery.com/",
+    "awwwards": "https://www.awwwards.com/sites/deep-white-gallery",
+    "categories": [
+      "Art & Illustration",
+      "Web & Interactive",
+      "Startups"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

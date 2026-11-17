@@ -1,0 +1,196 @@
+{
+  "page": {
+    "url": "https://oliviaplender.org/",
+    "title": "Olivia Plender",
+    "description": "Olivia Plender is an artist based in London and Stockholm. Plender was born in London. Her work is often based on historical research and consists of architectural installations, videos, performances and comics.",
+    "lang": null,
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": "Gatsby 4.25.7"
+  },
+  "palette": {
+    "backgrounds": [],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ExcelsiorLT",
+        "size": 41,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.07,
+        "transform": "none",
+        "chars": 164
+      },
+      {
+        "family": "UntitledSans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.03,
+        "transform": "none",
+        "chars": 28
+      }
+    ],
+    "loadedFonts": [
+      "ExcelsiorLT normal normal",
+      "ExcelsiorLT-Italic normal normal",
+      "UntitledSans normal normal",
+      "UntitledSansItalic normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 14
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.1s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {},
+  "breakpoints": [
+    "min 1024px",
+    "min 480px",
+    "max 768px",
+    "min 768px",
+    "max 600px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "___gatsby",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 11,
+        "gutterRight": 10,
+        "width": 1419,
+        "gutterTop": 8,
+        "gutterBottom": 195
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "(Many Maids Make Much Noise)",
+          "family": "ExcelsiorLT",
+          "size": 41,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.07,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "(What is School?)",
+          "family": "ExcelsiorLT",
+          "size": 41,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.07,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "(Rise Early, Be Industrious)",
+          "family": "ExcelsiorLT",
+          "size": 41,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.07,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "(Information, Education, Entertainment)",
+          "family": "ExcelsiorLT",
+          "size": 41,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.07,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ExcelsiorLT",
+        "size": 41,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.07,
+        "transform": "none"
+      },
+      "labels": [
+        "Olivia Plender",
+        "Index",
+        "News",
+        "About",
+        "(Many Maids Make Much Noise)",
+        "(What is School?)",
+        "(Rise Early, Be Industrious)",
+        "(Information, Education, Entertainment)",
+        "(The Medium and Daybreak)",
+        "(Artefacts)"
+      ],
+      "words": 41,
+      "excerpt": "Information, Education, Entertainment",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 147,
+    "title": "Olivia Plender",
+    "url": "https://oliviaplender.org/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

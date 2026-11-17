@@ -1,0 +1,646 @@
+{
+  "page": {
+    "url": "https://lydialeiwang.com/",
+    "title": "Lydia Leiwang | gtm-native designer",
+    "description": "GTM-native brand and motion designer for AI and devtools teams. I turn products you can't screenshot into launches people get. 4x Red Dot, iF Gold 2026.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 2072,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f4f2f0",
+        "share": 0.825
+      },
+      {
+        "value": "#eae7e5",
+        "share": 0.088
+      },
+      {
+        "value": "#0625ee",
+        "share": 0.087
+      }
+    ],
+    "text": [
+      {
+        "value": "#0625ee",
+        "share": 1
+      }
+    ],
+    "borders": [
+      {
+        "value": "#0625ee",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.913,
+      "text": 0
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Geist",
+        "size": 12.8,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 716
+      },
+      {
+        "family": "Geist",
+        "size": 13.6,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 295
+      },
+      {
+        "family": "Geist",
+        "size": 13.6,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 131
+      },
+      {
+        "family": "Geist",
+        "size": 11.2,
+        "weight": "600",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "Geist",
+        "size": 14.4,
+        "weight": "600",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 66
+      },
+      {
+        "family": "Geist",
+        "size": 13.97,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 58
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 96,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 40
+      },
+      {
+        "family": "Geist",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 33
+      },
+      {
+        "family": "Geist",
+        "size": 13.6,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 29
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 160.96,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 21
+      },
+      {
+        "family": "Geist",
+        "size": 13.6,
+        "weight": "600",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 5
+      },
+      {
+        "family": "Geist",
+        "size": 14.4,
+        "weight": "600",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 4
+      },
+      {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "Geist 400 normal",
+      "Geist 600 normal",
+      "Instrument Serif 400 italic",
+      "Instrument Serif 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 25
+    },
+    {
+      "px": 4,
+      "uses": 19
+    },
+    {
+      "px": 24,
+      "uses": 18
+    },
+    {
+      "px": 2,
+      "uses": 14
+    },
+    {
+      "px": 14,
+      "uses": 13
+    },
+    {
+      "px": 6,
+      "uses": 8
+    },
+    {
+      "px": 3,
+      "uses": 8
+    },
+    {
+      "px": 25,
+      "uses": 7
+    },
+    {
+      "px": 174,
+      "uses": 7
+    },
+    {
+      "px": 16,
+      "uses": 4
+    },
+    {
+      "px": 48,
+      "uses": 4
+    },
+    {
+      "px": 23,
+      "uses": 4
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 22,
+      "uses": 4
+    },
+    {
+      "px": 32,
+      "uses": 2
+    },
+    {
+      "px": 529,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 35
+      },
+      {
+        "value": "0.42s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.455s cubic-bezier(0.25, 0.1, 0.25, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.3s steps(3)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 2,
+    "videos": 7
+  },
+  "cssVariables": {
+    "--bg-primary": "#F4F2F0",
+    "--bg-secondary": "#EAE7E5",
+    "--text-tagline": "#0625EE",
+    "--text-body": "#0625EE",
+    "--border-color": "#0625EE",
+    "--accent": "#0625EE",
+    "--accent-contrast": "#F4F2F0",
+    "--reveal-dy": "16px",
+    "--reveal-dur": "420ms",
+    "--reveal-ease": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "--font-display": "'Instrument Serif', Georgia, serif",
+    "--font-body": "'Geist', -apple-system, sans-serif",
+    "--container-max": "1200px",
+    "--container-pad": "24px",
+    "--display-tracking": "-0.025em",
+    "--staff-gap": "0.07em",
+    "--hover-nudge": "5px",
+    "--hover-ease": "0.455s cubic-bezier(0.25, 0.1, 0.25, 1)"
+  },
+  "breakpoints": [
+    "max 768px",
+    "max 1024px",
+    "max 365px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "site-header",
+      "y": 26,
+      "height": 62,
+      "position": "static",
+      "background": "#f4f2f0",
+      "backgroundImage": false,
+      "color": "#0625ee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 120,
+        "width": 1200,
+        "gutterTop": 16,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          10,
+          10,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "[ WORK ]",
+          "family": "Geist",
+          "size": 14.4,
+          "weight": "400",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#0625ee"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.025,
+        "transform": "none"
+      },
+      "labels": [
+        "[ WORK ]",
+        "[ B-SIDE ]",
+        "[ ABOUT ]",
+        "[ overthinking ↗ ]"
+      ],
+      "words": 24,
+      "excerpt": "overthinking ↗",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "hero.reveal",
+      "y": 87,
+      "height": 265,
+      "position": "relative",
+      "background": "#f4f2f0",
+      "backgroundImage": false,
+      "color": "#0625ee",
+      "padding": "48px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 120,
+        "width": 1200,
+        "gutterTop": 48,
+        "gutterBottom": -4
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Lydia Leiwang: GTM-native. Brand. Motion.",
+          "family": "Instrument Serif",
+          "size": 96,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#0625ee"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 96,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.025,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 9,
+      "excerpt": "GTM-native. Brand. M",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "reel-section.reveal",
+      "y": 352,
+      "height": 627,
+      "position": "relative",
+      "background": "#f4f2f0",
+      "backgroundImage": false,
+      "color": "#0625ee",
+      "padding": "48px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 150,
+        "gutterRight": 1174,
+        "width": 116,
+        "gutterTop": 277,
+        "gutterBottom": 308
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          8,
+          37
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "talk is cheap, here's what I build:",
+          "family": "Geist",
+          "size": 13.6,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0625ee"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 13.6,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "here's what I build:",
+      "media": {
+        "video": 1,
+        "canvas": 1,
+        "svg": 2,
+        "iframe": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "projects",
+      "y": 979,
+      "height": 537,
+      "position": "static",
+      "background": "#f4f2f0",
+      "backgroundImage": false,
+      "color": "#0625ee",
+      "padding": "48px 0px 96px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 120,
+        "width": 1200,
+        "gutterTop": 48,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          41,
+          41
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Mobius",
+          "family": "Geist",
+          "size": 14.4,
+          "weight": "600",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0625ee"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 12.8,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Mobius Product, UX Motion, Brand System…",
+        "Browserbase Brand System, GTM, Product …",
+        "Succinct Brand Systems, GTM, Product St…",
+        "Negotiabbles Product, UX Motion, Brand …",
+        "Kodak: Lock In Brand Experience Design,…",
+        "Robot Gyms Brand Systems, Startup [2024…",
+        "Vol.1 Visual Music [2024] My personal v…"
+      ],
+      "words": 192,
+      "excerpt": "First design hire at a deep-tech infrastructure company. End-to-end creative systems for",
+      "media": {
+        "img": 1,
+        "video": 6
+      }
+    },
+    {
+      "i": 5,
+      "tag": "footer",
+      "name": "site-footer",
+      "y": 1516,
+      "height": 556,
+      "position": "static",
+      "background": "#f4f2f0",
+      "backgroundImage": false,
+      "color": "#0625ee",
+      "padding": "223.2px 0px 64.8px",
+      "margin": "0px",
+      "border": "1px solid #0625ee",
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 120,
+        "width": 1200,
+        "gutterTop": 199,
+        "gutterBottom": 66
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 7,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 7,
+        "childWidthsPct": [
+          53,
+          53,
+          8,
+          8,
+          8,
+          8,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "lydialwts@outlook.com",
+          "family": "Instrument Serif",
+          "size": 160.96,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#0625ee"
+        }
+      ],
+      "bodyType": {
+        "family": "Geist",
+        "size": 13.97,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "lydialwts@outlook.com"
+      ],
+      "words": 19,
+      "excerpt": "Vibe coded with kittie support. >3",
+      "media": {
+        "svg": 8
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f4f2f0",
+      "backgroundImage": false,
+      "color": "#0625ee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 84,
+    "title": "Lydia Leiwang's Portfolio",
+    "award": "HM",
+    "url": "https://lydialeiwang.com/",
+    "awwwards": "https://www.awwwards.com/sites/lydia-leiwangs-portfolio",
+    "categories": [
+      "Design Agencies",
+      "Promotional",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

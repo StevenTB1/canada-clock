@@ -1,0 +1,604 @@
+{
+  "page": {
+    "url": "https://vivmgmt.com/",
+    "title": "Photographer Agency & Commercial Photo Production — ViV MGMT",
+    "description": "Representing commercial photographers, directors, and creatives while providing full-service photo and video production for brands nationwide.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.394
+      },
+      {
+        "value": "#201d1d",
+        "share": 0.131
+      },
+      {
+        "value": "#a8c5d2",
+        "share": 0.047
+      },
+      {
+        "value": "#444444",
+        "share": 0.035
+      },
+      {
+        "value": "#cbbaa8",
+        "share": 0.033
+      },
+      {
+        "value": "#e8e8e8",
+        "share": 0.029
+      },
+      {
+        "value": "#ccbca7",
+        "share": 0.027
+      },
+      {
+        "value": "#acb7d2",
+        "share": 0.027
+      },
+      {
+        "value": "#d4ada5",
+        "share": 0.027
+      },
+      {
+        "value": "#d1b7a7",
+        "share": 0.018
+      },
+      {
+        "value": "#c5bec4",
+        "share": 0.018
+      },
+      {
+        "value": "#ccb3a8",
+        "share": 0.018
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.607,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Helvetica Now Display",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 323
+      },
+      {
+        "family": "Helvetica Now Display",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 162
+      },
+      {
+        "family": "Garamond Narrow",
+        "size": 43.2,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 78
+      },
+      {
+        "family": "Garamond Narrow",
+        "size": 96,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 48
+      },
+      {
+        "family": "Helvetica Now Display",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "Helvetica Now Display",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 8
+      }
+    ],
+    "loadedFonts": [
+      "Garamond Narrow 400 normal",
+      "Helvetica Now Display 400 normal",
+      "Helvetica Now Display 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 88
+    },
+    {
+      "px": 5,
+      "uses": 38
+    },
+    {
+      "px": 10,
+      "uses": 35
+    },
+    {
+      "px": 19,
+      "uses": 15
+    },
+    {
+      "px": 9,
+      "uses": 9
+    },
+    {
+      "px": 50,
+      "uses": 6
+    },
+    {
+      "px": 40,
+      "uses": 5
+    },
+    {
+      "px": 38,
+      "uses": 3
+    },
+    {
+      "px": 29,
+      "uses": 2
+    },
+    {
+      "px": 270,
+      "uses": 2
+    },
+    {
+      "px": 324,
+      "uses": 2
+    },
+    {
+      "px": 20,
+      "uses": 1
+    },
+    {
+      "px": 137,
+      "uses": 1
+    },
+    {
+      "px": 113,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.7s ease-in-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--color-page-bg": "#ffffff",
+    "--color-page-text": "#000000",
+    "--space-xs": "clamp(.3125rem, .2344rem + .3906vw, .625rem)",
+    "--space-s": "clamp(.625rem, .4688rem + .7813vw, 1.25rem)",
+    "--space-m": "clamp(1.25rem, .9375rem + 1.5625vw, 2.5rem)",
+    "--space-l": "clamp(1.875rem, 1.4063rem + 2.3438vw, 3.75rem)",
+    "--space-xl": "clamp(2.5rem, 1.875rem + 3.125vw, 5rem)",
+    "--space-2xl": "clamp(3.125rem, 2.3438rem + 3.9063vw, 6.25rem)",
+    "--space-3xl": "clamp(3.75rem, 2.8125rem + 4.6875vw, 7.5rem)",
+    "--space-4xl": "clamp(4.375rem, 3.2813rem + 5.4688vw, 8.75rem)",
+    "--space-5xl": "clamp(5rem, 3.75rem + 6.25vw, 10rem)",
+    "--space-xs-s": "clamp(.3125rem, .0781rem + 1.1719vw, 1.25rem)",
+    "--space-s-m": "clamp(.625rem, .1563rem + 2.3438vw, 2.5rem)",
+    "--space-m-l": "clamp(1.25rem, .625rem + 3.125vw, 3.75rem)",
+    "--space-l-xl": "clamp(1.875rem, 1.0938rem + 3.9063vw, 5rem)",
+    "--space-xl-2xl": "clamp(2.5rem, 1.5625rem + 4.6875vw, 6.25rem)",
+    "--space-2xl-3xl": "clamp(3.125rem, 2.0313rem + 5.4688vw, 7.5rem)",
+    "--space-3xl-4xl": "clamp(3.75rem, 2.5rem + 6.25vw, 8.75rem)",
+    "--space-4xl-5xl": "clamp(4.375rem, 2.9688rem + 7.0313vw, 10rem)"
+  },
+  "breakpoints": [
+    "min 992px",
+    "min 768px",
+    "min 1500px",
+    "min 375px",
+    "min 550px",
+    "min 1200px",
+    "min 1440px",
+    "max 991.98px",
+    "max 767.98px",
+    "max 991px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "c-home__logo-row",
+      "y": 270,
+      "height": 229,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 864,
+        "gutterRight": 276,
+        "width": 300,
+        "gutterTop": -6,
+        "gutterBottom": 173
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "28.8px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Artist management + production.",
+          "family": "Helvetica Now Display",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Now Display",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Artist management + production.",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "c-home__gallery",
+      "y": 270,
+      "height": 2358,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 10px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 166,
+        "gutterRight": 166,
+        "width": 1107,
+        "gutterTop": 2110,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          25,
+          25,
+          25,
+          25,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Quinn Gravier",
+          "family": "Helvetica Now Display",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Now Display",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "Jonathan Mannion",
+      "media": {
+        "img": 17
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "row.c-home__strapline-row",
+      "y": 2156,
+      "height": 192,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px -5px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 259,
+        "width": 1172,
+        "gutterTop": 13,
+        "gutterBottom": 13
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "V",
+          "family": "Garamond Narrow",
+          "size": 96,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Garamond Narrow",
+        "size": 96,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 44,
+      "excerpt": "V",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "c-home__news",
+      "y": 2618,
+      "height": 1689,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 5px",
+      "margin": "270px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 10,
+        "width": 1420,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "10px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "News",
+          "family": "Garamond Narrow",
+          "size": 96,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "ARTURO TORRES x MARINE LAYER",
+          "family": "Helvetica Now Display",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "DANIELLE MOORE x OLD NAVY BTS",
+          "family": "Helvetica Now Display",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "JONATHAN MANNION x NIKE",
+          "family": "Helvetica Now Display",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Now Display",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "ARTURO TORRES x MARINE LAYER",
+        "DANIELLE MOORE x OLD NAVY BTS",
+        "JONATHAN MANNION x NIKE",
+        "JASON KENT x MORPHE II",
+        "DANIELLE MOORE & ARTURO TORRES X QUAY",
+        "ARTURO TORRES x TRAVIS MATTHEW",
+        "All News"
+      ],
+      "words": 35,
+      "excerpt": "DANIELLE MOORE & ARTURO TORRES X QUAY",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 5,
+      "tag": "footer",
+      "name": "c-footer",
+      "y": 4419,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "112.5px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 5,
+        "width": 1425,
+        "gutterTop": -191,
+        "gutterBottom": 235
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          99,
+          99
+        ]
+      },
+      "headings": [
+        {
+          "tag": "em",
+          "text": "ViV",
+          "family": "Garamond Narrow",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Now Display",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Arturo Torres",
+        "Beth Sternbaum",
+        "Cera Hensley",
+        "Danielle Moore",
+        "Edward Tran",
+        "Garrett Byrum",
+        "Jason Kent",
+        "Jonathan Mannion",
+        "Quinn Gravier",
+        "Production"
+      ],
+      "words": 52,
+      "excerpt": "© 2026 ViV MGMT, All Rights Reserved.",
+      "media": {
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 152,
+    "title": "ViV Management",
+    "url": "https://vivmgmt.com/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

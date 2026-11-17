@@ -1,0 +1,1217 @@
+{
+  "page": {
+    "url": "https://gpg.dops.agency/",
+    "title": "Garvinpromo",
+    "description": null,
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 18826,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.861
+      },
+      {
+        "value": "#003c97",
+        "share": 0.126
+      },
+      {
+        "value": "#1051b4",
+        "share": 0.007
+      },
+      {
+        "value": "#315e9e",
+        "share": 0.005
+      },
+      {
+        "value": "#f15928",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.255
+      },
+      {
+        "value": "#003c97",
+        "share": 0.226
+      },
+      {
+        "value": "#686f7a",
+        "share": 0.206
+      },
+      {
+        "value": "#b0c8eb",
+        "share": 0.087
+      },
+      {
+        "value": "#898995",
+        "share": 0.083
+      },
+      {
+        "value": "#f15928",
+        "share": 0.07
+      },
+      {
+        "value": "#1051b4",
+        "share": 0.069
+      },
+      {
+        "value": "#7fa1d5",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#dddddd",
+        "share": 0.679
+      },
+      {
+        "value": "#003c97",
+        "share": 0.094
+      },
+      {
+        "value": "#315e9e",
+        "share": 0.057
+      },
+      {
+        "value": "#f15928",
+        "share": 0.057
+      },
+      {
+        "value": "#d3d3d3",
+        "share": 0.057
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.038
+      },
+      {
+        "value": "#d5d4d4",
+        "share": 0.019
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.861,
+      "text": 0.338
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PPMori",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1857
+      },
+      {
+        "family": "PPMori",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1471
+      },
+      {
+        "family": "PPMori",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 992
+      },
+      {
+        "family": "PPMori",
+        "size": 96,
+        "weight": "400",
+        "lineHeight": 0.98,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 923
+      },
+      {
+        "family": "PPMori",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 432
+      },
+      {
+        "family": "PPMori",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.02,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 184
+      },
+      {
+        "family": "PPMori Semi Bold",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 155
+      },
+      {
+        "family": "PPMori",
+        "size": 44,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.041,
+        "transform": "none",
+        "chars": 52
+      },
+      {
+        "family": "PPMori Semi Bold",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.02,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 38
+      },
+      {
+        "family": "PPMori Semi Bold",
+        "size": 323.28,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "PPMori Semi Bold",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 5
+      },
+      {
+        "family": "PPMori",
+        "size": 140,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": [
+      "PPMori 400 normal",
+      "PPMori Semi Bold 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 64
+    },
+    {
+      "px": 18,
+      "uses": 49
+    },
+    {
+      "px": 48,
+      "uses": 33
+    },
+    {
+      "px": 70,
+      "uses": 25
+    },
+    {
+      "px": 16,
+      "uses": 24
+    },
+    {
+      "px": 2,
+      "uses": 24
+    },
+    {
+      "px": 30,
+      "uses": 16
+    },
+    {
+      "px": 32,
+      "uses": 14
+    },
+    {
+      "px": 1,
+      "uses": 9
+    },
+    {
+      "px": 24,
+      "uses": 9
+    },
+    {
+      "px": 27,
+      "uses": 8
+    },
+    {
+      "px": 64,
+      "uses": 5
+    },
+    {
+      "px": 45,
+      "uses": 5
+    },
+    {
+      "px": 164,
+      "uses": 4
+    },
+    {
+      "px": 12,
+      "uses": 3
+    },
+    {
+      "px": 55,
+      "uses": 3
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 30
+    },
+    {
+      "value": "35px",
+      "uses": 24
+    },
+    {
+      "value": "90px",
+      "uses": 9
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s ease",
+        "uses": 81
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 38
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 21
+      },
+      {
+        "value": "0.55s linear",
+        "uses": 16
+      },
+      {
+        "value": "1.25s ease-in-out",
+        "uses": 16
+      },
+      {
+        "value": "0.7s ease",
+        "uses": 13
+      }
+    ],
+    "cssAnimatedElements": 7,
+    "canvases": 0,
+    "videos": 3
+  },
+  "cssVariables": {
+    "--vc-clr-primary": "#000",
+    "--vc-clr-secondary": "#090f207f",
+    "--vc-clr-white": "#fff",
+    "--vc-icn-width": "1.2em",
+    "--vc-nav-width": "30px",
+    "--vc-nav-height": "30px",
+    "--vc-nav-border-radius": "0",
+    "--vc-nav-color": "var(--vc-clr-primary)",
+    "--vc-nav-color-hover": "var(--vc-clr-secondary)",
+    "--vc-nav-background": "transparent",
+    "--vc-pgn-width": "12px",
+    "--vc-pgn-height": "4px",
+    "--vc-pgn-margin": "4px",
+    "--vc-pgn-border-radius": "0",
+    "--vc-pgn-background-color": "var(--vc-clr-secondary)",
+    "--vc-pgn-active-color": "var(--vc-clr-primary)"
+  },
+  "breakpoints": [
+    "max 1024px",
+    "max 767px",
+    "max 825px",
+    "max 960px",
+    "max 1850px",
+    "min 1025px",
+    "max 1440px",
+    "max 1280px",
+    "max 1366px",
+    "max 1365px"
+  ],
+  "tech": [
+    "lenis",
+    "nuxt"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header.header--light",
+      "y": 0,
+      "height": 79,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#003c97",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 730,
+        "gutterRight": 102,
+        "width": 608,
+        "gutterTop": 29,
+        "gutterBottom": 29
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          46,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Services",
+          "family": "PPMori Semi Bold",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#003c97"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori Semi Bold",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Services Services",
+        "About us About us",
+        "Clients success Clients success",
+        "Let's Talk"
+      ],
+      "words": 7,
+      "excerpt": "Clients success",
+      "media": {
+        "svg": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "home-top",
+      "y": 0,
+      "height": 1493,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#898995",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 70,
+        "gutterRight": 287,
+        "width": 1083,
+        "gutterTop": 180,
+        "gutterBottom": 1036
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "0px 64px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Welcome to Garvin Promotion Group, a leading provider of rebate management, spi…",
+          "family": "PPMori",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#898995"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.02,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [
+        "Let's Talk",
+        "Discover our services Discover our serv…"
+      ],
+      "words": 21,
+      "excerpt": "Discover our services",
+      "media": {
+        "video": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "row.home-about__row",
+      "y": 1657,
+      "height": 1554,
+      "position": "static",
+      "background": "#003c97",
+      "backgroundImage": false,
+      "color": "#b0c8eb",
+      "padding": "0px",
+      "margin": "0px -10px",
+      "border": null,
+      "content": {
+        "gutterLeft": 163,
+        "gutterRight": 224,
+        "width": 1053,
+        "gutterTop": 0,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          46,
+          46,
+          46,
+          46,
+          92
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Custom",
+          "family": "PPMori",
+          "size": 44,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.041,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "About Us"
+      ],
+      "words": 80,
+      "excerpt": "Cutting-edge",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 3388,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#686f7a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "row",
+      "y": 4289,
+      "height": 2794,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#898995",
+      "padding": "0px",
+      "margin": "0px -10px",
+      "border": null,
+      "content": {
+        "gutterLeft": 730,
+        "gutterRight": 72,
+        "width": 638,
+        "gutterTop": 392,
+        "gutterBottom": 173
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Promotion strategy and development",
+          "family": "PPMori",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#003c97"
+        },
+        {
+          "tag": "h2",
+          "text": "Rebate fulfillment",
+          "family": "PPMori",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#003c97"
+        },
+        {
+          "tag": "h2",
+          "text": "Loyalty programs",
+          "family": "PPMori",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#003c97"
+        },
+        {
+          "tag": "h2",
+          "text": "Sweepstakes and Contests",
+          "family": "PPMori",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#003c97"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Learn more"
+      ],
+      "words": 103,
+      "excerpt": "budget-friendly",
+      "media": {
+        "svg": 12
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "home-promotion.screen",
+      "y": 7128,
+      "height": 900,
+      "position": "relative",
+      "background": "#003c97",
+      "backgroundImage": false,
+      "color": "#1051b4",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 170,
+        "gutterRight": 6,
+        "width": 1264,
+        "gutterTop": -248,
+        "gutterBottom": -1753
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Automotive",
+          "family": "PPMori",
+          "size": 96,
+          "weight": "400",
+          "lineHeight": 0.98,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#1051b4"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 96,
+        "weight": "400",
+        "lineHeight": 0.98,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [
+        "Garvin Promotion Group"
+      ],
+      "words": 134,
+      "excerpt": "Garvin Promotion Group",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "home-strategic__pin.fx-col",
+      "y": 8028,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#686f7a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 180,
+        "gutterRight": 440,
+        "width": 820,
+        "gutterTop": 153,
+        "gutterBottom": 503
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          90,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Strategic",
+          "family": "PPMori",
+          "size": 96,
+          "weight": "400",
+          "lineHeight": 0.98,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#003c97"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 37,
+      "excerpt": "Assessment",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "home-stat.bg-dark",
+      "y": 10728,
+      "height": 900,
+      "position": "relative",
+      "background": "#003c97",
+      "backgroundImage": false,
+      "color": "#b0c8eb",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 70,
+        "gutterRight": 70,
+        "width": 1300,
+        "gutterTop": 90,
+        "gutterBottom": 653
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          5,
+          12,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Growth",
+          "family": "PPMori",
+          "size": 96,
+          "weight": "400",
+          "lineHeight": 0.98,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 9,
+      "excerpt": "increase",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "home-grow__inner-desktop.screen",
+      "y": 11628,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 71,
+        "gutterRight": 71,
+        "width": 1298,
+        "gutterTop": 419,
+        "gutterBottom": 420
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          20,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Make your",
+          "family": "PPMori Semi Bold",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori Semi Bold",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.02,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "sales grow",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "home-clients",
+      "y": 14128,
+      "height": 1017,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#003c97",
+      "padding": "100px 0px 164px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 70,
+        "gutterRight": 183,
+        "width": 1187,
+        "gutterTop": 100,
+        "gutterBottom": 179
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          1,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Clients Success",
+          "family": "PPMori",
+          "size": 96,
+          "weight": "400",
+          "lineHeight": 0.98,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#898995"
+        },
+        {
+          "tag": "h3",
+          "text": "Liquor Importer Runs Consumer Rebate with Charity Component",
+          "family": "PPMori",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#003c97"
+        },
+        {
+          "tag": "h3",
+          "text": "Large-scale Consumer Products Company Introduces New Product",
+          "family": "PPMori",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#003c97"
+        },
+        {
+          "tag": "h3",
+          "text": "Large Drug Manufacturer Creates Loyalty Program",
+          "family": "PPMori",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#003c97"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "See all cases"
+      ],
+      "words": 166,
+      "excerpt": "Large-scale Consumer Products Company Introduces New Product",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "home-reviews.section",
+      "y": 15145,
+      "height": 820,
+      "position": "relative",
+      "background": "#003c97",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "70px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 70,
+        "gutterRight": 183,
+        "width": 1187,
+        "gutterTop": 70,
+        "gutterBottom": 504
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          46,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Let their opinion speak for us",
+          "family": "PPMori",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 213,
+      "excerpt": "“ Choosing this partnership was one of the best decisions we’ve made.",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "home-faq.bg-light",
+      "y": 15965,
+      "height": 1453,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#686f7a",
+      "padding": "164px 0px 140px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 70,
+        "gutterRight": 96,
+        "width": 1274,
+        "gutterTop": 164,
+        "gutterBottom": 436
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          46,
+          46,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "A",
+          "family": "PPMori",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#003c97"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 127,
+      "excerpt": "Rebates offer numerous advantages over simply discounting your products. A well executed",
+      "media": {
+        "img": 18
+      }
+    },
+    {
+      "i": 13,
+      "tag": "footer",
+      "name": "footer.bg-dark",
+      "y": 17418,
+      "height": 1408,
+      "position": "relative",
+      "background": "#003c97",
+      "backgroundImage": false,
+      "color": "#686f7a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 70,
+        "gutterRight": 70,
+        "width": 1300,
+        "gutterTop": 973,
+        "gutterBottom": 37
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          15,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "L",
+          "family": "PPMori Semi Bold",
+          "size": 323.28,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PPMori",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Services Services",
+        "About us About us",
+        "Clients success Clients success",
+        "Contact us Contact us",
+        "Privacy Policy"
+      ],
+      "words": 35,
+      "excerpt": "©2026 Garvin Promotion Group LLC®",
+      "media": {
+        "video": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 187,
+    "title": "Garvin Promotion Group",
+    "award": "HM",
+    "url": "https://gpg.dops.agency/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/garvin-promotion-group",
+    "categories": [
+      "Business & Corporate",
+      "Promotional",
+      "Web & Interactive"
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "page": {
+    "url": "https://www.undplus.com/",
+    "title": "UNDPLUS — Brand Architecture & Spatial Design Studio",
+    "description": "Studio for brand architecture, spatial design and live experiences. We build trade fair booths, brand spaces and installations from Berlin and Munich.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10120,
+    "generator": "Framer 8eaa4a7"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.76
+      },
+      {
+        "value": "#000000",
+        "share": 0.177
+      },
+      {
+        "value": "#ffd650",
+        "share": 0.062
+      },
+      {
+        "value": "#ca9df1",
+        "share": 0.001
+      },
+      {
+        "value": "#eeeeee",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.6
+      },
+      {
+        "value": "#000000",
+        "share": 0.237
+      },
+      {
+        "value": "#666666",
+        "share": 0.056
+      },
+      {
+        "value": "#ffd650",
+        "share": 0.037
+      },
+      {
+        "value": "#ca9df1",
+        "share": 0.033
+      },
+      {
+        "value": "#444444",
+        "share": 0.031
+      },
+      {
+        "value": "#999999",
+        "share": 0.006
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.937,
+      "text": 0.93
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Poppins Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1056
+      },
+      {
+        "family": "Poppins Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 240
+      },
+      {
+        "family": "Poppins Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 214
+      },
+      {
+        "family": "Poppins Medium",
+        "size": 38,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 212
+      },
+      {
+        "family": "Poppins Medium",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 170
+      },
+      {
+        "family": "Poppins Black",
+        "size": 807,
+        "weight": "900",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 168
+      },
+      {
+        "family": "Poppins Medium",
+        "size": 52,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 156
+      },
+      {
+        "family": "Inter",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 91
+      },
+      {
+        "family": "Poppins SemiBold",
+        "size": 64,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 72
+      },
+      {
+        "family": "Poppins Bold",
+        "size": 52,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 35
+      },
+      {
+        "family": "Poppins Medium",
+        "size": 38,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 28
+      },
+      {
+        "family": "Poppins Bold",
+        "size": 108,
+        "weight": "700",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "Poppins Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Poppins Medium",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 13
+      }
+    ],
+    "loadedFonts": [
+      "Poppins Regular 400 normal",
+      "Poppins Black 900 normal",
+      "Poppins Bold 700 normal",
+      "Poppins SemiBold 600 normal",
+      "Poppins Medium 500 normal",
+      "Magiel Black 900 normal",
+      "Inter 400 normal",
+      "Poppins Regular Placeholder normal normal",
+      "Poppins Bold Placeholder normal normal",
+      "Poppins SemiBold Placeholder normal normal",
+      "Poppins Medium Placeholder normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 126
+    },
+    {
+      "px": 28,
+      "uses": 90
+    },
+    {
+      "px": 8,
+      "uses": 90
+    },
+    {
+      "px": 20,
+      "uses": 72
+    },
+    {
+      "px": 24,
+      "uses": 50
+    },
+    {
+      "px": 40,
+      "uses": 20
+    },
+    {
+      "px": 9,
+      "uses": 18
+    },
+    {
+      "px": 12,
+      "uses": 8
+    },
+    {
+      "px": 30,
+      "uses": 6
+    },
+    {
+      "px": 22,
+      "uses": 6
+    },
+    {
+      "px": 100,
+      "uses": 4
+    },
+    {
+      "px": 14,
+      "uses": 4
+    },
+    {
+      "px": 13,
+      "uses": 4
+    },
+    {
+      "px": 50,
+      "uses": 2
+    },
+    {
+      "px": 180,
+      "uses": 2
+    },
+    {
+      "px": 52,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "999px",
+      "uses": 1
+    },
+    {
+      "value": "43px",
+      "uses": 1
+    },
+    {
+      "value": "14px",
+      "uses": 1
+    },
+    {
+      "value": "8px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.15s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--token-832a9c22-d657-4637-89aa-cbcc712eb257": "#ca9df1",
+    "--token-d9ed1eb8-0c54-4136-bf85-5e5373c04bfa": "#ffd650",
+    "--token-fb37ef9f-b04f-4314-9731-cff242a9823b": "#93d4f2",
+    "--token-86e11354-2bd9-45a6-a3ed-8f01f856a058": "#0daa75",
+    "--token-d07c03e8-e9f2-468d-8b3a-4c5f89f3e77a": "#f3c6b1",
+    "--token-54b8b414-a4ad-4bad-a655-869fc0cbd561": "#f08fc7",
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1",
+    "--framer-aspect-ratio-supported": "auto"
+  },
+  "breakpoints": [
+    "min 810px",
+    "max 1199px",
+    "max 809px",
+    "max 809.98px",
+    "max 1199.98px"
+  ],
+  "tech": [
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "framer-dYpKI.framer-ap504g",
+      "y": 0,
+      "height": 10120,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 67,
+        "gutterBottom": 40
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "UNDPLUS Studio for interiors that last",
+          "family": "Poppins Bold",
+          "size": 52,
+          "weight": "700",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "From concept to execution. Ideas become spaces. Spaces become experiences.",
+          "family": "Poppins SemiBold",
+          "size": 64,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "360° FULL SERVICE",
+          "family": "Poppins Bold",
+          "size": 108,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Brand Architecture",
+          "family": "Poppins Medium",
+          "size": 52,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Poppins Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Brand Architecture",
+        "Event & Brand Experiences",
+        "Interior & Spatial Design",
+        "Retail & Hospitality",
+        "Workplace & New Work",
+        "Brand & Product Activations",
+        "Strategy & Consulting",
+        "META OMR 2025 Brand Architecture",
+        "DOJO Workplace & New Work Interior Desi…",
+        "REFORMA x PEOPLE PEOPLE Retail & Hospit…"
+      ],
+      "words": 427,
+      "excerpt": "At UNDPLUS, we design spaces where brands take shape in the real",
+      "media": {
+        "img": 65,
+        "video": 1,
+        "svg": 6
+      }
+    }
+  ],
+  "listing": {
+    "rank": 134,
+    "title": "UNDPLUS",
+    "award": "HM",
+    "url": "https://www.undplus.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/undplus",
+    "categories": [
+      "Architecture",
+      "Business & Corporate",
+      "Design Agencies",
+      "Portfolio"
+    ]
+  }
+}

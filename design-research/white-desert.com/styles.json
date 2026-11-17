@@ -1,0 +1,1498 @@
+{
+  "page": {
+    "url": "https://white-desert.com/",
+    "title": "Luxury Adventures in Antarctica | White Desert",
+    "description": "White Desert is the world’s leading luxury Antarctic expedition company, offering once-in-a-lifetime journeys to the South Pole and Emperor Penguins",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 20787,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.675
+      },
+      {
+        "value": "#090b10",
+        "share": 0.119
+      },
+      {
+        "value": "#00000033",
+        "share": 0.048
+      },
+      {
+        "value": "#0000001a",
+        "share": 0.042
+      },
+      {
+        "value": "#e9e7e1",
+        "share": 0.027
+      },
+      {
+        "value": "#000000",
+        "share": 0.023
+      },
+      {
+        "value": "#1f2a4480",
+        "share": 0.023
+      },
+      {
+        "value": "#1f2a440d",
+        "share": 0.021
+      },
+      {
+        "value": "#f5f5f5",
+        "share": 0.012
+      },
+      {
+        "value": "#1f2a4433",
+        "share": 0.005
+      },
+      {
+        "value": "#efefef",
+        "share": 0.002
+      },
+      {
+        "value": "#f3f1ec",
+        "share": 0.002
+      }
+    ],
+    "text": [
+      {
+        "value": "#1f2a44",
+        "share": 0.536
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.363
+      },
+      {
+        "value": "#535353",
+        "share": 0.098
+      },
+      {
+        "value": "#ff7e15",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff33",
+        "share": 0.625
+      },
+      {
+        "value": "#6af0ff",
+        "share": 0.375
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.95,
+      "text": 0.461
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 3360
+      },
+      {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 743
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 354
+      },
+      {
+        "family": "Cardinal Classic Long",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 318
+      },
+      {
+        "family": "Cardinal Classic Long",
+        "size": 22,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 296
+      },
+      {
+        "family": "Cardinal Classic Long",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 206
+      },
+      {
+        "family": "Inter Tight",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 115
+      },
+      {
+        "family": "Cardinal Classic Long",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 108
+      },
+      {
+        "family": "Cardinal Classic Long",
+        "size": 42,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 105
+      },
+      {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 100
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 87
+      },
+      {
+        "family": "Oswald",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 84
+      },
+      {
+        "family": "Oswald",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 74
+      },
+      {
+        "family": "Oswald",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 63
+      }
+    ],
+    "loadedFonts": [
+      "Inter Tight 500 normal",
+      "Cardinal Classic Long 400 normal",
+      "Cardinal Classic Long 500 normal",
+      "Cardinal Classic Long 500 italic",
+      "Oswald normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 20,
+      "uses": 37
+    },
+    {
+      "px": 18,
+      "uses": 36
+    },
+    {
+      "px": 24,
+      "uses": 35
+    },
+    {
+      "px": 10,
+      "uses": 35
+    },
+    {
+      "px": 30,
+      "uses": 27
+    },
+    {
+      "px": 12,
+      "uses": 22
+    },
+    {
+      "px": 44,
+      "uses": 20
+    },
+    {
+      "px": 16,
+      "uses": 19
+    },
+    {
+      "px": 40,
+      "uses": 16
+    },
+    {
+      "px": 32,
+      "uses": 12
+    },
+    {
+      "px": 8,
+      "uses": 10
+    },
+    {
+      "px": 5,
+      "uses": 9
+    },
+    {
+      "px": 6,
+      "uses": 8
+    },
+    {
+      "px": 2,
+      "uses": 8
+    },
+    {
+      "px": 320,
+      "uses": 4
+    },
+    {
+      "px": 200,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "2px",
+      "uses": 38
+    },
+    {
+      "value": "5.99999px",
+      "uses": 20
+    },
+    {
+      "value": "4px",
+      "uses": 7
+    },
+    {
+      "value": "4.99999px",
+      "uses": 6
+    },
+    {
+      "value": "100%",
+      "uses": 3
+    },
+    {
+      "value": "50%",
+      "uses": 3
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.5, 1, 0.89, 1)",
+        "uses": 84
+      },
+      {
+        "value": "0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.45s cubic-bezier(0.76, 0, 0.24, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 1
+      },
+      {
+        "value": "1s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 4,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--bg": "#fff",
+    "--surface": "#12141a",
+    "--text": "var(--wd_dark-blue)",
+    "--quote-accent": "var(--WD_Dark-Blue,#1f2a44)",
+    "--muted": "#a8acb3",
+    "--primary": "#6aa5ff",
+    "--primary-contrast": "#0b0c0f",
+    "--border": "#1f2330",
+    "--white": "#fff",
+    "--black": "#000",
+    "--black-faded": "rgba(0,0,0,.5)",
+    "--dark-bg": "#090b10",
+    "--background": "var(--bg)",
+    "--foreground": "var(--text)",
+    "--wd_dark-blue": "#1f2a44",
+    "--wd_deep-blue": "#0e1118",
+    "--wd-grey": "#323640",
+    "--wd_dark-blue-faded": "rgba(31,42,68,.2)",
+    "--wd_blue-faded": "rgba(31,42,68,.5)",
+    "--wd_ash-blue": "#2c374b",
+    "--wd_orange": "#ff7e15",
+    "--wd_red": "#ff1515",
+    "--wd_white": "#fff",
+    "--wd_black": "#000",
+    "--wd_light-charcoal": "#535353",
+    "--wd_light-charcoal-faded": "#a4a29c",
+    "--wd_mushroom": "#e9e7e1",
+    "--wd_light-grey": "#f3f1ec",
+    "--wd_beige": "#dcd8cc",
+    "--wd_turqoise": "#6af0ff",
+    "--space-1": ".35em",
+    "--space-2": ".75em",
+    "--space-3": "1.1em",
+    "--space-4": "1.5em",
+    "--space-5": "2em",
+    "--space-6": "2.75em",
+    "--space-8": "4em",
+    "--space-10": "5.5em",
+    "--space-12": "7em",
+    "--size-03125": ".3125em",
+    "--size-0375": ".375em",
+    "--size-05": ".5em",
+    "--size-0625": ".625em",
+    "--size-075": ".75em",
+    "--size-0875": ".875em",
+    "--size-1": "1em",
+    "--size-1125": "1.125em",
+    "--size-125": "1.25em",
+    "--size-1375": "1.375em",
+    "--size-15": "1.5em",
+    "--size-1625": "1.625em",
+    "--size-175": "1.75em",
+    "--size-1875": "1.875em",
+    "--size-2": "2em",
+    "--size-225": "2.25em",
+    "--size-25": "2.5em",
+    "--size-2625": "2.625em",
+    "--size-3": "3em",
+    "--size-3125": "3.125em",
+    "--size-325": "3.25em",
+    "--size-375": "3.75em",
+    "--size-425": "4.25em",
+    "--size-475": "4.75em",
+    "--size-5": "5em",
+    "--size-5625": "5.625em",
+    "--size-6": "6em",
+    "--size-625": "6.25em",
+    "--size-6875": "6.875em",
+    "--size-7375": "7.375em",
+    "--size-75": "7.5em",
+    "--size-78125": "7.8125em",
+    "--size-875": "8.75em",
+    "--size-12-5": "12.5em",
+    "--size-10": "10em",
+    "--size-15-5": "15.5em",
+    "--size-16": "16em",
+    "--size-20": "20em",
+    "--size-24": "24em",
+    "--section-padding-lg": "20em",
+    "--container-max": "100%"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 768px",
+    "min 1560px",
+    "max 540px",
+    "min 769px",
+    "min 768px",
+    "max 1279px",
+    "max 1023px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "grid-overlay",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px 0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          16,
+          16,
+          16,
+          16,
+          16,
+          16
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "nav",
+      "name": null,
+      "y": 0,
+      "height": 80,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 46,
+        "gutterRight": 57,
+        "width": 1338,
+        "gutterTop": 29,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px 12px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Experience",
+          "family": "Inter Tight",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Experience",
+        "Operation",
+        "About",
+        "Rates",
+        "Enquire"
+      ],
+      "words": 5,
+      "excerpt": "Experience",
+      "media": {
+        "svg": 17
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "hero-banner",
+      "y": 0,
+      "height": 1800,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 138,
+        "width": 1242,
+        "gutterTop": 428,
+        "gutterBottom": 924
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          98,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "ANTARCTICA",
+          "family": "Oswald",
+          "size": 256,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cardinal Classic Long",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Watch Film"
+      ],
+      "words": 13,
+      "excerpt": "Luxury and adventure in the most remote place on Earth",
+      "media": {
+        "img": 4,
+        "video": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "home-section",
+      "y": 1800,
+      "height": 786,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 484,
+        "gutterRight": 248,
+        "width": 708,
+        "gutterTop": 320,
+        "gutterBottom": 160
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "VAST, MAJESTIC AND UNIMAGINABLY BEAUTIFUL — SETTING FOOT IN ANTARCTICA’S FABLED…",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1f2a44"
+        }
+      ],
+      "bodyType": {
+        "family": "Cardinal Classic Long",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 21,
+      "excerpt": "Vast, majestic and unimaginably beautiful — setting foot in Antarctica’s fabled interior",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "wd-mnt",
+      "y": 2586,
+      "height": 1350,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 248,
+        "gutterRight": 956,
+        "width": 236,
+        "gutterTop": 320,
+        "gutterBottom": 778
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "OUR SEASON",
+          "family": "Oswald",
+          "size": 18,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1f2a44"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 66,
+      "excerpt": "Between November and February, during the short polar summer, we fly guests",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "padding-top-large-bottom-medium.bg-white",
+      "y": 3936,
+      "height": 540,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "320px 0px 160px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 555,
+        "gutterRight": 555,
+        "width": 330,
+        "gutterTop": 320,
+        "gutterBottom": 160
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "OUR TRIPS",
+          "family": "Cardinal Classic Long",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1f2a44"
+        }
+      ],
+      "bodyType": {
+        "family": "Cardinal Classic Long",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Our Trips",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "padding-none.bg-transparent",
+      "y": 4476,
+      "height": 765,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 56,
+        "gutterRight": 32,
+        "width": 1352,
+        "gutterTop": 44,
+        "gutterBottom": 44
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          49,
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Baby Penguins & Blue Tunnels",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "South Pole & Penguins",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "South Pole & Blue Rivers",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "The Long Stay",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Baby Penguins & Blue Tunnels US $75,250…",
+        "South Pole & Penguins US $115,500 Our m…",
+        "South Pole & Blue Rivers US $115,500 La…",
+        "The Long Stay US $110,500 Late Season E…",
+        "Antarctica in a Day US $16,500 Entire S…"
+      ],
+      "words": 172,
+      "excerpt": "Our newest itinerary. One that combines our signature journey to the South",
+      "media": {
+        "img": 5,
+        "svg": 5
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "padding-large.bg-transparent",
+      "y": 5241,
+      "height": 956,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "320px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 484,
+        "gutterRight": 484,
+        "width": 472,
+        "gutterTop": 332,
+        "gutterBottom": 320
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "After two decades of White Desert, it still inspires me to bring people into th…",
+          "family": "Cardinal Classic Long",
+          "size": 22,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1f2a44"
+        }
+      ],
+      "bodyType": {
+        "family": "Cardinal Classic Long",
+        "size": 22,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 59,
+      "excerpt": "After two decades of White Desert, it still inspires me to bring",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 6196,
+      "height": 900,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "horizontal-scroll",
+      "y": 6196,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 275,
+        "gutterRight": 248,
+        "width": 917,
+        "gutterTop": 356,
+        "gutterBottom": -265
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          100,
+          64,
+          64,
+          64,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "OUR CAMPS",
+          "family": "Cardinal Classic Long",
+          "size": 140,
+          "weight": "500",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "WHICHAWAY",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "ECHO",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "EXPLORER",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "WHICHAWAY Our original camp, newly reim…",
+        "ECHO Inspired by astronauts, used by ex…",
+        "EXPLORER Polar adventure meets chalet-s…"
+      ],
+      "words": 168,
+      "excerpt": "With only six suites per camp, we ensure every trip is high-touch",
+      "media": {
+        "img": 6,
+        "svg": 7
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "ct-antartica_section",
+      "y": 15646,
+      "height": 428,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "140px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 140,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CPT – WFR",
+          "family": "Oswald",
+          "size": 320,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Oswald",
+        "size": 320,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "CPT – WFR",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "mist-divider_wrap",
+      "y": 16074,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "travel-globe_head",
+      "y": 16974,
+      "height": 246,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "0px 0px 67.9999px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 11,
+        "gutterBottom": 68
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px 12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "TO THE END OF THE EARTH",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1f2a44"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 52,
+      "excerpt": "Soaring over an endless array of icebergs, you'll fly business class aboard",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "travel-globe_outer",
+      "y": 17220,
+      "height": 1721,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 314,
+        "width": 1066,
+        "gutterTop": 224,
+        "gutterBottom": 283
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px 12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "05:30 HRS",
+          "family": "Inter Tight",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "4,220 KM / 2,610 MI",
+          "family": "Inter Tight",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "-5°C / 23° F",
+          "family": "Inter Tight",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cardinal Classic Long",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Watch Film"
+      ],
+      "words": 36,
+      "excerpt": "Average summer temp. on ice",
+      "media": {
+        "img": 2,
+        "svg": 5
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "basic-banner",
+      "y": 18941,
+      "height": 900,
+      "position": "relative",
+      "background": "#090b10",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 363,
+        "gutterRight": 363,
+        "width": 714,
+        "gutterTop": 368,
+        "gutterBottom": 383
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "START PLANNING YOUR ADVENTURE",
+          "family": "Cardinal Classic Long",
+          "size": 42,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Cardinal Classic Long",
+        "size": 42,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Get in touch"
+      ],
+      "words": 7,
+      "excerpt": "Start planning your adventure",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "flyout_container.is-ready",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1f2a44",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "HOW IT WORKS",
+          "family": "Cardinal Classic Long",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1f2a44"
+        },
+        {
+          "tag": "h3",
+          "text": "1. Consultation",
+          "family": "Cardinal Classic Long",
+          "size": 18,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1f2a44"
+        },
+        {
+          "tag": "h3",
+          "text": "2. Confirmation",
+          "family": "Cardinal Classic Long",
+          "size": 18,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1f2a44"
+        },
+        {
+          "tag": "h3",
+          "text": "3. Planning",
+          "family": "Cardinal Classic Long",
+          "size": 18,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1f2a44"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "How it works Close",
+        "book a call directly"
+      ],
+      "words": 330,
+      "excerpt": "Book flexible flights, arriving in Cape Town at least two days prior",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "footer-component",
+      "y": 19841,
+      "height": 946,
+      "position": "relative",
+      "background": "#e9e7e1",
+      "backgroundImage": false,
+      "color": "#535353",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 260,
+        "gutterRight": 79,
+        "width": 1101,
+        "gutterTop": 20,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "200px normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "“We all have our own white South”",
+          "family": "Cardinal Classic Long",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1f2a44"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "travel@white-desert.com",
+        "+27 82 572 8582",
+        "Schedule a call",
+        "reservations@white-desert.com",
+        "+27 64 890 1472",
+        "press@white-desert.com",
+        "careers@white-desert.com",
+        "info@white-desert.com",
+        "Baby Penguins & Blue Tunnels",
+        "South Pole & Penguins"
+      ],
+      "words": 125,
+      "excerpt": "“We all have our own white South”",
+      "media": {
+        "img": 7,
+        "svg": 11
+      }
+    }
+  ],
+  "listing": {
+    "rank": 29,
+    "title": "White Desert",
+    "award": "SOTD",
+    "url": "https://white-desert.com/",
+    "awwwards": "https://www.awwwards.com/sites/white-desert",
+    "categories": [
+      "Hotel / Restaurant",
+      "Luxury"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

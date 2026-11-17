@@ -1,0 +1,950 @@
+{
+  "page": {
+    "url": "https://www.clevermellow.co/",
+    "title": "Clevermellow Collective | Collectief van experts",
+    "description": "Een digitaal podium voor elk verhaal. Gebouwd door het collectief | Clevermellow Collective",
+    "lang": "nl",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6607,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.998
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.002
+      },
+      {
+        "value": "#191919",
+        "share": 0
+      },
+      {
+        "value": "#80808033",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.994
+      },
+      {
+        "value": "#000000",
+        "share": 0.006
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff40",
+        "share": 0.786
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0.214
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Aux Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "uppercase",
+        "chars": 554
+      },
+      {
+        "family": "Borna",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 496
+      },
+      {
+        "family": "Borna",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 220
+      },
+      {
+        "family": "Borna",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 143
+      },
+      {
+        "family": "Aux Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.05,
+        "transform": "uppercase",
+        "chars": 120
+      },
+      {
+        "family": "Borna",
+        "size": 72,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 39
+      }
+    ],
+    "loadedFonts": [
+      "Aux Mono 400 normal",
+      "Borna 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 136
+    },
+    {
+      "px": 6,
+      "uses": 44
+    },
+    {
+      "px": 12,
+      "uses": 38
+    },
+    {
+      "px": 2,
+      "uses": 33
+    },
+    {
+      "px": 4,
+      "uses": 30
+    },
+    {
+      "px": 16,
+      "uses": 17
+    },
+    {
+      "px": 48,
+      "uses": 16
+    },
+    {
+      "px": 8,
+      "uses": 16
+    },
+    {
+      "px": 120,
+      "uses": 11
+    },
+    {
+      "px": 40,
+      "uses": 8
+    },
+    {
+      "px": 32,
+      "uses": 7
+    },
+    {
+      "px": 80,
+      "uses": 6
+    },
+    {
+      "px": 64,
+      "uses": 4
+    },
+    {
+      "px": 108,
+      "uses": 2
+    },
+    {
+      "px": 56,
+      "uses": 1
+    },
+    {
+      "px": 72,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 71
+    },
+    {
+      "value": "8px",
+      "uses": 4
+    },
+    {
+      "value": "1440px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 35
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 11
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.1s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.75s cubic-bezier(0.129, 1.726, 0.31, 0.796)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 14
+  },
+  "cssVariables": {
+    "--theme--background": "white",
+    "--text-main--font-family": "var(--font--primary-family)",
+    "--theme--text": "white",
+    "--text-main--font-size": "var(--size--1rem)",
+    "--text-main--line-height": "var(--line-height--1-5em)",
+    "--text-main--letter-spacing": "var(--letter-spacing--0em)",
+    "--display--font-family": "var(--all-headings--heading-font-family)",
+    "--display--font-size": "var(--size--4-5rem)",
+    "--display--line-height": "var(--all-headings--heading-line-height)",
+    "--display--letter-spacing": "var(--all-headings--heading-letter-spacing)",
+    "--h1--font-family": "var(--all-headings--heading-font-family)",
+    "--h1--font-size": "var(--size--4-5rem)",
+    "--h1--line-height": "var(--line-height--1-2em)",
+    "--h1--letter-spacing": "var(--all-headings--heading-letter-spacing)",
+    "--h2--font-family": "var(--all-headings--heading-font-family)",
+    "--h2--font-size": "var(--size--4rem)",
+    "--h2--line-height": "var(--all-headings--heading-line-height)",
+    "--h2--letter-spacing": "var(--all-headings--heading-letter-spacing)",
+    "--h3--font-family": "var(--all-headings--heading-font-family)",
+    "--h3--font-size": "var(--size--2-5rem)",
+    "--h3--line-height": "var(--line-height--1-2em)",
+    "--h3--letter-spacing": "var(--all-headings--heading-letter-spacing)",
+    "--h4--font-family": "var(--all-headings--heading-font-family)",
+    "--size--2rem": "2rem",
+    "--h4--line-height": "var(--line-height--1-2em)",
+    "--h4--letter-spacing": "var(--all-headings--heading-letter-spacing)",
+    "--h5--font-family": "var(--font--secondary-family)",
+    "--h5--font-size": "var(--size--0-875rem)",
+    "--h5--line-height": "var(--line-height--1em)",
+    "--h5--letter-spacing": "var(--letter-spacing--0-05em)",
+    "--h6--font-family": "var(--font--secondary-family)",
+    "--h6--font-size": "var(--size--0-75rem)",
+    "--h6--line-height": "var(--line-height--1-3em)",
+    "--h6--letter-spacing": "var(--letter-spacing--0em)",
+    "--space--small": "var(--size--1-5rem)",
+    "--border-width--main": "1.5px",
+    "--theme--border": "white",
+    "--radius--main": ".5rem",
+    "--size--0-5rem": ".5rem",
+    "--size--0-75rem": ".75rem",
+    "--radius--small": ".25rem",
+    "--line-height--1em": "1em",
+    "--space--extra-small": "var(--size--0-75rem)",
+    "--swatch--transparent": "#fff0",
+    "--size--1-5rem": "1.5rem",
+    "--swatch--brand": "#c6fb50",
+    "--radius--round": "100vw",
+    "--size--3rem": "3rem",
+    "--text-large--font-size": "var(--size--1-25rem)",
+    "--text-large--line-height": "var(--line-height--1-3em)",
+    "--space--medium": "var(--size--3rem)",
+    "--padding-vertical--small": "var(--size--1-5rem)",
+    "--h4--font-size": "var(--size--1-5rem)",
+    "--size--0rem": "0rem",
+    "--size--0-25rem": ".25rem",
+    "--size--1rem": "1rem",
+    "--text-large--font-family": "var(--font--primary-family)",
+    "--text-large--letter-spacing": "var(--letter-spacing--0em)",
+    "--size--1-25rem": "1.25rem",
+    "--swatch--light": "white",
+    "--button--text": "white",
+    "--button--border-hover": "white",
+    "--button--background-hover": "white",
+    "--button--text-hover": "white",
+    "--size--5rem": "5rem",
+    "--button--border": "white",
+    "--button--background": "white",
+    "--max-width--main": "100vw",
+    "--max-width--none": "100vw",
+    "--text-small--font-family": "var(--font--primary-family)",
+    "--text-small--font-size": "var(--size--0-875rem)",
+    "--text-small--line-height": "var(--line-height--1-5em)",
+    "--text-small--letter-spacing": "var(--letter-spacing--0em)",
+    "--size--6rem": "6rem",
+    "--grid-gap--main": "var(--size--1-5rem)",
+    "--space--large": "var(--size--4rem)",
+    "--padding-horizontal--main": "1.5rem",
+    "--header-column-blur": "min(var(--size--5rem), 5vw)",
+    "--swatch--dark": "black",
+    "--letter-spacing--0-05em": "-.05em"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 479px",
+    "max 767px",
+    "min 768px",
+    "max 1920px",
+    "max 1440px",
+    "min 992px",
+    "max 768px",
+    "max 1216px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "three",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "section_home_header",
+      "y": 0,
+      "height": 740,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 206,
+        "width": 1210,
+        "gutterTop": 464,
+        "gutterBottom": 27
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 9,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 10,
+        "childWidthsPct": [
+          14,
+          14,
+          14,
+          14,
+          14,
+          14,
+          14,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Elk verhaal verdient een digitaal podium.",
+          "family": "Borna",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Borna",
+        "size": 72,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "ONTDEK MEER"
+      ],
+      "words": 8,
+      "excerpt": "digitaal podium.",
+      "media": {
+        "video": 10,
+        "canvas": 1,
+        "svg": 12
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "section_home_logos",
+      "y": 740,
+      "height": 240,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          221,
+          221
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 34
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "intro",
+      "y": 980,
+      "height": 337,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 25,
+        "gutterBottom": 120
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          15,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Collectief van creatieve experts",
+          "family": "Borna",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Borna",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ONTDEK ONS MANIFESTO"
+      ],
+      "words": 40,
+      "excerpt": "Elk merk met een verhaal, verdient een podium om het te vertellen.",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "bars-cases",
+      "y": 2332,
+      "height": 144,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 12,
+        "childWidthsPct": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "case-grid",
+      "y": 1317,
+      "height": 1958,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 382,
+        "width": 1010,
+        "gutterTop": 29,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "0px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          39,
+          39,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "CAMPUS OFFICES",
+          "family": "Aux Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aux Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 29,
+      "excerpt": "Is innovatiepartner in biogas",
+      "media": {
+        "img": 4,
+        "video": 4,
+        "svg": 4
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "intro",
+      "y": 3395,
+      "height": 910,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 0px 120px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 25,
+        "gutterBottom": 161
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          15,
+          48,
+          31,
+          80
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Hoe we een digitaal podium maken",
+          "family": "Borna",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Ontdekken",
+          "family": "Borna",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Ontwerpen",
+          "family": "Borna",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Bewegen",
+          "family": "Borna",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Borna",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 90,
+      "excerpt": "Een podium voor een evenement wordt gebouwd voor de ervaring van de",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "section_home_collective",
+      "y": 4305,
+      "height": 1032,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 0px 120px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 142,
+        "gutterRight": 732,
+        "width": 566,
+        "gutterTop": 352,
+        "gutterBottom": 419
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 12,
+        "childWidthsPct": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Laat ons jouw digitale podium realiseren",
+          "family": "Borna",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Borna",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "LET'S TALK"
+      ],
+      "words": 8,
+      "excerpt": "Laat ons jouw digitale podium realiseren",
+      "media": {
+        "img": 7,
+        "svg": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "section_home_thoughts",
+      "y": 5337,
+      "height": 927,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "24px 0px 120px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 24,
+        "gutterBottom": 120
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          23,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CleverThoughts",
+          "family": "Borna",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "New Collective Member: Ali Iz",
+          "family": "Borna",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Het verhaal achter het ontstaan van CleverMellow Collective",
+          "family": "Borna",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Te gast in The Origins Story Podcast van Paul Hendriks over co-creatief sterker…",
+          "family": "Borna",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Borna",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        ">> COLLECTIVE MEMBER New Collective Mem…",
+        ">> INTERVIEW, STORY Het verhaal achter …",
+        ">> PODCAST, COLLECTIVE Te gast in The O…",
+        ">> INTERVIEW Interview Ondernemers-maga…"
+      ],
+      "words": 42,
+      "excerpt": "Te gast in The Origins Story Podcast van Paul Hendriks over co-creatief",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 9,
+      "tag": "footer",
+      "name": "footer",
+      "y": 6264,
+      "height": 344,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 32,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "end",
+        "children": 3,
+        "childWidthsPct": [
+          48,
+          7,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "COLLECTIEF VAN CREATIEVE EXPERTS",
+          "family": "Aux Mono",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aux Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.05,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "LET'S TALK",
+        "PODIUMS",
+        "MANIFESTO",
+        "LINKEDIN",
+        "INSTAGRAM",
+        "ALGEMENE VOORWAARDEN"
+      ],
+      "words": 13,
+      "excerpt": "Algemene voorwaarden",
+      "media": {
+        "img": 1,
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 94,
+    "title": "Clevermellow",
+    "award": "HM",
+    "url": "https://www.clevermellow.co/",
+    "awwwards": "https://www.awwwards.com/sites/clevermellow",
+    "categories": [
+      "Design Agencies",
+      "Institutions",
+      "Social responsibility"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

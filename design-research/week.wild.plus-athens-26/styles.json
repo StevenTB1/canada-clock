@@ -1,0 +1,652 @@
+{
+  "page": {
+    "url": "https://week.wild.plus/athens-26",
+    "title": "Wild Week – Athens (2026)",
+    "description": "In a land once home to ancient gods, they gather once again.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 7212,
+    "generator": "Framer 4705d03"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#cbcbcb",
+        "share": 0.648
+      },
+      {
+        "value": "#dcdbd5",
+        "share": 0.255
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.036
+      },
+      {
+        "value": "#ddddd6",
+        "share": 0.025
+      },
+      {
+        "value": "#e8e8e8",
+        "share": 0.015
+      },
+      {
+        "value": "#dddcd7",
+        "share": 0.014
+      },
+      {
+        "value": "#0755bb",
+        "share": 0.007
+      }
+    ],
+    "text": [
+      {
+        "value": "#0755bb",
+        "share": 0.936
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.046
+      },
+      {
+        "value": "#0755bb52",
+        "share": 0.018
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.993,
+      "text": 0.046
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Albertus Nova Light",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 3746
+      },
+      {
+        "family": "Albertus Nova Light",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1111
+      },
+      {
+        "family": "Albertus Nova Light",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 314
+      },
+      {
+        "family": "Albertus Nova Light",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 304
+      },
+      {
+        "family": "Albert Sans",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 109
+      },
+      {
+        "family": "Albertus Nova Regular",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 65
+      },
+      {
+        "family": "Albertus Nova Light",
+        "size": 20,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 34
+      },
+      {
+        "family": "Albertus Nova Light",
+        "size": 32,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 22
+      }
+    ],
+    "loadedFonts": [
+      "Albert Sans 500 normal",
+      "Albertus Nova Light 300 normal",
+      "Albertus Nova Regular 400 normal",
+      "Albert Sans Placeholder normal normal",
+      "Albertus Nova Light Placeholder normal normal",
+      "Albertus Nova Regular Placeholder normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 136
+    },
+    {
+      "px": 10,
+      "uses": 128
+    },
+    {
+      "px": 4,
+      "uses": 66
+    },
+    {
+      "px": 24,
+      "uses": 65
+    },
+    {
+      "px": 6,
+      "uses": 52
+    },
+    {
+      "px": 16,
+      "uses": 48
+    },
+    {
+      "px": 40,
+      "uses": 46
+    },
+    {
+      "px": 14,
+      "uses": 34
+    },
+    {
+      "px": 2,
+      "uses": 27
+    },
+    {
+      "px": 19,
+      "uses": 12
+    },
+    {
+      "px": 7,
+      "uses": 8
+    },
+    {
+      "px": 12,
+      "uses": 7
+    },
+    {
+      "px": 80,
+      "uses": 6
+    },
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 957,
+      "uses": 4
+    },
+    {
+      "px": 48,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 54
+    },
+    {
+      "value": "50%",
+      "uses": 36
+    },
+    {
+      "value": "8px",
+      "uses": 18
+    },
+    {
+      "value": "2px",
+      "uses": 1
+    },
+    {
+      "value": "999px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 71
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 10,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--token-768673a6-35c5-4023-a00a-09af54ff8999": "#cbcbcb",
+    "--token-8a218727-596f-44a7-a4aa-95cd6fd20d4e": "#e8e8e8",
+    "--token-e2285b7a-204d-4e1f-a311-75ebc1491253": "#0755bb",
+    "--token-8ca29dc9-c5c8-4ca9-9775-48842f3295a5": "#c8d4e340",
+    "--token-ef9047f8-3e33-429f-a405-a6db251c1fac": "#dcdbd5",
+    "--token-0ae030bf-f269-48cc-9cbe-e6bd1a5c39f9": "#0755bb52",
+    "--token-f288f7c9-86b9-4c28-bbd1-e9dbf1d8830c": "#fff",
+    "--token-fcaa8159-e916-4a75-a70a-fe5feafa9820": "#054496",
+    "--token-3667501d-3cd4-4612-be72-60a64cf3fb61": "#0817a3",
+    "--token-07dc44a0-eca3-4e61-b3b4-8b06afdb74f7": "#0e5727",
+    "--token-bd77f41a-8202-4fba-8737-0da1e766ceee": "#5700c2",
+    "--token-fd2b518d-efac-470c-8a07-691a13989177": "#82004a",
+    "--token-e5c97473-8513-436f-be92-a548cd47c532": "#ff7f00",
+    "--token-f9409b79-b249-4a33-9ad3-70e6ba0abe7c": "#dce7ff",
+    "--token-d78c2d68-3c56-4507-832d-cd6e0d97cf62": "#dcffe8",
+    "--token-ca355cd8-6f12-4748-a27c-e9f671b5bcc0": "#f8e8ff",
+    "--token-62981192-e9a9-402a-85ea-846f1e4b629a": "#fffccb",
+    "--token-e5691ec6-2fee-4e03-90e6-1ee103f57147": "#fff",
+    "--token-8d4496f7-052e-41cb-b33d-c3a3de934b94": "#000",
+    "--token-1ab1e960-33e4-4d85-a81b-20b450492732": "#000",
+    "--token-27023b85-823f-4cc7-92d6-0e5624a5dabf": "#fff",
+    "--token-ed364879-f1a6-46fb-adfa-562f605a2417": "#54b9f4",
+    "--token-6b583013-9444-4f37-b67d-b05165567089": "#d0eeff",
+    "--token-06ac86f6-a97e-449f-94f5-d4da25d3a6c5": "#f5ff2e",
+    "--token-023a37c1-c8ff-4a9a-8397-dfcbd450a34c": "#faffa3",
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1",
+    "--framer-aspect-ratio-supported": "auto"
+  },
+  "breakpoints": [
+    "max 1799px",
+    "min 1390px",
+    "max 1389px",
+    "min 1400px",
+    "max 1399px",
+    "min 810px",
+    "max 1599px",
+    "max 809px",
+    "max 1799.98px",
+    "max 1399.98px"
+  ],
+  "tech": [
+    "three",
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "framer-1mq2rpz",
+      "y": 2,
+      "height": 479,
+      "position": "relative",
+      "background": "#dcdbd5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "framer-tbz4jb",
+      "y": 481,
+      "height": 479,
+      "position": "relative",
+      "background": "#dcdbd5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "framer-15391le",
+      "y": 1917,
+      "height": 958,
+      "position": "relative",
+      "background": "#cbcbcb",
+      "backgroundImage": false,
+      "color": "#0755bb",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 521,
+        "gutterRight": 18,
+        "width": 901,
+        "gutterTop": 40,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          66,
+          66
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WHAT YOU SHOULD BRING",
+          "family": "Albertus Nova Light",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#0755bb"
+        }
+      ],
+      "bodyType": {
+        "family": "Albertus Nova Light",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 52,
+      "excerpt": "Credit Card + Some Cash (EUR)",
+      "media": {
+        "img": 9,
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "framer-1qm9zfi",
+      "y": 2874,
+      "height": 1682,
+      "position": "relative",
+      "background": "#cbcbcb",
+      "backgroundImage": false,
+      "color": "#0755bb",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 42,
+        "gutterRight": 521,
+        "width": 877,
+        "gutterTop": 47,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "0px",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          66,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "THURSDAY",
+          "family": "Albertus Nova Light",
+          "size": 32,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#0755bb"
+        },
+        {
+          "tag": "h1",
+          "text": "FRIDAY",
+          "family": "Albertus Nova Light",
+          "size": 32,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#0755bb"
+        },
+        {
+          "tag": "h1",
+          "text": "SATURDAY",
+          "family": "Albertus Nova Light",
+          "size": 32,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#0755bb"
+        }
+      ],
+      "bodyType": {
+        "family": "Albertus Nova Light",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Hotel Titania",
+        "One Burger",
+        "Ergon House"
+      ],
+      "words": 435,
+      "excerpt": "Because we only like lines of code, we got you tickets to",
+      "media": {
+        "canvas": 1,
+        "svg": 11
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "framer-5t7m34",
+      "y": 4557,
+      "height": 1217,
+      "position": "relative",
+      "background": "#dcdbd5",
+      "backgroundImage": false,
+      "color": "#0755bb",
+      "padding": "110px 48px 140px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 44,
+        "gutterRight": 127,
+        "width": 1269,
+        "gutterTop": 40,
+        "gutterBottom": 136
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "48px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Hello",
+          "family": "Albertus Nova Light",
+          "size": 16,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#0755bb"
+        }
+      ],
+      "bodyType": {
+        "family": "Albertus Nova Light",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 155,
+      "excerpt": "Greek – Correctly Pronounced by Finance Tim",
+      "media": {
+        "img": 3,
+        "svg": 35
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "framer-15yy8it",
+      "y": 5774,
+      "height": 957,
+      "position": "relative",
+      "background": "#cbcbcb",
+      "backgroundImage": false,
+      "color": "#0755bb",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 521,
+        "gutterRight": 43,
+        "width": 876,
+        "gutterTop": 40,
+        "gutterBottom": -317
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "0px",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          66
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FAQS",
+          "family": "Albertus Nova Light",
+          "size": 20,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#0755bb"
+        }
+      ],
+      "bodyType": {
+        "family": "Albertus Nova Light",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 1663,
+      "excerpt": "How to reimburse any of my costs?",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "framer-w1f45v",
+      "y": 6731,
+      "height": 479,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 100,
+    "title": "Wild Week - Athens",
+    "award": "SOTD",
+    "url": "https://week.wild.plus/athens-26",
+    "awwwards": "https://www.awwwards.com/sites/wild-week-athens",
+    "categories": [
+      "Events"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

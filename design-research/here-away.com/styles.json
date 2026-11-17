@@ -1,0 +1,1334 @@
+{
+  "page": {
+    "url": "https://www.here-away.com/",
+    "title": "Here & Away | Unique Stays & Design-Led Escapes",
+    "description": "Discover design-led hotels, villas, and remarkable stays around the world, personally curated by Here & Away.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 7136,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.606
+      },
+      {
+        "value": "#f0efed",
+        "share": 0.113
+      },
+      {
+        "value": "#0000001a",
+        "share": 0.084
+      },
+      {
+        "value": "#b6c8c8",
+        "share": 0.048
+      },
+      {
+        "value": "#00000066",
+        "share": 0.032
+      },
+      {
+        "value": "#e5e7eb",
+        "share": 0.032
+      },
+      {
+        "value": "#000000b3",
+        "share": 0.032
+      },
+      {
+        "value": "#00000033",
+        "share": 0.029
+      },
+      {
+        "value": "#00151a",
+        "share": 0.024
+      },
+      {
+        "value": "#000000e6",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.657
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.244
+      },
+      {
+        "value": "#767676",
+        "share": 0.072
+      },
+      {
+        "value": "#000000bf",
+        "share": 0.012
+      },
+      {
+        "value": "#00000099",
+        "share": 0.006
+      },
+      {
+        "value": "#f4f4f4",
+        "share": 0.005
+      },
+      {
+        "value": "#00151a",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff66",
+        "share": 0.5
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0.5
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.929,
+      "text": 0.996
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ppNeueMontreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1103
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 1076
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 583
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 244
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 76
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.67,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 65
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 63
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 36
+      },
+      {
+        "family": "-apple-system",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 0.83,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 8.75,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 1.67,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 16
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.06,
+        "transform": "none",
+        "chars": 12
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 5
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "ppNeueMontreal 400 normal",
+      "ppNeueMontreal 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 177
+    },
+    {
+      "px": 20,
+      "uses": 62
+    },
+    {
+      "px": 15,
+      "uses": 36
+    },
+    {
+      "px": 16,
+      "uses": 22
+    },
+    {
+      "px": 30,
+      "uses": 11
+    },
+    {
+      "px": 40,
+      "uses": 9
+    },
+    {
+      "px": 5,
+      "uses": 8
+    },
+    {
+      "px": 12,
+      "uses": 8
+    },
+    {
+      "px": 9,
+      "uses": 8
+    },
+    {
+      "px": 80,
+      "uses": 6
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 4,
+      "uses": 4
+    },
+    {
+      "px": 6,
+      "uses": 4
+    },
+    {
+      "px": 17,
+      "uses": 3
+    },
+    {
+      "px": 13,
+      "uses": 3
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 6
+    },
+    {
+      "value": "100%",
+      "uses": 4
+    },
+    {
+      "value": "100px",
+      "uses": 3
+    },
+    {
+      "value": "5px",
+      "uses": 2
+    },
+    {
+      "value": "80px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 182
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 133
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.75s ease-in-out",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 5,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--color-red-500": "lab(55.4814% 75.0732 48.8528)",
+    "--color-red-600": "lab(48.4493% 77.4328 61.5452)",
+    "--color-green-700": "lab(47.0329% -47.0239 31.4788)",
+    "--color-blue-500": "lab(54.1736% 13.3369 -74.6839)",
+    "--color-gray-200": "lab(91.6229% -.159115 -2.26791)",
+    "--color-gray-300": "lab(85.1236% -.612259 -3.7138)",
+    "--color-gray-500": "lab(47.7841% -.393182 -10.0268)",
+    "--color-neutral-500": "lab(48.496% 0 0)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--breakpoint-md": "990px",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--tracking-normal": "0em",
+    "--tracking-wide": ".025em",
+    "--tracking-widest": ".1em",
+    "--radius-lg": ".5rem",
+    "--ease-out": "cubic-bezier(0,0,.2,1)",
+    "--ease-in-out": "cubic-bezier(.4,0,.2,1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--animate-pulse": "pulse 2s cubic-bezier(.4,0,.6,1)infinite",
+    "--blur-xs": "4px",
+    "--aspect-video": "16/9",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-khaki": "#bcad96",
+    "--color-isabelline": "#f0efed",
+    "--color-isabelline-opacity-10": "rgba(240,239,237,.1)",
+    "--color-isabelline-opacity-50": "rgba(240,239,237,.5)",
+    "--color-ash-gray": "#b6c8c8",
+    "--color-rich-black": "#00151a",
+    "--color-rich-black-opacity-20": "rgba(0,21,26,.2)",
+    "--color-button-text": "#f4f4f4",
+    "--animate-underLineEffet": "underLineEffet .75s forwards",
+    "--animate-underLineEffetInline": "underLineEffetInline .75s forwards",
+    "--ease-primary": "cubic-bezier(.215,.61,.355,1)",
+    "--color-white-opacity-40": "rgba(255,255,255,.4)",
+    "--color-black-opacity-50": "rgba(0,0,0,.5)",
+    "--color-black-opacity-10": "rgba(0,0,0,.1)",
+    "--size-unit": "10",
+    "--size-container-ideal": "375",
+    "--size-container-min": "375px",
+    "--size-container-max": "990px",
+    "--size-container": "clamp(var(--size-container-min),100vw,var(--size-container-max))",
+    "--size-font": "min(calc(var(--size-container)/(var(--size-container-ideal)/var(--size-unit))),1",
+    "--header-height": "6.6rem",
+    "--sticky-top-header-offset": "calc(var(--header-height) + 1.6rem)"
+  },
+  "breakpoints": [
+    "min 990px",
+    "min 1200px",
+    "min 768px",
+    "min 460px",
+    "min 1440px",
+    "min 96rem",
+    "min 900px",
+    "max 989px",
+    "max 480px"
+  ],
+  "tech": [
+    "lenis",
+    "next",
+    "wordpress"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "h-screen.overflow-clip",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 398,
+        "gutterBottom": 409
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Little Palm Island",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Fawn Bluff",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Sterrekopje Farm",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "La Donaira",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Little Palm Island Little Torch Key, Un…",
+        "Fawn Bluff Bute Inlet, Canada",
+        "Sterrekopje Farm Franschhoek, South Afr…",
+        "La Donaira Montecorto, Spain",
+        "Capella Lodge Lord Howe Island, Austral…"
+      ],
+      "words": 28,
+      "excerpt": "Little Torch Key, United States",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "md:py-[27.5rem].bg-isabelline",
+      "y": 900,
+      "height": 787,
+      "position": "static",
+      "background": "#f0efed",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "275px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 307,
+        "gutterRight": 307,
+        "width": 826,
+        "gutterTop": 275,
+        "gutterBottom": 298
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          17,
+          60,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Here & Away invites travelers to stay somewhere extraordinary. With distinctive…",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Our Story"
+      ],
+      "words": 209,
+      "excerpt": "[ Where you stay becomes the story ]",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": null,
+      "y": 1687,
+      "height": 770,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#767676",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 66,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 2.8px",
+        "justify": "normal",
+        "align": "center",
+        "children": 7,
+        "childWidthsPct": [
+          4,
+          3,
+          18,
+          5,
+          9,
+          11,
+          6
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Africa,",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#767676"
+        },
+        {
+          "tag": "h2",
+          "text": "Asia,",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#767676"
+        },
+        {
+          "tag": "h2",
+          "text": "Central & South America,",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#767676"
+        },
+        {
+          "tag": "h2",
+          "text": "Europe,",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#767676"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "All Regions",
+        "Africa,",
+        "Asia,",
+        "Central & South America,",
+        "Europe,",
+        "Middle East,",
+        "North America,",
+        "Oceania",
+        "-",
+        "+"
+      ],
+      "words": 59,
+      "excerpt": "Use two fingers to move the map",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "pt-[14rem].pb-[18rem]",
+      "y": 2457,
+      "height": 950,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#767676",
+      "padding": "140px 0px 180px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 493,
+        "gutterRight": 493,
+        "width": 454,
+        "gutterTop": 141,
+        "gutterBottom": 180
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 12,
+        "childWidthsPct": [
+          21,
+          23,
+          16,
+          26,
+          32,
+          28,
+          21,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Boutique Hotel",
+          "family": "ppNeueMontreal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#767676"
+        },
+        {
+          "tag": "h2",
+          "text": "Bed & Breakfast",
+          "family": "ppNeueMontreal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#767676"
+        },
+        {
+          "tag": "h2",
+          "text": "Luxury Villa",
+          "family": "ppNeueMontreal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#767676"
+        },
+        {
+          "tag": "h2",
+          "text": "Design Apartment",
+          "family": "ppNeueMontreal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#767676"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Accommodation Type",
+        "Boutique Hotel",
+        "Bed & Breakfast",
+        "Luxury Villa",
+        "Design Apartment",
+        "Cabin/Chalet/Cottage",
+        "Castle/Historic Stay",
+        "Glamping/Yurt",
+        "Private Island",
+        "Lodge/Resort"
+      ],
+      "words": 22,
+      "excerpt": "Cabin/Chalet/Cottage",
+      "media": {
+        "img": 44
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "pt-[6.6rem].pb-[13rem]",
+      "y": 3407,
+      "height": 621,
+      "position": "static",
+      "background": "#f0efed",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "66px 0px 130px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 86,
+        "width": 1334,
+        "gutterTop": 66,
+        "gutterBottom": 130
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          58
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Explore by Category",
+          "family": "ppNeueMontreal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Beachfront/Coastal",
+        "Boutique Hotel",
+        "Scandinavian",
+        "Adventure & Nature",
+        "Mountain/Highland"
+      ],
+      "words": 11,
+      "excerpt": "Beachfront/Coastal",
+      "media": {
+        "img": 10,
+        "svg": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "xl:h-[96rem].relative",
+      "y": 4028,
+      "height": 960,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 462,
+        "gutterRight": 462,
+        "width": 516,
+        "gutterTop": 383,
+        "gutterBottom": 406
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          36,
+          27,
+          17
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Explore your Travel Mood",
+          "family": "ppNeueMontreal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Start the Quiz"
+      ],
+      "words": 25,
+      "excerpt": "Travel begins with a feeling. Answer a few questions and discover",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "md:pt-[9.5rem].md:pb-[14.7rem]",
+      "y": 4988,
+      "height": 991,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "95px 0px 147px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 162,
+        "width": 1258,
+        "gutterTop": 95,
+        "gutterBottom": 147
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Latest Stories",
+          "family": "ppNeueMontreal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "PROPERTY SPOTLIGHTS Bloom Farm: A Diffe…",
+        "PROPERTY SPOTLIGHTS Casonas MX: A Door …",
+        "PROPERTY SPOTLIGHTS The Landing: Leavin…",
+        "PROPERTY SPOTLIGHTS Andean: The Art of …",
+        "THEMED COLLECTIONS The Luxury of Less: …"
+      ],
+      "words": 48,
+      "excerpt": "The Luxury of Less: 10 Exceptional Places to Disconnect",
+      "media": {
+        "img": 10,
+        "svg": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "pt-[6.4rem].pb-[19.4rem]",
+      "y": 5980,
+      "height": 735,
+      "position": "static",
+      "background": "#f0efed",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "64px 0px 194px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 182,
+        "width": 1238,
+        "gutterTop": 64,
+        "gutterBottom": 306
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          15,
+          12,
+          56
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our Store",
+          "family": "ppNeueMontreal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "[] Everything",
+        "[] Books",
+        "[] Here & Away Goods",
+        "[] Travel Essentials",
+        "MINDFUL PLACES TO STAY — GESTALTEN $40.…",
+        "HERE & AWAY DAD HAT — BLACK $35.00",
+        "THE 500 HIDDEN SECRETS OF ISTANBUL — LU…",
+        "THE LIGHT FLIP – MINIMALIST FLIP PHONE …",
+        "LIGHT PHONE III $899.00",
+        "GREAT ESCAPES ALPS — TASCHEN $60.00"
+      ],
+      "words": 185,
+      "excerpt": "The Light Flip – Minimalist Flip Phone by Light",
+      "media": {
+        "img": 50,
+        "svg": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "fixed.top-0",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 687,
+        "gutterRight": 687,
+        "width": 66,
+        "gutterTop": 442,
+        "gutterBottom": 442
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Loading",
+          "family": "ppNeueMontreal",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "Loading",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "footer",
+      "name": "bg-rich-black.pb-[2rem]",
+      "y": 6715,
+      "height": 421,
+      "position": "relative",
+      "background": "#00151a",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "60px 0px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 60,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          23,
+          15,
+          15,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Join Our Inner Circle & Unlock Exclusive Escapes",
+          "family": "ppNeueMontreal",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "All Stays",
+        "Stories",
+        "Shop",
+        "About",
+        "Subscribe",
+        "Get Featured",
+        "Travel Mood Quiz",
+        "Plan Your Trip With Us",
+        "Instagram",
+        "Pinterest"
+      ],
+      "words": 53,
+      "excerpt": "© 2026 HERE & AWAY LLC | HERE & AWAY® is registered",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": null,
+      "y": 16,
+      "height": 868,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "Cookie consent",
+      "y": 826,
+      "height": 74,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "12px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 436,
+        "gutterRight": 428,
+        "width": 576,
+        "gutterTop": 24,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "We use cookies to enhance your experience. See our Privacy Policy for details.",
+          "family": "ppNeueMontreal",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNeueMontreal",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Privacy Policy",
+        "Deny",
+        "Allow"
+      ],
+      "words": 15,
+      "excerpt": "We use cookies to enhance your experience. See our",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "styles-module-scss-module__bzw9Ka__cursorContainer",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 93,
+    "title": "Here & Away",
+    "award": "HM",
+    "url": "https://www.here-away.com/",
+    "awwwards": "https://www.awwwards.com/sites/here-away",
+    "categories": [
+      "Architecture",
+      "Hotel / Restaurant",
+      "Luxury"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

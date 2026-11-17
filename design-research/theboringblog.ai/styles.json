@@ -1,0 +1,397 @@
+{
+  "page": {
+    "url": "https://www.theboringblog.ai/",
+    "title": "The Boring Blog — art, engineering and AI",
+    "description": "Boring stuff about art, engineering, AI, and the little things that rarely make noise.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#faf8f2",
+        "share": 0.988
+      },
+      {
+        "value": "#15140e",
+        "share": 0.005
+      },
+      {
+        "value": "#a82419",
+        "share": 0.003
+      },
+      {
+        "value": "#22251e",
+        "share": 0.002
+      },
+      {
+        "value": "#21241e4d",
+        "share": 0.002
+      },
+      {
+        "value": "#b8431f",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#4c5243",
+        "share": 0.454
+      },
+      {
+        "value": "#22251e",
+        "share": 0.134
+      },
+      {
+        "value": "#fbfbf6",
+        "share": 0.134
+      },
+      {
+        "value": "#faf8f2",
+        "share": 0.134
+      },
+      {
+        "value": "#fff2ef",
+        "share": 0.093
+      },
+      {
+        "value": "#1f1e18",
+        "share": 0.052
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.997,
+      "text": 1.001
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "GeistSans",
+        "size": 15.2,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.016,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "GeistSans",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.33,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 14
+      },
+      {
+        "family": "Fraunces",
+        "size": 84.8,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.028,
+        "transform": "none",
+        "chars": 13
+      },
+      {
+        "family": "GeistSans",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 13
+      },
+      {
+        "family": "GeistSans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 13
+      },
+      {
+        "family": "GeistSans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 12
+      }
+    ],
+    "loadedFonts": [
+      "Fraunces 100 900 italic",
+      "Fraunces 100 900 normal",
+      "Fraunces Fallback normal normal",
+      "GeistSans 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 14
+    },
+    {
+      "px": 64,
+      "uses": 6
+    },
+    {
+      "px": 6,
+      "uses": 6
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 14,
+      "uses": 4
+    },
+    {
+      "px": 9,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 30,
+      "uses": 2
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 27,
+      "uses": 1
+    },
+    {
+      "px": 34,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "6px",
+      "uses": 12
+    },
+    {
+      "value": "999px",
+      "uses": 4
+    },
+    {
+      "value": "50%",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 11
+      },
+      {
+        "value": "0.2s cubic-bezier(0.65, 0.05, 0, 1)",
+        "uses": 10
+      },
+      {
+        "value": "0.18s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 7
+      },
+      {
+        "value": "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.48s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.24s linear",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--omnibar-bar": "0px",
+    "--night": "0",
+    "--gold": "0",
+    "--font-sans": "var(--font-geist-sans), ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", san",
+    "--font-mono": "var(--font-geist-mono), ui-monospace, \"SF Mono\", \"Cascadia Code\", monospace",
+    "--spacing": ".25rem",
+    "--container-xs": "20rem",
+    "--container-sm": "24rem",
+    "--container-md": "28rem",
+    "--container-lg": "32rem",
+    "--container-xl": "36rem",
+    "--container-3xl": "48rem",
+    "--container-6xl": "72rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "calc(1.5 / 1)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75 / 1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--tracking-tight": "-.025em",
+    "--tracking-normal": "0em",
+    "--tracking-wide": ".025em",
+    "--tracking-wider": ".05em",
+    "--leading-tight": "1.25",
+    "--leading-snug": "1.375",
+    "--leading-normal": "1.5",
+    "--leading-relaxed": "1.625",
+    "--radius-xs": ".125rem",
+    "--radius-sm": ".25rem",
+    "--radius-lg": ".625rem",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--animate-pulse": "pulse 2s cubic-bezier(.4, 0, .6, 1) infinite",
+    "--blur-xs": "4px",
+    "--blur-sm": "8px",
+    "--blur-md": "12px",
+    "--blur-lg": "16px",
+    "--aspect-video": "16 / 9",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--radius-none": "0px",
+    "--radius-full": "9999px",
+    "--radius-control": ".375rem",
+    "--radius-surface": ".5rem",
+    "--radius-panel": "calc(var(--radius-control) + .375rem)",
+    "--stroke-hairline": "1px",
+    "--stroke-thick": "2px",
+    "--size-icon-xs": ".625rem",
+    "--size-icon-sm": ".875rem",
+    "--size-icon-md": "1rem",
+    "--size-icon-lg": "1.25rem",
+    "--font-hand": "var(--font-caveat), \"Bradley Hand\", \"Segoe Print\", cursive",
+    "--text-display-sm": "1.75rem",
+    "--text-display-sm--line-height": "1.15",
+    "--text-display-sm--letter-spacing": "-.025em",
+    "--text-display-sm--font-weight": "500",
+    "--text-micro": ".625rem",
+    "--text-micro--line-height": "1.4",
+    "--text-2xs": ".6875rem",
+    "--text-2xs--line-height": "1.4",
+    "--text-2xs--letter-spacing": ".01em",
+    "--tracking-snug": "-.015em",
+    "--tracking-code": ".5em",
+    "--shadow-e1": "0 1px 2px -1px #0c090914",
+    "--shadow-e2": "0 2px 4px -2px #0c090914, 0 4px 12px -4px #0c090914",
+    "--shadow-e3": "0 4px 8px -4px #0c09091a, 0 16px 32px -8px #0c09091f",
+    "--shadow-e4": "0 24px 56px -16px #0c09092e",
+    "--z-base": "0",
+    "--z-raised": "10"
+  },
+  "breakpoints": [
+    "min 64rem",
+    "min 40rem",
+    "min 48rem",
+    "min 80rem",
+    "min 96rem",
+    "max 30rem",
+    "max 600px",
+    "max 40rem",
+    "min 60rem",
+    "max 680px"
+  ],
+  "tech": [
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#faf8f2",
+      "backgroundImage": false,
+      "color": "#4c5243",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 97,
+        "gutterRight": 108,
+        "width": 1236,
+        "gutterTop": 30,
+        "gutterBottom": 15
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "The Boring Blog",
+          "family": "Fraunces",
+          "size": 84.8,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#22251e"
+        }
+      ],
+      "bodyType": {
+        "family": "GeistSans",
+        "size": 15.2,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.016,
+        "transform": "none"
+      },
+      "labels": [
+        "Read the blog",
+        "Posts",
+        "Subscribe"
+      ],
+      "words": 56,
+      "excerpt": "Read the blog",
+      "media": {
+        "img": 1,
+        "canvas": 1,
+        "svg": 13
+      }
+    }
+  ],
+  "listing": {
+    "rank": 214,
+    "title": "The boring blog",
+    "award": "HM",
+    "url": "http://www.theboringblog.ai/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/the-boring-blog",
+    "categories": [
+      "Experimental",
+      "Art & Illustration",
+      "Magazine / Newspaper / Blog"
+    ]
+  }
+}

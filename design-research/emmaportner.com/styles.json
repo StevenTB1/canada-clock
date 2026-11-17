@@ -1,0 +1,188 @@
+{
+  "page": {
+    "url": "https://emmaportner.com/",
+    "title": "Emma Portner - Islands",
+    "description": "Physical Narratives",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f5f5f5",
+        "share": 1
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Century",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 52
+      },
+      {
+        "family": "Century",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 24
+      }
+    ],
+    "loadedFonts": [
+      "Century 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 1,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 6
+  },
+  "cssVariables": {},
+  "breakpoints": [
+    "max 768px",
+    "min 769px"
+  ],
+  "tech": [
+    "three",
+    "nuxt"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#f5f5f5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 28,
+        "width": 1392,
+        "gutterTop": 20,
+        "gutterBottom": 24
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Emma Portner",
+          "family": "Century",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Century",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Emma Portner",
+        "←",
+        "Menu",
+        "Index",
+        "Info",
+        "Contact",
+        "Play",
+        "Pause",
+        "Fullscreen"
+      ],
+      "words": 13,
+      "excerpt": "Physical Narratives",
+      "media": {
+        "img": 5,
+        "video": 6,
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 136,
+    "title": "Emma Portner – Islands",
+    "award": "HM",
+    "url": "https://emmaportner.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/emma-portner-islands",
+    "categories": [
+      "Portfolio",
+      "Other",
+      "Web & Interactive",
+      "Experimental"
+    ]
+  }
+}

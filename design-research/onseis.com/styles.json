@@ -1,0 +1,1156 @@
+{
+  "page": {
+    "url": "https://onseis.com/",
+    "title": "Onseis Studio | Branding, Web Design & Creative Direction - Branding, Web Design & Creative Direction",
+    "description": "Onseis is an independent creative studio building brands from the ground up and helping them grow through design, digital, and content.",
+    "lang": "en-US",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 8076,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#212121d1",
+        "share": 0.297
+      },
+      {
+        "value": "#000000",
+        "share": 0.243
+      },
+      {
+        "value": "#a7a595",
+        "share": 0.149
+      },
+      {
+        "value": "#c3c5ba",
+        "share": 0.143
+      },
+      {
+        "value": "#0e5767",
+        "share": 0.137
+      },
+      {
+        "value": "#212121",
+        "share": 0.029
+      },
+      {
+        "value": "#0000008c",
+        "share": 0.003
+      }
+    ],
+    "text": [
+      {
+        "value": "#363636",
+        "share": 0.593
+      },
+      {
+        "value": "#000000",
+        "share": 0.211
+      },
+      {
+        "value": "#f6efe7",
+        "share": 0.153
+      },
+      {
+        "value": "#f0e9dd",
+        "share": 0.024
+      },
+      {
+        "value": "#212121",
+        "share": 0.012
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.006
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.715,
+      "text": 0.975
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 3312
+      },
+      {
+        "family": "Lekton",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 1106
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 17.28,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 251
+      },
+      {
+        "family": "Lekton",
+        "size": 12,
+        "weight": "800",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 162
+      },
+      {
+        "family": "Lekton",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 135
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 100
+      },
+      {
+        "family": "Pinyon Script",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.025,
+        "transform": "lowercase",
+        "chars": 93
+      },
+      {
+        "family": "Pinyon Script",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.028,
+        "transform": "lowercase",
+        "chars": 66
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 40
+      },
+      {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 34
+      },
+      {
+        "family": "Plus Jakarta Sans",
+        "size": 12,
+        "weight": "800",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 32
+      },
+      {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "800",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 26
+      }
+    ],
+    "loadedFonts": [
+      "Font Awesome 6 Brands 400 normal",
+      "Font Awesome 6 Solid 900 normal",
+      "Lekton 400 italic",
+      "Lekton 400 normal",
+      "Lekton 700 normal",
+      "Pinyon Script 400 normal",
+      "Plus Jakarta Sans 500 normal",
+      "Plus Jakarta Sans 800 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 5,
+      "uses": 107
+    },
+    {
+      "px": 9,
+      "uses": 43
+    },
+    {
+      "px": 10,
+      "uses": 34
+    },
+    {
+      "px": 6,
+      "uses": 24
+    },
+    {
+      "px": 4,
+      "uses": 22
+    },
+    {
+      "px": 8,
+      "uses": 20
+    },
+    {
+      "px": 72,
+      "uses": 20
+    },
+    {
+      "px": 7,
+      "uses": 12
+    },
+    {
+      "px": 18,
+      "uses": 12
+    },
+    {
+      "px": 15,
+      "uses": 10
+    },
+    {
+      "px": 108,
+      "uses": 10
+    },
+    {
+      "px": 45,
+      "uses": 9
+    },
+    {
+      "px": 13,
+      "uses": 6
+    },
+    {
+      "px": 27,
+      "uses": 3
+    },
+    {
+      "px": 30,
+      "uses": 2
+    },
+    {
+      "px": 144,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 3
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s ease",
+        "uses": 16
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.1s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.22s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.1s cubic-bezier(0, 0, 0.2, 1)",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--wp--preset--aspect-ratio--square": "1",
+    "--wp--preset--aspect-ratio--4-3": "4/3",
+    "--wp--preset--aspect-ratio--3-4": "3/4",
+    "--wp--preset--aspect-ratio--3-2": "3/2",
+    "--wp--preset--aspect-ratio--2-3": "2/3",
+    "--wp--preset--aspect-ratio--16-9": "16/9",
+    "--wp--preset--aspect-ratio--9-16": "9/16",
+    "--wp--preset--color--black": "#000000",
+    "--wp--preset--color--cyan-bluish-gray": "#abb8c3",
+    "--wp--preset--color--white": "#ffffff",
+    "--wp--preset--color--pale-pink": "#f78da7",
+    "--wp--preset--color--vivid-red": "#cf2e2e",
+    "--wp--preset--color--luminous-vivid-orange": "#ff6900",
+    "--wp--preset--color--luminous-vivid-amber": "#fcb900",
+    "--wp--preset--color--light-green-cyan": "#7bdcb5",
+    "--wp--preset--color--vivid-green-cyan": "#00d084",
+    "--wp--preset--color--pale-cyan-blue": "#8ed1fc",
+    "--wp--preset--color--vivid-cyan-blue": "#0693e3",
+    "--wp--preset--color--vivid-purple": "#9b51e0",
+    "--wp--preset--color--color-1": "#f5f5f5",
+    "--wp--preset--color--color-2": "#e0e0e0",
+    "--wp--preset--color--color-3": "#9e9e9e",
+    "--wp--preset--color--color-4": "#616161",
+    "--wp--preset--color--color-5": "#424242",
+    "--wp--preset--color--color-6": "#212121",
+    "--wp--preset--color--color-7": "#ffeb3b",
+    "--wp--preset--color--color-8": "#ffc107",
+    "--wp--preset--color--color-9": "#ff9800",
+    "--wp--preset--color--color-10": "#ff5722",
+    "--wp--preset--color--color-11": "#f44336",
+    "--wp--preset--color--color-12": "#9c27b0",
+    "--wp--preset--color--color-13": "#2196f3",
+    "--wp--preset--color--color-14": "#03a9f4",
+    "--wp--preset--color--color-15": "#81D4FA",
+    "--wp--preset--color--color-16": "#4caf50",
+    "--wp--preset--color--color-17": "#8bc34a",
+    "--wp--preset--color--color-18": "#cddc39",
+    "--wp--preset--color--color-19": "#f6efe7",
+    "--wp--preset--color--color-20": "#f6efe7",
+    "--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple": "linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%)",
+    "--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan": "linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%)",
+    "--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange": "linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%)",
+    "--wp--preset--gradient--luminous-vivid-orange-to-vivid-red": "linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%)",
+    "--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray": "linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%)",
+    "--wp--preset--gradient--cool-to-warm-spectrum": "linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 4",
+    "--wp--preset--gradient--blush-light-purple": "linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%)",
+    "--wp--preset--gradient--blush-bordeaux": "linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%",
+    "--wp--preset--gradient--luminous-dusk": "linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 10",
+    "--wp--preset--gradient--pale-ocean": "linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) ",
+    "--wp--preset--gradient--electric-grass": "linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%)",
+    "--wp--preset--gradient--midnight": "linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%)",
+    "--wp--preset--font-size--small": "13px",
+    "--wp--preset--font-size--medium": "20px",
+    "--wp--preset--font-size--large": "36px",
+    "--wp--preset--font-size--x-large": "42px",
+    "--wp--preset--spacing--20": "0.44rem",
+    "--wp--preset--spacing--30": "0.67rem",
+    "--wp--preset--spacing--40": "1rem",
+    "--wp--preset--spacing--50": "1.5rem",
+    "--wp--preset--spacing--60": "2.25rem",
+    "--wp--preset--spacing--70": "3.38rem",
+    "--wp--preset--spacing--80": "5.06rem",
+    "--wp--preset--shadow--natural": "6px 6px 9px rgba(0, 0, 0, 0.2)",
+    "--wp--preset--shadow--deep": "12px 12px 50px rgba(0, 0, 0, 0.4)",
+    "--wp--preset--shadow--sharp": "6px 6px 0px rgba(0, 0, 0, 0.2)",
+    "--wp--preset--shadow--outlined": "6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0)",
+    "--wp--preset--shadow--crisp": "6px 6px 0px rgb(0, 0, 0)",
+    "--bricks-vh": "1vh",
+    "--bricks-transition": "all 0.1s",
+    "--bricks-input-height": "32px",
+    "--bricks-color-primary": "#ffd64f",
+    "--bricks-color-secondary": "#fc5778",
+    "--bricks-text-dark": "#212121",
+    "--bricks-text-muted": "#616161",
+    "--bricks-text-light": "#9e9e9e",
+    "--bricks-text-info": "#00b0f4",
+    "--bricks-text-success": "#11b76b",
+    "--bricks-text-warning": "#ffa100",
+    "--bricks-text-danger": "#fa4362",
+    "--bricks-bg-info": "#e5f3ff"
+  },
+  "breakpoints": [
+    "max 478px",
+    "max 767px",
+    "max 991px",
+    "max 1320px",
+    "min 52em",
+    "max 600px",
+    "max 480px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "wordpress"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "brx-header",
+      "y": 0,
+      "height": 75,
+      "position": "fixed",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#f6efe7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 230,
+        "gutterRight": 10,
+        "width": 1200,
+        "gutterTop": 9,
+        "gutterBottom": 9
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          90
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "start a project",
+          "family": "Pinyon Script",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0.028,
+          "transform": "lowercase",
+          "color": "#212121"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "NOW BOOKING DECEMBER · 3 SPOTS LEFT NOW…",
+        "HOME",
+        "PORTFOLIO",
+        "THE STUDIO",
+        "SERVICES",
+        "CONTACT",
+        "start a project"
+      ],
+      "words": 52,
+      "excerpt": "Now booking December · 3 spots left",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "brxe-xrwrgs",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#363636",
+      "padding": "243px 0px 27px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 78,
+        "gutterRight": 92,
+        "width": 1270,
+        "gutterTop": 243,
+        "gutterBottom": 27
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          80,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "EVERYTHING YOUR BRAND NEEDS",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        },
+        {
+          "tag": "h1",
+          "text": "DONE RIGHT.",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "start a project",
+        "OUR FABLE 2026",
+        "ANASTOMOSIS 2026",
+        "FUGA 2026",
+        "CASA OLONCHE 2025",
+        "MICROCOSM 2025",
+        "TERRA CARE 2026",
+        "OFFLINE SESSIONS 2026",
+        "SOBA GOLF 2024",
+        "WITHIN 2024"
+      ],
+      "words": 94,
+      "excerpt": "Onseis is an independent creative studio building brands from the ground up",
+      "media": {
+        "img": 24
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "brxe-ihtvej",
+      "y": 1008,
+      "height": 98,
+      "position": "static",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#363636",
+      "padding": "0px",
+      "margin": "0px 72px 72px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          77,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WE’RE VISUAL STORYTELLERS",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 30,
+      "excerpt": "Every brand has its own story, audience, personality, and ambition. Our job",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "brxe-zxgkjz",
+      "y": 1178,
+      "height": 2718,
+      "position": "static",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#363636",
+      "padding": "0px",
+      "margin": "0px 72px 45px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 224,
+        "gutterBottom": 5
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "135px 5%",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 12,
+        "childWidthsPct": [
+          25,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "OUR FABLE",
+          "family": "Lekton",
+          "size": 12,
+          "weight": "800",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "OUR FABLE 2026",
+        "ANASTOMOSIS 2026",
+        "FUGA 2026",
+        "CASA OLONCHE 2025",
+        "MICROCOSM 2025",
+        "TERRA CARE 2026",
+        "OFFLINE SESSIONS 2026",
+        "SOBA GOLF 2024",
+        "WITHIN 2024",
+        "PUNTO CERO 2024"
+      ],
+      "words": 135,
+      "excerpt": "Brand Identity, Consulting, Illustration, Ongoing Support, Packaging, Photography, Web De…",
+      "media": {
+        "img": 12
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "brxe-qftawt",
+      "y": 4077,
+      "height": 717,
+      "position": "static",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#363636",
+      "padding": "108px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 108,
+        "gutterBottom": 135
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "72px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 3,
+        "childWidthsPct": [
+          27,
+          27,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FROM THE FIRST IDEA TO EVERYTHING THAT COMES AFTER.",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "start a project"
+      ],
+      "words": 96,
+      "excerpt": "Creative support • Brand management • Web updates • Campaign support •",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "brxe-lqkepk",
+      "y": 4794,
+      "height": 593,
+      "position": "static",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#363636",
+      "padding": "108px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 88,
+        "gutterRight": 122,
+        "width": 1230,
+        "gutterTop": 108,
+        "gutterBottom": 148
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "72px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 3,
+        "childWidthsPct": [
+          18,
+          40,
+          18
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "THE STUDIO",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "start a project"
+      ],
+      "words": 61,
+      "excerpt": "We’re an independent creative studio,",
+      "media": {
+        "img": 2,
+        "video": 1,
+        "svg": 5
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "brxe-mynuvu",
+      "y": 5387,
+      "height": 757,
+      "position": "static",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "108px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 455,
+        "gutterRight": 467,
+        "width": 518,
+        "gutterTop": 108,
+        "gutterBottom": 183
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          76
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "GOOD WORK. GOOD PEOPLE.",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        },
+        {
+          "tag": "h3",
+          "text": "STEPHANIE MENDOZA - NORTH HOUSE",
+          "family": "Plus Jakarta Sans",
+          "size": 15.84,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "BEN LEIKER - MICROCOSM COFFEE ROASTERS",
+          "family": "Plus Jakarta Sans",
+          "size": 15.84,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f6efe7"
+        },
+        {
+          "tag": "h3",
+          "text": "LEVIT LANDA - PUNTO CERO STUDIO",
+          "family": "Plus Jakarta Sans",
+          "size": 15.84,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "view project"
+      ],
+      "words": 315,
+      "excerpt": "We want to express our sincere gratitude to ONSEIS for the outstanding",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "brxe-joctcn",
+      "y": 6144,
+      "height": 925,
+      "position": "static",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#363636",
+      "padding": "108px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 106,
+        "gutterBottom": 108
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          45,
+          45
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "MORE THAN MAKING THINGS LOOK GOOD.",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        },
+        {
+          "tag": "h3",
+          "text": "EXPANDING THE EM SHERIF UNIVERSE",
+          "family": "Plus Jakarta Sans",
+          "size": 12,
+          "weight": "800",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        },
+        {
+          "tag": "h3",
+          "text": "BRAND IDENTITY, WEB DESIGN & DEVELOPMENT",
+          "family": "Plus Jakarta Sans",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "EXPANDING THE EM SHERIF UNIVERSE",
+        "BRAND IDENTITY, WEB DESIGN & DEVELOPMENT",
+        "read case study"
+      ],
+      "words": 47,
+      "excerpt": "We help brands figure out what they should say, how they should",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "brxe-dfealu",
+      "y": 7069,
+      "height": 681,
+      "position": "static",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#363636",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 555,
+        "gutterRight": 555,
+        "width": 330,
+        "gutterTop": 144,
+        "gutterBottom": 414
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          76,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "HAVE SOMETHING GOOD IN MIND?",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#363636"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "start a project"
+      ],
+      "words": 27,
+      "excerpt": "Whether you’re starting from scratch, changing direction, or ready to make something",
+      "media": {
+        "img": 28
+      }
+    },
+    {
+      "i": 10,
+      "tag": "footer",
+      "name": "brx-footer",
+      "y": 7750,
+      "height": 325,
+      "position": "relative",
+      "background": "#f0e9dd",
+      "backgroundImage": false,
+      "color": "#f0e9dd",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 164,
+        "gutterRight": 191,
+        "width": 1085,
+        "gutterTop": 99,
+        "gutterBottom": 108
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          90
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WE’RE VISUAL STORYTELLERS",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f0e9dd"
+        },
+        {
+          "tag": "h2",
+          "text": "SITEMAP",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f0e9dd"
+        },
+        {
+          "tag": "h2",
+          "text": "GET IN TOUCH",
+          "family": "Plus Jakarta Sans",
+          "size": 17.28,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f0e9dd"
+        }
+      ],
+      "bodyType": {
+        "family": "Lekton",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "HOME",
+        "PORTFOLIO",
+        "THE STUDIO",
+        "SERVICES",
+        "CASE STUDIES",
+        "JOURNAL",
+        "CONTACT",
+        "start a project"
+      ],
+      "words": 20,
+      "excerpt": "We’re visual storytellers",
+      "media": {
+        "img": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 130,
+    "title": "Onseis Studio",
+    "award": "HM",
+    "url": "https://onseis.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/onseis-studio",
+    "categories": [
+      "Portfolio",
+      "Art & Illustration",
+      "Design Agencies"
+    ]
+  }
+}

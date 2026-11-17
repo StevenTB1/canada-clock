@@ -1,0 +1,333 @@
+{
+  "page": {
+    "url": "https://mathiasadolfsson.dev/",
+    "title": "Mathias Adolfsson - Independent Creative Engineer",
+    "description": "I'm a freelance creative engineer with a design-oriented approach, strong technical foundation and attention to detail, crafting great apps and websites.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#080808",
+        "share": 0.391
+      },
+      {
+        "value": "#080808a6",
+        "share": 0.39
+      },
+      {
+        "value": "#f7f7f7",
+        "share": 0.214
+      },
+      {
+        "value": "#09090973",
+        "share": 0.006
+      }
+    ],
+    "text": [
+      {
+        "value": "#080808",
+        "share": 0.819
+      },
+      {
+        "value": "#f7f7f7",
+        "share": 0.181
+      }
+    ],
+    "borders": [
+      {
+        "value": "#0a0a0a1a",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "inter",
+        "size": 17.09,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 873
+      },
+      {
+        "family": "inter",
+        "size": 13.5,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 280
+      },
+      {
+        "family": "inter",
+        "size": 17.09,
+        "weight": "700",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 84
+      },
+      {
+        "family": "inter",
+        "size": 13.5,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 37
+      },
+      {
+        "family": "inter",
+        "size": 19.22,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "inter",
+        "size": 8.64,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.1,
+        "transform": "uppercase",
+        "chars": 5
+      },
+      {
+        "family": "inter",
+        "size": 13.5,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 5
+      }
+    ],
+    "loadedFonts": [
+      "inter 400 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 24
+    },
+    {
+      "px": 47,
+      "uses": 15
+    },
+    {
+      "px": 23,
+      "uses": 9
+    },
+    {
+      "px": 1,
+      "uses": 4
+    },
+    {
+      "px": 5,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "5.0625px",
+      "uses": 5
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 4
+      },
+      {
+        "value": "1s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--spacing": "calc(100vw/var(--size-canvas))",
+    "--breakpoint-sm": "40rem",
+    "--breakpoint-lg": "64rem",
+    "--text-base": "1rem",
+    "--text-base--line-height": "1.5rem",
+    "--text-lg": "1.266rem",
+    "--text-lg--line-height": "1.75rem",
+    "--text-xl": "1.424rem",
+    "--text-xl--line-height": "2rem",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--tracking-widest": ".1em",
+    "--leading-normal": "1.5",
+    "--radius-md": ".375rem",
+    "--blur-xs": "4px",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--size-canvas": "1536",
+    "--font-body": "\"inter\",sans-serif",
+    "--text-2xs": ".64rem",
+    "--text-2xs--line-height": "var(--leading-normal)",
+    "--ease-expo-out": "cubic-bezier(.16,1,.3,1)",
+    "--tw-font-weight": "var(--font-weight-normal)",
+    "--bc": "#080808",
+    "--tc": "#f7f7f7"
+  },
+  "breakpoints": [
+    "min 40rem",
+    "min 48rem"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "__nuxt",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#080808",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 70,
+        "width": 1323,
+        "gutterTop": 46,
+        "gutterBottom": -407
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          3,
+          21,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Mathias Adolfsson",
+          "family": "inter",
+          "size": 13.5,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f7f7f7"
+        },
+        {
+          "tag": "h2",
+          "text": "Independent Creative Engineer",
+          "family": "inter",
+          "size": 13.5,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f7f7f7"
+        },
+        {
+          "tag": "h3",
+          "text": "Creative Engineer",
+          "family": "inter",
+          "size": 17.09,
+          "weight": "700",
+          "lineHeight": 1.38,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#080808"
+        },
+        {
+          "tag": "h3",
+          "text": "Capabilities",
+          "family": "inter",
+          "size": 17.09,
+          "weight": "700",
+          "lineHeight": 1.38,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#080808"
+        }
+      ],
+      "bodyType": {
+        "family": "inter",
+        "size": 17.09,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Tentipi",
+        "Mikuta",
+        "Audio Visual",
+        "Infinite Grid",
+        "Tallink Silja",
+        "Bonza",
+        "Added",
+        "OkayDev",
+        "Codrops",
+        "Schedule a call Schedule a call"
+      ],
+      "words": 203,
+      "excerpt": "I'm a freelance creative engineer with a design-oriented approach, strong technical found…",
+      "media": {
+        "img": 1,
+        "canvas": 1,
+        "svg": 26
+      }
+    }
+  ],
+  "listing": {
+    "rank": 115,
+    "title": "Mathias Adolfsson 2026",
+    "award": "HM",
+    "url": "https://mathiasadolfsson.dev/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/mathias-adolfsson-2026",
+    "categories": [
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

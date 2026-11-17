@@ -1,0 +1,1027 @@
+{
+  "page": {
+    "url": "https://www.iwonderu.se/",
+    "title": "IWONDERU STUDIOS – Retouch & Post-Production",
+    "description": "IWONDERU STUDIOS specializes in retouch and post-production for beauty and fashion. ",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 8967,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f1f1f1",
+        "share": 0.736
+      },
+      {
+        "value": "#16140e",
+        "share": 0.097
+      },
+      {
+        "value": "#fbfafa",
+        "share": 0.07
+      },
+      {
+        "value": "#e6b8af",
+        "share": 0.049
+      },
+      {
+        "value": "#efefef",
+        "share": 0.025
+      },
+      {
+        "value": "#990000",
+        "share": 0.023
+      }
+    ],
+    "text": [
+      {
+        "value": "#464646",
+        "share": 0.651
+      },
+      {
+        "value": "#ebe9e5",
+        "share": 0.138
+      },
+      {
+        "value": "#212721",
+        "share": 0.124
+      },
+      {
+        "value": "#434343",
+        "share": 0.087
+      }
+    ],
+    "borders": [
+      {
+        "value": "#464646",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.928,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 250
+      },
+      {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 139
+      },
+      {
+        "family": "dieGrotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 38
+      }
+    ],
+    "loadedFonts": [
+      "portraitRegular 500 normal",
+      "dieGrotesk 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 81
+    },
+    {
+      "px": 24,
+      "uses": 18
+    },
+    {
+      "px": 40,
+      "uses": 5
+    },
+    {
+      "px": 16,
+      "uses": 4
+    },
+    {
+      "px": 256,
+      "uses": 4
+    },
+    {
+      "px": 72,
+      "uses": 4
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.4s cubic-bezier(0, 0.15, 0, 0.99)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--color-red-500": "lab(55.4814% 75.0732 48.8528)",
+    "--color-blue-500": "lab(54.1736% 13.3369 -74.6839)",
+    "--color-blue-600": "lab(44.0605% 29.0279 -86.0352)",
+    "--color-gray-200": "lab(91.6229% -.159115 -2.26791)",
+    "--color-gray-500": "lab(47.7841% -.393182 -10.0268)",
+    "--color-gray-600": "lab(35.6337% -1.58697 -10.8425)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25/.875)",
+    "--leading-normal": "1.5",
+    "--radius-lg": ".5rem",
+    "--animate-spin": "spin 1s linear infinite",
+    "--animate-pulse": "pulse 2s cubic-bezier(.4,0,.6,1)infinite",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--header-height": "25rem",
+    "--box-row-height": "2.5rem",
+    "--color-foreground": "#464646",
+    "--color-background": "#f1f1f1",
+    "--color-logo": "#464646"
+  },
+  "breakpoints": [
+    "min 64rem",
+    "min 48rem",
+    "min 80rem",
+    "min 120rem",
+    "min 175rem",
+    "min 1024px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "bg-(--color-header-background,var(--color-background)).-top-50",
+      "y": -200,
+      "height": 200,
+      "position": "fixed",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#464646",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "header",
+      "name": "text-(--color-header-foreground,--color-foreground).z-50",
+      "y": 0,
+      "height": 400,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#464646",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 341,
+        "gutterBottom": 1
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "IWONDERU STUDIOS,",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#464646"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "IWONDERU STUDIOS,",
+        "WORK",
+        "ABOUT",
+        "CONTACT"
+      ],
+      "words": 11,
+      "excerpt": "Retouch & Post-Production",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 400,
+      "height": 900,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#212721",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 521,
+        "gutterRight": 719,
+        "width": 200,
+        "gutterTop": 408,
+        "gutterBottom": 429
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FENTY BEAUTY",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#212721"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "FENTY BEAUTY"
+      ],
+      "words": 4,
+      "excerpt": "Marcus Ohlsson",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 1300,
+      "height": 396,
+      "position": "relative",
+      "background": "#fbfafa",
+      "backgroundImage": false,
+      "color": "#464646",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 634,
+        "gutterRight": 606,
+        "width": 200,
+        "gutterTop": 156,
+        "gutterBottom": 177
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          44,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "SWAROVKSI",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#464646"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "SWAROVKSI"
+      ],
+      "words": 3,
+      "excerpt": "Charles Negre",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 1696,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbfafa",
+      "backgroundImage": false,
+      "color": "#464646",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 856,
+        "gutterRight": 384,
+        "width": 200,
+        "gutterTop": 408,
+        "gutterBottom": 429
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          27,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ELLE US",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#464646"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "ELLE US"
+      ],
+      "words": 4,
+      "excerpt": "Su Müstecaplıoğlu",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 2596,
+      "height": 900,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#464646",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 862,
+        "gutterRight": 371,
+        "width": 207,
+        "gutterTop": 576,
+        "gutterBottom": 262
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          26,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EXHIBITION MAGAZINE",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#464646"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "EXHIBITION MAGAZINE"
+      ],
+      "words": 4,
+      "excerpt": "Exhibition Magazine",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 3496,
+      "height": 900,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#464646",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 869,
+        "width": 200,
+        "gutterTop": 408,
+        "gutterBottom": 429
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          26,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "MAC",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#464646"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "MAC"
+      ],
+      "words": 3,
+      "excerpt": "Richard Burbridge",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 4396,
+      "height": 900,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#212721",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 877,
+        "gutterRight": 363,
+        "width": 200,
+        "gutterTop": 408,
+        "gutterBottom": 429
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          25,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "V MAGAZINE",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#212721"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "V MAGAZINE"
+      ],
+      "words": 4,
+      "excerpt": "Richard Burbridge",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 5296,
+      "height": 900,
+      "position": "relative",
+      "background": "#16140e",
+      "backgroundImage": false,
+      "color": "#ebe9e5",
+      "padding": "0px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 610,
+        "gutterRight": 610,
+        "width": 220,
+        "gutterTop": 558,
+        "gutterBottom": 322
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "72px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          62,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "25 PROJECTS",
+          "family": "dieGrotesk",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.01,
+          "transform": "uppercase",
+          "color": "#ebe9e5"
+        }
+      ],
+      "bodyType": {
+        "family": "dieGrotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "2017-2026",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 6196,
+      "height": 432,
+      "position": "relative",
+      "background": "#990000",
+      "backgroundImage": false,
+      "color": "#ebe9e5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 634,
+        "gutterRight": 606,
+        "width": 200,
+        "gutterTop": 174,
+        "gutterBottom": 195
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          44,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ACNE STUDIOS",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#ebe9e5"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "ACNE STUDIOS"
+      ],
+      "words": 4,
+      "excerpt": "ACNE STUDIOS",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 6628,
+      "height": 467,
+      "position": "relative",
+      "background": "#efefef",
+      "backgroundImage": false,
+      "color": "#464646",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 606,
+        "gutterRight": 634,
+        "width": 200,
+        "gutterTop": 191,
+        "gutterBottom": 212
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          44,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ESTÉE LAUDER",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#464646"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "ESTÉE LAUDER"
+      ],
+      "words": 4,
+      "excerpt": "Marcus Ohlsson",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 7095,
+      "height": 900,
+      "position": "relative",
+      "background": "#16140e",
+      "backgroundImage": false,
+      "color": "#ebe9e5",
+      "padding": "0px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 610,
+        "gutterRight": 610,
+        "width": 220,
+        "gutterTop": 557,
+        "gutterBottom": 323
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "72px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          62,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "17 PROJECTS",
+          "family": "dieGrotesk",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.01,
+          "transform": "uppercase",
+          "color": "#ebe9e5"
+        }
+      ],
+      "bodyType": {
+        "family": "dieGrotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "2022-2026",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 7995,
+      "height": 900,
+      "position": "relative",
+      "background": "#e6b8af",
+      "backgroundImage": false,
+      "color": "#434343",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 826,
+        "gutterRight": 366,
+        "width": 248,
+        "gutterTop": 408,
+        "gutterBottom": 429
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row-reverse",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          25,
+          17
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "W MAGAZINE & MAYBELLINE",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#434343"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "W MAGAZINE & MAYBELLINE"
+      ],
+      "words": 6,
+      "excerpt": "W Magazine & Maybelline",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "footer",
+      "name": "bg-(--color-background).text-(--color-foreground)",
+      "y": 8895,
+      "height": 72,
+      "position": "static",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#464646",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "1px solid #464646",
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 28,
+        "gutterBottom": 27
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          34,
+          29,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "IWONDERU STUDIOS,",
+          "family": "portraitRegular",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#464646"
+        }
+      ],
+      "bodyType": {
+        "family": "portraitRegular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "WORK",
+        "ABOUT",
+        "CONTACT"
+      ],
+      "words": 11,
+      "excerpt": "Retouch & Post-Production",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 153,
+    "title": "IWONDERU Studios",
+    "url": "https://www.iwonderu.se/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

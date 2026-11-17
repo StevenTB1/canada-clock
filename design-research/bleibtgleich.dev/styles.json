@@ -1,0 +1,787 @@
+{
+  "page": {
+    "url": "https://bleibtgleich.dev/",
+    "title": "bleibtgleich - UX/UI Designer & Developer",
+    "description": "UX/UI designer and creative developer building award-winning digital products. From interface design to animated Webflow, GSAP and WebGL builds.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6713,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.88
+      },
+      {
+        "value": "#f2f2f2",
+        "share": 0.095
+      },
+      {
+        "value": "#0000000d",
+        "share": 0.019
+      },
+      {
+        "value": "#000000",
+        "share": 0.006
+      },
+      {
+        "value": "#0000001a",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.99
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.01
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 0.444
+      },
+      {
+        "value": "#bec1ca",
+        "share": 0.111
+      },
+      {
+        "value": "#919e44",
+        "share": 0.111
+      },
+      {
+        "value": "#ff633d",
+        "share": 0.111
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.111
+      },
+      {
+        "value": "#c31f26",
+        "share": 0.111
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Akzidenz Grotesk Pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.07,
+        "letterSpacing": -0.027,
+        "transform": "none",
+        "chars": 634
+      },
+      {
+        "family": "Akzidenz Grotesk Pro",
+        "size": 90,
+        "weight": "500",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 204
+      }
+    ],
+    "loadedFonts": [
+      "Akzidenz Grotesk Pro 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 251
+    },
+    {
+      "px": 16,
+      "uses": 55
+    },
+    {
+      "px": 8,
+      "uses": 10
+    },
+    {
+      "px": 120,
+      "uses": 6
+    },
+    {
+      "px": 104,
+      "uses": 6
+    },
+    {
+      "px": 32,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 4
+    },
+    {
+      "px": 398,
+      "uses": 1
+    },
+    {
+      "px": 240,
+      "uses": 1
+    },
+    {
+      "px": 450,
+      "uses": 1
+    },
+    {
+      "px": 200,
+      "uses": 1
+    },
+    {
+      "px": 144,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 8
+    },
+    {
+      "value": "16px",
+      "uses": 1
+    },
+    {
+      "value": "32px",
+      "uses": 1
+    },
+    {
+      "value": "8px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.25, 1, 0.5, 1)",
+        "uses": 52
+      },
+      {
+        "value": "0.6s cubic-bezier(0.76, 0, 0.24, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.2s cubic-bezier(0.77, 0, 0.175, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 3,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--_fonts---font-body": "\"Akzidenz Grotesk Pro\",Arial,sans-serif",
+    "--_colors---content--primary": "var(--_global-colors---black--100)",
+    "--_fonts---font-display": "\"Akzidenz Grotesk Pro\",Arial,sans-serif",
+    "--_fonts---h1--size": "calc(90rem/var(--_special-units---global--scale-ratio))",
+    "--_fonts---h1--line-height": "88%",
+    "--_fonts---h1--letter-spacing": "-.30938rem",
+    "--_fonts---h2--size": "calc(40rem/var(--_special-units---global--scale-ratio))",
+    "--_fonts---h2--line-height": "80%",
+    "--_fonts---h2--letter-spacing": "-.1rem",
+    "--_fonts---h3--size": "0rem",
+    "--_fonts---h3--line-height": "0%",
+    "--_fonts---h3--letter-spacing": "0em",
+    "--_fonts---h4--size": "0rem",
+    "--_fonts---h4--line-height": "0%",
+    "--_fonts---h4--letter-spacing": "0em",
+    "--_fonts---h5--size": "0rem",
+    "--_fonts---h5--line-height": "0%",
+    "--_fonts---h5--letter-spacing": "0em",
+    "--_fonts---h6--size": "0rem",
+    "--_fonts---h6--line-height": "0%",
+    "--_fonts---h6--letter-spacing": "0em",
+    "--_fonts---p1--size": "calc(14rem/var(--_special-units---global--scale-ratio))",
+    "--_fonts---p1--line-height": "107.143%",
+    "--_fonts---p1--letter-spacing": "-.02625rem",
+    "--_units---u-0": "var(--0px)",
+    "--_special-units---global--100vh": "100vh",
+    "--_units---u-120": "var(--120px)",
+    "--_units---u-104": "var(--104px)",
+    "--_special-units---1-cell": "calc(162rem/var(--_special-units---global--scale-ratio))",
+    "--_special-units---grid-gap": "var(--16px)",
+    "--_special-units---global--scale-ratio": "14.4",
+    "--_colors---base-1000--primary<deleted|variable-e3bd1c8d-553d-0b31-6f51-9832056faf72>": "var(--_global-colors---black--100)",
+    "--_units---u-240": "var(--240px)",
+    "--_colors---content--secondary": "var(--_global-colors---black--50)",
+    "--_special-units---offset-r<deleted|variable-a0e89c53-377b-3777-d58c-e4df6e7ab1ac>": "var(--_units---u-96)",
+    "--_special-units---offset-l<deleted|variable-30466633-11b6-a046-992f-eb88a27f8196>": "var(--_units---u-96)",
+    "--_special-units---stroke": "calc(.25rem/var(--_special-units---global--scale-ratio))",
+    "--_colors---border--100": "var(--_global-colors---black--100)",
+    "--_units---u-72": "var(--72px)",
+    "--_units---u-4": "var(--4px)",
+    "--_units---u-8": "var(--8px)",
+    "--_units---u-12": "var(--12px)",
+    "--_units---u-16": "var(--16px)",
+    "--_units---u-24": "var(--24px)",
+    "--_units---u-32": "var(--32px)",
+    "--_units---u-48": "var(--48px)",
+    "--_units---u-56<deleted|variable-97f9ea58-bf7b-f00d-289a-613711710c7e>": "var(--56px)",
+    "--_units---u-64": "var(--64px)",
+    "--_units---u-72<deleted|variable-65c271e0-fac9-e30f-7e0f-bc719f77cad2>": "var(--72px)",
+    "--_units---u-96": "var(--96px)",
+    "--_units---u-144": "var(--144px)",
+    "--_colors---base-0--primary<deleted|variable-f1179a9d-30b5-1e3f-96f6-899fd417379c>": "var(--_global-colors---white--100)",
+    "--_colors---base-1000--gray-text<deleted|variable-645e4484-5744-3503-a72c-ae6a6768a162>": "var(--_global-colors---black--50)",
+    "--_colors---additional--success": "#1ba64b",
+    "--_colors---additional--alert": "#ffa800",
+    "--_colors---additional--error": "#e23d3d",
+    "--_units---u-192": "var(--192px)",
+    "--_fonts---l1--size": "1rem",
+    "--_fonts---l1--line-height": "100%",
+    "--_fonts---l1--letter-spacing": "-.016em",
+    "--_colors---background--transparent": "transparent",
+    "--_colors---background--bg": "var(--_global-colors---white--100)",
+    "--_colors---base-1000--disabled<deleted|variable-4bea2a64-c1bd-a9f2-0bae-bb923fd86333>": "var(--_global-colors---black--30)",
+    "--_colors---brand-500--primary<deleted|variable-91ff398b-1b86-c83e-9325-f542c634d71f>": "var(--_global-colors---brand-500--100\\<deleted\\|variable-39f736b9-5144-ec20-1cef",
+    "--_special-units---global--padding": "var(--_units---u-16)",
+    "--_global-colors---black--5": "#0000000d",
+    "--_global-colors---black--10": "#0000001a",
+    "--_colors--nav---indicator--fill": "var(--_global-colors---black--100)",
+    "--_colors--nav---indicator--content-active": "var(--_global-colors---white--100)",
+    "--_colors---fill--tertiary": "var(--_global-colors---black--5)",
+    "--_colors--nav---background--bg-1": "var(--_global-colors---gray--base-200)",
+    "--_colors--nav---background--bg-3": "var(--_global-colors---gray--base-075)",
+    "--_colors--nav---background--bg-2": "var(--_global-colors---gray--base-150)",
+    "--_colors--nav---indicator--border": "var(--_colors---border--100)",
+    "--_colors--nav---indicator--content": "var(--_global-colors---black--100)",
+    "--104px": "calc(104rem/var(--_special-units---global--scale-ratio))",
+    "--72px": "calc(72rem/var(--_special-units---global--scale-ratio))",
+    "--_units---u-20": "var(--20px)",
+    "--_units---u-80": "var(--80px)",
+    "--_units---u-6": "var(--6px)"
+  },
+  "breakpoints": [
+    "min 992px",
+    "max 991px",
+    "max 479px",
+    "max 767px",
+    "min 768px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "three",
+    "webflow",
+    "barba"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "w-node-_3a198df4-4726-4d30-f0e5-4ae25dd6cf5b-ef9a5cf3",
+      "y": 1325,
+      "height": 162,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          11,
+          11,
+          11,
+          11,
+          11
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "w-node-_795aae42-750b-b740-f810-4b4a40ef7351-ef9a5cf3",
+      "y": 1747,
+      "height": 158,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "-16px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 372,
+        "gutterRight": 553,
+        "width": 515,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          36,
+          26
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "ideas deserve",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h1",
+          "text": "execution.",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Akzidenz Grotesk Pro",
+        "size": 90,
+        "weight": "500",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "ideas deserve",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "reveal-block-wrap",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#f2f2f2",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          16,
+          30,
+          16,
+          6
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 4,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "featured",
+      "y": 2193,
+      "height": 1768,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 509,
+        "gutterRight": 509,
+        "width": 422,
+        "gutterTop": 410,
+        "gutterBottom": 1278
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          29,
+          51
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Work",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Akzidenz Grotesk Pro",
+        "size": 90,
+        "weight": "500",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "24-26",
+      "media": {
+        "img": 16,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "awards",
+      "y": 3961,
+      "height": 1021,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 194,
+        "gutterRight": 198,
+        "width": 1048,
+        "gutterTop": 120,
+        "gutterBottom": 141
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "120px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Awards",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h1",
+          "text": "&",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h1",
+          "text": "Recog-",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h1",
+          "text": "nitions",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Akzidenz Grotesk Pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.07,
+        "letterSpacing": -0.027,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 61,
+      "excerpt": "CSS Design Awards",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 6,
+      "tag": "footer",
+      "name": "w-node-a204f672-ea1b-c502-70d3-3fa0032bc8db-032bc8db",
+      "y": 4982,
+      "height": 1627,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 153,
+        "gutterRight": 153,
+        "width": 1134,
+        "gutterTop": 137,
+        "gutterBottom": 293
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 7,
+        "childWidthsPct": [
+          48,
+          36,
+          98,
+          36,
+          36,
+          48,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Everything",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h1",
+          "text": "that exists",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h1",
+          "text": "had first",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h1",
+          "text": "existed as",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Akzidenz Grotesk Pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.07,
+        "letterSpacing": -0.027,
+        "transform": "none"
+      },
+      "labels": [
+        "hi.bleibtgleich@gmail.com hi.bleibtglei…"
+      ],
+      "words": 75,
+      "excerpt": "Write directly to:",
+      "media": {
+        "img": 9,
+        "svg": 3
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "theme-change-overlay",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "sticky-name",
+      "y": 796,
+      "height": 104,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 16px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 9,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "bleibt",
+          "family": "Akzidenz Grotesk Pro",
+          "size": 90,
+          "weight": "500",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Akzidenz Grotesk Pro",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.07,
+        "letterSpacing": -0.027,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "‘26 © All Right Reserved",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 27,
+    "title": "bleibtgleich'26",
+    "award": "SOTD",
+    "url": "https://bleibtgleich.dev/",
+    "awwwards": "https://www.awwwards.com/sites/bleibtgleich26",
+    "categories": [
+      "Art & Illustration",
+      "Promotional",
+      "Portfolio",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

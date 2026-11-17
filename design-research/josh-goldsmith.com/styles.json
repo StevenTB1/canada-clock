@@ -1,0 +1,665 @@
+{
+  "page": {
+    "url": "https://josh-goldsmith.com/",
+    "title": "Josh Goldsmith — Director & Executive Producer",
+    "description": "Director & Executive Producer based in Seattle. Selected work for OpenAI, Microsoft, Ford, Jeep, Amazon, Patagonia, and more.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 2154,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#262626",
+        "share": 0.44
+      },
+      {
+        "value": "#000000",
+        "share": 0.208
+      },
+      {
+        "value": "#212121",
+        "share": 0.044
+      },
+      {
+        "value": "#353535",
+        "share": 0.044
+      },
+      {
+        "value": "#363636",
+        "share": 0.044
+      },
+      {
+        "value": "#292929",
+        "share": 0.044
+      },
+      {
+        "value": "#1f1f1f",
+        "share": 0.044
+      },
+      {
+        "value": "#303030",
+        "share": 0.044
+      },
+      {
+        "value": "#2f2f2f",
+        "share": 0.044
+      },
+      {
+        "value": "#2c2c2c",
+        "share": 0.044
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.717
+      },
+      {
+        "value": "#8a8a8a",
+        "share": 0.25
+      },
+      {
+        "value": "#ffffffbf",
+        "share": 0.033
+      }
+    ],
+    "borders": [
+      {
+        "value": "#262626",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Helvetica Neue",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2010
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 748
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 206
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 167
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 159
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 106
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 46
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 35
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.022,
+        "transform": "none",
+        "chars": 30
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 0,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 8.25,
+        "weight": "400",
+        "lineHeight": 0,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": []
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 56
+    },
+    {
+      "px": 18,
+      "uses": 47
+    },
+    {
+      "px": 32,
+      "uses": 39
+    },
+    {
+      "px": 4,
+      "uses": 22
+    },
+    {
+      "px": 14,
+      "uses": 20
+    },
+    {
+      "px": 6,
+      "uses": 12
+    },
+    {
+      "px": 20,
+      "uses": 10
+    },
+    {
+      "px": 2,
+      "uses": 9
+    },
+    {
+      "px": 64,
+      "uses": 7
+    },
+    {
+      "px": 24,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 7,
+      "uses": 2
+    },
+    {
+      "px": 110,
+      "uses": 2
+    },
+    {
+      "px": 22,
+      "uses": 2
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 120,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.25s ease",
+        "uses": 30
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 15
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.5s cubic-bezier(0.65, 0, 0.35, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.9s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 16,
+    "videos": 18
+  },
+  "cssVariables": {
+    "--color-bg": "#000",
+    "--color-text": "#fff",
+    "--color-secondary": "#8a8a8a",
+    "--color-hairline": "#262626",
+    "--nav-height": "64px",
+    "--lightningcss-light": "",
+    "--lightningcss-dark": "initial"
+  },
+  "breakpoints": [
+    "max 640px",
+    "max 560px",
+    "max 820px",
+    "max 800px",
+    "max 480px",
+    "max 900px",
+    "min 700px",
+    "max 979px",
+    "min 980px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "GrainOverlay-module__-JbSzq__wrap",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "TabNav-module__Cjni8W__bleed",
+      "y": 0,
+      "height": 150,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "header",
+      "name": "TabNav-module__Cjni8W__nav",
+      "y": 0,
+      "height": 64,
+      "position": "fixed",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#8a8a8a",
+      "padding": "0px 24px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 22,
+        "gutterBottom": 22
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          20,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Josh Goldsmith / Director & Executive Producer",
+          "family": "Helvetica Neue",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.022,
+        "transform": "none"
+      },
+      "labels": [
+        "Josh Goldsmith / Director & Executive P…",
+        "Work",
+        "Info"
+      ],
+      "words": 9,
+      "excerpt": "Director & Executive Producer",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "ReelBlock-module__ayJ11q__wrap",
+      "y": 64,
+      "height": 836,
+      "position": "relative",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          39,
+          1
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 6,
+        "canvas": 7,
+        "svg": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "SelectedWork-module__lhCBOG__section",
+      "y": 900,
+      "height": 1254,
+      "position": "static",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#8a8a8a",
+      "padding": "64px 24px 120px",
+      "margin": "0px 20px",
+      "border": null,
+      "content": {
+        "gutterLeft": 44,
+        "gutterRight": 1,
+        "width": 1395,
+        "gutterTop": 64,
+        "gutterBottom": 136
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Selected Work",
+          "family": "Helvetica Neue",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Previews",
+        "Index",
+        "OpenAI Commercial",
+        "Travel South Dakota × Jeep Branded Docu…",
+        "Ford Commercial",
+        "Microsoft Branded Documentary",
+        "Lines Short Film",
+        "Patagonia Brand Film",
+        "Denver Broncos × Centura Commercial",
+        "Amazon Brand Films"
+      ],
+      "words": 139,
+      "excerpt": "Travel South Dakota × Jeep",
+      "media": {
+        "video": 9,
+        "canvas": 9
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "HomeTabs-module__OJZHfa__panel",
+      "y": 64,
+      "height": 836,
+      "position": "static",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 26,
+        "childWidthsPct": [
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CONTACT",
+          "family": "Helvetica Neue",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.08,
+          "transform": "uppercase",
+          "color": "#8a8a8a"
+        },
+        {
+          "tag": "h2",
+          "text": "AWARDS & RECOGNITION",
+          "family": "Helvetica Neue",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.08,
+          "transform": "uppercase",
+          "color": "#8a8a8a"
+        },
+        {
+          "tag": "h2",
+          "text": "EXPERIENCE",
+          "family": "Helvetica Neue",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.08,
+          "transform": "uppercase",
+          "color": "#8a8a8a"
+        },
+        {
+          "tag": "h2",
+          "text": "EDUCATION",
+          "family": "Helvetica Neue",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.08,
+          "transform": "uppercase",
+          "color": "#8a8a8a"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "(LET’S GO KNICKS!!! 🏀)",
+        "German Wirehaired Pointer, Lola",
+        "josh@biggiantpicture.co",
+        "joshgoldsmithh",
+        "@jashshotthis"
+      ],
+      "words": 424,
+      "excerpt": ", winner of Best Director at the 2025 Freeride Film Festival and",
+      "media": {
+        "img": 80
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "SiteBackground-module__VODPTG__wrap",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 44,
+    "title": "Josh Goldsmith - Director & EP",
+    "award": "HM",
+    "url": "https://josh-goldsmith.com/",
+    "awwwards": "https://www.awwwards.com/sites/josh-goldsmith-director-ep",
+    "categories": [
+      "Film & TV",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

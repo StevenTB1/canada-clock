@@ -1,0 +1,992 @@
+{
+  "page": {
+    "url": "https://leome-and-partners.com/",
+    "title": "Legal Advice Made Simple | Leome & Partners",
+    "description": "Straightforward legal counsel for businesses. Expert advice in corporate law, employment, real estate, and technology & IP. Clear thinking, deep expertise.",
+    "lang": "en-NL",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6043,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#052824",
+        "share": 0.847
+      },
+      {
+        "value": "#021d1a",
+        "share": 0.151
+      },
+      {
+        "value": "#b1f9e1",
+        "share": 0.001
+      },
+      {
+        "value": "#b1f9e126",
+        "share": 0.001
+      },
+      {
+        "value": "#efefef",
+        "share": 0
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#b1f9e1",
+        "share": 0.476
+      },
+      {
+        "value": "#052824",
+        "share": 0.281
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.237
+      },
+      {
+        "value": "#021d1a",
+        "share": 0.006
+      }
+    ],
+    "borders": [
+      {
+        "value": "#b1f9e180",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0,
+      "text": 0.237
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Brockmann Webfont",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 511
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 19.2,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 501
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 186
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 155
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 105
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 64,
+        "weight": "500",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 72
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 60
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 45
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 45
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 58.5,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.048,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 88,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 21
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 64,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 158.41,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 14
+      },
+      {
+        "family": "Brockmann Webfont",
+        "size": 24.3,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 13
+      }
+    ],
+    "loadedFonts": [
+      "Brockmann Webfont 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 27
+    },
+    {
+      "px": 10,
+      "uses": 27
+    },
+    {
+      "px": 40,
+      "uses": 24
+    },
+    {
+      "px": 6,
+      "uses": 20
+    },
+    {
+      "px": 16,
+      "uses": 14
+    },
+    {
+      "px": 9,
+      "uses": 12
+    },
+    {
+      "px": 28,
+      "uses": 11
+    },
+    {
+      "px": 5,
+      "uses": 10
+    },
+    {
+      "px": 2,
+      "uses": 10
+    },
+    {
+      "px": 12,
+      "uses": 6
+    },
+    {
+      "px": 112,
+      "uses": 5
+    },
+    {
+      "px": 8,
+      "uses": 5
+    },
+    {
+      "px": 32,
+      "uses": 5
+    },
+    {
+      "px": 14,
+      "uses": 4
+    },
+    {
+      "px": 18,
+      "uses": 4
+    },
+    {
+      "px": 3,
+      "uses": 4
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 101
+      },
+      {
+        "value": "0.5s cubic-bezier(0.7, 0, 0.3, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.75s cubic-bezier(0.7, 0, 0.3, 1)",
+        "uses": 5
+      },
+      {
+        "value": "1s cubic-bezier(0.9, 0, 0.1, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.4s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--_typography---font--primary-family": "\"Brockmann Webfont\", Arial, sans-serif",
+    "--_typography---weight--medium": "500",
+    "--size--5-5em": "5.5em",
+    "--_typography---letter-spacing--0-02em": "-.02em",
+    "--size--3-75em": "3.75em",
+    "--size--3em": "3em",
+    "--size--2-75em": "2.75em",
+    "--size--2em": "2em",
+    "--size--1-5em": "1.5em",
+    "--_typography---line-height--1-5": "1.5",
+    "--_typography---weight--normal": "400",
+    "--size--0": "0em",
+    "--size--0-75em": ".75em",
+    "--size--1em": "1em",
+    "--size--0-625": ".625em",
+    "--_theme---background": "var(--color-dark)",
+    "--_theme---text": "var(--green-light)",
+    "--global--container-padding": "2.5em",
+    "--global--container-padding-mobile": "1em",
+    "--green-main": "#052824",
+    "--color-light": "var(--color-neutral-300)",
+    "--color-dark": "var(--green-main)",
+    "--global--stroke-width": ".0625em",
+    "--_theme---border": "var(--color-neutral-400)",
+    "--global--section-padding": "calc(3em + var(--global--gap) * 2)",
+    "--global--section-padding-mobile": "calc(1em + var(--global--gap) * 2)",
+    "--size--16em": "16em",
+    "--size--4em": "4em",
+    "--_typography---line-height--1-15": "1.15",
+    "--size--1-25em": "1.25em",
+    "--global--gap": "2em",
+    "--global--gap-large": "3em",
+    "--size--3-5em": "3.5em",
+    "--size--2-5em": "2.5em",
+    "--global--gap-small": "1em",
+    "--size--0-25em": ".25em",
+    "--size--1-75em": "1.75em",
+    "--section-space--main": "var(--size--5em)",
+    "--section-space--small": "var(--size--3em)",
+    "--section-space--medium": "var(--size--7em)",
+    "--section-space--large": "var(--size--10em)",
+    "--section-space--xsmall": "var(--size--1-75em)",
+    "--size--14em": "14em",
+    "--size--1-2em": "1.2em",
+    "--_typography---weight--semi-bold": "600",
+    "--_typography---weight--bold": "700",
+    "--_typography---line-height--1-4": "1.4",
+    "--global--full-width": "100%",
+    "--green-dark": "#021d1a",
+    "--color-neutral-100": "white",
+    "--global--container-padding-small": "1.75em",
+    "--size--6em": "6em",
+    "--size--0-5em": ".5em",
+    "--green-light": "#b1f9e1",
+    "--size--0-35em": ".35em",
+    "--border": "#b1f9e14d",
+    "--color-light-faded": "#ffffff4d",
+    "--green-light-50": "#b1f9e180",
+    "--size--0-875em": ".875em",
+    "--green-light-15": "#b1f9e126",
+    "--transparent": "#fff0",
+    "--global--logo-height": "3.5em",
+    "--_typography---letter-spacing--0-03em": "-.03em",
+    "--_typography---letter-spacing--0-01em": "-.01em",
+    "--_typography---letter-spacing--0em": "0em",
+    "--_theme---button-primary--background": "var(--green-light)",
+    "--_typography---line-height--1": "1",
+    "--_theme---button-primary--text": "var(--color-dark)",
+    "--_typography---line-height--1-1": "1.1",
+    "--color-neutral-200": "#efeeec",
+    "--_typography---line-height--1-3": "1.3",
+    "--_theme---button-primary--border": "var(--green-light)",
+    "--color-neutral-300": "#f0ede8",
+    "--_theme---button-primary--background-hover": "var(--color-dark)",
+    "--_theme---button-primary--text-hover": "var(--color-neutral-100)",
+    "--color-neutral-400": "#cbc8c5",
+    "--color-neutral-500": "#818180",
+    "--_theme---button-primary--border-hover": "var(--color-dark)",
+    "--_theme---button-primary--button-secondary--background": "white",
+    "--color-neutral-600": "#2c2c2c"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 991px",
+    "max 767px",
+    "min 768px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "nav",
+      "name": "nav-full",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#052824",
+      "backgroundImage": false,
+      "color": "#b1f9e1",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 44,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "H",
+          "family": "Brockmann Webfont",
+          "size": 58.5,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.048,
+          "transform": "none",
+          "color": "#b1f9e1"
+        }
+      ],
+      "bodyType": {
+        "family": "Brockmann Webfont",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Menü",
+        "Home",
+        "Services",
+        "About",
+        "Insights",
+        "Contact"
+      ],
+      "words": 44,
+      "excerpt": "info@leome-and-partners.com",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "preloader",
+      "y": -900,
+      "height": 900,
+      "position": "fixed",
+      "background": "#021d1a",
+      "backgroundImage": false,
+      "color": "#b1f9e1",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          1,
+          1,
+          1,
+          1,
+          10
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "section.is_hero",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#052824",
+      "backgroundImage": false,
+      "color": "#b1f9e1",
+      "padding": "112px 0px 24px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 201,
+        "gutterBottom": 18
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Legal",
+          "family": "Brockmann Webfont",
+          "size": 88,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        },
+        {
+          "tag": "h1",
+          "text": "advice",
+          "family": "Brockmann Webfont",
+          "size": 88,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        },
+        {
+          "tag": "h1",
+          "text": "made",
+          "family": "Brockmann Webfont",
+          "size": 88,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "simple",
+          "family": "Brockmann Webfont",
+          "size": 88,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Brockmann Webfont",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 11,
+      "excerpt": "Technology & IP",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "parallax-fullscreen",
+      "y": 900,
+      "height": 960,
+      "position": "relative",
+      "background": "#052824",
+      "backgroundImage": false,
+      "color": "#b1f9e1",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 615,
+        "width": 785,
+        "gutterTop": 731,
+        "gutterBottom": 72
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Legal advice should be straightforward, not complicated.",
+          "family": "Brockmann Webfont",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#b1f9e1"
+        }
+      ],
+      "bodyType": {
+        "family": "Brockmann Webfont",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 26,
+      "excerpt": "Legal advice should be straightforward, not complicated.",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "services",
+      "y": 1860,
+      "height": 1584,
+      "position": "relative",
+      "background": "#052824",
+      "backgroundImage": false,
+      "color": "#052824",
+      "padding": "112px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 112,
+        "gutterBottom": 51
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "32px",
+        "justify": "normal",
+        "align": "start",
+        "children": 9,
+        "childWidthsPct": [
+          30,
+          30,
+          10,
+          30,
+          30,
+          30,
+          1,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our areas of expertise",
+          "family": "Brockmann Webfont",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        },
+        {
+          "tag": "h3",
+          "text": "Corporate",
+          "family": "Brockmann Webfont",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        },
+        {
+          "tag": "h3",
+          "text": "Employment",
+          "family": "Brockmann Webfont",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        },
+        {
+          "tag": "h3",
+          "text": "Real Estate",
+          "family": "Brockmann Webfont",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        }
+      ],
+      "bodyType": {
+        "family": "Brockmann Webfont",
+        "size": 19.2,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Our Services"
+      ],
+      "words": 91,
+      "excerpt": "Works Council & Collective Agreements",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "parallax-fullscreen",
+      "y": 3444,
+      "height": 960,
+      "position": "relative",
+      "background": "#052824",
+      "backgroundImage": false,
+      "color": "#b1f9e1",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 752,
+        "gutterBottom": 74
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "A team that makes a difference. United by expertise.",
+          "family": "Brockmann Webfont",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        }
+      ],
+      "bodyType": {
+        "family": "Brockmann Webfont",
+        "size": 64,
+        "weight": "500",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "About us"
+      ],
+      "words": 16,
+      "excerpt": "A team that makes a difference.",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "insights",
+      "y": 4404,
+      "height": 845,
+      "position": "relative",
+      "background": "#052824",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "112px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 21,
+        "gutterRight": 40,
+        "width": 1379,
+        "gutterTop": -4379,
+        "gutterBottom": 112
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "48px 32px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          46,
+          22,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Latest Insights",
+          "family": "Brockmann Webfont",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        },
+        {
+          "tag": "h3",
+          "text": "AI Regulation and Liability: Current Issues from the Industry's Perspective",
+          "family": "Brockmann Webfont",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        },
+        {
+          "tag": "h3",
+          "text": "The History of the Law Firm's Founding",
+          "family": "Brockmann Webfont",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        },
+        {
+          "tag": "h3",
+          "text": "The First Steps in a Corporate Transaction",
+          "family": "Brockmann Webfont",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        }
+      ],
+      "bodyType": {
+        "family": "Brockmann Webfont",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 107,
+      "excerpt": "The EU AI Act is reshaping how companies develop, deploy, and govern",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 8,
+      "tag": "footer",
+      "name": "footer",
+      "y": 5249,
+      "height": 793,
+      "position": "relative",
+      "background": "#052824",
+      "backgroundImage": false,
+      "color": "#b1f9e1",
+      "padding": "28px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 68,
+        "width": 1312,
+        "gutterTop": 124,
+        "gutterBottom": -38
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "48px 32px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          14,
+          21,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "L",
+          "family": "Brockmann Webfont",
+          "size": 158.41,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#b1f9e1"
+        }
+      ],
+      "bodyType": {
+        "family": "Brockmann Webfont",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Services",
+        "About",
+        "Leome & Partners",
+        "Insights",
+        "Contact",
+        "DESIGN: LUKAS RUDROF",
+        "PRIVACY POLICY",
+        "LEGAL NOTICE"
+      ],
+      "words": 92,
+      "excerpt": "Design: Lukas Rudrof",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 23,
+    "title": "Leome and Partners",
+    "award": "HM",
+    "url": "https://leome-and-partners.com/",
+    "awwwards": "https://www.awwwards.com/sites/leome-and-partners",
+    "categories": [
+      "Business & Corporate"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

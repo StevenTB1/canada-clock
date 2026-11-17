@@ -1,0 +1,1100 @@
+{
+  "page": {
+    "url": "https://grail-app.com/",
+    "title": "Grail: Real-world quests, every day",
+    "description": "Grail pulls you out of autopilot with one real-world quest a day. Grow four stats: Strength, Intellect, Charisma, Wisdom. When you graduate, your subscription cancels itself.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 11729,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.897
+      },
+      {
+        "value": "#f6f6f6",
+        "share": 0.1
+      },
+      {
+        "value": "#161616",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffff21",
+        "share": 0
+      },
+      {
+        "value": "#18181899",
+        "share": 0
+      },
+      {
+        "value": "#ffffff24",
+        "share": 0
+      },
+      {
+        "value": "#ecd2f3",
+        "share": 0
+      },
+      {
+        "value": "#221826",
+        "share": 0
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0
+      },
+      {
+        "value": "#ffcdff",
+        "share": 0
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0
+      },
+      {
+        "value": "#3a3a3a",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.213
+      },
+      {
+        "value": "#00000099",
+        "share": 0.158
+      },
+      {
+        "value": "#b8b8b8",
+        "share": 0.121
+      },
+      {
+        "value": "#0000009e",
+        "share": 0.113
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.112
+      },
+      {
+        "value": "#623562",
+        "share": 0.105
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.095
+      },
+      {
+        "value": "#eeeeee",
+        "share": 0.026
+      },
+      {
+        "value": "#ffffffb8",
+        "share": 0.024
+      },
+      {
+        "value": "#ffffff8c",
+        "share": 0.02
+      },
+      {
+        "value": "#f5f5f5",
+        "share": 0.004
+      },
+      {
+        "value": "#1a1018",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff24",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 0.89
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.24,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1095
+      },
+      {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.31,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 680
+      },
+      {
+        "family": "-apple-system",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.24,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 438
+      },
+      {
+        "family": "Switzer",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.12,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 283
+      },
+      {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.31,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 240
+      },
+      {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 189
+      },
+      {
+        "family": "PP Pangaia",
+        "size": 92.16,
+        "weight": "300",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 136
+      },
+      {
+        "family": "-apple-system",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.12,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 96
+      },
+      {
+        "family": "Switzer",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 86
+      },
+      {
+        "family": "-apple-system",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 85
+      },
+      {
+        "family": "PP Pangaia",
+        "size": 89.28,
+        "weight": "300",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 47
+      },
+      {
+        "family": "PP Pangaia",
+        "size": 92,
+        "weight": "300",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 36
+      },
+      {
+        "family": "PP Pangaia",
+        "size": 81,
+        "weight": "300",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 29
+      },
+      {
+        "family": "PP Pangaia",
+        "size": 86.4,
+        "weight": "300",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 29
+      }
+    ],
+    "loadedFonts": [
+      "Switzer 100 900 normal",
+      "PP Pangaia 300 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 23
+    },
+    {
+      "px": 2,
+      "uses": 14
+    },
+    {
+      "px": 17,
+      "uses": 13
+    },
+    {
+      "px": 4,
+      "uses": 12
+    },
+    {
+      "px": 15,
+      "uses": 12
+    },
+    {
+      "px": 8,
+      "uses": 9
+    },
+    {
+      "px": 1,
+      "uses": 8
+    },
+    {
+      "px": 5,
+      "uses": 7
+    },
+    {
+      "px": 6,
+      "uses": 7
+    },
+    {
+      "px": 24,
+      "uses": 6
+    },
+    {
+      "px": 32,
+      "uses": 6
+    },
+    {
+      "px": 40,
+      "uses": 5
+    },
+    {
+      "px": 3,
+      "uses": 5
+    },
+    {
+      "px": 22,
+      "uses": 4
+    },
+    {
+      "px": 71,
+      "uses": 4
+    },
+    {
+      "px": 26,
+      "uses": 3
+    }
+  ],
+  "radii": [
+    {
+      "value": "99px",
+      "uses": 6
+    },
+    {
+      "value": "999px",
+      "uses": 5
+    },
+    {
+      "value": "50%",
+      "uses": 3
+    },
+    {
+      "value": "24px",
+      "uses": 2
+    },
+    {
+      "value": "20px",
+      "uses": 1
+    },
+    {
+      "value": "2px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 54
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.55s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.6s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.15s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 85,
+    "canvases": 8,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--bg-primary": "#fff",
+    "--bg-secondary": "#f2f2f7",
+    "--bg-grouped": "#f2f2f7",
+    "--bg-card": "#00000008",
+    "--text-primary": "#000",
+    "--text-secondary": "#8e8e93",
+    "--text-tertiary": "#c7c7cc",
+    "--text-quaternary": "#d1d1d6",
+    "--tint": "#007aff",
+    "--tint-light": "#007aff1a",
+    "--destructive": "#ff3b30",
+    "--destructive-light": "#ff3b301a",
+    "--warning": "#ff9500",
+    "--success": "#34c759",
+    "--glass-bg": "#fffc",
+    "--glass-border": "#0000000f",
+    "--glass-blur": "20px",
+    "--separator": "#3c3c431f",
+    "--radius-card": "20px",
+    "--radius-button": "12px",
+    "--radius-input": "10px",
+    "--radius-progress": "4px",
+    "--spacing-xs": "4px",
+    "--spacing-sm": "8px",
+    "--spacing-md": "12px",
+    "--spacing-lg": "16px",
+    "--spacing-xl": "24px",
+    "--spacing-2xl": "32px",
+    "--spacing-3xl": "40px",
+    "--font-sans": "\"Switzer\", -apple-system, \"SF Pro Display\", system-ui, sans-serif",
+    "--font-serif": "Georgia, \"Times New Roman\", serif",
+    "--font-mono": "\"SF Mono\", ui-monospace, \"Menlo\", monospace",
+    "--shell-bg": "#eeeae3",
+    "--shell-text": "#1c1c1e",
+    "--shell-text-secondary": "#1c1c1e80",
+    "--landing-bg": "#fafaf8",
+    "--landing-bg-warm": "#f0ede6",
+    "--landing-text": "#18181b",
+    "--landing-text-secondary": "#71717a",
+    "--landing-text-tertiary": "#a1a1aa",
+    "--landing-border": "#18181b0f",
+    "--landing-card": "#fff",
+    "--landing-shadow": "0 20px 40px -15px #18181b0f",
+    "--landing-shadow-hover": "0 24px 48px -12px #18181b1a",
+    "--landing-radius": "2rem",
+    "--landing-radius-inner": "calc(2rem - 6px)",
+    "--landing-max-width": "1200px",
+    "--landing-transition": "cubic-bezier(.32, .72, 0, 1)"
+  },
+  "breakpoints": [
+    "max 768px",
+    "min 769px",
+    "max 720px",
+    "max 1279px",
+    "max 1000px",
+    "max 560px"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "_scene_bwga5_154",
+      "y": 130,
+      "height": 770,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "header",
+      "name": "_hero_bwga5_173",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffffb8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 30,
+        "gutterBottom": 634
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          9,
+          30,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "RECLAIMYOURLIFE",
+          "family": "PP Pangaia",
+          "size": 145.22,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Join Waitlist"
+      ],
+      "words": 35,
+      "excerpt": "One real-world quest a day. Four stats that go up when you",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "_section2_bwga5_184",
+      "y": 900,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": true,
+      "color": "#b8b8b8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 0,
+        "width": 1408,
+        "gutterTop": 25,
+        "gutterBottom": 181
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "EVERYONE'S OUT",
+          "family": "PP Pangaia",
+          "size": 92.16,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.24,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 69,
+      "excerpt": "Same week, over and over, until you can't tell them apart. You",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "_section3_bwga5_265",
+      "y": 1800,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "_section4_bwga5_281",
+      "y": 2700,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "_acceptOverlay_bwga5_66._desktopOnly_bwga5_1087",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#623562",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 77,
+        "gutterBottom": 83
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "115.2px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "QUEST ACCEPTED. CLOCK’S RUNNING.",
+          "family": "PP Pangaia",
+          "size": 81,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#623562"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.24,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 78,
+      "excerpt": "Not 24, since a day is too easy to lose to work",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "_section5_bwga5_683",
+      "y": 3636,
+      "height": 1243,
+      "position": "relative",
+      "background": "#f6f6f6",
+      "backgroundImage": false,
+      "color": "#00000099",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 191,
+        "gutterRight": 82,
+        "width": 1167,
+        "gutterTop": 24,
+        "gutterBottom": 134
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal 5%",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 3,
+        "childWidthsPct": [
+          20,
+          13,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "IT STARTS AS ONE QUEST. IT RARELY STAYS THAT WAY.",
+          "family": "PP Pangaia",
+          "size": 89.28,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.24,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 163,
+      "excerpt": "You went out to do one small thing. Six hours later you’re",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "_peelInner_bwga5_833",
+      "y": 4014,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#0000009e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 25,
+        "gutterBottom": 115
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WHAT WAS THAT LIKE?",
+          "family": "PP Pangaia",
+          "size": 25.2,
+          "weight": "300",
+          "lineHeight": 0.98,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "-apple-system",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.24,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 106,
+      "excerpt": "The quest fades by tomorrow. What you felt right after doing it",
+      "media": {
+        "img": 1,
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "_totemWrap_bwga5_859",
+      "y": 6219,
+      "height": 1530,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "-180px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 25,
+        "gutterBottom": 670
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "THEKNIGHT",
+          "family": "PP Pangaia",
+          "size": 208,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "SIXTOTEMS. ONE'SYOURS.",
+          "family": "PP Pangaia",
+          "size": 72,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.31,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Duck",
+        "Cat",
+        "Bear",
+        "Rat",
+        "Frog",
+        "Penguin"
+      ],
+      "words": 61,
+      "excerpt": "You pick one when you start. It levels up as you do,",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "_statsPin_bwga5_916",
+      "y": 8244,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff80",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 25,
+        "gutterBottom": 384
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          5,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EVERY QUEST LANDS SOMEWHERE.",
+          "family": "PP Pangaia",
+          "size": 92,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.31,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 58,
+      "excerpt": "Point at the part of yourself you want to build, and the",
+      "media": {
+        "canvas": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "_guildsWrap_bwga5_926",
+      "y": 9540,
+      "height": 1252,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "-900px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 210,
+        "gutterRight": 81,
+        "width": 1149,
+        "gutterTop": 24,
+        "gutterBottom": 250
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "31.68px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          52,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "PICK YOUR GUILDS. THEY DEFINE YOUR QUESTS",
+          "family": "PP Pangaia",
+          "size": 92.16,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.31,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 148,
+      "excerpt": "Getting strong. Getting out more. Slowing down. Making stuff. Join the ones",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "_footWrap_bwga5_584._footerOpen_bwga5_608",
+      "y": 9929,
+      "height": 1800,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#b8b8b8",
+      "padding": "0px",
+      "margin": "-900px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 33,
+        "gutterBottom": 926
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 7,
+        "childWidthsPct": [
+          100,
+          96,
+          9,
+          17,
+          23,
+          96,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Y",
+          "family": "PP Pangaia",
+          "size": 92,
+          "weight": "300",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#ffffff66"
+        }
+      ],
+      "bodyType": {
+        "family": "-apple-system",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Made by Denormalized",
+        "Privacy",
+        "grail@denormalized.co",
+        "Terms"
+      ],
+      "words": 107,
+      "excerpt": "building",
+      "media": {
+        "img": 1,
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 2,
+    "title": "Grail",
+    "award": "SOTD",
+    "url": "https://grail-app.com/",
+    "awwwards": "https://www.awwwards.com/sites/grail",
+    "categories": [
+      "Games & Entertainment",
+      "Mobile & Apps",
+      "Promotional"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

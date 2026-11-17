@@ -1,0 +1,485 @@
+{
+  "page": {
+    "url": "https://petrillo.studio/",
+    "title": "Petrillo.studio",
+    "description": "Petrillo.studio is a design practice founded by Arthur Petrillo, working across brand, product, creative direction and design direction.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.435
+      },
+      {
+        "value": "#0a0a0a",
+        "share": 0.277
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.165
+      },
+      {
+        "value": "#163300",
+        "share": 0.025
+      },
+      {
+        "value": "#6633ba",
+        "share": 0.025
+      },
+      {
+        "value": "#251aff",
+        "share": 0.025
+      },
+      {
+        "value": "#110f15",
+        "share": 0.025
+      },
+      {
+        "value": "#171717",
+        "share": 0.018
+      },
+      {
+        "value": "#111111",
+        "share": 0.003
+      },
+      {
+        "value": "#747474",
+        "share": 0.002
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.601
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.311
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.062
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.026
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ff0000",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.76,
+      "text": 0.938
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Suisse Intl Mono",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 1500
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 13.54,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1177
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 13.54,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 506
+      },
+      {
+        "family": "Suisse Intl Mono",
+        "size": 11.25,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 160
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 16.5,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 53
+      },
+      {
+        "family": "Clash Grotesk",
+        "size": 27,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 31
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 13.5,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 29
+      },
+      {
+        "family": "Clash Grotesk",
+        "size": 242.23,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "Suisse Intl Mono",
+        "size": 11.25,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 13
+      }
+    ],
+    "loadedFonts": [
+      "Space Grotesk 300 700 normal",
+      "Suisse Intl 400 normal",
+      "Clash Grotesk 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 7,
+      "uses": 74
+    },
+    {
+      "px": 4,
+      "uses": 72
+    },
+    {
+      "px": 15,
+      "uses": 38
+    },
+    {
+      "px": 6,
+      "uses": 36
+    },
+    {
+      "px": 18,
+      "uses": 18
+    },
+    {
+      "px": 13,
+      "uses": 9
+    },
+    {
+      "px": 3,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 17,
+      "uses": 2
+    },
+    {
+      "px": 108,
+      "uses": 1
+    },
+    {
+      "px": 130,
+      "uses": 1
+    },
+    {
+      "px": 9,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "6.048px",
+      "uses": 36
+    },
+    {
+      "value": "24.048px",
+      "uses": 9
+    },
+    {
+      "value": "9.072px",
+      "uses": 9
+    },
+    {
+      "value": "50%",
+      "uses": 3
+    },
+    {
+      "value": "6px",
+      "uses": 3
+    },
+    {
+      "value": "10.5px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.18s cubic-bezier(0.32, 0.72, 0.16, 1)",
+        "uses": 96
+      },
+      {
+        "value": "0.2s cubic-bezier(0.32, 0.72, 0.16, 1)",
+        "uses": 21
+      },
+      {
+        "value": "0.16s cubic-bezier(0.32, 0.72, 0.16, 1)",
+        "uses": 20
+      },
+      {
+        "value": "0.56s cubic-bezier(0.32, 0.72, 0.16, 1)",
+        "uses": 17
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 17
+      },
+      {
+        "value": "0.28s cubic-bezier(0.32, 0.72, 0.16, 1)",
+        "uses": 10
+      }
+    ],
+    "cssAnimatedElements": 5,
+    "canvases": 0,
+    "videos": 13
+  },
+  "cssVariables": {
+    "--s": "1",
+    "--u": "48px",
+    "--red": "#FF0000",
+    "--black": "#000000",
+    "--ribbon-w": "37px",
+    "--font-display": "'Clash Grotesk', 'Archivo', sans-serif",
+    "--font-body": "'Suisse Intl', 'Suisse Int\\'l', 'Space Grotesk', 'Archivo', sans-serif",
+    "--font-mono": "'Suisse Intl Mono', 'Suisse Int\\'l Mono', ui-monospace, 'SF Mono', 'JetBrains Mo",
+    "--ease": "cubic-bezier(0.32, 0.72, 0.16, 1)",
+    "--dur": "120ms",
+    "--fs-digit": "288px",
+    "--fs-see": "36px",
+    "--tl-left": "40px",
+    "--tl-top": "0px",
+    "--tr-right": "35px",
+    "--tr-top": "0px",
+    "--bl-left": "34px",
+    "--bl-bottom": "0px",
+    "--br-right": "35px",
+    "--br-bottom": "0px",
+    "--logo-top": "40px",
+    "--see-bottom": "34px",
+    "--see-gap": "7px",
+    "--icon-w": "24.66px"
+  },
+  "breakpoints": [
+    "max 768px",
+    "max 767px",
+    "max 1199px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "site-footer",
+      "y": 514,
+      "height": 386,
+      "position": "fixed",
+      "background": "#ff0000",
+      "backgroundImage": true,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 61,
+        "gutterRight": 30,
+        "width": 1349,
+        "gutterTop": 30,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          24,
+          24,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "ARTHUR@PETRILLO.STUDIO",
+          "family": "Clash Grotesk",
+          "size": 27,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl",
+        "size": 16.5,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ARTHUR@PETRILLO.STUDIO"
+      ],
+      "words": 11,
+      "excerpt": "arthur@petrillo.studio",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "site-lift",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ff0000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 2,
+        "gutterRight": 11,
+        "width": 1427,
+        "gutterTop": -12,
+        "gutterBottom": -71
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "3px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          19,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "The Clock Experience",
+          "family": "Suisse Intl",
+          "size": 13.54,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Tamber",
+          "family": "Suisse Intl",
+          "size": 13.54,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Deeds",
+          "family": "Suisse Intl",
+          "size": 13.54,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Wise Data Vis",
+          "family": "Suisse Intl",
+          "size": 13.54,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl Mono",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.04,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 630,
+      "excerpt": "Read more about The Instrument — tap to open — Read more",
+      "media": {
+        "img": 160,
+        "video": 13,
+        "svg": 32
+      }
+    }
+  ],
+  "listing": {
+    "rank": 162,
+    "title": "Petrillo.studio",
+    "url": "https://petrillo.studio/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

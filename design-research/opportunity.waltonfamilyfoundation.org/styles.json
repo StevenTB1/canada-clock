@@ -1,0 +1,2159 @@
+{
+  "page": {
+    "url": "https://opportunity.waltonfamilyfoundation.org/",
+    "title": "Access to Opportunity: Gallup Research | Walton Family Foundation",
+    "description": "Explore Walton Family Foundation and Gallup research on opportunity. See how investments in education, nature, and communities help opportunity flourish.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 39324,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.463
+      },
+      {
+        "value": "#fbf3e6",
+        "share": 0.453
+      },
+      {
+        "value": "#000000",
+        "share": 0.053
+      },
+      {
+        "value": "#12110e",
+        "share": 0.02
+      },
+      {
+        "value": "#ffffff4c",
+        "share": 0.011
+      },
+      {
+        "value": "#f4f4efb3",
+        "share": 0
+      },
+      {
+        "value": "#fffcf8",
+        "share": 0
+      },
+      {
+        "value": "#bcac8466",
+        "share": 0
+      },
+      {
+        "value": "#9d8f7b99",
+        "share": 0
+      },
+      {
+        "value": "#d1cfcc",
+        "share": 0
+      },
+      {
+        "value": "#9b918233",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#12110e",
+        "share": 0.465
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.283
+      },
+      {
+        "value": "#999999",
+        "share": 0.137
+      },
+      {
+        "value": "#6e6e6e",
+        "share": 0.048
+      },
+      {
+        "value": "#e7e72b",
+        "share": 0.023
+      },
+      {
+        "value": "#fffcf8",
+        "share": 0.018
+      },
+      {
+        "value": "#000000",
+        "share": 0.017
+      },
+      {
+        "value": "#9b8b73",
+        "share": 0.009
+      },
+      {
+        "value": "#0000004d",
+        "share": 0
+      }
+    ],
+    "borders": [
+      {
+        "value": "#4b4b4b",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.547,
+      "text": 0.968
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 3261
+      },
+      {
+        "family": "Serrif",
+        "size": 15.88,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 1119
+      },
+      {
+        "family": "Serrif",
+        "size": 20.98,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 842
+      },
+      {
+        "family": "Serrif",
+        "size": 21.49,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 231
+      },
+      {
+        "family": "Mona Sans",
+        "size": 15.88,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.035,
+        "transform": "uppercase",
+        "chars": 185
+      },
+      {
+        "family": "Serrif",
+        "size": 61.95,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.013,
+        "transform": "none",
+        "chars": 178
+      },
+      {
+        "family": "Serrif",
+        "size": 39.49,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 167
+      },
+      {
+        "family": "Serrif",
+        "size": 39.49,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.051,
+        "transform": "none",
+        "chars": 154
+      },
+      {
+        "family": "Mona Sans",
+        "size": 15.88,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 150
+      },
+      {
+        "family": "Mona Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 140
+      },
+      {
+        "family": "Serrif",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 120
+      },
+      {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0.015,
+        "transform": "none",
+        "chars": 109
+      },
+      {
+        "family": "Mona Sans",
+        "size": 50.54,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.019,
+        "transform": "none",
+        "chars": 104
+      },
+      {
+        "family": "SerrifCompressed",
+        "size": 62.97,
+        "weight": "500",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 100
+      }
+    ],
+    "loadedFonts": [
+      "Serrif 400 normal",
+      "Serrif 400 italic",
+      "SerrifCompressed 400 normal",
+      "SerrifCompressed 400 italic",
+      "Mona Sans 200 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 31,
+      "uses": 80
+    },
+    {
+      "px": 8,
+      "uses": 46
+    },
+    {
+      "px": 16,
+      "uses": 25
+    },
+    {
+      "px": 15,
+      "uses": 24
+    },
+    {
+      "px": 24,
+      "uses": 21
+    },
+    {
+      "px": 23,
+      "uses": 20
+    },
+    {
+      "px": 4,
+      "uses": 16
+    },
+    {
+      "px": 70,
+      "uses": 9
+    },
+    {
+      "px": 11,
+      "uses": 8
+    },
+    {
+      "px": 43,
+      "uses": 7
+    },
+    {
+      "px": 48,
+      "uses": 7
+    },
+    {
+      "px": 10,
+      "uses": 7
+    },
+    {
+      "px": 47,
+      "uses": 7
+    },
+    {
+      "px": 12,
+      "uses": 6
+    },
+    {
+      "px": 9,
+      "uses": 6
+    },
+    {
+      "px": 138,
+      "uses": 6
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.35544e+07px",
+      "uses": 37
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 18
+      },
+      {
+        "value": "0.3s cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.5s cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.8s cubic-bezier(0, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 15,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "var(--font-sans)",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--font-weight-bold": "700",
+    "--radius-lg": ".5rem",
+    "--radius-xl": ".75rem",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-white-100": "var(--white-100)",
+    "--font-serrif-compressed": "var(--font-serrif-compressed)",
+    "--font-serrif": "var(--font-serrif)",
+    "--breakpoint-clamp-max": "2560px",
+    "--spacing-sms": "var(--fluid-site-margin-size)",
+    "--fluid-site-gutter": "clamp(7.5px, calc(5.21857px + .712946vw), 23.47px)",
+    "--fluid-site-margin-size": "clamp(23.5px, calc(21.2186px + .712946vw), 39.47px)",
+    "--fluid-floating-control-inset": "clamp(9.13px, calc(5.13714px + 1.24777vw), 37.08px)",
+    "--tw-fluid-clamp-min_-1_11-clamp-max_-6_54": "clamp(-6.54px, calc(-.334286px + -.242411vw), -1.11px)",
+    "--tw-fluid-clamp-min_44_76-clamp-max_148_57": "clamp(44.76px, calc(29.93px + 4.63438vw), 148.57px)",
+    "--tw-fluid-clamp-min_-0_38-clamp-max_-1_17": "clamp(-1.17px, calc(-.267143px + -.0352679vw), -.38px)",
+    "--tw-fluid-clamp-min_30-clamp-max_93_89": "clamp(30px, calc(20.8729px + 2.85223vw), 93.89px)",
+    "--tw-fluid-clamp-min_31_5-clamp-max_47_47": "clamp(31.5px, calc(29.2186px + .712946vw), 47.47px)",
+    "--tw-fluid-clamp-min_-0_63-clamp-max_-0_95": "clamp(-.95px, calc(-.584286px + -.0142857vw), -.63px)",
+    "--tw-fluid-clamp-min_31-clamp-max_62_94": "clamp(31px, calc(26.4371px + 1.42589vw), 62.94px)",
+    "--tw-fluid-clamp-min_15_75-clamp-max_23_74": "clamp(15.75px, calc(14.6086px + .356696vw), 23.74px)",
+    "--tw-fluid-clamp-min_13_88-clamp-max_17_87": "clamp(13.88px, calc(13.31px + .178125vw), 17.87px)",
+    "--tw-fluid-clamp-min_23_5-clamp-max_39_47": "clamp(23.5px, calc(21.2186px + .712946vw), 39.47px)",
+    "--tw-fluid-clamp-min_15_5-clamp-max_31_47": "clamp(15.5px, calc(13.2186px + .712946vw), 31.47px)",
+    "--tw-fluid-clamp-min_19_88-clamp-max_23_87": "clamp(19.88px, calc(19.31px + .178125vw), 23.87px)",
+    "--tw-fluid-clamp-min_17_88-clamp-max_21_87": "clamp(17.88px, calc(17.31px + .178125vw), 21.87px)",
+    "--tw-fluid-clamp-min_14-clamp-max_14": "clamp(14px, calc(14px + 0vw), 14px)",
+    "--tw-fluid-clamp-min_47-clamp-max_78_94": "clamp(47px, calc(42.4371px + 1.42589vw), 78.94px)",
+    "--tw-fluid-clamp-min_36_38-clamp-max_88_29": "clamp(36.38px, calc(28.9643px + 2.31741vw), 88.29px)",
+    "--tw-fluid-clamp-min_19_25-clamp-max_43_21": "clamp(19.25px, calc(15.8271px + 1.06964vw), 43.21px)",
+    "--tw-fluid-clamp-min_17_75-clamp-max_25_74": "clamp(17.75px, calc(16.6086px + .356696vw), 25.74px)",
+    "--tw-fluid-clamp-min_2_62-clamp-max_4_61": "clamp(2.62px, calc(2.33571px + .0888393vw), 4.61px)",
+    "--tw-fluid-clamp-min_11_88-clamp-max_15_87": "clamp(11.88px, calc(11.31px + .178125vw), 15.87px)",
+    "--tw-fluid-clamp-min_17_63-clamp-max_29_6": "clamp(17.63px, calc(15.92px + .534375vw), 29.6px)",
+    "--tw-fluid-clamp-min_9_88-clamp-max_13_87": "clamp(9.88px, calc(9.31px + .178125vw), 13.87px)",
+    "--tw-fluid-clamp-min_13_5-clamp-max_29_47": "clamp(13.5px, calc(11.2186px + .712946vw), 29.47px)",
+    "--tw-fluid-clamp-min_18_75-clamp-max_58_68": "clamp(18.75px, calc(13.0457px + 1.78259vw), 58.68px)",
+    "--tw-fluid-clamp-min_11_25-clamp-max_35_21": "clamp(11.25px, calc(7.82714px + 1.06964vw), 35.21px)",
+    "--tw-fluid-clamp-min_23_81-clamp-max_61_75": "clamp(23.81px, calc(18.39px + 1.69375vw), 61.75px)",
+    "--tw-fluid-clamp-min_7_5-clamp-max_23_47": "clamp(7.5px, calc(5.21857px + .712946vw), 23.47px)",
+    "--tw-fluid-clamp-min_11_75-clamp-max_19_74": "clamp(11.75px, calc(10.6086px + .356696vw), 19.74px)",
+    "--tw-fluid-clamp-min_15-clamp-max_46_94": "clamp(15px, calc(10.4371px + 1.42589vw), 46.94px)",
+    "--tw-fluid-clamp-min_3_75-clamp-max_11_74": "clamp(3.75px, calc(2.60857px + .356696vw), 11.74px)",
+    "--tw-fluid-clamp-min_37_5-clamp-max_117_36": "clamp(37.5px, calc(26.0914px + 3.56518vw), 117.36px)",
+    "--tw-fluid-clamp-min_98_13-clamp-max_158_02": "clamp(98.13px, calc(89.5743px + 2.67366vw), 158.02px)",
+    "--tw-fluid-clamp-min_39_5-clamp-max_55_47": "clamp(39.5px, calc(37.2186px + .712946vw), 55.47px)",
+    "--tw-fluid-clamp-min_49_52-clamp-max_384_92": "clamp(49.52px, calc(1.60571px + 14.9732vw), 384.92px)",
+    "--tw-fluid-clamp-min_58_75-clamp-max_98_68": "clamp(58.75px, calc(53.0457px + 1.78259vw), 98.68px)",
+    "--tw-fluid-clamp-min_16_26-clamp-max_136_04": "clamp(16.26px, calc(-.851429px + 5.34732vw), 136.04px)",
+    "--tw-fluid-clamp-min_105_77-clamp-max_433_18": "clamp(105.77px, calc(58.9971px + 14.6165vw), 433.18px)",
+    "--tw-fluid-clamp-min_38-clamp-max_101_89": "clamp(38px, calc(28.8729px + 2.85223vw), 101.89px)",
+    "--tw-fluid-clamp-min_76_13-clamp-max_199_91": "clamp(76.13px, calc(58.4471px + 5.52589vw), 199.91px)",
+    "--tw-fluid-clamp-min_132_53-clamp-max_691_53": "clamp(132.53px, calc(52.6729px + 24.9554vw), 691.53px)",
+    "--tw-fluid-clamp-min_287_5-clamp-max_1327_64": "clamp(287.5px, calc(138.909px + 46.4348vw), 1327.64px)",
+    "--tw-fluid-clamp-min_387_52-clamp-max_786_81": "clamp(387.52px, calc(330.479px + 17.8254vw), 786.81px)",
+    "--tw-fluid-clamp-min_403_04-clamp-max_1073_84": "clamp(403.04px, calc(307.211px + 29.9464vw), 1073.84px)",
+    "--tw-fluid-clamp-min_96_63-clamp-max_204_44": "clamp(96.63px, calc(81.2286px + 4.81295vw), 204.44px)",
+    "--tw-fluid-clamp-min_114_07-clamp-max_303_73": "clamp(114.07px, calc(86.9757px + 8.46697vw), 303.73px)",
+    "--tw-fluid-clamp-min_62_5-clamp-max_110_42": "clamp(62.5px, calc(55.6543px + 2.13929vw), 110.42px)",
+    "--tw-fluid-clamp-min_117_5-clamp-max_197_36": "clamp(117.5px, calc(106.091px + 3.56518vw), 197.36px)",
+    "--tw-fluid-clamp-min_9_38-clamp-max_29_34": "clamp(9.38px, calc(6.52857px + .891071vw), 29.34px)",
+    "--tw-fluid-clamp-min_7_75-clamp-max_15_74": "clamp(7.75px, calc(6.60857px + .356696vw), 15.74px)",
+    "--tw-fluid-clamp-min_73_76-clamp-max_273_4": "clamp(73.76px, calc(45.24px + 8.9125vw), 273.4px)",
+    "--tw-fluid-clamp-min_28_38-clamp-max_80_29": "clamp(28.38px, calc(20.9643px + 2.31741vw), 80.29px)",
+    "--tw-fluid-clamp-min_49_38-clamp-max_69_34": "clamp(49.38px, calc(46.5286px + .891071vw), 69.34px)",
+    "--tw-fluid-clamp-min_23-clamp-max_54_94": "clamp(23px, calc(18.4371px + 1.42589vw), 54.94px)",
+    "--tw-fluid-clamp-min_27_88-clamp-max_31_87": "clamp(27.88px, calc(27.31px + .178125vw), 31.87px)",
+    "--tw-fluid-clamp-min_15_88-clamp-max_19_87": "clamp(15.88px, calc(15.31px + .178125vw), 19.87px)",
+    "--tw-fluid-clamp-min_23_25-clamp-max_47_21": "clamp(23.25px, calc(19.8271px + 1.06964vw), 47.21px)",
+    "--tw-fluid-clamp-min_70_02-clamp-max_389_45": "clamp(70.02px, calc(24.3871px + 14.2603vw), 389.45px)",
+    "--tw-fluid-clamp-min_-1_5-clamp-max_46_42": "clamp(-1.5px, calc(-8.34572px + 2.13929vw), 46.42px)"
+  },
+  "breakpoints": [
+    "min 40rem",
+    "min 48rem",
+    "min 64rem",
+    "min 80rem",
+    "min 120rem",
+    "min 160rem",
+    "max 640px",
+    "min 320px",
+    "min 390px",
+    "min 1512px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "button",
+      "name": "Close menu",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff4c",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 31,
+        "gutterRight": 31,
+        "width": 1377,
+        "gutterTop": 99,
+        "gutterBottom": 37
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "normal 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 16,
+        "childWidthsPct": [
+          96,
+          9,
+          9,
+          13,
+          13,
+          20,
+          20,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "WHERE OPPORTUNITY TAKES ROOT",
+          "family": "SerrifCompressed",
+          "size": 212.43,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.018,
+          "transform": "uppercase",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "SerrifCompressed",
+        "size": 212.43,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.018,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "opportunity",
+      "media": {
+        "img": 13,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "h-[50vh]",
+      "y": 900,
+      "height": 450,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "ui-grid.relative",
+      "y": 1350,
+      "height": 567,
+      "position": "relative",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px 31.485px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 392,
+        "gutterRight": 392,
+        "width": 656,
+        "gutterTop": 268,
+        "gutterBottom": -17
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "normal 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Opportunity enables people to fulfill their highest potential. Opportunity enab…",
+          "family": "Serrif",
+          "size": 39.49,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 50,
+      "excerpt": "opportunity so people and communities thrive. It is rooted in a",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "relative.mt-100",
+      "y": 1757,
+      "height": 808,
+      "position": "relative",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px 0px 60px",
+      "margin": "-160px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 8,
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "circular-trail__inner.ui-grid",
+      "y": 2567,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px 31.485px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 490,
+        "gutterRight": 490,
+        "width": 459,
+        "gutterTop": 240,
+        "gutterBottom": 386
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "normal 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          96,
+          56
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What does opportunity mean today? What does opportunity mean today?",
+          "family": "Serrif",
+          "size": 39.49,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 22,
+      "excerpt": "change over time. So we asked the question:",
+      "media": {
+        "img": 11
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": null,
+      "y": 6167,
+      "height": 332,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 206,
+        "gutterRight": 554,
+        "width": 681,
+        "gutterTop": 28,
+        "gutterBottom": -22
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Our partners at GALLUP GALLUP asked the",
+          "family": "Serrif",
+          "size": 39.49,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.051,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 39.49,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.051,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 39,
+      "excerpt": "American people to share their",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "mt-50.md:-mt-80",
+      "y": 6419,
+      "height": 1350,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "-80px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 8,
+        "svg": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "sticky.top-0",
+      "y": 7771,
+      "height": 900,
+      "position": "sticky",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 23,
+        "gutterRight": 639,
+        "width": 778,
+        "gutterTop": 37,
+        "gutterBottom": 18
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Lets go deeper... Lets go deeper...",
+          "family": "Serrif",
+          "size": 21.88,
+          "weight": "400",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#12110e"
+        },
+        {
+          "tag": "h3",
+          "text": "67% of Americans 67% of Americans",
+          "family": "Mona Sans",
+          "size": 46.97,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#e7e72b"
+        },
+        {
+          "tag": "h3",
+          "text": "About 7 in 10 adults About 7 in 10 adults",
+          "family": "Mona Sans",
+          "size": 46.97,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#e7e72b"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Share Share"
+      ],
+      "words": 83,
+      "excerpt": "agree their community is worth investing",
+      "media": {
+        "img": 3,
+        "canvas": 3,
+        "svg": 3
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "chapter-03",
+      "y": 14072,
+      "height": 264,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px 0px 43px",
+      "border": null,
+      "content": {
+        "gutterLeft": 490,
+        "gutterRight": 490,
+        "width": 459,
+        "gutterTop": 0,
+        "gutterBottom": -17
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Americans remain hopeful about the future Americans remain hopeful about the fu…",
+          "family": "Serrif",
+          "size": 39.49,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 28,
+      "excerpt": "challenges are engaged in shaping solutions.",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "sticky.top-0",
+      "y": 14379,
+      "height": 900,
+      "position": "sticky",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 101,
+        "gutterRight": 110,
+        "width": 1229,
+        "gutterTop": 129,
+        "gutterBottom": 368
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          31,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "50% of adults 50% of adults",
+          "family": "Mona Sans",
+          "size": 46.97,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#12110e"
+        },
+        {
+          "tag": "h2",
+          "text": "64% of adults 64% of adults",
+          "family": "Mona Sans",
+          "size": 46.97,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Share Share"
+      ],
+      "words": 44,
+      "excerpt": "say their community is moving",
+      "media": {
+        "img": 2,
+        "canvas": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "chapter-04",
+      "y": 17980,
+      "height": 1794,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px 0px 69.945px",
+      "border": null,
+      "content": {
+        "gutterLeft": 206,
+        "gutterRight": 206,
+        "width": 1029,
+        "gutterTop": 217,
+        "gutterBottom": -12
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "normal 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          96,
+          47,
+          96,
+          34,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What creates or limits opportunity? What creates or limits opportunity?",
+          "family": "Serrif",
+          "size": 39.49,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#12110e"
+        },
+        {
+          "tag": "h3",
+          "text": "Agency is uneven Agency is uneven",
+          "family": "Serrif",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#12110e"
+        },
+        {
+          "tag": "h4",
+          "text": "1 in 3 1 in 3",
+          "family": "Mona Sans",
+          "size": 46.97,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#12110e"
+        },
+        {
+          "tag": "h3",
+          "text": "Participation gap Participation gap",
+          "family": "Serrif",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 15.88,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 130,
+      "excerpt": "conditions are more likely to feel in control of their lives and",
+      "media": {
+        "img": 5,
+        "svg": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "space-y-16.col-span-full",
+      "y": 19983,
+      "height": 432,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 31,
+        "gutterRight": 638,
+        "width": 771,
+        "gutterTop": 0,
+        "gutterBottom": -17
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15.485px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EDUCATION",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#12110e"
+        },
+        {
+          "tag": "h3",
+          "text": "Access to quality education helps children thrive and strengthens communities f…",
+          "family": "Serrif",
+          "size": 61.95,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 35,
+      "excerpt": "A quality education opens doors for opportunity to flourish by",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 20415,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 467,
+        "gutterRight": 95,
+        "width": 877,
+        "gutterTop": 151,
+        "gutterBottom": -318
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          181,
+          2,
+          2,
+          0,
+          199
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "57% of adults",
+          "family": "Mona Sans",
+          "size": 50.54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#e7e72b"
+        },
+        {
+          "tag": "h2",
+          "text": "80% of adults",
+          "family": "Mona Sans",
+          "size": 50.54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#e7e72b"
+        },
+        {
+          "tag": "h2",
+          "text": "61% of adults",
+          "family": "Mona Sans",
+          "size": 50.54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#e7e72b"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 20.98,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Share Share"
+      ],
+      "words": 89,
+      "excerpt": "who acknowledge local schools offer students a quality education agree their community",
+      "media": {
+        "img": 3,
+        "canvas": 3,
+        "svg": 4
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "col-span-full",
+      "y": 21315,
+      "height": 1204,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "section",
+      "name": "mb-fluid-[80,142]",
+      "y": 23255,
+      "height": 1800,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 0px 138.02px",
+      "border": null,
+      "content": {
+        "gutterLeft": 205,
+        "gutterRight": 728,
+        "width": 507,
+        "gutterTop": 200,
+        "gutterBottom": 1090
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "normal 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          35,
+          23,
+          80
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "WORKING TO GROW WORKING TO GROW",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "INVESTING IN TEACHING INVESTING IN TEACHING",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "HELPING SCHOOL SYSTEMS HELPING SCHOOL SYSTEMS",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "EDUCATION PROGRAM EDUCATION PROGRAM"
+      ],
+      "words": 98,
+      "excerpt": "spark, scale and sustain successful interventions so all students",
+      "media": {
+        "img": 6,
+        "svg": 1
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "space-y-16.col-span-full",
+      "y": 25333,
+      "height": 283,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 31,
+        "gutterRight": 705,
+        "width": 703,
+        "gutterTop": 0,
+        "gutterBottom": -17
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15.485px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ENVIRONMENT",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#12110e"
+        },
+        {
+          "tag": "h3",
+          "text": "Nature supports thriving, resilient communities Nature supports thriving, resil…",
+          "family": "Serrif",
+          "size": 61.95,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 29,
+      "excerpt": "Opportunity is deeply connected to a healthy natural environment,",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 25616,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 306,
+        "gutterRight": 467,
+        "width": 667,
+        "gutterTop": 151,
+        "gutterBottom": 94
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          181,
+          2,
+          2,
+          0,
+          199
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Roughly 8 in 10",
+          "family": "Mona Sans",
+          "size": 50.54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#e7e72b"
+        },
+        {
+          "tag": "h2",
+          "text": "2 in 3 U.S. adults",
+          "family": "Mona Sans",
+          "size": 50.54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#e7e72b"
+        },
+        {
+          "tag": "h2",
+          "text": "57% of adults",
+          "family": "Mona Sans",
+          "size": 50.54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#e7e72b"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 20.98,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Share Share"
+      ],
+      "words": 81,
+      "excerpt": "adults acknowledge the role nature plays in improving the lives of community",
+      "media": {
+        "img": 3,
+        "canvas": 3,
+        "svg": 4
+      }
+    },
+    {
+      "i": 19,
+      "tag": "div",
+      "name": "col-span-full",
+      "y": 26516,
+      "height": 1204,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 20,
+      "tag": "section",
+      "name": "mb-fluid-[80,142]",
+      "y": 28492,
+      "height": 1800,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#999999",
+      "padding": "0px",
+      "margin": "0px 0px 138.02px",
+      "border": null,
+      "content": {
+        "gutterLeft": 205,
+        "gutterRight": 728,
+        "width": 507,
+        "gutterTop": 206,
+        "gutterBottom": 1097
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "normal 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          35,
+          23,
+          80
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "BUILD THE CASE BUILD THE CASE",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "ESTABLISH NEW MODELS ESTABLISH NEW MODELS",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "PUSH SYSTEMS PUSH SYSTEMS",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 15.88,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "ENVIRONMENT PROGRAM ENVIRONMENT PROGRAM"
+      ],
+      "words": 102,
+      "excerpt": "and networks of support to protect river and ocean resources for",
+      "media": {
+        "img": 6,
+        "svg": 1
+      }
+    },
+    {
+      "i": 21,
+      "tag": "div",
+      "name": "space-y-16.col-span-full",
+      "y": 30570,
+      "height": 358,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 31,
+        "gutterRight": 710,
+        "width": 699,
+        "gutterTop": 0,
+        "gutterBottom": -17
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15.485px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "HOME REGION",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#12110e"
+        },
+        {
+          "tag": "h3",
+          "text": "Stronger communities support stronger pathways to opportunity Stronger communit…",
+          "family": "Serrif",
+          "size": 61.95,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#12110e"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.88,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 30,
+      "excerpt": "Opportunity grows when people can learn, earn and build",
+      "media": {}
+    },
+    {
+      "i": 22,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 30927,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 467,
+        "gutterRight": 467,
+        "width": 505,
+        "gutterTop": 151,
+        "gutterBottom": 229
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          181,
+          2,
+          2,
+          0,
+          199
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "44% of non-metro",
+          "family": "Mona Sans",
+          "size": 50.54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#e7e72b"
+        },
+        {
+          "tag": "h2",
+          "text": "Fewer than 1 in 4",
+          "family": "Mona Sans",
+          "size": 50.54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.019,
+          "transform": "none",
+          "color": "#e7e72b"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 20.98,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Share Share"
+      ],
+      "words": 87,
+      "excerpt": "residents are less likely than those in more urban areas to report",
+      "media": {
+        "img": 3,
+        "canvas": 3,
+        "svg": 4
+      }
+    },
+    {
+      "i": 23,
+      "tag": "div",
+      "name": "col-span-full",
+      "y": 31827,
+      "height": 1204,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 24,
+      "tag": "div",
+      "name": "ui-grid.relative",
+      "y": 33803,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "31.485px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 206,
+        "gutterRight": 728,
+        "width": 507,
+        "gutterTop": 219,
+        "gutterBottom": 206
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "normal 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          35,
+          35,
+          23,
+          80
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "BUILDING CIVIC INFRASTRUCTURE BUILDING CIVIC INFRASTRUCTURE",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "ENHANCING ECONOMIC OPPORTUNITY ENHANCING ECONOMIC OPPORTUNITY",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "HIGH-QUALITY EDUCATION HIGH-QUALITY EDUCATION",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "HELPING RESIDENTS HELPING RESIDENTS",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.035,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 15.88,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "HOME REGION PROGRAM HOME REGION PROGRAM"
+      ],
+      "words": 153,
+      "excerpt": "by improving access to resources that enable residents to thrive,",
+      "media": {
+        "img": 12,
+        "svg": 1
+      }
+    },
+    {
+      "i": 25,
+      "tag": "div",
+      "name": "col-span-full.row-start-1",
+      "y": 36643,
+      "height": 123,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 26,
+      "tag": "div",
+      "name": "col-span-full.row-start-3",
+      "y": 37310,
+      "height": 412,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 27,
+      "tag": "div",
+      "name": "col-span-full.row-start-5",
+      "y": 38355,
+      "height": 335,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 28,
+      "tag": "svg",
+      "name": "pointer-events-none.size-full",
+      "y": 36603,
+      "height": 1874,
+      "position": "static",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 29,
+      "tag": "div",
+      "name": "pointer-events-none.fixed",
+      "y": 829,
+      "height": 71,
+      "position": "fixed",
+      "background": "#fbf3e6",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 605,
+        "gutterRight": 646,
+        "width": 189,
+        "gutterTop": 13,
+        "gutterBottom": 14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 12px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          18,
+          3,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "F",
+          "family": "Mona Sans",
+          "size": 15.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Mona Sans",
+        "size": 15.88,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.04,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "FULL REPORT FULL REPORT"
+      ],
+      "words": 23,
+      "excerpt": "05",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 30,
+      "tag": "footer",
+      "name": "footer",
+      "y": 265,
+      "height": 635,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#999999",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 108,
+        "gutterRight": 77,
+        "width": 1256,
+        "gutterTop": 395,
+        "gutterBottom": -299
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 8,
+        "gap": "77.43px 15.485px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          59,
+          35
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Explore related content",
+          "family": "Serrif",
+          "size": 38.72,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#fffcf8"
+        },
+        {
+          "tag": "h4",
+          "text": "REPORT",
+          "family": "Mona Sans",
+          "size": 11.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#fffcf8"
+        },
+        {
+          "tag": "h3",
+          "text": "Building Opportunity Through Stronger Communities",
+          "family": "Serrif",
+          "size": 21.49,
+          "weight": "400",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fffcf8"
+        },
+        {
+          "tag": "h4",
+          "text": "REPORT",
+          "family": "Mona Sans",
+          "size": 11.88,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.04,
+          "transform": "uppercase",
+          "color": "#fffcf8"
+        }
+      ],
+      "bodyType": {
+        "family": "Serrif",
+        "size": 21.49,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "WALTON FAMILY FOUNDATION WEBSITE",
+        "PRIVACY POLICY",
+        "TERMS OF USE",
+        "REPORT Building Opportunity Through Str…",
+        "REPORT Working with Nature to Strengthe…"
+      ],
+      "words": 50,
+      "excerpt": "We'll continue to share what we're learning about opportunity in America—and how",
+      "media": {
+        "img": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 31,
+      "tag": "div",
+      "name": "pointer-events-none.fixed",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#12110e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 185,
+    "title": "Where Opportunity Takes Root",
+    "award": "HM",
+    "url": "https://opportunity.waltonfamilyfoundation.org/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/where-opportunity-takes-root",
+    "categories": [
+      "Business & Corporate",
+      "Culture & Education",
+      "Social responsibility"
+    ]
+  }
+}

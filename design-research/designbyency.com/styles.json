@@ -1,0 +1,1692 @@
+{
+  "page": {
+    "url": "https://www.designbyency.com/",
+    "title": "Squarespace Website Designer UK | Design by Ency",
+    "description": "UK Squarespace website designer and Circle Platinum Partner: 250+ sites, 50+ five-star reviews. Custom builds from £3,000, or managed for you from £150 a month.",
+    "lang": "en-GB",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 18644,
+    "generator": "Astro v7.3.3"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.551
+      },
+      {
+        "value": "#0000ff",
+        "share": 0.241
+      },
+      {
+        "value": "#16105f",
+        "share": 0.083
+      },
+      {
+        "value": "#201878",
+        "share": 0.053
+      },
+      {
+        "value": "#f6f7ff",
+        "share": 0.049
+      },
+      {
+        "value": "#ffd60a",
+        "share": 0.006
+      },
+      {
+        "value": "#fff6c2",
+        "share": 0.006
+      },
+      {
+        "value": "#e6e8fb",
+        "share": 0.006
+      },
+      {
+        "value": "#07052e",
+        "share": 0.003
+      },
+      {
+        "value": "#2c2392",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff1f",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff29",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#34376b",
+        "share": 0.407
+      },
+      {
+        "value": "#16105f",
+        "share": 0.233
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.195
+      },
+      {
+        "value": "#d2d0fa",
+        "share": 0.091
+      },
+      {
+        "value": "#0000ff",
+        "share": 0.025
+      },
+      {
+        "value": "#565a92",
+        "share": 0.024
+      },
+      {
+        "value": "#ffd60a",
+        "share": 0.012
+      },
+      {
+        "value": "#cfd0ff",
+        "share": 0.011
+      },
+      {
+        "value": "#a5a3ff",
+        "share": 0.002
+      },
+      {
+        "value": "#3b3578",
+        "share": 0.001
+      }
+    ],
+    "borders": [
+      {
+        "value": "#160e5d47",
+        "share": 0.404
+      },
+      {
+        "value": "#ffffff57",
+        "share": 0.346
+      },
+      {
+        "value": "#ffffff29",
+        "share": 0.115
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.077
+      },
+      {
+        "value": "#16105f",
+        "share": 0.038
+      },
+      {
+        "value": "#0000ff",
+        "share": 0.019
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.601,
+      "text": 0.195
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.006,
+        "transform": "none",
+        "chars": 6173
+      },
+      {
+        "family": "Aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1257
+      },
+      {
+        "family": "Aeonik",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.014,
+        "transform": "none",
+        "chars": 1244
+      },
+      {
+        "family": "Aeonik",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.017,
+        "transform": "none",
+        "chars": 997
+      },
+      {
+        "family": "Aeonik",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 569
+      },
+      {
+        "family": "Aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 324
+      },
+      {
+        "family": "Geist Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.033,
+        "transform": "uppercase",
+        "chars": 265
+      },
+      {
+        "family": "Geist Mono",
+        "size": 14.3,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.021,
+        "transform": "uppercase",
+        "chars": 194
+      },
+      {
+        "family": "Aeonik",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.006,
+        "transform": "none",
+        "chars": 162
+      },
+      {
+        "family": "Caveat",
+        "size": 33.6,
+        "weight": "500",
+        "lineHeight": 1.05,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 153
+      },
+      {
+        "family": "Aeonik",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 145
+      },
+      {
+        "family": "Aeonik",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.029,
+        "transform": "none",
+        "chars": 142
+      },
+      {
+        "family": "Aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.006,
+        "transform": "none",
+        "chars": 138
+      },
+      {
+        "family": "Bigger Display",
+        "size": 104,
+        "weight": "900",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.005,
+        "transform": "uppercase",
+        "chars": 122
+      }
+    ],
+    "loadedFonts": [
+      "Caveat 500 normal",
+      "Geist Mono 400 normal",
+      "Aeonik 400 normal",
+      "Bigger Display 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 89
+    },
+    {
+      "px": 32,
+      "uses": 81
+    },
+    {
+      "px": 16,
+      "uses": 75
+    },
+    {
+      "px": 20,
+      "uses": 74
+    },
+    {
+      "px": 8,
+      "uses": 70
+    },
+    {
+      "px": 9,
+      "uses": 63
+    },
+    {
+      "px": 48,
+      "uses": 61
+    },
+    {
+      "px": 6,
+      "uses": 57
+    },
+    {
+      "px": 17,
+      "uses": 57
+    },
+    {
+      "px": 72,
+      "uses": 48
+    },
+    {
+      "px": 10,
+      "uses": 41
+    },
+    {
+      "px": 11,
+      "uses": 40
+    },
+    {
+      "px": 5,
+      "uses": 39
+    },
+    {
+      "px": 28,
+      "uses": 32
+    },
+    {
+      "px": 13,
+      "uses": 30
+    },
+    {
+      "px": 1,
+      "uses": 24
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 30
+    },
+    {
+      "value": "1600px",
+      "uses": 26
+    },
+    {
+      "value": "36px",
+      "uses": 26
+    },
+    {
+      "value": "12px",
+      "uses": 22
+    },
+    {
+      "value": "28px",
+      "uses": 20
+    },
+    {
+      "value": "20px",
+      "uses": 15
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 168
+      },
+      {
+        "value": "1.1s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 99
+      },
+      {
+        "value": "0.8s cubic-bezier(0.77, 0, 0.175, 1)",
+        "uses": 17
+      },
+      {
+        "value": "0.35s cubic-bezier(0.77, 0, 0.175, 1)",
+        "uses": 12
+      },
+      {
+        "value": "1.2s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 11
+      },
+      {
+        "value": "0.3s cubic-bezier(0.77, 0, 0.175, 1)",
+        "uses": 6
+      }
+    ],
+    "cssAnimatedElements": 18,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--size-unit": "16",
+    "--size-container-ideal": "390",
+    "--size-container-min": "320px",
+    "--size-container-max": "479px",
+    "--size-container": "clamp(var(--size-container-min), 100vw, var(--size-container-max))",
+    "--size-font": "calc(var(--size-container) / (var(--size-container-ideal) / var(--size-unit)))",
+    "--container-padding": "1em",
+    "--spacing-section": "5em",
+    "--header-h": "4.5em",
+    "--color-blue": "#00f",
+    "--color-blue-deep": "#0000c4",
+    "--color-blue-light": "#4b4bff",
+    "--color-ink": "#16105f",
+    "--color-ink-2": "#201878",
+    "--color-ink-3": "#2c2392",
+    "--color-white": "#fff",
+    "--color-paper": "#f6f7ff",
+    "--color-mist": "#e6e8fb",
+    "--color-text": "#16105f",
+    "--color-body": "#34376b",
+    "--color-muted": "#565a92",
+    "--color-graphite": "#4a4a4a",
+    "--color-verdigris": "#5db496",
+    "--color-verdigris-deep": "#2f8a6d",
+    "--color-ill-skin": "#f2c8a6",
+    "--color-ill-hair": "#3b2a24",
+    "--color-on-ink": "#fff",
+    "--color-on-ink-body": "#d2d0fa",
+    "--color-on-ink-muted": "#b3b0f2",
+    "--color-on-blue": "#fff",
+    "--color-on-blue-soft": "#cfd0ff",
+    "--color-line": "#16105f1f",
+    "--color-line-strong": "#16105f47",
+    "--color-line-on-dark": "#ffffff29",
+    "--color-line-on-dark-strong": "#ffffff57",
+    "--color-live": "#3fbf7f",
+    "--color-note": "#fff6c2",
+    "--color-note-rule": "#0000ff29",
+    "--color-note-margin": "#ff565680",
+    "--color-cross": "#f03a3a",
+    "--color-verified": "#14a800",
+    "--color-star-on-white": "#e0a800",
+    "--color-yellow": "#ffd60a",
+    "--gradient-blue": "linear-gradient(90deg, #00f 0%, #6166ff 100%)",
+    "--gradient-blue-down": "linear-gradient(180deg, #00f 0%, #6166ff 100%)",
+    "--gradient-tile": "linear-gradient(135deg, #6166ff 0%, #00f 75%)",
+    "--font-display": "\"Bigger Display\", \"Arial Narrow\", Impact, sans-serif",
+    "--font-sans": "\"Aeonik\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "--font-hand": "\"Caveat\", \"Bradley Hand\", cursive",
+    "--font-mono": "\"Geist Mono\", ui-monospace, \"SF Mono\", Menlo, Consolas, monospace",
+    "--spacing-xs": ".25em",
+    "--spacing-sm": ".5em",
+    "--spacing-md": "1em",
+    "--spacing-lg": "1.5em",
+    "--spacing-xl": "2em",
+    "--spacing-2xl": "3em",
+    "--spacing-3xl": "4em",
+    "--spacing-4xl": "6em",
+    "--radius-sm": ".5em",
+    "--radius-card": "1.25em",
+    "--radius-pill": "100em",
+    "--radius-section": "2.5em",
+    "--ease-glide": "cubic-bezier(.19, 1, .22, 1)",
+    "--ease-inout": "cubic-bezier(.77, 0, .175, 1)",
+    "--dur-hover": ".5s",
+    "--dur-reveal": "1.1s"
+  },
+  "breakpoints": [],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 2067,
+      "height": 80,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#3b3578",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1172,
+        "gutterRight": 128,
+        "width": 140,
+        "gutterTop": 30,
+        "gutterBottom": 12
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "👋",
+          "family": "Aeonik",
+          "size": 21.6,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#3b3578"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "👋 Book a call"
+      ],
+      "words": 4,
+      "excerpt": "Book a call",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "hero",
+      "y": 0,
+      "height": 804,
+      "position": "relative",
+      "background": "#0000ff",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px 0px 68px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 455,
+        "width": 937,
+        "gutterTop": 144,
+        "gutterBottom": 140
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          55,
+          43,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "WEBSITES THAT KEEPGETTING BETTER",
+          "family": "Aeonik",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.014,
+        "transform": "none"
+      },
+      "labels": [
+        "Book a free call",
+        "Website health check"
+      ],
+      "words": 73,
+      "excerpt": "I’m Nick, a Squarespace website designer based in the UK. I design",
+      "media": {
+        "img": 1,
+        "svg": 4
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "proof",
+      "y": 736,
+      "height": 200,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": true,
+      "color": "#34376b",
+      "padding": "0px",
+      "margin": "-68px 0px -40px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          176,
+          176,
+          176,
+          176
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 44
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "signs",
+      "y": 896,
+      "height": 833,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#16105f",
+      "padding": "165.6px 0px 144px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 173,
+        "width": 1220,
+        "gutterTop": 166,
+        "gutterBottom": 191
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "64px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "IS THIS YOU?",
+          "family": "Bigger Display",
+          "size": 104,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#16105f"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.006,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 89,
+      "excerpt": "Most people who get in touch aren’t starting from nothing. They’ve got",
+      "media": {
+        "svg": 6
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "fix",
+      "y": 1729,
+      "height": 1296,
+      "position": "static",
+      "background": "#16105f",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 165,
+        "gutterRight": 165,
+        "width": 1110,
+        "gutterTop": 137,
+        "gutterBottom": 164
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          203,
+          203
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "THAT'S THE BIT I FIX",
+          "family": "Bigger Display",
+          "size": 184,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.014,
+        "transform": "none"
+      },
+      "labels": [
+        "See my work",
+        "or see what’s included"
+      ],
+      "words": 59,
+      "excerpt": "I build the site, then I stick around. Fresh pages, fixes and",
+      "media": {
+        "img": 25,
+        "svg": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "help",
+      "y": 3025,
+      "height": 1115,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#34376b",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 9,
+        "width": 1384,
+        "gutterTop": 137,
+        "gutterBottom": 184
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "HOW I CAN HELP",
+          "family": "Bigger Display",
+          "size": 104,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#16105f"
+        },
+        {
+          "tag": "h3",
+          "text": "Website Health Check",
+          "family": "Aeonik",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#16105f"
+        },
+        {
+          "tag": "h3",
+          "text": "Custom Website Design",
+          "family": "Aeonik",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#16105f"
+        },
+        {
+          "tag": "h3",
+          "text": "Managed-For-You Website",
+          "family": "Aeonik",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#16105f"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "See the health check",
+        "See custom builds",
+        "See Managed-For-You",
+        "See the SEO plan",
+        "See the add-ons",
+        "See white label"
+      ],
+      "words": 280,
+      "excerpt": "Six ways in, from a one-off audit to a site I build",
+      "media": {
+        "svg": 15
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "services",
+      "y": 4140,
+      "height": 832,
+      "position": "relative",
+      "background": "#0000ff",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "144px 0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 368,
+        "gutterRight": 368,
+        "width": 704,
+        "gutterTop": 144,
+        "gutterBottom": 309
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "EVERYTHING YOUR SITE NEEDS, EITHER WAY",
+          "family": "Bigger Display",
+          "size": 104,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.014,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 57,
+      "excerpt": "Whichever path you take, every project is custom-built and covers the lot",
+      "media": {
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "pricing",
+      "y": 4972,
+      "height": 1351,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#16105f",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 128,
+        "width": 1265,
+        "gutterTop": 138,
+        "gutterBottom": 167
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 64px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          53,
+          28
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "HANDLED FOR YOU, OR HANDED TO YOU",
+          "family": "Bigger Display",
+          "size": 104,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#16105f"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.006,
+        "transform": "none"
+      },
+      "labels": [
+        "I want you to handle everything",
+        "I want full control of the site",
+        "Build your quote",
+        "Book a free call"
+      ],
+      "words": 136,
+      "excerpt": "I build your site custom, then run it for you under the",
+      "media": {
+        "svg": 8
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "work__pin",
+      "y": 6322,
+      "height": 900,
+      "position": "sticky",
+      "background": "#0000ff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "80px 0px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 41,
+        "width": 1352,
+        "gutterTop": 155,
+        "gutterBottom": 124
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 8,
+        "childWidthsPct": [
+          29,
+          29,
+          29,
+          29,
+          29,
+          29,
+          29,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "RECENT WORK, REAL RESULTS",
+          "family": "Bigger Display",
+          "size": 160,
+          "weight": "900",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.006,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "True Capital",
+          "family": "Aeonik",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.029,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "StayWell Health",
+          "family": "Aeonik",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.029,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Social Signature",
+          "family": "Aeonik",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.029,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.006,
+        "transform": "none"
+      },
+      "labels": [
+        "See my portfolio",
+        "True Capital",
+        "StayWell Health",
+        "Social Signature",
+        "CMK Business Attorneys",
+        "THEY SAY Studios",
+        "CM Land Development",
+        "Ellen Keith Consulting",
+        "United Western Group"
+      ],
+      "words": 80,
+      "excerpt": "Squarespace 7.0 to 7.1 full redesign",
+      "media": {
+        "img": 8,
+        "svg": 4
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "about",
+      "y": 10102,
+      "height": 1391,
+      "position": "static",
+      "background": "#16105f",
+      "backgroundImage": false,
+      "color": "#d2d0fa",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 149,
+        "width": 1243,
+        "gutterTop": 144,
+        "gutterBottom": 144
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 80px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          46,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "YOUR SQUARESPACE WEBSITE DESIGNER, UK",
+          "family": "Bigger Display",
+          "size": 92,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.006,
+        "transform": "none"
+      },
+      "labels": [
+        "Book a free call",
+        "Read my story"
+      ],
+      "words": 163,
+      "excerpt": "I’m Nick Croce, a UK web designer. Most designers pick a lane.",
+      "media": {
+        "img": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "reviews",
+      "y": 11494,
+      "height": 1211,
+      "position": "static",
+      "background": "#0000ff",
+      "backgroundImage": false,
+      "color": "#16105f",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 48,
+        "width": 1345,
+        "gutterTop": 130,
+        "gutterBottom": 147
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 80px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          67,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WHAT CLIENTS SAY",
+          "family": "Bigger Display",
+          "size": 104,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.025,
+        "transform": "none"
+      },
+      "labels": [
+        "Read all testimonials",
+        "Declan Waters",
+        "Patrick Smith",
+        "Andrew Thompson",
+        "Jason Letteboer",
+        "Rachael Lewis",
+        "Haley Springer"
+      ],
+      "words": 111,
+      "excerpt": "“Nick built the Waters Agency website, and I couldn’t recommend him more",
+      "media": {
+        "img": 12,
+        "svg": 4
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "csteps.section",
+      "y": 12705,
+      "height": 969,
+      "position": "static",
+      "background": "#16105f",
+      "backgroundImage": false,
+      "color": "#d2d0fa",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 48,
+        "width": 1345,
+        "gutterTop": 137,
+        "gutterBottom": 167
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          30,
+          30,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "HOW IT WORKS",
+          "family": "Bigger Display",
+          "size": 104,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Onboarding",
+          "family": "Aeonik",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Design & development",
+          "family": "Aeonik",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Handover",
+          "family": "Aeonik",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.006,
+        "transform": "none"
+      },
+      "labels": [
+        "Book a free call"
+      ],
+      "words": 131,
+      "excerpt": "When you’ve approved the finished website, it goes live. On a custom",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "faq",
+      "y": 13674,
+      "height": 1474,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#34376b",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 65,
+        "width": 1328,
+        "gutterTop": 144,
+        "gutterBottom": 25
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 80px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          37,
+          51
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "GOOD QUESTIONS, STRAIGHT ANSWERS",
+          "family": "Bigger Display",
+          "size": 104,
+          "weight": "900",
+          "lineHeight": 1,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#16105f"
+        },
+        {
+          "tag": "h3",
+          "text": "Do you build websites on Squarespace or custom code?",
+          "family": "Aeonik",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#16105f"
+        },
+        {
+          "tag": "h3",
+          "text": "How much does a Squarespace website designer cost in the UK?",
+          "family": "Aeonik",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#16105f"
+        },
+        {
+          "tag": "h3",
+          "text": "Why hire a Squarespace specialist rather than a general web designer?",
+          "family": "Aeonik",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#16105f"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.006,
+        "transform": "none"
+      },
+      "labels": [
+        "Send me a message"
+      ],
+      "words": 839,
+      "excerpt": "Because Squarespace has quirks, and a designer who works across every platform",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "articles",
+      "y": 15148,
+      "height": 916,
+      "position": "static",
+      "background": "#f6f7ff",
+      "backgroundImage": false,
+      "color": "#16105f",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 47,
+        "gutterRight": 48,
+        "width": 1345,
+        "gutterTop": 137,
+        "gutterBottom": 144
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "48px 20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          30,
+          30,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "LATEST FROM THE BLOG",
+          "family": "Bigger Display",
+          "size": 104,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#16105f"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [
+        "See all 37 articles",
+        "BUSINESS · 9 MIN READ Law Firm Website …",
+        "BUSINESS · 9 MIN READ Small Business We…",
+        "BUSINESS · 9 MIN READ Websites for Trad…"
+      ],
+      "words": 77,
+      "excerpt": "Websites for Tradespeople (2026): What a Plumber or Electrician Actually Needs, and",
+      "media": {
+        "img": 3,
+        "svg": 3
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "close",
+      "y": 16065,
+      "height": 804,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "144px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 103,
+        "gutterRight": 661,
+        "width": 676,
+        "gutterTop": 186,
+        "gutterBottom": 215
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          16,
+          48,
+          41,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "READY FOR A WEBSITE THAT KEEPS GETTING BETTER?",
+          "family": "Bigger Display",
+          "size": 84,
+          "weight": "900",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.006,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.014,
+        "transform": "none"
+      },
+      "labels": [
+        "Book a free call",
+        "See my work"
+      ],
+      "words": 44,
+      "excerpt": "One designer on every call, page and fix, with 250+ sites and",
+      "media": {
+        "img": 3,
+        "svg": 2
+      }
+    },
+    {
+      "i": 16,
+      "tag": "footer",
+      "name": "contact",
+      "y": 16868,
+      "height": 1776,
+      "position": "static",
+      "background": "#0000ff",
+      "backgroundImage": false,
+      "color": "#16105f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 112,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 5,
+        "gap": "48px 72px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          33,
+          6,
+          14,
+          5,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "LET’S TALK",
+          "family": "Bigger Display",
+          "size": 417.6,
+          "weight": "900",
+          "lineHeight": 0.78,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "LET’S TALK . BOOK A FREE CALL LET’S TAL…",
+        "(book a free call)",
+        "send me a message",
+        "(opens in a new tab)",
+        "Home",
+        "About",
+        "Pricing",
+        "Portfolio",
+        "Blog",
+        "Testimonials"
+      ],
+      "words": 88,
+      "excerpt": "Based in the UK, working with clients worldwide across the US, Europe,",
+      "media": {
+        "img": 1,
+        "svg": 4
+      }
+    },
+    {
+      "i": 17,
+      "tag": "aside",
+      "name": "consent",
+      "y": 2882,
+      "height": 85,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#565a92",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "1px solid #160e5d47",
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 73,
+        "width": 1319,
+        "gutterTop": 21,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          54,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Accept cookies",
+          "family": "Aeonik",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.006,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Privacy policy",
+        "Accept cookies",
+        "No thanks"
+      ],
+      "words": 44,
+      "excerpt": "I use Google Analytics to see which pages get read, so I",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 126,
+    "title": "Design by Ency",
+    "award": "HM",
+    "url": "https://www.designbyency.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/design-by-ency",
+    "categories": [
+      "Promotional",
+      "Web & Interactive",
+      "Portfolio",
+      "Design Agencies"
+    ]
+  }
+}

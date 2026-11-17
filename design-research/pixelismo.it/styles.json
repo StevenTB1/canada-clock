@@ -1,0 +1,353 @@
+{
+  "page": {
+    "url": "https://www.pixelismo.it/",
+    "title": "Web Agency Vicenza | Branding, Siti Web ed E-commerce | Pixelismo",
+    "description": "Pixelismo è una web agency a Vicenza specializzata in branding, siti web, e-commerce ed esperienze digitali immersive, dalla strategia allo sviluppo.",
+    "lang": "it",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 1800,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#242adb",
+        "share": 0.924
+      },
+      {
+        "value": "#000000",
+        "share": 0.074
+      },
+      {
+        "value": "#111111",
+        "share": 0.001
+      },
+      {
+        "value": "#fafaf8",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#111111",
+        "share": 0.815
+      },
+      {
+        "value": "#fafaf8",
+        "share": 0.114
+      },
+      {
+        "value": "#000000",
+        "share": 0.071
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.076,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Google Sans Flex",
+        "size": 17.6,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 77
+      },
+      {
+        "family": "Google Sans Flex",
+        "size": 32,
+        "weight": "520",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 47
+      },
+      {
+        "family": "Google Sans Flex",
+        "size": 11.2,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 29
+      },
+      {
+        "family": "Google Sans Flex",
+        "size": 13.6,
+        "weight": "650",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "Google Sans Flex",
+        "size": 24,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 10
+      },
+      {
+        "family": "Google Sans Flex",
+        "size": 74.88,
+        "weight": "650",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.065,
+        "transform": "none",
+        "chars": 3
+      }
+    ],
+    "loadedFonts": [
+      "Google Sans Flex 1 1000 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 6
+    },
+    {
+      "px": 25,
+      "uses": 4
+    },
+    {
+      "px": 13,
+      "uses": 2
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 44,
+      "uses": 2
+    },
+    {
+      "px": 40,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 2
+    },
+    {
+      "value": "29.8958px",
+      "uses": 1
+    },
+    {
+      "value": "30px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.35s ease",
+        "uses": 22
+      },
+      {
+        "value": "0.46s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.9s cubic-bezier(0.76, 0, 0.24, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.22s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.82s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--type-size-ui": "0.85rem",
+    "--type-size-meta": "0.8rem",
+    "--type-size-body": "1.1rem",
+    "--type-size-body-md": "1.2rem",
+    "--type-size-body-lg": "1.3rem",
+    "--type-weight-body": "400",
+    "--type-weight-medium": "520",
+    "--type-weight-display": "580",
+    "--type-weight-ui": "650"
+  },
+  "breakpoints": [
+    "max 820px",
+    "min 640px",
+    "min 992px",
+    "min 821px",
+    "max 639px",
+    "max 991px",
+    "max 1180px",
+    "max 600px",
+    "min 1729px",
+    "min 480px"
+  ],
+  "tech": [
+    "gsap",
+    "three",
+    "barba"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "canvas",
+      "name": "canvas",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#242adb",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "intro",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#242adb",
+      "backgroundImage": false,
+      "color": "#111111",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 519,
+        "width": 873,
+        "gutterTop": 41,
+        "gutterBottom": 44
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "When ordinary isn’t enough, we make pixels work harder.",
+          "family": "Google Sans Flex",
+          "size": 32,
+          "weight": "520",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#111111"
+        },
+        {
+          "tag": "h1",
+          "text": "Web agency a Vicenza per branding, siti web, e- commerce ed esperienze digitali…",
+          "family": "Google Sans Flex",
+          "size": 17.6,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#111111"
+        }
+      ],
+      "bodyType": {
+        "family": "Google Sans Flex",
+        "size": 17.6,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 24,
+      "excerpt": "esperienze",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "Anteprima Works",
+      "y": 900,
+      "height": 900,
+      "position": "relative",
+      "background": "#242adb",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "iubenda-cs-banner",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#242adb",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 77,
+    "title": "Pixelismo Studio",
+    "award": "HM",
+    "url": "https://www.pixelismo.it/",
+    "awwwards": "https://www.awwwards.com/sites/pixelismo-studio-2",
+    "categories": [
+      "Design Agencies",
+      "Technology",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

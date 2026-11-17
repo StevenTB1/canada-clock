@@ -1,0 +1,938 @@
+{
+  "page": {
+    "url": "https://www.madeinmay.studio/",
+    "title": "Made in May",
+    "description": "Creative studio, based in Amsterdam & Vienna. We specialize in design and communication and work across Europe.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 9518,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#dddbe7",
+        "share": 0.731
+      },
+      {
+        "value": "#d6d4dd",
+        "share": 0.145
+      },
+      {
+        "value": "#070b00",
+        "share": 0.123
+      },
+      {
+        "value": "#edecf0",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      },
+      {
+        "value": "#2b2b2b",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#2b2b2b",
+        "share": 0.395
+      },
+      {
+        "value": "#070b00",
+        "share": 0.373
+      },
+      {
+        "value": "#dddbe7",
+        "share": 0.173
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.059
+      }
+    ],
+    "borders": [
+      {
+        "value": "#070b00",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Arial",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0.025,
+        "transform": "none",
+        "chars": 284
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 15,
+        "weight": "200",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.037,
+        "transform": "none",
+        "chars": 155
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 30,
+        "weight": "100",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "capitalize",
+        "chars": 93
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.05,
+        "transform": "uppercase",
+        "chars": 88
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.05,
+        "transform": "uppercase",
+        "chars": 51
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 88,
+        "weight": "100",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 88,
+        "weight": "100",
+        "lineHeight": 1,
+        "letterSpacing": 0.006,
+        "transform": "none",
+        "chars": 29
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 15,
+        "weight": "200",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.044,
+        "transform": "none",
+        "chars": 27
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.05,
+        "transform": "uppercase",
+        "chars": 26
+      },
+      {
+        "family": "Arial",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.022,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 88,
+        "weight": "100",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 21
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.025,
+        "transform": "uppercase",
+        "chars": 17
+      },
+      {
+        "family": "Arial",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0.046,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Newedge 666 Vf 1",
+        "size": 0,
+        "weight": "200",
+        "lineHeight": null,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 11
+      }
+    ],
+    "loadedFonts": [
+      "Newedge 666 Vf 1 100 800 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 57
+    },
+    {
+      "px": 16,
+      "uses": 38
+    },
+    {
+      "px": 12,
+      "uses": 21
+    },
+    {
+      "px": 72,
+      "uses": 18
+    },
+    {
+      "px": 4,
+      "uses": 17
+    },
+    {
+      "px": 8,
+      "uses": 12
+    },
+    {
+      "px": 2,
+      "uses": 11
+    },
+    {
+      "px": 5,
+      "uses": 10
+    },
+    {
+      "px": 64,
+      "uses": 4
+    },
+    {
+      "px": 52,
+      "uses": 4
+    },
+    {
+      "px": 17,
+      "uses": 4
+    },
+    {
+      "px": 60,
+      "uses": 3
+    },
+    {
+      "px": 32,
+      "uses": 2
+    },
+    {
+      "px": 1,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 112,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "160px",
+      "uses": 6
+    },
+    {
+      "value": "19px",
+      "uses": 6
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1s cubic-bezier(0.755, 0.05, 0.855, 0.06)",
+        "uses": 8
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 3
+      },
+      {
+        "value": "0.7s cubic-bezier(0.23, 1, 0.32, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.1s ease-in-out",
+        "uses": 2
+      },
+      {
+        "value": "0.3s cubic-bezier(0.55, 0.085, 0.68, 0.53)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 6,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--background-color--cloud": "var(--color-neutral--gray-880)",
+    "--text-color--text-primary": "var(--color-neutral--gray-170)",
+    "--color-neutral--gray-890": "#e0e0e3",
+    "--color-neutral--black": "#070b00",
+    "--button-color--border-primary<deleted|variable-4381acf2-b0d0-7272-af22-45c7016907e1>": "var(--color-brand--brand-peach)",
+    "--button-color--background-primary<deleted|variable-83998c52-3e31-51d0-9226-f419790a3b60>": "var(--color-brand--brand-peach)",
+    "--button-color--text-primary<deleted|variable-c5cdaba2-bbb1-ef6f-9762-1a05c299a56f>": "var(--color-neutral--white)",
+    "--button-color-hover--background-primary<deleted|variable-d36bcfa6-c29b-8213-7b0e-f730855e33a1>": "var(--color-brand--blue-600\\<deleted\\|variable-8a2b4e90-20ba-f906-884d-c77b87e66",
+    "--button-color-hover--text-primary<deleted|variable-ab35cdf6-d63c-17aa-16c0-5a6f560bc988>": "var(--color-neutral--white)",
+    "--button-color--border-secondary<deleted|variable-bebdfbec-8e94-bd9d-3f84-5a38d4f7c4e2>": "var(--color-brand--brand-peach)",
+    "--button-color--text-secondary<deleted|variable-16b77b8e-c2d5-ed8a-e58c-42027231e5cf>": "var(--color-brand--brand-peach)",
+    "--button-color-hover--border-secondary<deleted|variable-4eb09b48-2f14-e71b-a7f9-b17d2f3f9580>": "var(--color-brand--brand-peach)",
+    "--button-color-hover--background-secondary<deleted|variable-a118a147-a382-3b2d-0222-bad4bc4f9659>": "var(--color-brand--brand-peach)",
+    "--button-color-hover--text-secondary<deleted|variable-ae12ce9f-a071-63e7-d05c-7b9edc17c5b9>": "var(--color-neutral--white)",
+    "--color-neutral--white": "white",
+    "--color-neutral--gray-170": "#2b2b2b",
+    "--color-neutral--transparant": "#fff0",
+    "--background-color--offwhite": "var(--color-neutral--gray-930)",
+    "--color-neutral--gray-850": "#d6d4dd",
+    "--color-brand--brand-peach": "#ffe5b3",
+    "--color-neutral--gray-930": "#edecf0",
+    "--background-color--cloud-bright": "var(--color-neutral--gray-890)",
+    "--background-color--cloud-dark": "var(--color-neutral--gray-850)",
+    "--background-color--bright-green": "var(--color-neutral--gray-470)",
+    "--text-color--text-secondary": "var(--color-neutral--gray-880)",
+    "--background-color--background-success": "var(--color-system--success-green-light)",
+    "--background-color--background-error": "var(--color-system--error-red-light)",
+    "--background-color--brown-shade": "var(--color-neutral--gray-590)",
+    "--_spacing---color<deleted|variable-34236ace-edb6-c0e9-48e5-4debb1a87cb8>": "white",
+    "--background-color--black-green": "var(--color-neutral--black)",
+    "--_viewport-height---size": "97.6svh",
+    "--blendmode--difference": "white",
+    "--_spacing---0": "0rem",
+    "--_spacing---tiny": ".125rem",
+    "--_spacing---xxsmall": ".25rem",
+    "--_spacing---xsmall": ".5rem",
+    "--_spacing---small": "1rem",
+    "--_spacing---regular": "1.5rem",
+    "--_spacing---medium": "2rem",
+    "--_spacing---large": "3rem",
+    "--_spacing---xlarge": "4rem",
+    "--_spacing---xxlarge": "5rem",
+    "--_spacing---huge": "6rem",
+    "--_spacing---xhuge": "8rem",
+    "--_spacing---xxhuge": "12rem",
+    "--_spacing---padding-section--none": "0rem",
+    "--_spacing---padding-section--small": "3rem",
+    "--_spacing---padding-section--medium": "5rem",
+    "--_spacing---padding-section--large": "7rem",
+    "--_spacing---padding-section--xlarge": "9rem",
+    "--color-neutral--gray-880": "#dddbe7",
+    "--color-neutral--gray-590": "#969696",
+    "--color-neutral--gray-470": "#767876",
+    "--color-system--success-green": "#027a48",
+    "--color-system--success-green-light": "#ecfdf3",
+    "--color-system--error-red": "#b42318",
+    "--color-system--error-red-light": "#fef3f2",
+    "--text-color--text-success": "var(--color-system--success-green)",
+    "--text-color--text-error": "var(--color-system--error-red)",
+    "--color-brand--blue-600<deleted|variable-8a2b4e90-20ba-f906-884d-c77b87e66e56>": "#0e2499",
+    "--column-count": "12",
+    "--grid-main": "repeat(var(--column-count), minmax(0, 1fr))",
+    "--grid-1": "repeat(1, minmax(0, 1fr))",
+    "--grid-2": "repeat(2, minmax(0, 1fr))",
+    "--grid-3": "repeat(3, minmax(0, 1fr))",
+    "--grid-4": "repeat(4, minmax(0, 1fr))",
+    "--grid-5": "repeat(5, minmax(0, 1fr))",
+    "--grid-6": "repeat(6, minmax(0, 1fr))",
+    "--grid-7": "repeat(7, minmax(0, 1fr))",
+    "--grid-8": "repeat(8, minmax(0, 1fr))",
+    "--grid-9": "repeat(9, minmax(0, 1fr))",
+    "--grid-10": "repeat(10, minmax(0, 1fr))",
+    "--grid-11": "repeat(11, minmax(0, 1fr))",
+    "--grid-12": "repeat(12, minmax(0, 1fr))",
+    "--grid-gap-total": "calc(var(--grid-gap--main) * (var(--column-count) - 1))",
+    "--grid-width": "calc(min(var(--max-width--main), 100vw) - (var(--padding-horizontal--main) * 2))",
+    "--column-width": "calc((var(--grid-width) - var(--grid-gap-total)) / var(--column-count) + var(--g",
+    "--column-width--1": "calc(var(--column-width) * 1 - var(--grid-gap--main))",
+    "--column-width--2": "calc(var(--column-width) * 2 - var(--grid-gap--main))",
+    "--column-width--3": "calc(var(--column-width) * 3 - var(--grid-gap--main))"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 991px",
+    "max 767px",
+    "min 768px",
+    "max 1920px",
+    "max 1440px",
+    "min 992px",
+    "max 1372px",
+    "max 1024px",
+    "max 700px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "three",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "section_hero",
+      "y": 0,
+      "height": 868,
+      "position": "relative",
+      "background": "#dddbe7",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 665,
+        "gutterRight": 665,
+        "width": 111,
+        "gutterTop": 786,
+        "gutterBottom": 65
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "stretch",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Made in May creative studio",
+          "family": "Newedge 666 Vf 1",
+          "size": 88,
+          "weight": "100",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#dddbe7"
+        }
+      ],
+      "bodyType": {
+        "family": "Newedge 666 Vf 1",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.05,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "SCROLL TO ENTER"
+      ],
+      "words": 3,
+      "excerpt": "Scroll to enter",
+      "media": {
+        "img": 5,
+        "canvas": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "intro",
+      "y": 868,
+      "height": 615,
+      "position": "static",
+      "background": "#dddbe7",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "64px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          81,
+          67
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 1483,
+      "height": 1800,
+      "position": "relative",
+      "background": "#dddbe7",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px 0px 900px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "section_work",
+      "y": 2833,
+      "height": 900,
+      "position": "relative",
+      "background": "#d6d4dd",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 299,
+        "gutterRight": 160,
+        "width": 981,
+        "gutterTop": 406,
+        "gutterBottom": -163
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          19,
+          19,
+          19,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Things blossom in May",
+          "family": "Newedge 666 Vf 1",
+          "size": 88,
+          "weight": "100",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Newedge 666 Vf 1",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.05,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "SEE WORK"
+      ],
+      "words": 12,
+      "excerpt": "Things blossom in May",
+      "media": {
+        "img": 8,
+        "canvas": 4,
+        "svg": 4
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "section_studio",
+      "y": 5983,
+      "height": 868,
+      "position": "static",
+      "background": "#070b00",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 363,
+        "gutterRight": 1003,
+        "width": 75,
+        "gutterTop": 676,
+        "gutterBottom": 170
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "64px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          81,
+          67
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "THE STUDIO",
+          "family": "Newedge 666 Vf 1",
+          "size": 11,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.05,
+          "transform": "uppercase",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Newedge 666 Vf 1",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.05,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "THE STUDIO"
+      ],
+      "words": 2,
+      "excerpt": "The studio",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "section_approach",
+      "y": 6850,
+      "height": 900,
+      "position": "relative",
+      "background": "#dddbe7",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 773,
+        "gutterRight": 157,
+        "width": 511,
+        "gutterTop": 409,
+        "gutterBottom": 121
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Strategy",
+          "family": "Newedge 666 Vf 1",
+          "size": 88,
+          "weight": "100",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "Brandidea",
+          "family": "Newedge 666 Vf 1",
+          "size": 88,
+          "weight": "100",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "Design",
+          "family": "Newedge 666 Vf 1",
+          "size": 88,
+          "weight": "100",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "Campaign",
+          "family": "Newedge 666 Vf 1",
+          "size": 88,
+          "weight": "100",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Newedge 666 Vf 1",
+        "size": 88,
+        "weight": "100",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Brandidea",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "section_clients",
+      "y": 7750,
+      "height": 868,
+      "position": "static",
+      "background": "#d6d4dd",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 136,
+        "gutterRight": 235,
+        "width": 1069,
+        "gutterTop": 490,
+        "gutterBottom": 132
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          81,
+          81
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Signify",
+          "family": "Newedge 666 Vf 1",
+          "size": 30,
+          "weight": "100",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "capitalize",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "Jüdisches Museum Berlin",
+          "family": "Newedge 666 Vf 1",
+          "size": 30,
+          "weight": "100",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "capitalize",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "The Opposite House",
+          "family": "Newedge 666 Vf 1",
+          "size": 30,
+          "weight": "100",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "capitalize",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "Futuring Architectures",
+          "family": "Newedge 666 Vf 1",
+          "size": 30,
+          "weight": "100",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "capitalize",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Newedge 666 Vf 1",
+        "size": 30,
+        "weight": "100",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "capitalize"
+      },
+      "labels": [
+        "LIGHTING INDUSTRY Signify",
+        "CULTURE Jüdisches Museum Berlin",
+        "CREATIVE INDUSTRY The Opposite House",
+        "CONSULTANCY Futuring Architectures",
+        "CULTURE Forum Vor-/Nachlass",
+        "FISHINDUSTRY Keto"
+      ],
+      "words": 20,
+      "excerpt": "Jüdisches Museum Berlin",
+      "media": {
+        "svg": 6
+      }
+    },
+    {
+      "i": 8,
+      "tag": "footer",
+      "name": "footer",
+      "y": 8618,
+      "height": 900,
+      "position": "relative",
+      "background": "#070b00",
+      "backgroundImage": false,
+      "color": "#dddbe7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 173,
+        "gutterRight": 160,
+        "width": 1107,
+        "gutterTop": 457,
+        "gutterBottom": 109
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "hello@madeinmay.studio",
+          "family": "Newedge 666 Vf 1",
+          "size": 15,
+          "weight": "200",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.037,
+          "transform": "none",
+          "color": "#dddbe7"
+        }
+      ],
+      "bodyType": {
+        "family": "Newedge 666 Vf 1",
+        "size": 15,
+        "weight": "200",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.037,
+        "transform": "none"
+      },
+      "labels": [
+        "hello@madeinmay.studio",
+        "+43 670 703 51 60",
+        "Made in May Creative Studio e.U. Apollo…",
+        "Instagram",
+        "Linkedin",
+        "Terms & Conditions",
+        "Imprint",
+        "Privacy",
+        "SUBSCRIBE"
+      ],
+      "words": 29,
+      "excerpt": "Made in May Creative Studio e.U.",
+      "media": {
+        "svg": 7
+      }
+    }
+  ],
+  "listing": {
+    "rank": 68,
+    "title": "Made in May",
+    "award": "HM",
+    "url": "https://www.madeinmay.studio/",
+    "awwwards": "https://www.awwwards.com/sites/made-in-may",
+    "categories": [
+      "Design Agencies",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

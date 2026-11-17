@@ -1,0 +1,1140 @@
+{
+  "page": {
+    "url": "https://www.stefanobg.com/",
+    "title": "Stéfano Girardelli — Multidisciplinary Designer",
+    "description": "Multidisciplinary designer crafting for games, apps and the web, shipping across mobile, PC, console and VR.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 8822,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#141414",
+        "share": 0.757
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.229
+      },
+      {
+        "value": "#1b1b1b",
+        "share": 0.013
+      },
+      {
+        "value": "#232323",
+        "share": 0.001
+      },
+      {
+        "value": "#141414b3",
+        "share": 0
+      },
+      {
+        "value": "#e22356",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff8f",
+        "share": 0.285
+      },
+      {
+        "value": "#141414",
+        "share": 0.268
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.219
+      },
+      {
+        "value": "#14141499",
+        "share": 0.196
+      },
+      {
+        "value": "#e22356",
+        "share": 0.017
+      },
+      {
+        "value": "#ffffff73",
+        "share": 0.008
+      },
+      {
+        "value": "#e8e8e8",
+        "share": 0.006
+      }
+    ],
+    "borders": [
+      {
+        "value": "#12121238",
+        "share": 0.528
+      },
+      {
+        "value": "#ffffff1f",
+        "share": 0.278
+      },
+      {
+        "value": "#15151524",
+        "share": 0.194
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.982
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Archivo Variable",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 596
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 11.52,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.2,
+        "transform": "uppercase",
+        "chars": 470
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 17.28,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 284
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 17.28,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 255
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 16.32,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 223
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 10.56,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.16,
+        "transform": "uppercase",
+        "chars": 201
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 51.84,
+        "weight": "500",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 196
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 18.72,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 164
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 9.6,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.14,
+        "transform": "uppercase",
+        "chars": 149
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 20.88,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 117
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 17.28,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 108
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 43.2,
+        "weight": "800",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 80
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 89.28,
+        "weight": "800",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.045,
+        "transform": "uppercase",
+        "chars": 69
+      },
+      {
+        "family": "Archivo Variable",
+        "size": 37.44,
+        "weight": "700",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 66
+      }
+    ],
+    "loadedFonts": [
+      "Archivo Variable 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 60
+    },
+    {
+      "px": 43,
+      "uses": 60
+    },
+    {
+      "px": 72,
+      "uses": 59
+    },
+    {
+      "px": 14,
+      "uses": 50
+    },
+    {
+      "px": 8,
+      "uses": 41
+    },
+    {
+      "px": 12,
+      "uses": 29
+    },
+    {
+      "px": 58,
+      "uses": 27
+    },
+    {
+      "px": 6,
+      "uses": 27
+    },
+    {
+      "px": 16,
+      "uses": 25
+    },
+    {
+      "px": 26,
+      "uses": 24
+    },
+    {
+      "px": 20,
+      "uses": 15
+    },
+    {
+      "px": 34,
+      "uses": 14
+    },
+    {
+      "px": 36,
+      "uses": 11
+    },
+    {
+      "px": 32,
+      "uses": 9
+    },
+    {
+      "px": 220,
+      "uses": 9
+    },
+    {
+      "px": 28,
+      "uses": 8
+    }
+  ],
+  "radii": [
+    {
+      "value": "999px",
+      "uses": 20
+    },
+    {
+      "value": "4px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 56
+      },
+      {
+        "value": "0.6s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 36
+      },
+      {
+        "value": "1.1s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 19
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 14
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 9
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 0,
+    "videos": 3
+  },
+  "cssVariables": {
+    "--ink": "#141414",
+    "--ink-2": "#1b1b1b",
+    "--ink-3": "#232323",
+    "--paper": "#fff",
+    "--accent": "#e22356",
+    "--muted": "#ffffff8f",
+    "--faint": "#ffffff73",
+    "--line": "#ffffff1f",
+    "--font": "\"Archivo Variable\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "--mono": "var(--font)",
+    "--gutter": "clamp(16px, 4vw, 72px)",
+    "--radius-pill": "999px",
+    "--ease-out": "cubic-bezier(.16, 1, .3, 1)",
+    "--ease-in-out": "cubic-bezier(.77, 0, .175, 1)",
+    "--fs-mega": "clamp(3.4rem, 11.2vw, 13.5rem)",
+    "--fs-display": "clamp(2.8rem, 8.4vw, 9.5rem)",
+    "--fs-h2": "clamp(2.2rem, 5.2vw, 5.4rem)",
+    "--fs-h3": "clamp(1.5rem, 2.6vw, 2.4rem)",
+    "--fs-lead": "clamp(1.05rem, 1.45vw, 1.35rem)",
+    "--fs-body": "1rem",
+    "--fs-label": ".72rem"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header.wrap",
+      "y": 0,
+      "height": 80,
+      "position": "fixed",
+      "background": "#141414",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 57.6px",
+      "margin": "0px",
+      "border": "0px none null",
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 58,
+        "width": 1325,
+        "gutterTop": 27,
+        "gutterBottom": 28
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "S/G",
+          "family": "Archivo Variable",
+          "size": 25.6,
+          "weight": "800",
+          "lineHeight": 1,
+          "letterSpacing": -0.06,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 15.2,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "S/G STÉFANO GIRARDELLI",
+        "01 Home",
+        "02 Work",
+        "03 About",
+        "04 Writing",
+        "05 Mentorship",
+        "06 Reel",
+        "07 Contact"
+      ],
+      "words": 19,
+      "excerpt": "Stéfano Girardelli",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "menu",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#141414",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 58,
+        "width": 1325,
+        "gutterTop": -67,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "01 HOME",
+          "family": "Archivo Variable",
+          "size": 96,
+          "weight": "800",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.045,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 96,
+        "weight": "800",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.045,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "01 HOME",
+        "02 WORK",
+        "03 ABOUT",
+        "04 WRITING",
+        "05 MENTORSHIP",
+        "06 REEL",
+        "07 CONTACT",
+        "BEHANCE",
+        "LINKEDIN",
+        "ARTSTATION"
+      ],
+      "words": 18,
+      "excerpt": "Mentorship",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "Introduction",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#141414",
+      "backgroundImage": false,
+      "color": "#ffffff8f",
+      "padding": "120px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 83,
+        "width": 1300,
+        "gutterTop": 521,
+        "gutterBottom": 72
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "I design interfaces, brands, games, apps, experiences, products, websites peopl…",
+          "family": "Archivo Variable",
+          "size": 86.4,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#e8e8e8"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 17.28,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "WATCH DEMO REEL"
+      ],
+      "words": 43,
+      "excerpt": "Multidisciplinary designer crafting for games, apps and the web, shipping across mobile,",
+      "media": {
+        "img": 1,
+        "video": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "logos",
+      "y": 986,
+      "height": 266,
+      "position": "static",
+      "background": "#141414",
+      "backgroundImage": false,
+      "color": "#ffffff8f",
+      "padding": "63.36px 0px",
+      "margin": "86.4px 0px 0px",
+      "border": "1px solid #ffffff1f",
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 920,
+        "width": 462,
+        "gutterTop": 64,
+        "gutterBottom": 184
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          390,
+          390
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "WORKED WITH & MENTORED DESIGNERS FROM",
+          "family": "Archivo Variable",
+          "size": 11.52,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.2,
+          "transform": "uppercase",
+          "color": "#ffffff8f"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 11.52,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.2,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "Worked with & mentored designers from",
+      "media": {
+        "img": 54
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "Approach",
+      "y": 1252,
+      "height": 1101,
+      "position": "static",
+      "background": "#141414",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "220px 57.6px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 74,
+        "width": 1309,
+        "gutterTop": 220,
+        "gutterBottom": 249
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          23,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "dd",
+          "text": "14+",
+          "family": "Archivo Variable",
+          "size": 95.04,
+          "weight": "800",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.05,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 51.84,
+        "weight": "500",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 53,
+      "excerpt": "Years shipping games",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "work",
+      "y": 2354,
+      "height": 1482,
+      "position": "static",
+      "background": "#141414",
+      "backgroundImage": false,
+      "color": "#ffffff8f",
+      "padding": "220px 0px 57.6px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 58,
+        "width": 1325,
+        "gutterTop": 220,
+        "gutterBottom": 93
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          4,
+          64,
+          16,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Selected work(07)",
+          "family": "Archivo Variable",
+          "size": 74.88,
+          "weight": "700",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 11.52,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.2,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "ALL PROJECTS",
+        "01 MECH DYNASTY UI/UX / GRAPHIC DESIGN",
+        "02 OBSIDIAN UI/UX / GRAPHIC DESIGN",
+        "03 WAR MACHINES GRAPHIC DESIGN / UI/UX",
+        "04 SKY WARRIORS GRAPHIC DESIGN / UI/UX",
+        "05 WM KEY ART 3D ART / VISUAL DESIGN",
+        "06 WAR.TIME FUI / MOTION",
+        "07 ELEVATE FUI / GRAPHIC DESIGN"
+      ],
+      "words": 52,
+      "excerpt": "UI/UX / Graphic Design",
+      "media": {
+        "img": 14,
+        "svg": 8
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "mentorship",
+      "y": 3835,
+      "height": 1228,
+      "position": "relative",
+      "background": "#141414",
+      "backgroundImage": false,
+      "color": "#ffffff8f",
+      "padding": "220px 57.6px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 58,
+        "width": 1325,
+        "gutterTop": 311,
+        "gutterBottom": 220
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "86.4px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          40,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Beyond the HUD.",
+          "family": "Archivo Variable",
+          "size": 86.4,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 16.32,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "VISIT BTHUD.COM",
+        "JOIN THE DISCORD"
+      ],
+      "words": 98,
+      "excerpt": "A hands-on mentorship where designers learn UI/UX for games the way it",
+      "media": {
+        "img": 1,
+        "video": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "caps.section",
+      "y": 5064,
+      "height": 1336,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#14141499",
+      "padding": "220px 57.6px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 58,
+        "width": 1325,
+        "gutterTop": 220,
+        "gutterBottom": 257
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "86.4px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "How can I help?",
+          "family": "Archivo Variable",
+          "size": 74.88,
+          "weight": "700",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "Visual Design",
+          "family": "Archivo Variable",
+          "size": 37.44,
+          "weight": "700",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "Game UI/UX",
+          "family": "Archivo Variable",
+          "size": 37.44,
+          "weight": "700",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        },
+        {
+          "tag": "h3",
+          "text": "Tech UI & Implementation",
+          "family": "Archivo Variable",
+          "size": 37.44,
+          "weight": "700",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 142,
+      "excerpt": "Identity, art direction and motion for games, products, studios and more. Logos,",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "Mobile, PC, Console, VR, Web",
+      "y": 6400,
+      "height": 97,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "26px 0px",
+      "margin": "0px",
+      "border": "1px solid #15151524",
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 159,
+        "width": 1224,
+        "gutterTop": 27,
+        "gutterBottom": 27
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          170,
+          170
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "MOBILE",
+          "family": "Archivo Variable",
+          "size": 43.2,
+          "weight": "800",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 43.2,
+        "weight": "800",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 20,
+      "excerpt": "Console",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "rec.section",
+      "y": 6497,
+      "height": 1517,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#141414",
+      "padding": "220px 57.6px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 58,
+        "width": 1325,
+        "gutterTop": 220,
+        "gutterBottom": 247
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 5,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          33,
+          21,
+          9,
+          21,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Recognition(11)",
+          "family": "Archivo Variable",
+          "size": 74.88,
+          "weight": "700",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#141414"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 17.28,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Honorable Mention Portfolio 2026 Awwwar…",
+        "Gold — Visual Design & Function Sky War…",
+        "Silver — Mobile Game Features, User Exp…",
+        "Gold — Best Wargame Sky Warriors 2022 N…",
+        "Gold — Best Experience Sky Warriors 202…",
+        "Gold — Best Performance Sky Warriors 20…",
+        "Silver — Best Visual Art Sky Warriors 2…"
+      ],
+      "words": 123,
+      "excerpt": "Silver — Mobile Game Features, User Experience",
+      "media": {
+        "svg": 7
+      }
+    },
+    {
+      "i": 11,
+      "tag": "footer",
+      "name": "footer",
+      "y": 8014,
+      "height": 808,
+      "position": "relative",
+      "background": "#141414",
+      "backgroundImage": false,
+      "color": "#ffffff8f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "1px solid #ffffff1f",
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 58,
+        "width": 1325,
+        "gutterTop": 201,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Let's build something great",
+          "family": "Archivo Variable",
+          "size": 120.96,
+          "weight": "800",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo Variable",
+        "size": 20.88,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "hello@stefanobg.com",
+        "START A CONVERSATION",
+        "PRIVACY & COOKIES",
+        "TERMS"
+      ],
+      "words": 46,
+      "excerpt": "Games, apps, the web, or something that doesn't have a name yet.",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "grain",
+      "y": -468,
+      "height": 1800,
+      "position": "fixed",
+      "background": "#141414",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 132,
+    "title": "Stéfano Girardelli — Designer",
+    "award": "HM",
+    "url": "https://stefanobg.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/stefano-girardelli-designer",
+    "categories": [
+      "Design Agencies",
+      "Games & Entertainment",
+      "Portfolio",
+      "Experimental"
+    ]
+  }
+}

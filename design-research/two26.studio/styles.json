@@ -1,0 +1,483 @@
+{
+  "page": {
+    "url": "https://two26.studio/",
+    "title": "Two26 Studio | Boutique Design Studio",
+    "description": "Two26 is a boutique design studio in Bucharest creating brands with strategy, personality and a healthy obsession for the details.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ff5400",
+        "share": 0.303
+      },
+      {
+        "value": "#fdf8f5",
+        "share": 0.263
+      },
+      {
+        "value": "#fae3e2",
+        "share": 0.222
+      },
+      {
+        "value": "#f8eee8",
+        "share": 0.158
+      },
+      {
+        "value": "#f2e3da",
+        "share": 0.048
+      },
+      {
+        "value": "#000000",
+        "share": 0.005
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ff5400",
+        "share": 0.562
+      },
+      {
+        "value": "#333333",
+        "share": 0.139
+      },
+      {
+        "value": "#f8eee8",
+        "share": 0.102
+      },
+      {
+        "value": "#000000",
+        "share": 0.064
+      },
+      {
+        "value": "#fdf8f5",
+        "share": 0.053
+      },
+      {
+        "value": "#f9e2e1",
+        "share": 0.04
+      },
+      {
+        "value": "#ff540073",
+        "share": 0.039
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ff5400",
+        "share": 0.857
+      },
+      {
+        "value": "#00000033",
+        "share": 0.143
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.426,
+      "text": 0.358
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Neuemontreal",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1562
+      },
+      {
+        "family": "Mdnichrometest Dark",
+        "size": 80,
+        "weight": "800",
+        "lineHeight": 0.25,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 408
+      },
+      {
+        "family": "Neuemontreal",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 345
+      },
+      {
+        "family": "Mdnichrometest Dark",
+        "size": 54,
+        "weight": "400",
+        "lineHeight": 0.85,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 254
+      },
+      {
+        "family": "Neuemontreal",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.32,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 212
+      },
+      {
+        "family": "Neuemontreal",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 161
+      },
+      {
+        "family": "Mdnichrometest Dark",
+        "size": 80,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.013,
+        "transform": "none",
+        "chars": 157
+      },
+      {
+        "family": "Neuemontreal",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 102
+      },
+      {
+        "family": "Neuemontreal",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 101
+      },
+      {
+        "family": "Neuemontreal",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 101
+      },
+      {
+        "family": "Mdnichrometest Dark",
+        "size": 68,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 86
+      },
+      {
+        "family": "Neuemontreal",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 81
+      },
+      {
+        "family": "Mdnichrometest Dark",
+        "size": 100,
+        "weight": "400",
+        "lineHeight": 0.85,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 75
+      },
+      {
+        "family": "Mdnichrometest Dark",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 0.83,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 67
+      }
+    ],
+    "loadedFonts": [
+      "Mdnichrometest 700 normal",
+      "Mdnichrometest Dark 400 normal",
+      "Neuemontreal 500 normal",
+      "Neuemontreal 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 48
+    },
+    {
+      "px": 20,
+      "uses": 43
+    },
+    {
+      "px": 8,
+      "uses": 42
+    },
+    {
+      "px": 16,
+      "uses": 41
+    },
+    {
+      "px": 40,
+      "uses": 24
+    },
+    {
+      "px": 32,
+      "uses": 20
+    },
+    {
+      "px": 24,
+      "uses": 20
+    },
+    {
+      "px": 3,
+      "uses": 16
+    },
+    {
+      "px": 7,
+      "uses": 14
+    },
+    {
+      "px": 500,
+      "uses": 12
+    },
+    {
+      "px": 18,
+      "uses": 10
+    },
+    {
+      "px": 60,
+      "uses": 10
+    },
+    {
+      "px": 4,
+      "uses": 8
+    },
+    {
+      "px": 12,
+      "uses": 8
+    },
+    {
+      "px": 160,
+      "uses": 6
+    },
+    {
+      "px": 64,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 26
+    },
+    {
+      "value": "12px",
+      "uses": 18
+    },
+    {
+      "value": "16px",
+      "uses": 18
+    },
+    {
+      "value": "80px",
+      "uses": 10
+    },
+    {
+      "value": "100%",
+      "uses": 6
+    },
+    {
+      "value": "36px",
+      "uses": 6
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 7
+  },
+  "cssVariables": {
+    "--brand-secondary": "#f8eee8",
+    "--brand-black": "#000",
+    "--brand-white": "#fdf8f5",
+    "--font-secondary": "Neuemontreal, Arial, sans-serif",
+    "--brand-primary": "#ff5400",
+    "--font-primary": "Mdnichrometest, Arial, sans-serif",
+    "--brand-accent": "#f9e2e1",
+    "--font-primary-dark": "\"Mdnichrometest Dark\", Arial, sans-serif",
+    "--brand-purple": "#000",
+    "--size-unit": "16",
+    "--size-container-ideal": "390",
+    "--size-container-min": "320px",
+    "--size-container-max": "479px",
+    "--size-container": "clamp(var(--size-container-min), 100vw, var(--size-container-max))",
+    "--size-font": "calc(var(--size-container) / (var(--size-container-ideal) / var(--size-unit)))"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 479px",
+    "max 991px",
+    "min 768px",
+    "max 768px",
+    "min 769px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "page.lenis",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#f8eee8",
+      "backgroundImage": false,
+      "color": "#ff5400",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 21,
+        "gutterBottom": -12136
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "4px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 18,
+        "childWidthsPct": [
+          35,
+          35,
+          34,
+          33,
+          35,
+          35,
+          35,
+          35
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "LOOKING SUSPICIOUSLY GOOD",
+          "family": "Mdnichrometest",
+          "size": 128,
+          "weight": "700",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ff5400"
+        },
+        {
+          "tag": "h2",
+          "text": "SELECTED WORKS",
+          "family": "Mdnichrometest Dark",
+          "size": 100,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "THIS IS OUR THING",
+          "family": "Mdnichrometest Dark",
+          "size": 100,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "APPARENTLY, THEY LIKE US",
+          "family": "Mdnichrometest Dark",
+          "size": 100,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Work",
+        "About us",
+        "Let's Talk",
+        "HEYGLUCO HEALTH & WELLNESS",
+        "THE BAGEL BAR FOOD & BEVERAGE",
+        "TANTI MARIA FOOD & RETAIL",
+        "MUNCHIES AND CREAM FOOD & BEVERAGE",
+        "MVP SPORTS & TALENT MANAGEMENT",
+        "YUM YUM FOOD & BEVERAGE",
+        "See all projects"
+      ],
+      "words": 888,
+      "excerpt": "Both of them are truly amazing humans, with an incredible amount of",
+      "media": {
+        "img": 37,
+        "video": 7,
+        "svg": 58
+      }
+    }
+  ],
+  "listing": {
+    "rank": 112,
+    "title": "Two26 Studio",
+    "award": "HM",
+    "url": "https://two26.studio/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/two26-studio",
+    "categories": [
+      "Art & Illustration",
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

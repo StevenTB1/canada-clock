@@ -1,0 +1,204 @@
+{
+  "page": {
+    "url": "https://brandonyasin.com/",
+    "title": "Brandon Yasin — Creative Director & Designer",
+    "description": "Brand, digital and spatial design within lifestyle and luxury. AI scales the production, not the craft. Based in Denmark, working globally.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f8f6f2",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#111111",
+        "share": 1
+      }
+    ],
+    "borders": [
+      {
+        "value": "#111111",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Helvetica Now Variable",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 270
+      }
+    ],
+    "loadedFonts": [
+      "Neue Haas Unica Pro 400 normal",
+      "Helvetica Now Variable 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 11
+    },
+    {
+      "px": 10,
+      "uses": 6
+    },
+    {
+      "px": 2,
+      "uses": 5
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 11,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.25s ease-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 0,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--color-main": "#111",
+    "--color-bg": "#f8f6f2",
+    "--selection-color": "#111",
+    "--selection-bg": "#44300033",
+    "--focus-bg": "var(--color-main)",
+    "--focus-color": "var(--color-bg)",
+    "--lvh": "1vh",
+    "--svh": "1vh",
+    "--img-over-opacity": "0",
+    "--bg-brightness": "1",
+    "--size": "1728"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "__nuxt",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#f8f6f2",
+      "backgroundImage": false,
+      "color": "#111111",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 110,
+        "width": 1314,
+        "gutterTop": 17,
+        "gutterBottom": 505
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 6,
+        "childWidthsPct": [
+          28,
+          28,
+          28,
+          28,
+          28,
+          28
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "BRANDON",
+          "family": "Helvetica Now Variable",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#111111"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Now Variable",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "BRANDON BRANDON YASIN YASIN",
+        "MENU MENU",
+        "CONTACT CONTACT",
+        "MALL OF THE EMIRATES MALL OF THE EMIRAT…",
+        "BESTSELLER 50 FESTIVAL BESTSELLER 50 FE…",
+        "COPENHAGEN FASHION WEEK COPENHAGEN FASH…",
+        "RAINS RAINS",
+        "NINE FURNITURE NINE FURNITURE",
+        "LOUIS VUITTON LOUIS VUITTON"
+      ],
+      "words": 46,
+      "excerpt": "Copenhagen Fashion Week",
+      "media": {
+        "img": 6,
+        "video": 2,
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 111,
+    "title": "Brandon Yasin",
+    "award": "SOTD",
+    "url": "https://brandonyasin.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/brandon-yasin",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio",
+      "Luxury"
+    ]
+  }
+}

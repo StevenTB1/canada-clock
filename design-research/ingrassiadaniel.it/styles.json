@@ -1,0 +1,208 @@
+{
+  "page": {
+    "url": "https://ingrassiadaniel.it/",
+    "title": "Daniel Ingrassia | Creative Frontend Developer",
+    "description": "I turn ambitious designs into fast, interactive web experiences. Frontend, motion and performance for agencies, designers and creative teams.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10625,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#222124",
+        "share": 1
+      },
+      {
+        "value": "#f0f2f0",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#f0f2f0",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Inter Tight",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.025,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "Inter Tight 100 900 normal"
+    ]
+  },
+  "spacing": [],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1.2s ease-in-out",
+        "uses": 1
+      },
+      {
+        "value": "0.7s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 5,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--background": "#222124",
+    "--foreground": "#f0f2f0",
+    "--muted": "#8b8f8c",
+    "--accent": "#f4ce15",
+    "--accent-secondary": "#379777",
+    "--font-sans": "var(--font-inter-tight)",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, monospace"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "noise-layer-module-scss-module__btUbBG__noiseLayer",
+      "y": -828,
+      "height": 2700,
+      "position": "fixed",
+      "background": "#222124",
+      "backgroundImage": true,
+      "color": "#f0f2f0",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "particle-scene",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#222124",
+      "backgroundImage": false,
+      "color": "#f0f2f0",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "preloader-module-scss-module__clZ1Cq__preloader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#222124",
+      "backgroundImage": false,
+      "color": "#f0f2f0",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 700,
+        "gutterRight": 700,
+        "width": 40,
+        "gutterTop": 441,
+        "gutterBottom": 441
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "100%",
+          "family": "Inter Tight",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0.025,
+          "transform": "none",
+          "color": "#f0f2f0"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.025,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "100",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 114,
+    "title": "Ingrassia Daniel - Portfolio",
+    "award": "HM",
+    "url": "https://ingrassiadaniel.it/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/ingrassia-daniel-portfolio",
+    "categories": [
+      "Design Agencies",
+      "Technology",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

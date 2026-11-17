@@ -1,0 +1,434 @@
+{
+  "page": {
+    "url": "https://avea.studio/",
+    "title": "Design, Engineering & AI Studio | AVEA",
+    "description": "AVEA is a concept-driven digital studio based in Toronto, shaping modern products through design, engineering, and AI — from idea to production.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.953
+      },
+      {
+        "value": "#ededed",
+        "share": 0.045
+      },
+      {
+        "value": "#000000",
+        "share": 0.001
+      },
+      {
+        "value": "#f5f5f5",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.675
+      },
+      {
+        "value": "#00000066",
+        "share": 0.225
+      },
+      {
+        "value": "#00000026",
+        "share": 0.067
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.033
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 0.8
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.2
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 169
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 147
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 71
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 68
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 47
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 42
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 34
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 25
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 3.33,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 22
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 21
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 15
+      },
+      {
+        "family": "Arial",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 12
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 11
+      },
+      {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 11
+      }
+    ],
+    "loadedFonts": [
+      "Archivo 300 normal",
+      "Archivo 400 normal",
+      "Archivo 500 normal",
+      "Archivo 800 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 6
+    },
+    {
+      "px": 20,
+      "uses": 3
+    },
+    {
+      "px": 17,
+      "uses": 2
+    },
+    {
+      "px": 21,
+      "uses": 1
+    },
+    {
+      "px": 15,
+      "uses": 1
+    },
+    {
+      "px": 10,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "10px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.55s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.7s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 7
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.9s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--ink": "#000000",
+    "--ink-55": "rgba(0, 0, 0, .55)",
+    "--ink-40": "rgba(0, 0, 0, .4)",
+    "--ink-15": "rgba(0, 0, 0, .15)",
+    "--paper": "#ffffff",
+    "--stage-w": "1440px",
+    "--stage-h": "850px",
+    "--case": "270px",
+    "--menu-size": "15px"
+  },
+  "breakpoints": [
+    "max 640px",
+    "max 1210px",
+    "max 780px",
+    "min 641px",
+    "max 1150px",
+    "min 781px",
+    "min 1000px",
+    "min 1150.02px",
+    "max 1200px",
+    "max 1400px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "loader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1395,
+        "gutterRight": 20,
+        "width": 25,
+        "gutterTop": 445,
+        "gutterBottom": 445
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "63%",
+          "family": "Archivo",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 0.83,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 0.83,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "63%",
+      "media": {
+        "img": 6,
+        "video": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "viewport.tx-page",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 6,
+        "gutterRight": 20,
+        "width": 1414,
+        "gutterTop": 0,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          6
+        ]
+      },
+      "headings": [
+        {
+          "tag": "button",
+          "text": "SHOWCASE",
+          "family": "Archivo",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 3.33,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SHOWCASE",
+        "LIST",
+        "SLIDER",
+        "MENU",
+        "WORK",
+        "ENGINEERING",
+        "DESIGN STUDIO",
+        "INTELLIGENCE LAYER",
+        "CAREERS",
+        "ABOUT"
+      ],
+      "words": 80,
+      "excerpt": "© 2026 AVEA DIGITAL STUDIO. ALL RIGHTS RESERVED",
+      "media": {
+        "img": 7,
+        "video": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 119,
+    "title": "AVEA",
+    "award": "HM",
+    "url": "https://avea.studio/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/avea",
+    "categories": [
+      "Web & Interactive",
+      "Portfolio",
+      "Design Agencies"
+    ]
+  }
+}

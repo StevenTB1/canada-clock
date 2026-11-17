@@ -1,0 +1,1239 @@
+{
+  "page": {
+    "url": "https://www.zenarate.com/",
+    "title": "Zenarate",
+    "description": "Close the loop in frontline customer service delivery.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 11816,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.576
+      },
+      {
+        "value": "#f6f6f4",
+        "share": 0.378
+      },
+      {
+        "value": "#000000b3",
+        "share": 0.04
+      },
+      {
+        "value": "#d2d2cd33",
+        "share": 0.004
+      },
+      {
+        "value": "#d1d1cd4d",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0.001
+      },
+      {
+        "value": "#ffe66a",
+        "share": 0
+      },
+      {
+        "value": "#fde173",
+        "share": 0
+      },
+      {
+        "value": "#acbcbb",
+        "share": 0
+      },
+      {
+        "value": "#202121",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#202121",
+        "share": 0.786
+      },
+      {
+        "value": "#8b8b8b",
+        "share": 0.133
+      },
+      {
+        "value": "#1c1c1a",
+        "share": 0.046
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.034
+      },
+      {
+        "value": "#0000ee",
+        "share": 0.001
+      }
+    ],
+    "borders": [
+      {
+        "value": "#202121",
+        "share": 0.393
+      },
+      {
+        "value": "#f6f6f4",
+        "share": 0.393
+      },
+      {
+        "value": "#d2d2cd33",
+        "share": 0.107
+      },
+      {
+        "value": "#454542",
+        "share": 0.071
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.036
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Manrope",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 6964
+      },
+      {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.49,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1412
+      },
+      {
+        "family": "Suisseintlmono Webs",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.1,
+        "transform": "uppercase",
+        "chars": 1096
+      },
+      {
+        "family": "Suisseintlmono Webs",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.1,
+        "transform": "uppercase",
+        "chars": 912
+      },
+      {
+        "family": "Manrope",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 610
+      },
+      {
+        "family": "Manrope",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.75,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 580
+      },
+      {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 360
+      },
+      {
+        "family": "Manrope",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 199
+      },
+      {
+        "family": "Recital Upright Variable",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 170
+      },
+      {
+        "family": "Recital Variable",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 107
+      },
+      {
+        "family": "Suisseintlmono Webs",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 105
+      },
+      {
+        "family": "Recital Upright Variable",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.016,
+        "transform": "none",
+        "chars": 90
+      },
+      {
+        "family": "Recital Upright Variable",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.021,
+        "transform": "none",
+        "chars": 51
+      },
+      {
+        "family": "Recital Upright Variable",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": -0.031,
+        "transform": "none",
+        "chars": 47
+      }
+    ],
+    "loadedFonts": [
+      "Suisseintlmono Webs 400 normal",
+      "Recital Variable normal italic",
+      "Recital Upright Variable normal normal",
+      "Manrope 400 normal",
+      "Manrope 500 normal",
+      "Manrope 800 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 255
+    },
+    {
+      "px": 8,
+      "uses": 232
+    },
+    {
+      "px": 24,
+      "uses": 176
+    },
+    {
+      "px": 20,
+      "uses": 168
+    },
+    {
+      "px": 4,
+      "uses": 143
+    },
+    {
+      "px": 32,
+      "uses": 135
+    },
+    {
+      "px": 40,
+      "uses": 64
+    },
+    {
+      "px": 12,
+      "uses": 30
+    },
+    {
+      "px": 30,
+      "uses": 27
+    },
+    {
+      "px": 36,
+      "uses": 22
+    },
+    {
+      "px": 48,
+      "uses": 19
+    },
+    {
+      "px": 64,
+      "uses": 15
+    },
+    {
+      "px": 120,
+      "uses": 11
+    },
+    {
+      "px": 6,
+      "uses": 10
+    },
+    {
+      "px": 10,
+      "uses": 10
+    },
+    {
+      "px": 2,
+      "uses": 10
+    }
+  ],
+  "radii": [
+    {
+      "value": "20px",
+      "uses": 122
+    },
+    {
+      "value": "80px",
+      "uses": 102
+    },
+    {
+      "value": "8px",
+      "uses": 87
+    },
+    {
+      "value": "16px",
+      "uses": 45
+    },
+    {
+      "value": "200px",
+      "uses": 37
+    },
+    {
+      "value": "4px",
+      "uses": 5
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s cubic-bezier(0.25, 0.1, 0.25, 1)",
+        "uses": 84
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 61
+      },
+      {
+        "value": "0.15s ease",
+        "uses": 13
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 10
+      },
+      {
+        "value": "0.6s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 6
+      },
+      {
+        "value": "1.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 5
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 0,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--primary--silver": "#8b8b8b",
+    "--core--black-100": "#202121",
+    "--core--white-100": "white",
+    "--primary--beige-light": "#f6f6f4",
+    "--_responsive---margin": "20px",
+    "--_responsive---padding--lrg": "80px",
+    "--raduis--radius-1": "8px",
+    "--primary--beige": "#f2f1ee",
+    "--_responsive---padding--xl": "160px",
+    "--_responsive---padding--small": "56px",
+    "--_responsive---padding--xs": "20px",
+    "--_responsive---padding--med": "64px",
+    "--raduis--raduis-6": "200px",
+    "--secondary--signal": "#fde173",
+    "--primary--alloy-100": "#d0d0ce",
+    "--ui--ui-blue": "#190dff",
+    "--primary--alloy-20": "#d0d0ce33",
+    "--primary--alloy-70": "#d0d0ceb3",
+    "--core--white-50": "#ffffff80",
+    "--raduis--raduis-4": "20px",
+    "--raduis--raduis-5": "80px",
+    "--ui--ui-red": "#e00",
+    "--primary--alloy-30": "#d0d0ce4d",
+    "--secondary--sage": "#acbcbb",
+    "--primary--beige-dark": "#6d664f",
+    "--raduis--raduis-3": "16px",
+    "--core--white-30": "#ffffff4d",
+    "--core--black-70": "#202121b3",
+    "--raduis--raduis-2": "12px",
+    "--primary--charcoal": "#454545",
+    "--core--white-70": "#ffffffb3",
+    "--core--white-20": "#fff3",
+    "--primary--beige-50": "#f2f1ee80",
+    "--secondary--opal": "#e4f1f0",
+    "--secondary--green": "#6d7f5e",
+    "--secondary--blue": "#677fa8",
+    "--secondary--lavendar": "#898194",
+    "--secondary--sienna": "#973f1f",
+    "--secondary--indigo": "#6d3139"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 767px",
+    "max 479px",
+    "min 768px",
+    "min 992px",
+    "max 1200px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "nav",
+      "name": "mega-nav",
+      "y": 0,
+      "height": 98,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 117,
+        "gutterRight": 30,
+        "width": 1293,
+        "gutterTop": 20,
+        "gutterBottom": 38
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Products",
+          "family": "Manrope",
+          "size": 12,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Products",
+        "In Practice",
+        "Insights",
+        "Customers",
+        "Company",
+        "Sign In",
+        "Get a Demo"
+      ],
+      "words": 11,
+      "excerpt": "In Practice",
+      "media": {
+        "img": 2,
+        "svg": 12
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "c_section.cc_100vh",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 320,
+        "gutterRight": 320,
+        "width": 800,
+        "gutterTop": 300,
+        "gutterBottom": 291
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          56,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Every customer experience, better than the last.",
+          "family": "Recital Upright Variable",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.016,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisseintlmono Webs",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.1,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Get a Demo"
+      ],
+      "words": 22,
+      "excerpt": "Every customer experience,",
+      "media": {
+        "img": 1,
+        "video": 1,
+        "svg": 7
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "c_section.is--circleanimation",
+      "y": 900,
+      "height": 890,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 520,
+        "gutterRight": 520,
+        "width": 400,
+        "gutterTop": 376,
+        "gutterBottom": 378
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "64px",
+        "justify": "center",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          100,
+          100,
+          30,
+          60,
+          90
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Trusted by 200+ enterprise CX teams globally.",
+          "family": "Recital Upright Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Recital Variable",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.025,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "200+ enterprise CX teams",
+      "media": {
+        "img": 74
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "c_section",
+      "y": 1790,
+      "height": 242,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px 30px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 860,
+        "width": 550,
+        "gutterTop": 118,
+        "gutterBottom": 32
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "The frontline performance platform for humans and AI",
+          "family": "Recital Upright Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Recital Upright Variable",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.025,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "platform for humans and AI",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "c_tags-wrapper",
+      "y": 2032,
+      "height": 104,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px 30px 64px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 301,
+        "gutterRight": 301,
+        "width": 838,
+        "gutterTop": 15,
+        "gutterBottom": 79
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          10,
+          13,
+          13,
+          14,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "TECHNOLOGY LEADER",
+          "family": "Suisseintlmono Webs",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisseintlmono Webs",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 13,
+      "excerpt": "Quality Assurance Leader",
+      "media": {
+        "svg": 5
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "c-flex-50",
+      "y": 2136,
+      "height": 684,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#8b8b8b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 766,
+        "gutterRight": 174,
+        "width": 500,
+        "gutterTop": 248,
+        "gutterBottom": 248
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h5",
+          "text": "Perform",
+          "family": "Recital Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.49,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Explore Perform"
+      ],
+      "words": 22,
+      "excerpt": "Build frontline skill through personalized practice and coaching tied to KPIs, new",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "swiper-wrap",
+      "y": 5856,
+      "height": 863,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 303,
+        "width": 1107,
+        "gutterTop": 120,
+        "gutterBottom": 166
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "stretch",
+        "children": 36,
+        "childWidthsPct": [
+          71,
+          71,
+          71,
+          71,
+          71,
+          71,
+          71,
+          71
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Success stories from the customer experience teams.",
+          "family": "Recital Upright Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View Customer Stories",
+        "Chelsea Havens",
+        "Learn more",
+        "Elisha Wright",
+        "Robert Henry",
+        "Tiffany Friend",
+        "Jill Henderson",
+        "Stuart Beame",
+        "Kim Leinen",
+        "Melissa Hurley"
+      ],
+      "words": 814,
+      "excerpt": "\"We’re working smarter now. We’re more effective across business units, we’re making",
+      "media": {
+        "img": 60,
+        "svg": 38
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "c_section.cc_100vh",
+      "y": 6719,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#8b8b8b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 420,
+        "gutterRight": 420,
+        "width": 600,
+        "gutterTop": 301,
+        "gutterBottom": 301
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Join our much anticipated ‍Innovation Summit.",
+          "family": "Recital Upright Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View Event"
+      ],
+      "words": 39,
+      "excerpt": "Our 2027 Summit explores themes in customer experience, and the next wave",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "c_section",
+      "y": 7619,
+      "height": 895,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#8b8b8b",
+      "padding": "0px 30px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 320,
+        "gutterRight": 368,
+        "width": 752,
+        "gutterTop": 178,
+        "gutterBottom": 49
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "64px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          56
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Your questions answered.",
+          "family": "Recital Upright Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.49,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 246,
+      "excerpt": "Zenarate is the frontline performance platform for humans and AI. Your people",
+      "media": {
+        "svg": 6
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "swiper-wrap",
+      "y": 8514,
+      "height": 978,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 47,
+        "width": 1363,
+        "gutterTop": 118,
+        "gutterBottom": 120
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 48,
+        "childWidthsPct": [
+          28,
+          28,
+          28,
+          28,
+          28,
+          28,
+          28,
+          28
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Discover our insights.",
+          "family": "Recital Upright Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View Insights"
+      ],
+      "words": 602,
+      "excerpt": "Zenarate Unveils New Vision Built on One Simple Question for Human and",
+      "media": {
+        "img": 48,
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "c_section",
+      "y": 9492,
+      "height": 669,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px 30px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 386,
+        "gutterRight": 366,
+        "width": 689,
+        "gutterTop": 118,
+        "gutterBottom": 155
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "64px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          63
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Explore Roles and Industries.",
+          "family": "Recital Upright Variable",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisseintlmono Webs",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.1,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "DEVELOPMENT LEADER",
+        "QUALITY ASSURANCE LEADER",
+        "SALES ENABLEMENT LEADER",
+        "CUSTOMER SERVICE LEADER",
+        "TECHNOLOGY LEADER",
+        "FINANCIAL SERVICES",
+        "BPO SERVICES",
+        "BUSINESS & CONSUMER SERVICES",
+        "HEALTHCARE & INSURANCE",
+        "TELECOMMUNICATIONS"
+      ],
+      "words": 33,
+      "excerpt": "Business & Consumer Services",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "footer-cta-wrap",
+      "y": 10160,
+      "height": 1655,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 30,
+        "width": 1380,
+        "gutterTop": 364,
+        "gutterBottom": 435
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          42,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Let's make every customer experience better than the last, together.",
+          "family": "Recital Upright Variable",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.021,
+          "transform": "none",
+          "color": "#202121"
+        }
+      ],
+      "bodyType": {
+        "family": "Manrope",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Get a Demo",
+        "Perform",
+        "Analyze",
+        "Evolve",
+        "Insights",
+        "Customers",
+        "Events",
+        "Summit",
+        "About",
+        "Glossary"
+      ],
+      "words": 54,
+      "excerpt": "in frontline customer service delivery",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "hs-web-interactives-top-anchor",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202121",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 191,
+    "title": "Zenarate",
+    "award": "HM",
+    "url": "https://www.zenarate.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/zenarate",
+    "categories": [
+      "Business & Corporate",
+      "Technology",
+      "Web & Interactive"
+    ]
+  }
+}

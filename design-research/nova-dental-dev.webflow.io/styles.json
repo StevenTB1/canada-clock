@@ -1,0 +1,1188 @@
+{
+  "page": {
+    "url": "https://nova-dental-dev.webflow.io/",
+    "title": "Nova Dental",
+    "description": null,
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10002,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.675
+      },
+      {
+        "value": "#c4c6ca",
+        "share": 0.283
+      },
+      {
+        "value": "#42454b",
+        "share": 0.034
+      },
+      {
+        "value": "#222326",
+        "share": 0.005
+      },
+      {
+        "value": "#f3f3f3",
+        "share": 0.004
+      },
+      {
+        "value": "#21232699",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#222325cc",
+        "share": 0.629
+      },
+      {
+        "value": "#222326",
+        "share": 0.23
+      },
+      {
+        "value": "#ffffffcc",
+        "share": 0.048
+      },
+      {
+        "value": "#21232699",
+        "share": 0.047
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.026
+      },
+      {
+        "value": "#22242680",
+        "share": 0.016
+      },
+      {
+        "value": "#1d27271a",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#222326",
+        "share": 0.5
+      },
+      {
+        "value": "#c4c6ca",
+        "share": 0.4
+      },
+      {
+        "value": "#2124244d",
+        "share": 0.1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Neuemontreal English",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.017,
+        "transform": "none",
+        "chars": 1537
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.019,
+        "transform": "none",
+        "chars": 1493
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 363
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 180
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 60,
+        "weight": "500",
+        "lineHeight": 1.02,
+        "letterSpacing": 0.008,
+        "transform": "none",
+        "chars": 179
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 165
+      },
+      {
+        "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+        "size": 48,
+        "weight": "500",
+        "lineHeight": 0.96,
+        "letterSpacing": -0.046,
+        "transform": "none",
+        "chars": 161
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 146
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 134
+      },
+      {
+        "family": "Ppeditorialnew English",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0.008,
+        "transform": "none",
+        "chars": 98
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 132,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 97
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 0.96,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 82
+      },
+      {
+        "family": "Neuemontreal English",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 0.96,
+        "letterSpacing": 0.013,
+        "transform": "none",
+        "chars": 67
+      },
+      {
+        "family": "Ppeditorialnew English",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 53
+      }
+    ],
+    "loadedFonts": [
+      "Neuemontreal English 400 normal",
+      "Neuemontreal English 500 normal",
+      "Ppeditorialnew English 400 italic",
+      "Playfairdisplay English 400 italic",
+      "Neuehaasgroteskdisplaypro 55 Roman English 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 20,
+      "uses": 77
+    },
+    {
+      "px": 8,
+      "uses": 41
+    },
+    {
+      "px": 32,
+      "uses": 38
+    },
+    {
+      "px": 40,
+      "uses": 34
+    },
+    {
+      "px": 24,
+      "uses": 32
+    },
+    {
+      "px": 12,
+      "uses": 30
+    },
+    {
+      "px": 7,
+      "uses": 24
+    },
+    {
+      "px": 80,
+      "uses": 16
+    },
+    {
+      "px": 4,
+      "uses": 12
+    },
+    {
+      "px": 10,
+      "uses": 10
+    },
+    {
+      "px": 16,
+      "uses": 8
+    },
+    {
+      "px": 160,
+      "uses": 6
+    },
+    {
+      "px": 22,
+      "uses": 5
+    },
+    {
+      "px": 37,
+      "uses": 4
+    },
+    {
+      "px": 36,
+      "uses": 4
+    },
+    {
+      "px": 240,
+      "uses": 3
+    }
+  ],
+  "radii": [
+    {
+      "value": "20px",
+      "uses": 34
+    },
+    {
+      "value": "50%",
+      "uses": 16
+    },
+    {
+      "value": "12px",
+      "uses": 9
+    },
+    {
+      "value": "10.08px",
+      "uses": 6
+    },
+    {
+      "value": "100%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 34
+      },
+      {
+        "value": "0.45s ease",
+        "uses": 27
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.6s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.1s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--_colors---dark-80": "#222326cc",
+    "--nav-height": "4.375rem",
+    "--_colors---dark": "#222326",
+    "--_colors---white": "white",
+    "--_fonts---body-1--family": "\"Neuemontreal English\",Arial,sans-serif",
+    "--_colors---white-80": "#fffc",
+    "--_fonts---body-1--size": "1rem",
+    "--_fonts---body-1--line-height": "150%",
+    "--_fonts---body-1--weight-medium": "500",
+    "--_fonts---button--spacing": "-.0187rem",
+    "--_fonts---button--family": "\"Neuemontreal English\",Arial,sans-serif",
+    "--_fonts---button--size": "1.125rem",
+    "--_fonts---button--line-height": "145%",
+    "--_fonts---button--weight": "500",
+    "--_fonts---display--family-grotesk": "\"Neuehaasgroteskdisplaypro 55 Roman English\",Arial,sans-serif",
+    "--_fonts---display--size": "3rem",
+    "--_fonts---display--line-height": "84%",
+    "--_fonts---display--weight-grotesk": "500",
+    "--_fonts---display--spacing": "-.12rem",
+    "--_fonts---display--family-serif": "\"Playfairdisplay English\",Arial,sans-serif",
+    "--_fonts---body-1--weight-book": "400",
+    "--_fonts---body-1--spacing": "-.025rem",
+    "--_colors---dark-60": "#22232699",
+    "--_fonts---body-2--family": "\"Neuemontreal English\",Arial,sans-serif",
+    "--_fonts---body-2--size": ".875rem",
+    "--_fonts---body-2--line-height": "140%",
+    "--_fonts---body-2--weight-medium": "500",
+    "--_fonts---h2--family-grotesk": "\"Neuemontreal English\",Arial,sans-serif",
+    "--_fonts---h2--size": "2.5rem",
+    "--_fonts---h2--line-height": "102%",
+    "--_fonts---h2--weight-grotesk": "500",
+    "--_fonts---h2--spacing": ".0313rem",
+    "--_fonts---h2--family-serif": "\"Ppeditorialnew English\",Arial,sans-serif",
+    "--_fonts---h2--weight-serif": "400",
+    "--_colors---light-gray-1": "#c4c6ca",
+    "--_fonts---paragraph-2--size": "1.5rem",
+    "--_fonts---paragraph-2--line-height": "96%",
+    "--_fonts---paragraph-2--weight-grotesk": "500",
+    "--_fonts---h1--family-grotesk": "\"Neuemontreal English\",Arial,sans-serif",
+    "--_fonts---h1--size": "2.75rem",
+    "--_fonts---h1--line-height": "96%",
+    "--_fonts---h1--weight-grotesk": "500",
+    "--_fonts---h1--spacing": ".0825rem",
+    "--_fonts---h1--family-serif": "\"Ppeditorialnew English\",Arial,sans-serif",
+    "--_fonts---h1--line-height-serif": "80%",
+    "--_fonts---h1--weight-serif": "400",
+    "--_fonts---body-2--weight-book": "400",
+    "--_fonts---body-2--spacing": "-.0187rem",
+    "--_colors---primary-gray": "#42454b",
+    "--_fonts---paragraph-1--family-grotesk": "\"Neuehaasgroteskdisplaypro 55 Roman English\",Arial,sans-serif",
+    "--_fonts---paragraph-1--size": "2rem",
+    "--_fonts---paragraph-1--line-height": "96%",
+    "--_fonts---paragraph-1--weight-grotesk": "500",
+    "--_fonts---paragraph-1--spacing": "-.08rem",
+    "--_colors---dark-10": "#2223261a",
+    "--_colors---dark-04": "#2223260a",
+    "--_fonts---caption--family": "\"Neuemontreal English\",Arial,sans-serif",
+    "--_fonts---caption--size": ".75rem",
+    "--_fonts---caption--line-height": "130%",
+    "--_fonts---caption--weight-regular": "500",
+    "--_fonts---caption--spacing": ".015rem",
+    "--_colors---dark-30": "#2223264d",
+    "--_colors---dark-50": "#22232680",
+    "--_fonts---paragraph-1--family-serif": "\"Playfairdisplay English\",Arial,sans-serif",
+    "--_fonts---paragraph-1--weight-serif": "400",
+    "--_fonts---paragraph-2--family-grotesk": "\"Neuemontreal English\",Arial,sans-serif",
+    "--_fonts---paragraph-2--spacing": "0rem",
+    "--_colors---white-30": "#ffffff4d",
+    "--_colors---white-10": "#ffffff1a",
+    "--_colors---white-25": "#ffffff40",
+    "--_colors---light-gray-3": "#7d838e",
+    "--_colors---light-gray-2": "#9fa3ab",
+    "--_fonts---caption--weight-bold": "700",
+    "--_fonts---display--weight-serif": "400",
+    "--_colors---white-40": "#fff6",
+    "--_colors---white-60": "#fff9",
+    "--_fonts---paragraph-2--weight-serif": "400",
+    "--_fonts---paragraph-2--family-serif": "\"Ppeditorialnew English\",Arial,sans-serif"
+  },
+  "breakpoints": [
+    "max 479px",
+    "min 480px",
+    "max 991px",
+    "max 767px",
+    "min 768px",
+    "min 1440px",
+    "min 1920px"
+  ],
+  "tech": [
+    "gsap",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 94,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffcc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 708,
+        "gutterRight": 40,
+        "width": 692,
+        "gutterTop": 34,
+        "gutterBottom": 34
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          12,
+          78
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "(",
+          "family": "Neuemontreal English",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [
+        "About",
+        "Services",
+        "Why Us?",
+        "Testimonials",
+        "Team",
+        "( Book an Appointment )"
+      ],
+      "words": 54,
+      "excerpt": "A",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "hero",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": true,
+      "color": "#ffffffcc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 635,
+        "width": 765,
+        "gutterTop": 150,
+        "gutterBottom": 144
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          53,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Your Smile, Our Commitment to Excellence",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 108,
+          "weight": "500",
+          "lineHeight": 0.84,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [
+        "( Book an Appointment )"
+      ],
+      "words": 40,
+      "excerpt": "Professional dental care that ensures your comfort and well-being. Schedule an appointment",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "intro",
+      "y": 900,
+      "height": 922,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#222326",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 48,
+        "gutterBottom": 160
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          21,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "At Nova Dental, we are dedicated to providin exceptional dental care in a warm,…",
+          "family": "Neuemontreal English",
+          "size": 60,
+          "weight": "500",
+          "lineHeight": 1.02,
+          "letterSpacing": 0.008,
+          "transform": "none",
+          "color": "#222326"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 49,
+      "excerpt": "We offer top-tier dental care in a welcoming space, using advanced technology",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "services",
+      "y": 1822,
+      "height": 1637,
+      "position": "relative",
+      "background": "#c4c6ca",
+      "backgroundImage": false,
+      "color": "#222326",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 7,
+        "width": 1381,
+        "gutterTop": 80,
+        "gutterBottom": 259
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "8px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          63
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Transforming Smiles with Modern Treatments",
+          "family": "Neuemontreal English",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": 0.013,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "Aesthetic dentistry",
+          "family": "Neuemontreal English",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "Veneers",
+          "family": "Neuemontreal English",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "Wisdom tooth extraction",
+          "family": "Neuemontreal English",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#222326"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Book an Appointment"
+      ],
+      "words": 238,
+      "excerpt": "Whether you're in need of a routine check-up, a cosmetic enhancement, or",
+      "media": {
+        "img": 12
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "heading.global-heading",
+      "y": 3460,
+      "height": 224,
+      "position": "relative",
+      "background": "#c4c6ca",
+      "backgroundImage": false,
+      "color": "#222325cc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 40,
+        "width": 1348,
+        "gutterTop": -2,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "8px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          71
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Expert Solutions with a Touch of Innovation",
+          "family": "Neuemontreal English",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": 0.013,
+          "transform": "none",
+          "color": "#222326"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 23,
+      "excerpt": "Choosing the right dental clinic is important.",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "why-us__sticky",
+      "y": 3764,
+      "height": 572,
+      "position": "sticky",
+      "background": "#c4c6ca",
+      "backgroundImage": false,
+      "color": "#222325cc",
+      "padding": "0px",
+      "margin": "80px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1415,
+        "gutterTop": -8,
+        "gutterBottom": -920
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "center",
+        "align": "stretch",
+        "children": 4,
+        "childWidthsPct": [
+          94,
+          98,
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Experienced Professionals",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.046,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "State-of-the-Art Technology",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.046,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "Comfort-Focused Care",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.046,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "Patient-Centered Approach",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.046,
+          "transform": "none",
+          "color": "#222326"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.019,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 114,
+      "excerpt": "We utilize the latest advancements and state-of-the-art technology to ensure accurate dia…",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "why-us",
+      "y": 3428,
+      "height": 2732,
+      "position": "absolute",
+      "background": "#c4c6ca",
+      "backgroundImage": false,
+      "color": "#222325cc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "testimonials",
+      "y": 6160,
+      "height": 1338,
+      "position": "relative",
+      "background": "#c4c6ca",
+      "backgroundImage": false,
+      "color": "#222325cc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 60,
+        "width": 1328,
+        "gutterTop": 160,
+        "gutterBottom": 260
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "8px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          23,
+          52
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Behind Every Smile There’s a Story",
+          "family": "Neuemontreal English",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": 0.013,
+          "transform": "none",
+          "color": "#222326"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 162,
+      "excerpt": "“Getting implantation was tough at first, but the support from the team",
+      "media": {
+        "img": 12,
+        "svg": 4
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "team",
+      "y": 7498,
+      "height": 1066,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#222325cc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 154,
+        "gutterBottom": 160
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our team of skilled professionals is committed to providing you with personaliz…",
+          "family": "Neuemontreal English",
+          "size": 60,
+          "weight": "500",
+          "lineHeight": 1.02,
+          "letterSpacing": 0.008,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "Dr. Emily Peterson",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.046,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "Dr. Lucas Marin",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.046,
+          "transform": "none",
+          "color": "#222326"
+        },
+        {
+          "tag": "h3",
+          "text": "Dr. Olivia Hartman",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 0.96,
+          "letterSpacing": -0.046,
+          "transform": "none",
+          "color": "#222326"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.019,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 207,
+      "excerpt": "Dr. Marcus Bennett specializes in advanced cosmetic procedures, helping patients achieve …",
+      "media": {
+        "img": 5,
+        "svg": 4
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "cta",
+      "y": 8564,
+      "height": 942,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffffcc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 674,
+        "width": 686,
+        "gutterTop": 160,
+        "gutterBottom": 160
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Experience Dental Care, Redefined.",
+          "family": "Neuehaasgroteskdisplaypro 55 Roman English",
+          "size": 108,
+          "weight": "500",
+          "lineHeight": 0.84,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.017,
+        "transform": "none"
+      },
+      "labels": [
+        "( Book an Appointment )"
+      ],
+      "words": 37,
+      "excerpt": "Take the first step towards a healthier, more confident you. Schedule your",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "footer",
+      "name": "footer",
+      "y": 9506,
+      "height": 495,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#222326",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 64,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          60,
+          34,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "A",
+          "family": "Neuemontreal English",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#222326"
+        }
+      ],
+      "bodyType": {
+        "family": "Neuemontreal English",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.015,
+        "transform": "none"
+      },
+      "labels": [
+        "About",
+        "Services",
+        "Why Us?",
+        "Testimonials",
+        "Team",
+        "hello@novadental.com",
+        "+1 (555) 123-4567",
+        "Phenomenon Studio",
+        "Terms",
+        "Privacy"
+      ],
+      "words": 107,
+      "excerpt": "Nova Dental. All rights reserved.",
+      "media": {
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 181,
+    "title": "Nova Dental",
+    "award": "HM",
+    "url": "https://nova-dental-dev.webflow.io/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/nova-dental",
+    "categories": [
+      "Business & Corporate",
+      "Other",
+      "Web & Interactive"
+    ]
+  }
+}

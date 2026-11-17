@@ -1,0 +1,1024 @@
+{
+  "page": {
+    "url": "https://www.wearebulletproof.com/",
+    "title": "BulletProof | Create desire through disruption",
+    "description": "The world‘s largest independent brand agency. We drive growth, standout and fandom for the world‘s most desirable brands.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6962,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f1f1f1",
+        "share": 0.418
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.272
+      },
+      {
+        "value": "#181713",
+        "share": 0.144
+      },
+      {
+        "value": "#000000",
+        "share": 0.126
+      },
+      {
+        "value": "#0d0d0d",
+        "share": 0.04
+      },
+      {
+        "value": "#f1f1f1cf",
+        "share": 0
+      },
+      {
+        "value": "#f5f5f51a",
+        "share": 0
+      },
+      {
+        "value": "#1414141a",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.566
+      },
+      {
+        "value": "#f1f1f1",
+        "share": 0.271
+      },
+      {
+        "value": "#181713",
+        "share": 0.095
+      },
+      {
+        "value": "#000000",
+        "share": 0.015
+      },
+      {
+        "value": "#f1f1f180",
+        "share": 0.015
+      },
+      {
+        "value": "#f1f1f1b3",
+        "share": 0.006
+      },
+      {
+        "value": "#ed7700",
+        "share": 0.005
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.003
+      },
+      {
+        "value": "#90ffa8",
+        "share": 0.003
+      },
+      {
+        "value": "#b17f42",
+        "share": 0.003
+      },
+      {
+        "value": "#acacac",
+        "share": 0.002
+      },
+      {
+        "value": "#26fff8",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#181713",
+        "share": 0.889
+      },
+      {
+        "value": "#19191433",
+        "share": 0.111
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.973
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Mixta Pro Light",
+        "size": 25.92,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 2331
+      },
+      {
+        "family": "Sequel Sans Book",
+        "size": 21.6,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.05,
+        "transform": "uppercase",
+        "chars": 556
+      },
+      {
+        "family": "Sequel Sans Regular",
+        "size": 100.8,
+        "weight": "400",
+        "lineHeight": 0.71,
+        "letterSpacing": -0.1,
+        "transform": "uppercase",
+        "chars": 360
+      },
+      {
+        "family": "Sequel Sans Medium",
+        "size": 11.52,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 289
+      },
+      {
+        "family": "Mixta Pro Light",
+        "size": 36,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 246
+      },
+      {
+        "family": "Sequel Sans Medium",
+        "size": 115.2,
+        "weight": "500",
+        "lineHeight": 0.79,
+        "letterSpacing": -0.1,
+        "transform": "uppercase",
+        "chars": 240
+      },
+      {
+        "family": "Sequel Sans Book",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": -0.028,
+        "transform": "none",
+        "chars": 179
+      },
+      {
+        "family": "Sequel Sans Book",
+        "size": 28.8,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.07,
+        "transform": "uppercase",
+        "chars": 178
+      },
+      {
+        "family": "Mixta Pro Light Italic",
+        "size": 36,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 144
+      },
+      {
+        "family": "Mixta Pro Light",
+        "size": 28.8,
+        "weight": "300",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 119
+      },
+      {
+        "family": "Sequel Sans Book",
+        "size": 21.6,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "uppercase",
+        "chars": 60
+      },
+      {
+        "family": "Sequel Sans Book",
+        "size": 109.44,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.09,
+        "transform": "uppercase",
+        "chars": 58
+      },
+      {
+        "family": "Sequel Sans Medium",
+        "size": 17.28,
+        "weight": "500",
+        "lineHeight": 0.83,
+        "letterSpacing": -0.07,
+        "transform": "uppercase",
+        "chars": 46
+      },
+      {
+        "family": "Sequel Sans Book",
+        "size": 86.4,
+        "weight": "400",
+        "lineHeight": 0.72,
+        "letterSpacing": -0.08,
+        "transform": "uppercase",
+        "chars": 34
+      }
+    ],
+    "loadedFonts": [
+      "Sequel Sans Book 400 normal",
+      "Mixta Pro Light 300 normal",
+      "Mixta Pro Light Italic 300 normal",
+      "Sequel Sans Regular 400 normal",
+      "Sequel Sans Medium 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 7,
+      "uses": 171
+    },
+    {
+      "px": 3,
+      "uses": 111
+    },
+    {
+      "px": 11,
+      "uses": 84
+    },
+    {
+      "px": 18,
+      "uses": 82
+    },
+    {
+      "px": 14,
+      "uses": 52
+    },
+    {
+      "px": 58,
+      "uses": 41
+    },
+    {
+      "px": 17,
+      "uses": 40
+    },
+    {
+      "px": 1,
+      "uses": 38
+    },
+    {
+      "px": 72,
+      "uses": 34
+    },
+    {
+      "px": 5,
+      "uses": 33
+    },
+    {
+      "px": 4,
+      "uses": 31
+    },
+    {
+      "px": 43,
+      "uses": 31
+    },
+    {
+      "px": 6,
+      "uses": 25
+    },
+    {
+      "px": 29,
+      "uses": 25
+    },
+    {
+      "px": 25,
+      "uses": 20
+    },
+    {
+      "px": 2,
+      "uses": 15
+    }
+  ],
+  "radii": [
+    {
+      "value": "8.64px",
+      "uses": 11
+    },
+    {
+      "value": "8px",
+      "uses": 4
+    },
+    {
+      "value": "2.88px",
+      "uses": 3
+    },
+    {
+      "value": "1440px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.8s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 57
+      },
+      {
+        "value": "0.45s cubic-bezier(0.44, 0.01, 0, 0.93)",
+        "uses": 48
+      },
+      {
+        "value": "0.2s cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+        "uses": 23
+      },
+      {
+        "value": "0.4s cubic-bezier(0.84, 0, 0.16, 1)",
+        "uses": 21
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 18
+      },
+      {
+        "value": "0.3s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 11
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 72
+  },
+  "cssVariables": {
+    "--real-black": "#181713",
+    "--analog-white": "#f1f1f1",
+    "--footer-size-desktop": "54vw",
+    "--footer-size-mobile": "270vw",
+    "--white": "white",
+    "--craft-pink": "#e995a3",
+    "--black": "black",
+    "--work-grid-gap-desktop": "15vw",
+    "--m-grey": "#646464",
+    "--light-slate": "#eee",
+    "--ease-main": "cubic-bezier(0.19, 1, 0.22, 1)"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 767px",
+    "max 991px",
+    "min 480px",
+    "min 991px",
+    "min 767px",
+    "max 1024px",
+    "min 768px",
+    "min 1920px",
+    "max 1226px"
+  ],
+  "tech": [
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "hero_wrap",
+      "y": 360,
+      "height": 900,
+      "position": "relative",
+      "background": "#181713",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 158,
+        "gutterRight": 211,
+        "width": 1071,
+        "gutterTop": 542,
+        "gutterBottom": 146
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "CREATE",
+          "family": "Sequel Sans Book",
+          "size": 109.44,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.09,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "DESIRE",
+          "family": "Sequel Sans Book",
+          "size": 109.44,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.09,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "THROUGH",
+          "family": "Sequel Sans Book",
+          "size": 109.44,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.09,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "DISRUPTION",
+          "family": "Sequel Sans Book",
+          "size": 109.44,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.09,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Sequel Sans Book",
+        "size": 109.44,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.09,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "Disruption",
+      "media": {
+        "img": 18,
+        "video": 30,
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "section.intro",
+      "y": 900,
+      "height": 1159,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#181713",
+      "padding": "259.2px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 399,
+        "gutterRight": 399,
+        "width": 642,
+        "gutterTop": 259,
+        "gutterBottom": 265
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          45,
+          25,
+          34,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "UNRIVALLED",
+          "family": "Sequel Sans Book",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.72,
+          "letterSpacing": -0.08,
+          "transform": "uppercase",
+          "color": "#e995a3"
+        },
+        {
+          "tag": "h4",
+          "text": "CREATIVITY.",
+          "family": "Sequel Sans Book",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.72,
+          "letterSpacing": -0.08,
+          "transform": "uppercase",
+          "color": "#181713"
+        },
+        {
+          "tag": "h4",
+          "text": "GLOBAL REACH.",
+          "family": "Sequel Sans Book",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 0.72,
+          "letterSpacing": -0.08,
+          "transform": "uppercase",
+          "color": "#181713"
+        }
+      ],
+      "bodyType": {
+        "family": "Mixta Pro Light",
+        "size": 28.8,
+        "weight": "300",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "ABOUT US"
+      ],
+      "words": 24,
+      "excerpt": "The world’s largest independent brand agency.",
+      "media": {
+        "img": 2,
+        "video": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "section.z--2",
+      "y": 2059,
+      "height": 900,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 351,
+        "gutterRight": 544,
+        "width": 545,
+        "gutterTop": 193,
+        "gutterBottom": 316
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          55,
+          35
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "DON JULIO",
+          "family": "Sequel Sans Book",
+          "size": 28.8,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.07,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "DON JULIO",
+          "family": "Sequel Sans Book",
+          "size": 28.8,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.07,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Sequel Sans Book",
+        "size": 28.8,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.07,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 20,
+      "excerpt": "Don Julio",
+      "media": {
+        "img": 14,
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "section.is-home__work",
+      "y": 2959,
+      "height": 1296,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#f1f1f1",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 46,
+        "gutterRight": 65,
+        "width": 1329,
+        "gutterTop": -1570,
+        "gutterBottom": 156
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "DON JULIO",
+          "family": "Sequel Sans Medium",
+          "size": 115.2,
+          "weight": "500",
+          "lineHeight": 0.79,
+          "letterSpacing": -0.1,
+          "transform": "uppercase",
+          "color": "#181713"
+        },
+        {
+          "tag": "h3",
+          "text": "DON JULIO",
+          "family": "Sequel Sans Medium",
+          "size": 115.2,
+          "weight": "500",
+          "lineHeight": 0.79,
+          "letterSpacing": -0.1,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "DON JULIO",
+          "family": "Sequel Sans Medium",
+          "size": 115.2,
+          "weight": "500",
+          "lineHeight": 0.79,
+          "letterSpacing": -0.1,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "DON JULIO",
+          "family": "Sequel Sans Book",
+          "size": 28.8,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.07,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Mixta Pro Light",
+        "size": 36,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [
+        "01 DON JULIO",
+        "02 ICE CHALET",
+        "03 TATE & LYLE",
+        "04 OREO.COM",
+        "05 TOBLERONE",
+        "06 TECATE",
+        "07 OMNIYAT",
+        "08 CADBURY",
+        "09 WHITE CLAW",
+        "10 FAW"
+      ],
+      "words": 179,
+      "excerpt": "Mexican spirit",
+      "media": {
+        "img": 74
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "section",
+      "y": 4255,
+      "height": 1022,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 3,
+        "width": 1408,
+        "gutterTop": 57,
+        "gutterBottom": 114
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "72px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          100,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ALWAYS MAKING HEADLINES",
+          "family": "Sequel Sans Book",
+          "size": 85.68,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.1,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "The Forty Hours That AI Can't Replace",
+          "family": "Mixta Pro Light",
+          "size": 25.92,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Selleys Launches Undo Glue With Branding And Packaging Via Bulletproof",
+          "family": "Mixta Pro Light",
+          "size": 25.92,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Bulletproof Celebrates Eight Wins at Transform North America",
+          "family": "Mixta Pro Light",
+          "size": 25.92,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Mixta Pro Light",
+        "size": 25.92,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "PRESS The Forty Hours That AI Can't Rep…",
+        "PRESS Selleys Launches Undo Glue With B…",
+        "PRESS Bulletproof Celebrates Eight Wins…",
+        "THINKING Everyone Built a Community. No…",
+        "PRESS From Graphic Design Student to Cr…",
+        "PRESS Objects Of Desire: How Packaging …",
+        "PRESS Packaging Is Where Brands Keep Th…",
+        "PRESS Bulletproof Wins Six Red Dot Awar…",
+        "Chasing fans, fuelling giants: The ampl…",
+        "PRESS Why cereal box toys are making a …"
+      ],
+      "words": 413,
+      "excerpt": "Scientific Superpower: The Importance of a Scientific Mindset in the Creative Industries",
+      "media": {
+        "img": 43,
+        "video": 41
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "section.locations",
+      "y": 5277,
+      "height": 907,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#f1f1f1",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 242,
+        "width": 1155,
+        "gutterTop": 0,
+        "gutterBottom": -192
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "11.52px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 12,
+        "childWidthsPct": [
+          200,
+          200,
+          200,
+          200,
+          200,
+          200,
+          200,
+          200
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "NEW YORK",
+          "family": "Sequel Sans Regular",
+          "size": 100.8,
+          "weight": "400",
+          "lineHeight": 0.71,
+          "letterSpacing": -0.1,
+          "transform": "uppercase",
+          "color": "#f1f1f1"
+        }
+      ],
+      "bodyType": {
+        "family": "Sequel Sans Book",
+        "size": 21.6,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.05,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "257 PARK AVE SOUTH, NY 10010",
+        "HELLONYC@WEAREBULLETPROOF.COM",
+        "+1 (212) 488 8288",
+        "HELLOSHA@WEAREBULLETPROOF.COM",
+        "+86 21 5178 2507",
+        "52 RESERVOIR STREET, SURRY HILLS, NSW 2…",
+        "HELLOSYD@WEAREBULLETPROOF.COM",
+        "CENTRAL HOUSE, 101 MORAY STREET, VIC 32…",
+        "HELLOMEL@WEAREBULLETPROOF.COM",
+        "HELLOUAE@WEAREBULLETPROOF.COM"
+      ],
+      "words": 124,
+      "excerpt": "52 Reservoir Street, Surry Hills, NSW 2010",
+      "media": {
+        "img": 4,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "footer_wrapper",
+      "y": 6184,
+      "height": 778,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#f1f1f180",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": -641,
+        "gutterBottom": 1051
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "HOME",
+          "family": "Sequel Sans Book",
+          "size": 50.4,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.1,
+          "transform": "uppercase",
+          "color": "#ffffff80"
+        }
+      ],
+      "bodyType": {
+        "family": "Sequel Sans Medium",
+        "size": 11.52,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.01,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "GET IN TOUCH",
+        "INSTAGRAM",
+        "LINKEDIN",
+        "HOME",
+        "WORK",
+        "ABOUT",
+        "NEWS",
+        "SUBSCRIBE",
+        "PRIVACY",
+        "TERMS"
+      ],
+      "words": 24,
+      "excerpt": "©Bulletproof 2026. All Rights Reserved",
+      "media": {
+        "img": 12
+      }
+    }
+  ],
+  "listing": {
+    "rank": 172,
+    "title": "Bulletproof",
+    "award": "SOTD",
+    "url": "https://www.wearebulletproof.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/bulletproof",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies"
+    ]
+  }
+}

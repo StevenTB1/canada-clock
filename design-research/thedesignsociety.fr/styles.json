@@ -1,0 +1,962 @@
+{
+  "page": {
+    "url": "https://www.thedesignsociety.fr/",
+    "title": "The Design Society Lyon — la communauté des designers",
+    "description": "L'association qui réunit les designers de Lyon autour de talks et d'apéros. Une société secrète si mal gardée qu'on a fait un site. Prochains événements ici.",
+    "lang": "fr-FR",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 8277,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#350aff",
+        "share": 0.613
+      },
+      {
+        "value": "#ebedf5",
+        "share": 0.319
+      },
+      {
+        "value": "#201d1d",
+        "share": 0.033
+      },
+      {
+        "value": "#131313",
+        "share": 0.028
+      },
+      {
+        "value": "#bcf015",
+        "share": 0.004
+      },
+      {
+        "value": "#f7f7f7",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0
+      },
+      {
+        "value": "#1e1e1e",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#1e1e1e",
+        "share": 0.466
+      },
+      {
+        "value": "#efeeec",
+        "share": 0.363
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.131
+      },
+      {
+        "value": "#333333",
+        "share": 0.026
+      },
+      {
+        "value": "#ebedf5",
+        "share": 0.011
+      },
+      {
+        "value": "#bcf015",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#1d1d1d26",
+        "share": 0.5
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.375
+      },
+      {
+        "value": "#ffffff14",
+        "share": 0.125
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.384,
+      "text": 0.997
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Khinterferencetrial",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 914
+      },
+      {
+        "family": "Khtekatrial",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 372
+      },
+      {
+        "family": "Khinterferencetrial",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 258
+      },
+      {
+        "family": "Khtekatrial",
+        "size": 54,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 252
+      },
+      {
+        "family": "Khtekatrial",
+        "size": 53.28,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 152
+      },
+      {
+        "family": "Fkrasterromancompact Smooth",
+        "size": 28.8,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 140
+      },
+      {
+        "family": "Khinterferencetrial",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 87
+      },
+      {
+        "family": "Khinterferencetrial",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.54,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 65
+      },
+      {
+        "family": "Fkrasterromancompact Smooth",
+        "size": 79.8,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 56
+      },
+      {
+        "family": "Khinterferencetrial",
+        "size": 29.75,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "Khinterferencetrial",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 27
+      },
+      {
+        "family": "Khinterferencetrial",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 24
+      },
+      {
+        "family": "Khtekatrial",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 19
+      },
+      {
+        "family": "Fkrasterromancompact Smooth",
+        "size": 132,
+        "weight": "400",
+        "lineHeight": 1.06,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 19
+      }
+    ],
+    "loadedFonts": [
+      "Fkrasterromancompact Smooth 400 normal",
+      "Geistpixel Line 400 normal",
+      "Khinterferencetrial 400 normal",
+      "Khinterferencetrial 700 normal",
+      "Khtekatrial 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 85
+    },
+    {
+      "px": 14,
+      "uses": 42
+    },
+    {
+      "px": 10,
+      "uses": 40
+    },
+    {
+      "px": 16,
+      "uses": 27
+    },
+    {
+      "px": 6,
+      "uses": 24
+    },
+    {
+      "px": 5,
+      "uses": 15
+    },
+    {
+      "px": 2,
+      "uses": 13
+    },
+    {
+      "px": 24,
+      "uses": 12
+    },
+    {
+      "px": 288,
+      "uses": 10
+    },
+    {
+      "px": 40,
+      "uses": 8
+    },
+    {
+      "px": 1,
+      "uses": 8
+    },
+    {
+      "px": 18,
+      "uses": 7
+    },
+    {
+      "px": 21,
+      "uses": 4
+    },
+    {
+      "px": 140,
+      "uses": 4
+    },
+    {
+      "px": 11,
+      "uses": 4
+    },
+    {
+      "px": 23,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "6px",
+      "uses": 13
+    },
+    {
+      "value": "2px",
+      "uses": 12
+    },
+    {
+      "value": "999px",
+      "uses": 11
+    },
+    {
+      "value": "4px",
+      "uses": 9
+    },
+    {
+      "value": "151.2px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.5s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.6s cubic-bezier(0.7, 0, 0.3, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.735s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.75s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 117,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--background": "#ebedf5",
+    "--_theme---content": "var(--content)",
+    "--radius--radius-s": "4px",
+    "--border": "#1d1d1d26",
+    "--radius--radius-m": "6px",
+    "--_theme---background-accent": "var(--background-accent)",
+    "--_theme---brand-color-2": "var(--brand-color-2)",
+    "--_responsive---hero--padding-top": "7em",
+    "--blue--content": "#f0f0f0",
+    "--_responsive---hero--title-marquee": "3em",
+    "--brand-color-2": "#350aff",
+    "--brand-color-1": "#bcf015",
+    "--_responsive---hero--eye": "60px",
+    "--_responsive---hero--margin": "var(--size--s)",
+    "--_theme---border": "var(--border)",
+    "--_theme---content-subtle": "var(--content-subtle)",
+    "--_theme---brand-color-1": "var(--brand-color-1)",
+    "--_responsive---hero--card-max-height": "290px",
+    "--radius--radius-xs": "2px",
+    "--_theme---background-subtle": "var(--background-subtle)",
+    "--content": "#1e1e1e",
+    "--_theme---content-white": "var(--content-white)",
+    "--blue--content-white": "#f0f0f0",
+    "--_theme---background": "var(--background)",
+    "--_responsive---content-trail--title-content": "1.8em",
+    "--_collection-1---bg<deleted|variable-e812ef71-7c50-7c68-1a2c-76b80accee62>": "#fff",
+    "--_collection-1---blue<deleted|variable-5e5f0e9d-9ae8-da82-97ae-846a4c5a7a32>": "#350aff",
+    "--_collection-1---stroke<deleted|variable-6a38fd0a-edba-ac5d-31a3-229a2495c2ea>": "#1d1d1d26",
+    "--_collection-1---content<deleted|variable-0a7a2625-a9f2-988a-62a5-b6e01410c25c>": "#1e1e1e",
+    "--_collection-1---green<deleted|variable-edcf15ce-34e5-1f3e-5ef9-5169aedf46ea>": "#bcf015",
+    "--radius--radius-l": "8px",
+    "--green--content-white": "white",
+    "--size--m": "24px",
+    "--size--s": "16px",
+    "--background-accent": "white",
+    "--background-subtle": "#f7f7f7",
+    "--content-white": "white",
+    "--content-subtle": "#757575",
+    "--size--l": "32px",
+    "--green--background": "#0b0e01",
+    "--green--background-accent": "#0f1301",
+    "--green--background-subtle": "#131801",
+    "--green--content": "#f0f0f0",
+    "--green--border": "#ffffff0f",
+    "--green--content-subtle": "#999",
+    "--blue--background": "#03000f",
+    "--blue--background-accent": "#040014",
+    "--blue--background-subtle": "#05001a",
+    "--blue--border": "#ffffff0f",
+    "--blue--content-subtle": "#999",
+    "--crt-scanline-opacity": "0.18",
+    "--crt-scanline-spacing": "3px",
+    "--crt-aberration": "0.8",
+    "--crt-vignette-strength": "0.35",
+    "--crt-glow": "0.05",
+    "--crt-grain-opacity": "0.05"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 479px",
+    "max 991px",
+    "min 992px",
+    "min 768px",
+    "max 768px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow",
+    "barba"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "nav",
+      "name": "twostep-nav",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#350aff",
+      "backgroundImage": false,
+      "color": "#1e1e1e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 566,
+        "gutterRight": 857,
+        "width": 17,
+        "gutterTop": 128,
+        "gutterBottom": -449
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          13,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "A",
+          "family": "Khinterferencetrial",
+          "size": 29.75,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#1e1e1e"
+        }
+      ],
+      "bodyType": {
+        "family": "Khinterferencetrial",
+        "size": 29.75,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Accueil",
+        "Évènements",
+        "A propos",
+        "Contact",
+        "Instagram",
+        "LinkedIn",
+        "Eventbrite"
+      ],
+      "words": 58,
+      "excerpt": "A",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "transition",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#350aff",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "mwg020",
+      "y": 1,
+      "height": 900,
+      "position": "relative",
+      "background": "#ebedf5",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 224,
+        "gutterRight": 224,
+        "width": 993,
+        "gutterTop": 269,
+        "gutterBottom": 255
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          17,
+          69,
+          17
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "The Design Society",
+          "family": "Fkrasterromancompact Smooth",
+          "size": 79.8,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1e1e1e"
+        }
+      ],
+      "bodyType": {
+        "family": "Khinterferencetrial",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.54,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 24,
+      "excerpt": "CRITÈRE D'ACCÈS : SAVOIR RESPIRER",
+      "media": {
+        "img": 12,
+        "svg": 4
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 902,
+      "height": 900,
+      "position": "relative",
+      "background": "#350aff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 416,
+        "width": 1000,
+        "gutterTop": 845,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          77,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Née",
+          "family": "Khtekatrial",
+          "size": 54,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Khtekatrial",
+        "size": 54,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 61,
+      "excerpt": "The design society©",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "section-6",
+      "y": 5426,
+      "height": 1118,
+      "position": "static",
+      "background": "#ebedf5",
+      "backgroundImage": false,
+      "color": "#1e1e1e",
+      "padding": "0px 0px 140px",
+      "margin": "24px 24px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 90,
+        "gutterBottom": 140
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          75,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "L'histoire du",
+          "family": "Fkrasterromancompact Smooth",
+          "size": 132,
+          "weight": "400",
+          "lineHeight": 1.06,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1e1e1e"
+        }
+      ],
+      "bodyType": {
+        "family": "Khtekatrial",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Voir l'évènement"
+      ],
+      "words": 82,
+      "excerpt": "Talk sur l'influence des outils (Figma, Penpot, Photoshop, Blender...) sur nos démarches",
+      "media": {
+        "img": 3,
+        "svg": 6
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "section-5",
+      "y": 6685,
+      "height": 740,
+      "position": "static",
+      "background": "#ebedf5",
+      "backgroundImage": false,
+      "color": "#1e1e1e",
+      "padding": "0px",
+      "margin": "140px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 2,
+        "gutterRight": 114,
+        "width": 1324,
+        "gutterTop": 30,
+        "gutterBottom": 145
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "23.04px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 10,
+        "childWidthsPct": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "On vous montre nos têtes, mais évitez de nous",
+          "family": "Khtekatrial",
+          "size": 53.28,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1e1e1e"
+        }
+      ],
+      "bodyType": {
+        "family": "Khinterferencetrial",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 65,
+      "excerpt": "On vous montre nos têtes, mais évitez de nous",
+      "media": {
+        "img": 20,
+        "svg": 10
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "footer-wrap",
+      "y": 7425,
+      "height": 852,
+      "position": "relative",
+      "background": "#350aff",
+      "backgroundImage": false,
+      "color": "#efeeec",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": -365,
+        "gutterBottom": 454
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "D",
+          "family": "Geistpixel Line",
+          "size": 576,
+          "weight": "400",
+          "lineHeight": 0.82,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Khinterferencetrial",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "[ACCUEIL]",
+        "[ÉVÈNEMENTS]",
+        "[À PROPOS]",
+        "[CONTACT]",
+        "[INSTAGRAM]",
+        "[LINKEDIN]",
+        "[EVENTBRITE]"
+      ],
+      "words": 216,
+      "excerpt": "THE DESIGN SOCIETY EST UNE SOCIÉTÉ SECRÈTE QUI COMMUNIQUE SUR LINKEDIN, PERSONNE",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "crt-grain",
+      "y": -490,
+      "height": 1800,
+      "position": "fixed",
+      "background": "#350aff",
+      "backgroundImage": true,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "crt-scanlines",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#350aff",
+      "backgroundImage": true,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "crt-glare",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#350aff",
+      "backgroundImage": true,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "crt-vignette",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#350aff",
+      "backgroundImage": true,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "crt-bezel",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#350aff",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 16,
+    "title": "The Design Society",
+    "award": "HM",
+    "url": "https://www.thedesignsociety.fr/",
+    "awwwards": "https://www.awwwards.com/sites/the-design-society",
+    "categories": [
+      "Events",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

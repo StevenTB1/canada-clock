@@ -1,0 +1,1284 @@
+{
+  "page": {
+    "url": "https://www.grounded2026.com/",
+    "title": "Grounded — Residential & Commercial Architecture, WA",
+    "description": "Fremantle-based architecture studio designing homes and commercial buildings across WA that respond to landscape, material, and light.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 19813,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.699
+      },
+      {
+        "value": "#000000",
+        "share": 0.147
+      },
+      {
+        "value": "#00000099",
+        "share": 0.118
+      },
+      {
+        "value": "#00000066",
+        "share": 0.018
+      },
+      {
+        "value": "#eeeeee",
+        "share": 0.015
+      },
+      {
+        "value": "#000000b3",
+        "share": 0.003
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0.001
+      },
+      {
+        "value": "#0000001a",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.516
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.308
+      },
+      {
+        "value": "#727272",
+        "share": 0.175
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Source Code Pro",
+        "size": 19.2,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 569
+      },
+      {
+        "family": "Inter",
+        "size": 56,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 407
+      },
+      {
+        "family": "Inter",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 246
+      },
+      {
+        "family": "Inter",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 230
+      },
+      {
+        "family": "Inter",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 211
+      },
+      {
+        "family": "Inter",
+        "size": 64,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 119
+      },
+      {
+        "family": "Source Code Pro",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 103
+      },
+      {
+        "family": "Inter",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 71
+      },
+      {
+        "family": "Inter",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 67
+      },
+      {
+        "family": "Source Code Pro",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 59
+      },
+      {
+        "family": "Source Code Pro",
+        "size": 12.8,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 46
+      },
+      {
+        "family": "Source Code Pro",
+        "size": 19.2,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 40
+      },
+      {
+        "family": "Inter",
+        "size": 19.2,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 27
+      },
+      {
+        "family": "Inter",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 25
+      }
+    ],
+    "loadedFonts": [
+      "Inter 300 normal",
+      "Inter 400 normal",
+      "Inter 500 normal",
+      "Inter 600 normal",
+      "Inter 700 normal",
+      "Source Code Pro 300 normal",
+      "Source Code Pro 400 normal",
+      "Source Code Pro 500 normal",
+      "Source Code Pro 600 normal",
+      "Source Code Pro 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 59
+    },
+    {
+      "px": 13,
+      "uses": 48
+    },
+    {
+      "px": 14,
+      "uses": 36
+    },
+    {
+      "px": 72,
+      "uses": 22
+    },
+    {
+      "px": 8,
+      "uses": 21
+    },
+    {
+      "px": 160,
+      "uses": 16
+    },
+    {
+      "px": 12,
+      "uses": 15
+    },
+    {
+      "px": 32,
+      "uses": 15
+    },
+    {
+      "px": 5,
+      "uses": 14
+    },
+    {
+      "px": 20,
+      "uses": 13
+    },
+    {
+      "px": 64,
+      "uses": 12
+    },
+    {
+      "px": 80,
+      "uses": 9
+    },
+    {
+      "px": 24,
+      "uses": 8
+    },
+    {
+      "px": 60,
+      "uses": 8
+    },
+    {
+      "px": 432,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 3
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 10
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 1
+      },
+      {
+        "value": "0s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--color-scheme-1--background": "var(--_primitives---colors--white)",
+    "--_typography---font-styles--body": "Inter,sans-serif",
+    "--color-scheme-1--text": "var(--_primitives---colors--neutral-darkest)",
+    "--_typography---font-styles--heading": "Inter,sans-serif",
+    "--_primitives---colors--white": "#fff",
+    "--_primitives---colors--neutral-darkest": "black",
+    "--_typography---font-styles--eye-brow-details": "\"Source Code Pro\",sans-serif",
+    "--color-scheme-1--grey-text": "#727272",
+    "--text-color--text-alternate<deleted|relume-variable-text-color-3>": "var(--base-color-neutral--white\\<deleted\\|relume-variable-color-neutral-2\\>)",
+    "--_primitives---opacity--transparent": "transparent",
+    "--_primitives---opacity--neutral-darkest-60": "#0009",
+    "--_primitives---opacity--white-60": "#fff9",
+    "--_primitives---opacity--white-15": "#ffffff26",
+    "--_ui-styles---stroke--border-width": "1px",
+    "--color-scheme-1--border": "var(--_primitives---colors--neutral-darkest)",
+    "--_ui-styles---radius--medium": "0px",
+    "--color-scheme-1--foreground": "var(--_primitives---colors--neutral-lightest)",
+    "--background-color--background-secondary<deleted|relume-variable-background-color-2>": "var(--base-color-neutral--neutral-lightest\\<deleted\\|relume-variable-color-neutr",
+    "--border-color--border-primary<deleted|relume-variable-border-color-1>": "var(--base-color-neutral--black\\<deleted\\|relume-variable-color-neutral-1\\>)",
+    "--_ui-styles---radius--small": "0px",
+    "--_primitives---colors--neutral-lightest": "#eee",
+    "--_ui-styles---radius--large": "0px",
+    "--color-scheme-1--accent": "var(--_primitives---colors--neutral-darkest)",
+    "--_ui-styles---stroke--divider-width": "1px",
+    "--_primitives---opacity--neutral-darkest-10": "#0000001a",
+    "--base-color-neutral--white<deleted|relume-variable-color-neutral-2>": "white",
+    "--base-color-neutral--black<deleted|relume-variable-color-neutral-1>": "black",
+    "--base-color-neutral--neutral-lightest<deleted|relume-variable-color-neutral-3>": "#eee",
+    "--text-color--text-primary<deleted|relume-variable-text-color-1>": "var(--base-color-neutral--black\\<deleted\\|relume-variable-color-neutral-1\\>)",
+    "--_primitives---opacity--neutral-darkest-5": "#0000000d",
+    "--_primitives---opacity--neutral-darkest-20": "#0003",
+    "--_primitives---colors--neutral-light": "#aaa",
+    "--_primitives---colors--neutral-lighter": "#ccc",
+    "--_primitives---colors--neutral": "#666",
+    "--_primitives---colors--neutral-dark": "#444",
+    "--_primitives---colors--neutral-darker": "#222",
+    "--_primitives---opacity--white-5": "#ffffff0d",
+    "--_primitives---opacity--white-10": "#ffffff1a",
+    "--_primitives---opacity--white-20": "#fff3",
+    "--_primitives---opacity--white-30": "#ffffff4d",
+    "--_primitives---opacity--white-40": "#fff6",
+    "--_primitives---opacity--white-50": "#ffffff80",
+    "--_primitives---opacity--neutral-darkest-15": "#00000026",
+    "--_primitives---opacity--neutral-darkest-30": "#0000004d",
+    "--_primitives---opacity--neutral-darkest-40": "#0006",
+    "--_primitives---opacity--neutral-darkest-50": "#00000080"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 991px",
+    "max 767px",
+    "min 768px",
+    "min 992px"
+  ],
+  "tech": [
+    "gsap",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "nav-menu-fixed-wrapper.div-block-10",
+      "y": -321,
+      "height": 364,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 452,
+        "gutterRight": 486,
+        "width": 502,
+        "gutterTop": 83,
+        "gutterBottom": 10
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "64px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          37
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Builds",
+          "family": "Inter",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 19.2,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Builds",
+        "Studio",
+        "Services",
+        "sales@grounded.com",
+        "Get a Quote",
+        "Grounded"
+      ],
+      "words": 18,
+      "excerpt": "PERTH WA 12:08:42 AM",
+      "media": {
+        "svg": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "explore-button-container",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Explore",
+          "family": "Inter",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "Explore",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "hero-sticky-container",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 144,
+        "gutterRight": 290,
+        "width": 1006,
+        "gutterTop": 652,
+        "gutterBottom": 86
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Architecture That Belongs.",
+          "family": "Inter",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "CONTACT US"
+      ],
+      "words": 12,
+      "excerpt": "That Belongs.",
+      "media": {
+        "img": 6,
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "section_layout60",
+      "y": 900,
+      "height": 878,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 80,
+        "width": 1280,
+        "gutterTop": 160,
+        "gutterBottom": 168
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We design buildings that respond to landscape, material, and light. Not in spit…",
+          "family": "Inter",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "20+",
+          "family": "Inter",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "140+",
+          "family": "Inter",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "9",
+          "family": "Inter",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 64,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 33,
+      "excerpt": "landscape,",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "services-section",
+      "y": 1778,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 121,
+        "width": 1239,
+        "gutterTop": 82,
+        "gutterBottom": 121
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Residential / Commercial / Planning Applications / Design Development / Constru…",
+          "family": "Inter",
+          "size": 56,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#727272"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SEE OUR SERVICES"
+      ],
+      "words": 50,
+      "excerpt": "documentation,",
+      "media": {
+        "img": 6,
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "project-intro",
+      "y": 2678,
+      "height": 1350,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 131,
+        "width": 1229,
+        "gutterTop": 268,
+        "gutterBottom": 746
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Good buildings don't shout. They settle into their surroundings, age gracefully…",
+          "family": "Inter",
+          "size": 56,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 56,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 30,
+      "excerpt": "surroundings,",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "projects-sticky-container",
+      "y": 4028,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Karri Valley Retreat",
+          "family": "Inter",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "The Dune House",
+          "family": "Inter",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Swan Valley Studio",
+          "family": "Inter",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Explore All Projects",
+          "family": "Inter",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Source Code Pro",
+        "size": 19.2,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Karri Valley Retreat PEMBERTON, WA RESI…",
+        "The Dune House LANCELIN, WA RESIDENTIAL…",
+        "Swan Valley Studio SWAN VALLEY, WA RESI…",
+        "Explore All Projects"
+      ],
+      "words": 40,
+      "excerpt": "Karri Valley Retreat",
+      "media": {
+        "img": 3,
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "section_logo6",
+      "y": 10652,
+      "height": 901,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#727272",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 96,
+        "width": 1265,
+        "gutterTop": 80,
+        "gutterBottom": 792
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "FEATURED",
+          "family": "Source Code Pro",
+          "size": 19.2,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#727272"
+        }
+      ],
+      "bodyType": {
+        "family": "Source Code Pro",
+        "size": 19.2,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Featured",
+      "media": {
+        "svg": 9
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "process-overlay",
+      "y": 11553,
+      "height": 4725,
+      "position": "absolute",
+      "background": "#00000099",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "process-sticky",
+      "y": 11553,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 100,
+        "width": 1260,
+        "gutterTop": 266,
+        "gutterBottom": 298
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "We don't impose. We listen to the land. Every site has a logic. A grain, a ligh…",
+          "family": "Inter",
+          "size": 56,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 56,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 36,
+      "excerpt": "architecture",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "process-block-grid",
+      "y": 12693,
+      "height": 2034,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 100,
+        "gutterRight": 230,
+        "width": 1110,
+        "gutterTop": 20,
+        "gutterBottom": 26
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 10,
+        "gap": "192px 16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          35,
+          35,
+          35
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We Listen",
+          "family": "Inter",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Design",
+          "family": "Inter",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Deliver",
+          "family": "Inter",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "LEARN MORE"
+      ],
+      "words": 77,
+      "excerpt": "collaborative,",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "client-testimonial",
+      "y": 16278,
+      "height": 720,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 84,
+        "width": 1276,
+        "gutterTop": 160,
+        "gutterBottom": 161
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "“Grounded were the first people we spoke to who listened to what we didn’t want…",
+          "family": "Inter",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 35,
+      "excerpt": "Perspective",
+      "media": {
+        "img": 8,
+        "svg": 2
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "recognition-section",
+      "y": 16998,
+      "height": 1014,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 114,
+        "width": 1246,
+        "gutterTop": 174,
+        "gutterBottom": 174
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "RECOGNITION",
+          "family": "Source Code Pro",
+          "size": 19.2,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#727272"
+        }
+      ],
+      "bodyType": {
+        "family": "Source Code Pro",
+        "size": 19.2,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 82,
+      "excerpt": "Commendation",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "cta-section",
+      "y": 18013,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 112,
+        "gutterRight": 112,
+        "width": 1216,
+        "gutterTop": 258,
+        "gutterBottom": 258
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          89,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Got a project in mind? We’d love to hear about it.",
+          "family": "Inter",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Let's Talk",
+          "family": "Inter",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "CONTACT US"
+      ],
+      "words": 24,
+      "excerpt": "We’d love to hear about it.",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 15,
+      "tag": "footer",
+      "name": "footer_section.is-small",
+      "y": 18913,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 80,
+        "width": 1280,
+        "gutterTop": 469,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          89,
+          89
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Grounded is a concept website by Jake Bougouneau. Want a site like this? Get in…",
+          "family": "Inter",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Jake Bougouneau.",
+        "Linkedin: Jake Bougouneau",
+        "jake@neauflow.com",
+        "www.neauflow.com",
+        "Builds /",
+        "Studio /",
+        "Services",
+        "Grounded",
+        "Privacy Policy",
+        "Terms of Service"
+      ],
+      "words": 45,
+      "excerpt": "© 2026 Neauflow. All rights reserved.",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 39,
+    "title": "Grounded",
+    "award": "HM",
+    "url": "https://www.grounded2026.com/",
+    "awwwards": "https://www.awwwards.com/sites/grounded",
+    "categories": [
+      "Architecture",
+      "Promotional",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

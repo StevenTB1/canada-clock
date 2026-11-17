@@ -1,0 +1,498 @@
+{
+  "page": {
+    "url": "https://www.verasfawaz.com/",
+    "title": "Véras Fawaz",
+    "description": "Véras Fawaz © 1993 - 2026",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#080808",
+        "share": 0.612
+      },
+      {
+        "value": "#0404083d",
+        "share": 0.306
+      },
+      {
+        "value": "#141413",
+        "share": 0.079
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.002
+      },
+      {
+        "value": "#353535",
+        "share": 0
+      },
+      {
+        "value": "#e3e3df",
+        "share": 0
+      },
+      {
+        "value": "#87b9d8",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#faf9f5",
+        "share": 0.828
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.062
+      },
+      {
+        "value": "#f3f3ee",
+        "share": 0.051
+      },
+      {
+        "value": "#bbbbbb",
+        "share": 0.04
+      },
+      {
+        "value": "#f4f4f2",
+        "share": 0.019
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Entrance Sans",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 309
+      },
+      {
+        "family": "Studio Sans",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 19
+      },
+      {
+        "family": "Studio Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Studio Mono",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 10
+      },
+      {
+        "family": "Studio Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 8
+      },
+      {
+        "family": "Studio Loading Mono",
+        "size": 6.16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 7
+      },
+      {
+        "family": "Studio Sans",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 5
+      }
+    ],
+    "loadedFonts": [
+      "Studio Loading Mono 400 normal",
+      "Studio Mono 400 normal",
+      "Studio Sans 400 normal",
+      "Entrance Sans 400 normal",
+      "Reference Clock 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 6,
+      "uses": 65
+    },
+    {
+      "px": 20,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 28,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 1
+    },
+    {
+      "value": "9% 11%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s cubic-bezier(0.22, 0.61, 0.36, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.18s ease-out",
+        "uses": 1
+      },
+      {
+        "value": "0.36s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.28s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.65s cubic-bezier(0.22, 0.61, 0.36, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 5,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--ink": "#24292b",
+    "--muted": "#6a7173",
+    "--hair": "#272d2723",
+    "--ui-space": "16px",
+    "--edge-bottom": "8px",
+    "--title": "24px",
+    "--action": "14px",
+    "--meta": "13px",
+    "--panel-bottom": "160px",
+    "--paper": "#f7f7f2",
+    "--panel-ink": "#24292b",
+    "--studio-safe-top": "max(env(safe-area-inset-top,0px),var(--host-safe-top,0px))",
+    "--studio-safe-bottom": "max(env(safe-area-inset-bottom,0px),var(--host-safe-bottom,0px))",
+    "--type-sans": "'Studio Sans',Arial,sans-serif",
+    "--type-mono": "'Studio Mono',monospace",
+    "--ui-font": "var(--type-mono)",
+    "--ui-mobile-size": "12px",
+    "--ui-mobile-weight": "500",
+    "--ui-line": "18px",
+    "--ui-ink": "#eee",
+    "--ui-panel": "rgba(25,25,25,.94)",
+    "--sheet-top": "58px",
+    "--sheet-bottom": "8px",
+    "--control-size": "12px",
+    "--control-hit": "44px",
+    "--surface-dark": "rgba(25,25,25,.94)",
+    "--surface-radius": "0px"
+  },
+  "breakpoints": [
+    "max 700px",
+    "min 701px",
+    "max 900px",
+    "max 699px",
+    "max 760px",
+    "min 901px",
+    "max 540px",
+    "max 520px",
+    "min 1100px",
+    "min 1600px"
+  ],
+  "tech": [
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "studio-power-opening",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#f4f4f2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1073,
+        "gutterRight": 275,
+        "width": 92,
+        "gutterTop": 610,
+        "gutterBottom": 286
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "LOADING",
+          "family": "Studio Loading Mono",
+          "size": 6.16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f4f4f2"
+        }
+      ],
+      "bodyType": {
+        "family": "Studio Loading Mono",
+        "size": 6.16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "LOADING",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "studio-entrance",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#faf9f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1024,
+        "gutterRight": 20,
+        "width": 396,
+        "gutterTop": 18,
+        "gutterBottom": -378
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "20px",
+        "justify": "space-between",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Films",
+          "family": "Studio Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#bbbbbb"
+        },
+        {
+          "tag": "h2",
+          "text": "Music",
+          "family": "Studio Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#bbbbbb"
+        },
+        {
+          "tag": "h2",
+          "text": "Other",
+          "family": "Studio Sans",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#bbbbbb"
+        }
+      ],
+      "bodyType": {
+        "family": "Entrance Sans",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 61,
+      "excerpt": "Aan Het Einde Van De Tijd",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "canvas",
+      "name": "living-room",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#f3f3ee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "svg",
+      "name": "object-tether",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#f3f3ee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#f3f3ee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#f3f3ee",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 210,
+    "title": "Véras Fawaz",
+    "award": "HM",
+    "url": "https://verasfawaz.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/veras-fawaz",
+    "categories": [
+      "Art & Illustration",
+      "Film & TV",
+      "Experimental"
+    ]
+  }
+}

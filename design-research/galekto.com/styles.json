@@ -1,0 +1,617 @@
+{
+  "page": {
+    "url": "https://galekto.com/",
+    "title": "Portfolio — Evren / Galekto",
+    "description": "Evren (Galekto) — Brand identity, visual design and digital art. Explore projects, artworks and more.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.152
+      },
+      {
+        "value": "#fbfbfb",
+        "share": 0.137
+      },
+      {
+        "value": "#060606",
+        "share": 0.137
+      },
+      {
+        "value": "#050505",
+        "share": 0.137
+      },
+      {
+        "value": "#050302f7",
+        "share": 0.137
+      },
+      {
+        "value": "#030201",
+        "share": 0.133
+      },
+      {
+        "value": "#ffff00",
+        "share": 0.016
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.015
+      },
+      {
+        "value": "#ff00ff",
+        "share": 0.015
+      },
+      {
+        "value": "#0000ff",
+        "share": 0.015
+      },
+      {
+        "value": "#00ff00",
+        "share": 0.015
+      },
+      {
+        "value": "#00ffff",
+        "share": 0.014
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffb000",
+        "share": 0.479
+      },
+      {
+        "value": "#ffb00047",
+        "share": 0.117
+      },
+      {
+        "value": "#ffe566",
+        "share": 0.101
+      },
+      {
+        "value": "#ffd060",
+        "share": 0.081
+      },
+      {
+        "value": "#ffb000a6",
+        "share": 0.047
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.044
+      },
+      {
+        "value": "#2d2d2db8",
+        "share": 0.037
+      },
+      {
+        "value": "#facc15",
+        "share": 0.035
+      },
+      {
+        "value": "#111111",
+        "share": 0.029
+      },
+      {
+        "value": "#ffc840",
+        "share": 0.024
+      },
+      {
+        "value": "#2d2d2d",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#2d2d2d38",
+        "share": 0.5
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.5
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.833,
+      "text": 0.117
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "VT323",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 436
+      },
+      {
+        "family": "VT323",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 88
+      },
+      {
+        "family": "VT323",
+        "size": 34,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0.03,
+        "transform": "none",
+        "chars": 38
+      },
+      {
+        "family": "VT323",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.06,
+        "transform": "none",
+        "chars": 35
+      },
+      {
+        "family": "VT323",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.12,
+        "transform": "uppercase",
+        "chars": 26
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 10.56,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.14,
+        "transform": "uppercase",
+        "chars": 23
+      },
+      {
+        "family": "VT323",
+        "size": 62,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.24,
+        "transform": "none",
+        "chars": 23
+      },
+      {
+        "family": "VT323",
+        "size": 57.6,
+        "weight": "400",
+        "lineHeight": 1.05,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 18
+      },
+      {
+        "family": "VT323",
+        "size": 29,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 15
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 24,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.16,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 24,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.1,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "Space Grotesk",
+        "size": 10.88,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.16,
+        "transform": "uppercase",
+        "chars": 5
+      },
+      {
+        "family": "Barlow Condensed",
+        "size": 216,
+        "weight": "900",
+        "lineHeight": 0.82,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 5
+      }
+    ],
+    "loadedFonts": [
+      "Barlow Condensed 900 normal",
+      "Bebas Neue 400 normal",
+      "Space Grotesk 400 normal",
+      "Space Grotesk 600 normal",
+      "Space Grotesk 700 normal",
+      "VT323 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 2,
+      "uses": 12
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 24,
+      "uses": 4
+    },
+    {
+      "px": 28,
+      "uses": 3
+    },
+    {
+      "px": 22,
+      "uses": 2
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 20,
+      "uses": 2
+    },
+    {
+      "px": 40,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 63,
+      "uses": 2
+    },
+    {
+      "px": 72,
+      "uses": 2
+    },
+    {
+      "px": 29,
+      "uses": 1
+    },
+    {
+      "px": 4,
+      "uses": 1
+    },
+    {
+      "px": 1,
+      "uses": 1
+    },
+    {
+      "px": 43,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "16px",
+      "uses": 1
+    },
+    {
+      "value": "2px",
+      "uses": 1
+    },
+    {
+      "value": "28.8px",
+      "uses": 1
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.35s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.6s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.5s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.8s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.45s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 5,
+    "canvases": 6,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--bg": "#FBFBFB",
+    "--fg": "#2D2D2D",
+    "--fg-dim": "rgba(17, 17, 17, 0.25)",
+    "--fg-dimmer": "rgba(17, 17, 17, 0.08)",
+    "--accent": "#22c55e",
+    "--accent-dim": "rgba(34, 197, 94, 0.10)",
+    "--border": "rgba(17, 17, 17, 0.10)",
+    "--border-strong": "rgba(17, 17, 17, 0.20)",
+    "--font-display": "'Bebas Neue', 'Arial Black', Impact, sans-serif",
+    "--font-name": "'Barlow Condensed', 'Arial Black', Impact, sans-serif",
+    "--font-ui": "'Space Grotesk', 'Helvetica Neue', Arial, sans-serif",
+    "--name-fs": "clamp(80px, 22vw, 120px)",
+    "--name-lh": "0.82",
+    "--name-h": "calc(var(--name-fs) * var(--name-lh))",
+    "--ease-out-quint": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "--ease-in-out": "cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+    "--ease-bounce": "cubic-bezier(0.34, 1.56, 0.64, 1)"
+  },
+  "breakpoints": [
+    "max 768px",
+    "max 480px",
+    "max 600px",
+    "max 400px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "preloader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#060606",
+      "backgroundImage": false,
+      "color": "#ffb000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 80,
+        "width": 1280,
+        "gutterTop": 71,
+        "gutterBottom": 195
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          89,
+          89,
+          89,
+          89,
+          89
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "G A L E K T O D R O M E",
+          "family": "VT323",
+          "size": 62,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0.24,
+          "transform": "none",
+          "color": "#ffd060"
+        }
+      ],
+      "bodyType": {
+        "family": "VT323",
+        "size": 26,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 72,
+      "excerpt": "════════════════════════════════════════════════",
+      "media": {
+        "canvas": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "bg-layer",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#2d2d2d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "cursor",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#2d2d2d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "page-tv-overlay",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#2d2d2d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "page-crt-bevel",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#2d2d2d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "page-tv-frame",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#050302f7",
+      "backgroundImage": false,
+      "color": "#2d2d2d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "svg",
+      "name": "page-tv-stroke",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#2d2d2d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 70,
+    "title": "galekto",
+    "award": "HM",
+    "url": "https://galekto.com/",
+    "awwwards": "https://www.awwwards.com/sites/galekto",
+    "categories": [
+      "Art & Illustration",
+      "Web & Interactive",
+      "Portfolio",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

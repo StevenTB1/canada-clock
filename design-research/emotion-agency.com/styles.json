@@ -1,0 +1,529 @@
+{
+  "page": {
+    "url": "https://emotion-agency.com/",
+    "title": "Emotion Agency — Interfaces People Remember",
+    "description": "Award-winning websites and digital products for the brands of tomorrow. Design and engineering under one roof since 2018 — 76 international design awards.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f5efff",
+        "share": 0.947
+      },
+      {
+        "value": "#f5ebff1a",
+        "share": 0.042
+      },
+      {
+        "value": "#9047ff",
+        "share": 0.009
+      },
+      {
+        "value": "#94a3b8",
+        "share": 0.001
+      },
+      {
+        "value": "#2a1647",
+        "share": 0
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#2a1647",
+        "share": 0.472
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.448
+      },
+      {
+        "value": "#581c87",
+        "share": 0.043
+      },
+      {
+        "value": "#6b7280",
+        "share": 0.029
+      },
+      {
+        "value": "#94a3b8",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#e2e4f0",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.947,
+      "text": 0.448
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "IBM Plex Mono",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 1255
+      },
+      {
+        "family": "IBM Plex Mono",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 483
+      },
+      {
+        "family": "IBM Plex Mono",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 286
+      },
+      {
+        "family": "Emotion Serif",
+        "size": 24,
+        "weight": "300",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 261
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 245
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 240
+      },
+      {
+        "family": "Emotion Serif",
+        "size": 96,
+        "weight": "300",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 214
+      },
+      {
+        "family": "Emotion Serif",
+        "size": 48,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 134
+      },
+      {
+        "family": "Emotion Serif",
+        "size": 32,
+        "weight": "300",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 82
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 57
+      },
+      {
+        "family": "Emotion Serif",
+        "size": 96,
+        "weight": "300",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 25
+      },
+      {
+        "family": "IBM Plex Mono",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 17
+      },
+      {
+        "family": "Emotion Serif",
+        "size": 72,
+        "weight": "300",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 5
+      }
+    ],
+    "loadedFonts": [
+      "IBM Plex Mono 500 normal",
+      "IBM Plex Mono Fallback: Courier New normal normal",
+      "PP Neue Montreal 500 normal",
+      "Emotion Serif 300 normal",
+      "Emotion Serif 300 italic"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 200
+    },
+    {
+      "px": 16,
+      "uses": 105
+    },
+    {
+      "px": 8,
+      "uses": 74
+    },
+    {
+      "px": 48,
+      "uses": 24
+    },
+    {
+      "px": 6,
+      "uses": 22
+    },
+    {
+      "px": 10,
+      "uses": 16
+    },
+    {
+      "px": 32,
+      "uses": 13
+    },
+    {
+      "px": 1,
+      "uses": 12
+    },
+    {
+      "px": 20,
+      "uses": 11
+    },
+    {
+      "px": 28,
+      "uses": 11
+    },
+    {
+      "px": 52,
+      "uses": 6
+    },
+    {
+      "px": 40,
+      "uses": 5
+    },
+    {
+      "px": 88,
+      "uses": 4
+    },
+    {
+      "px": 17,
+      "uses": 2
+    },
+    {
+      "px": 152,
+      "uses": 2
+    },
+    {
+      "px": 100,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "9999px",
+      "uses": 19
+    },
+    {
+      "value": "24px",
+      "uses": 16
+    },
+    {
+      "value": "50%",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.65, 0, 0.35, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.5s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 12
+      },
+      {
+        "value": "0.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 7
+      },
+      {
+        "value": "1s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 11,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--primary": "#9047ff",
+    "--primary-rgb": "144,71,255",
+    "--primary-active": "#7114ff",
+    "--primary-active-rgb": "113,20,255",
+    "--status-danger": "#ff3b30",
+    "--status-danger-rgb": "255,59,48",
+    "--status-danger-active": "#c91b11",
+    "--status-danger-active-rgb": "201,27,17",
+    "--status-success": "#319f43",
+    "--status-success-rgb": "49,159,67",
+    "--background": "#f5efff",
+    "--background-rgb": "245,239,255",
+    "--foreground": "#2a1647",
+    "--foreground-rgb": "42,22,71",
+    "--foreground-muted": "#64698b",
+    "--foreground-muted-rgb": "100,105,139",
+    "--border": "#e2e4f0",
+    "--border-rgb": "226,228,240",
+    "--card": "#fff",
+    "--card-rgb": "255,255,255",
+    "--muted": "#f1f2f9",
+    "--muted-rgb": "241,242,249",
+    "--contrast": "#000",
+    "--contrast-rgb": "0,0,0",
+    "--glass": "#fff",
+    "--glass-rgb": "255,255,255",
+    "--backdrop": "rgba(0, 0, 0, 0.8)",
+    "--backdrop-rgb": "0,0,0",
+    "--btn-color": "var(--color-purple-900)",
+    "--rounded-sm": "4px",
+    "--rounded-md": "8px",
+    "--rounded-lg": "12px",
+    "--rounded-xl": "16px",
+    "--rounded-xxl": "20px",
+    "--rounded-full": "9999px",
+    "--gradient-opacity": ".2",
+    "--card-shadow-color": "rgba(var(--contrast-rgb),.05)",
+    "--card-shadow-b": "0px 1px 2px 0px var(--card-shadow-color)",
+    "--card-shadow": "0px 1px 2px 0px var(--card-shadow-color),0px -1px 2px 0px var(--card-shadow-colo",
+    "--card-shadow-md": "rgba(14,18,22,.35) 0px 10px 38px -10px,rgba(14,18,22,.2) 0px 10px 20px -15px",
+    "--btn-stroke-angle": "90deg",
+    "--btn-stroke-colors": "#2d257d 0%,#8e2de2 4%,#f5efff 31%,#f5efff 60%,#cbd5e1 85%,#8e2de2 100%",
+    "--btn-stroke": "linear-gradient(var(--btn-stroke-angle),var(--btn-stroke-colors))",
+    "--color-base-black": "#000",
+    "--color-base-white": "#fff",
+    "--color-slate-50": "#f8fafc",
+    "--color-slate-100": "#f1f5f9",
+    "--color-slate-200": "#e2e8f0",
+    "--color-slate-300": "#cbd5e1",
+    "--color-slate-400": "#94a3b8",
+    "--color-slate-500": "#64748b",
+    "--color-slate-600": "#475569",
+    "--color-slate-700": "#334155",
+    "--color-slate-800": "#1e293b",
+    "--color-slate-900": "#0f172a",
+    "--color-slate-950": "#020617",
+    "--color-gray-50": "#f9fafb",
+    "--color-gray-100": "#f3f4f6",
+    "--color-gray-200": "#e5e7eb",
+    "--color-gray-300": "#d1d5db",
+    "--color-gray-400": "#9ca3af",
+    "--color-gray-500": "#6b7280",
+    "--color-gray-600": "#4b5563",
+    "--color-gray-700": "#374151",
+    "--color-gray-800": "#1f2937",
+    "--color-gray-900": "#111827",
+    "--color-gray-950": "#030712",
+    "--color-zinc-50": "#fafafa",
+    "--color-zinc-100": "#f4f4f5",
+    "--color-zinc-200": "#e4e4e7",
+    "--color-zinc-300": "#d4d4d8",
+    "--color-zinc-400": "#a1a1aa",
+    "--color-zinc-500": "#71717a",
+    "--color-zinc-600": "#52525b",
+    "--color-zinc-700": "#3f3f46",
+    "--color-zinc-800": "#27272a",
+    "--color-zinc-900": "#18181b",
+    "--color-zinc-950": "#09090b",
+    "--color-neutral-50": "#fafafa",
+    "--color-neutral-100": "#f5f5f5"
+  },
+  "breakpoints": [
+    "max 1024px",
+    "max 640px",
+    "max 360px",
+    "max 768px",
+    "max 460px",
+    "max 395px"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#f5efff",
+      "backgroundImage": false,
+      "color": "#2a1647",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 19,
+        "gutterBottom": -23998
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Where AMBITIOUS IDEAS BECOME INTERFACES PEOPLE REMEMBER",
+          "family": "Emotion Serif",
+          "size": 96,
+          "weight": "300",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "We BUILD ↪ MORE THAN WEBSITES AND PRODUCTS",
+          "family": "Emotion Serif",
+          "size": 96,
+          "weight": "300",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "TECHNOLOGY ↪ AS EMOTION",
+          "family": "Emotion Serif",
+          "size": 96,
+          "weight": "300",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "BEAUTY With A REASON",
+          "family": "Emotion Serif",
+          "size": 96,
+          "weight": "300",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "IBM Plex Mono",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Enter with audio Enter with audio",
+        "Enter without audio",
+        "ABOUT",
+        "WORK",
+        "CONTACT",
+        "SETTINGS",
+        "Let's talk Let's talk",
+        "More about us More about us",
+        "PRJCT /01 CREATED AT: 20.08.2024 NAME: …",
+        "PRJCT /02 CREATED AT: 23.12.2024 NAME: …"
+      ],
+      "words": 1472,
+      "excerpt": "Our work has been recognized by leading design platforms and trusted by",
+      "media": {
+        "img": 6,
+        "video": 2,
+        "canvas": 11,
+        "svg": 37
+      }
+    }
+  ],
+  "listing": {
+    "rank": 116,
+    "title": "Emotion Agency",
+    "award": "SOTD",
+    "url": "https://emotion-agency.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/emotion-agency-1",
+    "categories": [
+      "Design Agencies",
+      "Technology",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

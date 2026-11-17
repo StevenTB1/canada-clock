@@ -1,0 +1,620 @@
+{
+  "page": {
+    "url": "https://www.aat-architecten.be/",
+    "title": "AAT Architecten",
+    "description": "Architectenbureau uit Turnhout (Antwerpen), actief in een ruimer gebied. Architectuurprojecten voor openbare besturen, scholen en bedrijven, van…",
+    "lang": "nl",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 4660,
+    "generator": "SEOmatic"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#1d1d1b",
+        "share": 0.887
+      },
+      {
+        "value": "#ababab",
+        "share": 0.113
+      }
+    ],
+    "borders": [
+      {
+        "value": "#dddddd",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Suisse Intl",
+        "size": 31.52,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 315
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 142
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 132
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 129
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 53
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 31.52,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "Suisse Intl",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.31,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 6
+      }
+    ],
+    "loadedFonts": [
+      "Suisse Intl 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 10
+    },
+    {
+      "px": 40,
+      "uses": 9
+    },
+    {
+      "px": 24,
+      "uses": 9
+    },
+    {
+      "px": 11,
+      "uses": 7
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 14,
+      "uses": 4
+    },
+    {
+      "px": 128,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 3
+    },
+    {
+      "px": 256,
+      "uses": 3
+    },
+    {
+      "px": 48,
+      "uses": 3
+    },
+    {
+      "px": 575,
+      "uses": 1
+    },
+    {
+      "px": 110,
+      "uses": 1
+    },
+    {
+      "px": 240,
+      "uses": 1
+    },
+    {
+      "px": 258,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 41
+      },
+      {
+        "value": "2s cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "uses": 4
+      },
+      {
+        "value": "1.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 4
+      },
+      {
+        "value": "3s cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Se",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-red-400": "oklch(70.4% .191 22.216)",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-green-500": "oklch(72.3% .219 149.579)",
+    "--color-blue-500": "oklch(62.3% .214 259.815)",
+    "--color-blue-600": "oklch(54.6% .245 262.881)",
+    "--color-gray-50": "oklch(98.5% .002 247.839)",
+    "--color-gray-100": "oklch(96.7% .003 264.542)",
+    "--color-gray-200": "oklch(92.8% .006 264.531)",
+    "--color-gray-300": "oklch(87.2% .01 258.338)",
+    "--color-gray-500": "oklch(55.1% .027 264.364)",
+    "--color-gray-600": "oklch(44.6% .03 256.802)",
+    "--color-gray-700": "oklch(37.3% .034 259.733)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--breakpoint-sm": "576px",
+    "--breakpoint-md": "820px",
+    "--breakpoint-lg": "1280px",
+    "--breakpoint-xl": "1440px",
+    "--breakpoint-2xl": "1920px",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--font-weight-light": "300",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--leading-tight": "1.25",
+    "--leading-snug": "1.375",
+    "--leading-normal": "1.5",
+    "--leading-relaxed": "1.625",
+    "--radius-sm": ".25rem",
+    "--radius-2xl": "1rem",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-black-500": "#1d1d1b",
+    "--color-grey-500": "#ababab",
+    "--color-grey-300": "#ddd",
+    "--color-alert-green-400": "#93c572",
+    "--color-alert-green-500": "#78b551",
+    "--color-alert-red-500": "#f54646",
+    "--font-suisse-intl": "\"Suisse Intl\", sans-serif",
+    "--text-0": "0px",
+    "--text-10": "10px",
+    "--text-12": "12px",
+    "--text-13": "13px",
+    "--text-14": "14px",
+    "--text-15": "15px",
+    "--text-16": "16px",
+    "--text-18": "18px",
+    "--text-20": "20px",
+    "--text-24": "24px",
+    "--text-28": "28px",
+    "--text-32": "32px",
+    "--text-40": "40px",
+    "--text-48": "48px",
+    "--text-56": "56px",
+    "--text-64": "64px",
+    "--text-72": "72px",
+    "--leading-0": "0rem",
+    "--tracking-10": ".01em",
+    "--tracking-15": ".015em",
+    "--grid-template-columns-mobile": "[full-start] 24px [main-start] repeat(6, minmax(0,1fr)) [main-end] 24px [full-en",
+    "--grid-template-columns-desktop": "[full-start] 40px [main-start] repeat(22, minmax(0,7.27273rem)) [main-end] 40px ",
+    "--grid-column-span-full": "full",
+    "--grid-column-span-main": "main",
+    "--grid-column-span-inner": "inner",
+    "--grid-column-start-full": "full-start",
+    "--grid-column-start-main": "main-start",
+    "--grid-column-start-14": "14",
+    "--grid-column-start-15": "15",
+    "--grid-column-start-16": "16",
+    "--grid-column-start-17": "17",
+    "--grid-column-start-18": "18",
+    "--grid-column-start-19": "19"
+  },
+  "breakpoints": [
+    "min 1024px",
+    "min 1280px",
+    "min 1440px",
+    "min 576px",
+    "min 820px",
+    "min 1920px",
+    "max 500px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 0,
+      "height": 110,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ababab",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 185,
+        "gutterRight": 604,
+        "width": 651,
+        "gutterTop": 56,
+        "gutterBottom": 40
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Architecten",
+          "family": "Suisse Intl",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1b"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Architecten",
+        "Projecten",
+        "Over",
+        "Contact"
+      ],
+      "words": 4,
+      "excerpt": "Architecten",
+      "media": {
+        "svg": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "home-intro-block-track.js-home-intro-block",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1b",
+      "padding": "0px",
+      "margin": "-110px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 535,
+        "width": 865,
+        "gutterTop": 674,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 28,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          56,
+          4,
+          37
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Wij ontwerpen gebouwen die werken voor publieke ruimtes, scholen en bedrijven, …",
+          "family": "Suisse Intl",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1b"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 20,
+      "excerpt": "publieke ruimtes, scholen en bedrijven, en",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "block-featured-projects.block-featured-projects--content-grid",
+      "y": 1156,
+      "height": 1656,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1b",
+      "padding": "0px",
+      "margin": "0px 0px 256px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 138,
+        "width": 1262,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "240px normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Projecten",
+          "family": "Suisse Intl",
+          "size": 31.52,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ababab"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Alle projecten",
+        "Van Raak L. Bedrijven",
+        "Schooltje van de Hei Onderwijs",
+        "Woning C Residentieel",
+        "Jakob Smits Museum Publiek"
+      ],
+      "words": 19,
+      "excerpt": "Schooltje van de Hei",
+      "media": {
+        "img": 4,
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "block-text-and-portrait.row",
+      "y": 3068,
+      "height": 848,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1b",
+      "padding": "0px",
+      "margin": "0px 0px 256px",
+      "border": null,
+      "content": {
+        "gutterLeft": 225,
+        "gutterRight": 225,
+        "width": 989,
+        "gutterTop": 386,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 28,
+        "gap": "128px normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 3,
+        "childWidthsPct": [
+          13,
+          69,
+          69
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "We geloven dat architectuur in de eerste",
+          "family": "Suisse Intl",
+          "size": 31.52,
+          "weight": "400",
+          "lineHeight": 1.38,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1b"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl",
+        "size": 31.52,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Meer over ons"
+      ],
+      "words": 53,
+      "excerpt": "plaats beleving is. Dat een gebouw pas slaagt wanneer",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "footer",
+      "name": "site-wrapper__row.site-wrapper__row--footer",
+      "y": 4172,
+      "height": 489,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 67,
+        "width": 1333,
+        "gutterTop": 129,
+        "gutterBottom": 48
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 28,
+        "gap": "128px normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Architecten",
+          "family": "Suisse Intl",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1b"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Architecten",
+        "Home",
+        "Projecten",
+        "Over",
+        "FAQ",
+        "Contact",
+        "Everdongenlaan 9/18 2300 Turnhout",
+        "info@aat-architecten.be",
+        "014 63 38 24",
+        "LinkedIn"
+      ],
+      "words": 24,
+      "excerpt": "Orde van Architecten B200541",
+      "media": {
+        "svg": 4
+      }
+    }
+  ],
+  "listing": {
+    "rank": 128,
+    "title": "AAT Architecten",
+    "award": "HM",
+    "url": "https://www.aat-architecten.be/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/aat-architecten",
+    "categories": [
+      "Architecture",
+      "Portfolio"
+    ]
+  }
+}

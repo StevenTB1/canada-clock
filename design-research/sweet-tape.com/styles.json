@@ -1,0 +1,867 @@
+{
+  "page": {
+    "url": "https://sweet-tape.com/",
+    "title": "SweetTape — Stick By You | Cloth, Masking & OPP Tapes",
+    "description": "Six tapes made in Malaysia, one for every job — cloth, masking, stationery, double-sided and more. Three generations of tape; meet the one who sticks.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 14135,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#034102",
+        "share": 0.832
+      },
+      {
+        "value": "#b6fe00",
+        "share": 0.094
+      },
+      {
+        "value": "#fa8005",
+        "share": 0.051
+      },
+      {
+        "value": "#013900",
+        "share": 0.012
+      },
+      {
+        "value": "#fcd805",
+        "share": 0.008
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.001
+      },
+      {
+        "value": "#ffdc13",
+        "share": 0.001
+      },
+      {
+        "value": "#fff1a2",
+        "share": 0.001
+      },
+      {
+        "value": "#f4f3ef",
+        "share": 0
+      },
+      {
+        "value": "#003500",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.364
+      },
+      {
+        "value": "#013900",
+        "share": 0.178
+      },
+      {
+        "value": "#b6fe00",
+        "share": 0.154
+      },
+      {
+        "value": "#ffdc13",
+        "share": 0.118
+      },
+      {
+        "value": "#754402",
+        "share": 0.1
+      },
+      {
+        "value": "#d7791a",
+        "share": 0.059
+      },
+      {
+        "value": "#16110a",
+        "share": 0.028
+      }
+    ],
+    "borders": [
+      {
+        "value": "#013900",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.001,
+      "text": 0.392
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "futura-pt-condensed",
+        "size": 155,
+        "weight": "800",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 303
+      },
+      {
+        "family": "Inter Tight Variable",
+        "size": 16.13,
+        "weight": "600",
+        "lineHeight": 1.32,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 90
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "capitalize",
+        "chars": 84
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 87.42,
+        "weight": "800",
+        "lineHeight": 0.79,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 83
+      },
+      {
+        "family": "Inter Tight Variable",
+        "size": 12.96,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 39
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 20,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 35
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 90,
+        "weight": "800",
+        "lineHeight": 0.77,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 31
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 60,
+        "weight": "800",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "Inter Tight Variable",
+        "size": 17.01,
+        "weight": "700",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 40.32,
+        "weight": "800",
+        "lineHeight": 1,
+        "letterSpacing": -0.018,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 549.99,
+        "weight": "800",
+        "lineHeight": 0.82,
+        "letterSpacing": -0.005,
+        "transform": "none",
+        "chars": 22
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 144.99,
+        "weight": "800",
+        "lineHeight": 0.83,
+        "letterSpacing": -0.018,
+        "transform": "none",
+        "chars": 17
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 33.8,
+        "weight": "800",
+        "lineHeight": 0.71,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 11
+      },
+      {
+        "family": "futura-pt-condensed",
+        "size": 293.2,
+        "weight": "800",
+        "lineHeight": 0.73,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 10
+      }
+    ],
+    "loadedFonts": [
+      "Nothing You Could Do 400 normal",
+      "Inter Tight Variable 100 900 normal",
+      "futura-pt-condensed 400 normal",
+      "futura-pt-condensed 700 normal",
+      "futura-pt-condensed 800 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 184
+    },
+    {
+      "px": 5,
+      "uses": 128
+    },
+    {
+      "px": 4,
+      "uses": 115
+    },
+    {
+      "px": 17,
+      "uses": 85
+    },
+    {
+      "px": 2,
+      "uses": 78
+    },
+    {
+      "px": 27,
+      "uses": 44
+    },
+    {
+      "px": 9,
+      "uses": 44
+    },
+    {
+      "px": 18,
+      "uses": 34
+    },
+    {
+      "px": 6,
+      "uses": 26
+    },
+    {
+      "px": 8,
+      "uses": 26
+    },
+    {
+      "px": 35,
+      "uses": 23
+    },
+    {
+      "px": 110,
+      "uses": 22
+    },
+    {
+      "px": 25,
+      "uses": 22
+    },
+    {
+      "px": 29,
+      "uses": 21
+    },
+    {
+      "px": 7,
+      "uses": 13
+    },
+    {
+      "px": 59,
+      "uses": 11
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 13
+    },
+    {
+      "value": "6.048px",
+      "uses": 6
+    },
+    {
+      "value": "24.9984px",
+      "uses": 4
+    },
+    {
+      "value": "76.9991px",
+      "uses": 3
+    },
+    {
+      "value": "49.9968px",
+      "uses": 2
+    },
+    {
+      "value": "50.8486px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.45s cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "uses": 6
+      },
+      {
+        "value": "0.4s cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.22s cubic-bezier(0.16, 0.84, 0.3, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.75s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.25s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 4,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--screen": "100svh",
+    "--screen-lg": "100lvh",
+    "--font-heading": "\"futura-pt-condensed\", \"Futura PT Condensed\", \"Futura PT Cond\", Futura, \"Arial N",
+    "--font-body": "\"Inter Tight Variable\", \"Inter Tight\", Inter, system-ui, sans-serif",
+    "--stage-bg": "#ff7e00",
+    "--sb-track": "#013900",
+    "--sb-thumb": "#b6fe00",
+    "--edge-bite": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1",
+    "--section-curve": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1",
+    "--section-bite": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1",
+    "--curve-depth": "10.336vw",
+    "--drop-blur": ".02vw",
+    "--drop-ink": "#00000057",
+    "--orbit-r": "calc(16.366vw / 2)",
+    "--orbit-d": "calc(var(--orbit-r) * 2)",
+    "--roll-size": "7vw",
+    "--ring-w": "calc(var(--roll-size) * .12)",
+    "--path-line": "#ffffff8c",
+    "--tag-bg": "#fcd805",
+    "--tag-ink": "#16110a",
+    "--ink": "#16110a",
+    "--word-colour": "#fcd805",
+    "--nav-face": "#fff1a2",
+    "--nav-ink": "#fcd805",
+    "--h2-size": "5.6vw",
+    "--h2-line": "4.9vw",
+    "--h2-track": "-.17vw",
+    "--top-inset": "3vw",
+    "--top-mark-w": "18vw",
+    "--top-mark-h": "calc(var(--top-mark-w) * 118 / 191)",
+    "--masthead": "calc(var(--top-inset) + var(--top-mark-h))",
+    "--product-scale": "2.2",
+    "--product-roll-w": "calc(30.625vw * var(--product-scale))",
+    "--product-roll-h": "calc(28.889vw * var(--product-scale))",
+    "--pi-h": "140vw",
+    "--about-bg": "#034102",
+    "--about-ink": "#b6fe00",
+    "--note-fs": "3.59vw",
+    "--note-lh": "3.846vw",
+    "--note-indent-x": "4.431vw",
+    "--note-indent-y": "3.323vw",
+    "--note-bow": "1.795vw",
+    "--note-lead-x": "6.154vw",
+    "--note-lead-y": "4.872vw",
+    "--note-tail": "4.615vw",
+    "--note-rule": "max(1.2px, .087vw)",
+    "--note-stroke": ".02em"
+  },
+  "breakpoints": [
+    "max 743px",
+    "min 744px",
+    "max 1279px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "top",
+      "y": 0,
+      "height": 750,
+      "position": "relative",
+      "background": "#034102",
+      "backgroundImage": false,
+      "color": "#013900",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 22,
+        "gutterRight": 308,
+        "width": 1111,
+        "gutterTop": 13,
+        "gutterBottom": 200
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "4.8px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          28,
+          59
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "S T I C K B Y Y O U",
+          "family": "futura-pt-condensed",
+          "size": 293.2,
+          "weight": "800",
+          "lineHeight": 0.73,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#013900"
+        }
+      ],
+      "bodyType": {
+        "family": "futura-pt-condensed",
+        "size": 20,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 56,
+      "excerpt": "S",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "pl-stage",
+      "y": 0,
+      "height": 750,
+      "position": "absolute",
+      "background": "#034102",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "wave-band",
+      "y": 2322,
+      "height": 243,
+      "position": "relative",
+      "background": "#034102",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "-243px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "textpath",
+          "text": "WHEN LIFE GETS MESSY, SOMETHING HAS TO HOLD WHEN LIFE GETS MESSY, SOMETHING HAS…",
+          "family": "futura-pt-condensed",
+          "size": 155,
+          "weight": "800",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "futura-pt-condensed",
+        "size": 155,
+        "weight": "800",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 48,
+      "excerpt": "WHEN LIFE GETS MESSY, SOMETHING HAS TO HOLD WHEN LIFE GETS MESSY,",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "tape-slider-parent",
+      "y": 2565,
+      "height": 1073,
+      "position": "relative",
+      "background": "#034102",
+      "backgroundImage": false,
+      "color": "#ffdc13",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 118,
+        "width": 1311,
+        "gutterTop": 191,
+        "gutterBottom": 356
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "EXPLORE",
+          "family": "futura-pt-condensed",
+          "size": 34.99,
+          "weight": "800",
+          "lineHeight": 0.72,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#013900"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight Variable",
+        "size": 16.13,
+        "weight": "600",
+        "lineHeight": 1.32,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "EXPLORE"
+      ],
+      "words": 33,
+      "excerpt": "MEET THE ONE WHO STICKS",
+      "media": {
+        "img": 26,
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "span",
+      "name": "giant-brow",
+      "y": 3489,
+      "height": 149,
+      "position": "absolute",
+      "background": "#b6fe00",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "wrapper",
+      "y": 3638,
+      "height": 900,
+      "position": "relative",
+      "background": "#034102",
+      "backgroundImage": false,
+      "color": "#013900",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 141,
+        "gutterRight": 212,
+        "width": 1086,
+        "gutterTop": 229,
+        "gutterBottom": -156
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          3,
+          18,
+          25,
+          25,
+          122
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "W E ’ R E H E R E F O R T H E E V E R Y D A Y M O M E N T S .",
+          "family": "futura-pt-condensed",
+          "size": 90,
+          "weight": "800",
+          "lineHeight": 0.77,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#013900"
+        },
+        {
+          "tag": "h2",
+          "text": "T O C R E A T E",
+          "family": "futura-pt-condensed",
+          "size": 549.99,
+          "weight": "800",
+          "lineHeight": 0.82,
+          "letterSpacing": -0.005,
+          "transform": "none",
+          "color": "#013900"
+        },
+        {
+          "tag": "h2",
+          "text": "T O F I X",
+          "family": "futura-pt-condensed",
+          "size": 549.99,
+          "weight": "800",
+          "lineHeight": 0.82,
+          "letterSpacing": -0.005,
+          "transform": "none",
+          "color": "#013900"
+        },
+        {
+          "tag": "h2",
+          "text": "T O P R O T E C T",
+          "family": "futura-pt-condensed",
+          "size": 549.99,
+          "weight": "800",
+          "lineHeight": 0.82,
+          "letterSpacing": -0.005,
+          "transform": "none",
+          "color": "#013900"
+        }
+      ],
+      "bodyType": {
+        "family": "futura-pt-condensed",
+        "size": 90,
+        "weight": "800",
+        "lineHeight": 0.77,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 56,
+      "excerpt": "WHY WE EXIST",
+      "media": {
+        "img": 27,
+        "svg": 8
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "make-it-stick",
+      "y": 12296,
+      "height": 1027,
+      "position": "relative",
+      "background": "#b6fe00",
+      "backgroundImage": false,
+      "color": "#b6fe00",
+      "padding": "135px 128.664px 283.838px",
+      "margin": "-1px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 799,
+        "gutterRight": 204,
+        "width": 437,
+        "gutterTop": 196,
+        "gutterBottom": 339
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "16.6608px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          42,
+          41,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "L E T ’ S M A K E I T S T I C K !",
+          "family": "futura-pt-condensed",
+          "size": 144.99,
+          "weight": "800",
+          "lineHeight": 0.83,
+          "letterSpacing": -0.018,
+          "transform": "none",
+          "color": "#b6fe00"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight Variable",
+        "size": 17.01,
+        "weight": "700",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 21,
+      "excerpt": "everything",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 8,
+      "tag": "footer",
+      "name": "site-footer",
+      "y": 13174,
+      "height": 961,
+      "position": "relative",
+      "background": "#034102",
+      "backgroundImage": false,
+      "color": "#b6fe00",
+      "padding": "148.838px 0px 0px",
+      "margin": "-148.838px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 14,
+        "gutterRight": 14,
+        "width": 1411,
+        "gutterTop": 195,
+        "gutterBottom": 23
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "flex-end",
+        "children": 5,
+        "childWidthsPct": [
+          11,
+          10,
+          7,
+          11,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "S T I C K B Y Y O U",
+          "family": "futura-pt-condensed",
+          "size": 207.36,
+          "weight": "800",
+          "lineHeight": 0.73,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#b6fe00"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight Variable",
+        "size": 12.96,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "O U R F A M I L Y",
+        "A B O U T",
+        "N E W S",
+        "C O N T A C T"
+      ],
+      "words": 43,
+      "excerpt": "Copyright © 2026. SB Tape Group Sdn Bhd",
+      "media": {
+        "img": 5,
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 171,
+    "title": "Sweet Tape",
+    "award": "SOTD",
+    "url": "https://sweet-tape.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/sweet-tape",
+    "categories": [
+      "Business & Corporate",
+      "Web & Interactive"
+    ]
+  }
+}

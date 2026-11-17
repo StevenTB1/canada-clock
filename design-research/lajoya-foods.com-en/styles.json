@@ -1,0 +1,504 @@
+{
+  "page": {
+    "url": "https://lajoya-foods.com/en",
+    "title": "LAJOYA GOURMET",
+    "description": null,
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#00ef84",
+        "share": 0.573
+      },
+      {
+        "value": "#bfded0",
+        "share": 0.302
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.118
+      },
+      {
+        "value": "#000000",
+        "share": 0.008
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.922
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.047
+      },
+      {
+        "value": "#ea3323",
+        "share": 0.031
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.126,
+      "text": 0.969
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Ambiant Light Sans",
+        "size": 68,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.022,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Maison Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 14
+      },
+      {
+        "family": "Ambiant Light Sans",
+        "size": 68,
+        "weight": "400",
+        "lineHeight": 0.71,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 13
+      },
+      {
+        "family": "Maison Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 10
+      },
+      {
+        "family": "Ambiant Light Sans",
+        "size": 38,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 3
+      }
+    ],
+    "loadedFonts": [
+      "Maison Neue 400 normal",
+      "Ambiant Light Spiky 400 normal",
+      "Ambiant Light Sans 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 22,
+      "uses": 10
+    },
+    {
+      "px": 4,
+      "uses": 1
+    },
+    {
+      "px": 20,
+      "uses": 1
+    },
+    {
+      "px": 60,
+      "uses": 1
+    },
+    {
+      "px": 6,
+      "uses": 1
+    },
+    {
+      "px": 13,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "30px",
+      "uses": 2
+    },
+    {
+      "value": "36px",
+      "uses": 1
+    },
+    {
+      "value": "100%",
+      "uses": 1
+    },
+    {
+      "value": "32px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.8s cubic-bezier(0.65, 0.05, 0.36, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.28s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.5s cubic-bezier(0.65, 0.05, 0.36, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 54
+  },
+  "cssVariables": {
+    "--color-primary": "#00EF84",
+    "--color-secondary": "#EA3323",
+    "--color-tertiary": "#FFFF54",
+    "--font-primary": "\"Maison Neue\"",
+    "--font-support": "\"Ambiant Light Spiky\"",
+    "--font-support-s": "\"Ambiant Light Sans\"",
+    "--text-reveal-bleed": ".2em"
+  },
+  "breakpoints": [
+    "max 1024px",
+    "min 1025px",
+    "min 1024px",
+    "max 1023px"
+  ],
+  "tech": [
+    "three",
+    "shopify"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 92,
+      "position": "relative",
+      "background": "#00ef84",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "4px 22px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 22,
+        "gutterRight": 130,
+        "width": 1288,
+        "gutterTop": 4,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          15,
+          12,
+          14,
+          23,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Contact",
+          "family": "Ambiant Light Sans",
+          "size": 68,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.022,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ambiant Light Sans",
+        "size": 68,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.022,
+        "transform": "none"
+      },
+      "labels": [
+        "Contact",
+        "About",
+        "Shop",
+        "0"
+      ],
+      "words": 8,
+      "excerpt": "Contact",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "cart",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#00ef84",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          36,
+          36,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Shopping Cart",
+          "family": "Ambiant Light Sans",
+          "size": 68,
+          "weight": "400",
+          "lineHeight": 0.71,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ambiant Light Sans",
+        "size": 68,
+        "weight": "400",
+        "lineHeight": 0.71,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Pay"
+      ],
+      "words": 5,
+      "excerpt": "Shopping Cart",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "canvas",
+      "name": "gl",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#00ef84",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "hero",
+      "y": 92,
+      "height": 808,
+      "position": "sticky",
+      "background": "#00ef84",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 22px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 42,
+        "gutterRight": 42,
+        "width": 1356,
+        "gutterTop": 396,
+        "gutterBottom": 396
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          5,
+          35,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Bueno",
+          "family": "Maison Neue",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Maison Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "de Verdad",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "tiles__placeholder",
+      "y": 900,
+      "height": 808,
+      "position": "static",
+      "background": "#00ef84",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "tiles__placeholder.tiles__placeholder--last",
+      "y": 1708,
+      "height": 808,
+      "position": "static",
+      "background": "#00ef84",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "tiles",
+      "y": 92,
+      "height": 808,
+      "position": "fixed",
+      "background": "#00ef84",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          50
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 108,
+        "video": 54,
+        "svg": 334
+      }
+    }
+  ],
+  "listing": {
+    "rank": 204,
+    "title": "Lajoya",
+    "award": "HM",
+    "url": "https://lajoya-foods.com/en",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/lajoya",
+    "categories": [
+      "E-Commerce",
+      "Food & Drink"
+    ]
+  }
+}

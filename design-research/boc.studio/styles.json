@@ -1,0 +1,930 @@
+{
+  "page": {
+    "url": "https://boc.studio/",
+    "title": "Boc.Studio — Creative brand studio in Barcelona",
+    "description": "A Barcelona creative brand studio. We create, refresh and boost brands through identity, creative direction, motion design and AI production.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 2267,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#181d21",
+        "share": 0.999
+      },
+      {
+        "value": "#0d0d0dfa",
+        "share": 0.001
+      },
+      {
+        "value": "#0d0d0d",
+        "share": 0
+      },
+      {
+        "value": "#303030",
+        "share": 0
+      },
+      {
+        "value": "#545151",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.49
+      },
+      {
+        "value": "#adadad",
+        "share": 0.306
+      },
+      {
+        "value": "#545151",
+        "share": 0.113
+      },
+      {
+        "value": "#f3f3f3",
+        "share": 0.091
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ppMori",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1.58,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 506
+      },
+      {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 398
+      },
+      {
+        "family": "ppMori",
+        "size": 28.26,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 108
+      },
+      {
+        "family": "ppMori",
+        "size": 28.26,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.022,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "ppMori",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 7
+      },
+      {
+        "family": "ppMori",
+        "size": 28.26,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 4
+      },
+      {
+        "family": "ppMori",
+        "size": 11,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "ppMori 400 normal",
+      "ppMori 600 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 15,
+      "uses": 85
+    },
+    {
+      "px": 2,
+      "uses": 16
+    },
+    {
+      "px": 60,
+      "uses": 4
+    },
+    {
+      "px": 30,
+      "uses": 3
+    },
+    {
+      "px": 20,
+      "uses": 2
+    },
+    {
+      "px": 5,
+      "uses": 2
+    },
+    {
+      "px": 10,
+      "uses": 1
+    },
+    {
+      "px": 40,
+      "uses": 1
+    },
+    {
+      "px": 7,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.35544e+07px",
+      "uses": 2
+    },
+    {
+      "value": "40px",
+      "uses": 1
+    },
+    {
+      "value": "60px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(1, 0, 0.47, 1.25)",
+        "uses": 415
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 11
+      },
+      {
+        "value": "0.4s cubic-bezier(0.25, 0.1, 0.25, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.4s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 10,
+    "canvases": 1,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--font-sans": "var(--font-pp-mori), system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", R",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "calc(1.5 / 1)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "calc(2.25 / 1.875)",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5 / 2.25)",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--text-7xl": "4.5rem",
+    "--text-7xl--line-height": "1",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--tracking-tight": "-.025em",
+    "--tracking-widest": ".1em",
+    "--ease-in": "cubic-bezier(.4, 0, 1, 1)",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-boc-orange": "#ff4421",
+    "--color-boc-canvas": "#181d21",
+    "--color-boc-text-on-orange": "#000",
+    "--color-boc-text-on-canvas": "#f3f3f3",
+    "--color-boc-muted": "#adadad",
+    "--color-boc-gray": "#afabab",
+    "--color-boc-muted-2": "#545151",
+    "--color-boc-rule": "#181d21",
+    "--color-boc-online": "#b53219",
+    "--color-boc-muted-on-orange": "#b53219",
+    "--color-boc-info-shade": "#b62f17",
+    "--color-boc-info-label": "#85210f",
+    "--color-boc-offblack": "#181d21",
+    "--color-boc-black": "#111314",
+    "--grid-gutter": "15px",
+    "--boc-page-px": "15px",
+    "--boc-image-radius": "0px",
+    "--boc-sidebar-w": "min(calc((100% - 135px) / 4 + 45px), 390.75px)",
+    "--ease-boc-brisk": "cubic-bezier(.4, 0, .2, 1)",
+    "--ease-boc-grow": "cubic-bezier(1, 0, .47, 1.25)",
+    "--ease-boc-reveal": "cubic-bezier(.25, .1, .25, 1)",
+    "--color-boc-btn-grey": "#2a3137",
+    "--color-boc-btn-grey-hover": "#21272c",
+    "--lightningcss-light": "",
+    "--lightningcss-dark": "initial"
+  },
+  "breakpoints": [
+    "min 1024px",
+    "min 48rem",
+    "min 64rem",
+    "min 1550px",
+    "min 40rem",
+    "min 80rem",
+    "min 96rem"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "info-panel",
+      "y": 419,
+      "height": 61,
+      "position": "sticky",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1,
+        "svg": 9
+      }
+    },
+    {
+      "i": 2,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 76,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          501,
+          501
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "CE Europa",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "CE Europa",
+        "View project"
+      ],
+      "words": 7,
+      "excerpt": "Postcode football club",
+      "media": {
+        "img": 58
+      }
+    },
+    {
+      "i": 3,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 313,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          166,
+          166
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Marmota Audi",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Marmota Audi",
+        "View project"
+      ],
+      "words": 7,
+      "excerpt": "Groundhog on board",
+      "media": {
+        "img": 18
+      }
+    },
+    {
+      "i": 4,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 550,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          496,
+          496
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Chocovic",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Chocovic",
+        "View project"
+      ],
+      "words": 6,
+      "excerpt": "Colour between flour",
+      "media": {
+        "img": 56
+      }
+    },
+    {
+      "i": 5,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 787,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          261,
+          261
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Alien Audi",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Alien Audi",
+        "View project"
+      ],
+      "words": 8,
+      "excerpt": "Technology from another planet",
+      "media": {
+        "img": 30
+      }
+    },
+    {
+      "i": 6,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 1023,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          599,
+          599
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Sport",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Sport",
+        "View project"
+      ],
+      "words": 6,
+      "excerpt": "Daily heritage, rewritten",
+      "media": {
+        "img": 62
+      }
+    },
+    {
+      "i": 7,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 1260,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          515,
+          515
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Yaba",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Yaba",
+        "View project"
+      ],
+      "words": 5,
+      "excerpt": "Mediterranean balance",
+      "media": {
+        "img": 60
+      }
+    },
+    {
+      "i": 8,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 1497,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          384,
+          384
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "The Seam",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "The Seam",
+        "View project"
+      ],
+      "words": 10,
+      "excerpt": "Fit to Care. Designed to Last.",
+      "media": {
+        "img": 44
+      }
+    },
+    {
+      "i": 9,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 1734,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          307,
+          307
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "The Champions Burger",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "The Champions Burger",
+        "View project"
+      ],
+      "words": 8,
+      "excerpt": "The Champions Burger",
+      "media": {
+        "img": 36
+      }
+    },
+    {
+      "i": 10,
+      "tag": "article",
+      "name": "boc-grow-row.flex",
+      "y": 1970,
+      "height": 237,
+      "position": "static",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#adadad",
+      "padding": "0px 0px 15px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 371,
+        "gutterRight": 15,
+        "width": 1054,
+        "gutterTop": 204,
+        "gutterBottom": 15
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "15px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          356,
+          356
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Incite",
+          "family": "ppMori",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "ppMori",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Incite",
+        "View project"
+      ],
+      "words": 6,
+      "excerpt": "Supplements made simple",
+      "media": {
+        "img": 42
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "Boc.Studio landing",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#f3f3f3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "pointer-events-none.fixed",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#181d21",
+      "backgroundImage": false,
+      "color": "#f3f3f3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 150,
+    "title": "Boc.Studio",
+    "url": "https://boc.studio/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

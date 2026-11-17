@@ -1,0 +1,453 @@
+{
+  "page": {
+    "url": "https://www.gianlucaboccia.me/",
+    "title": "Gianluca Boccia — UI Designer & Design Systems",
+    "description": "Senior UI Designer at Candid, based in New Jersey. Explore my work in interfaces, design systems and digital products through a story in one line.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 52222,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.999
+      },
+      {
+        "value": "#fafaf7",
+        "share": 0.001
+      },
+      {
+        "value": "#171717",
+        "share": 0
+      },
+      {
+        "value": "#14141426",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#171717",
+        "share": 0.791
+      },
+      {
+        "value": "#626765",
+        "share": 0.123
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.086
+      }
+    ],
+    "borders": [
+      {
+        "value": "#171717",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 99
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 56
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 46
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 27,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.045,
+        "transform": "none",
+        "chars": 30
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 29
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.16,
+        "transform": "uppercase",
+        "chars": 29
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 48.96,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 15,
+        "weight": "550",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 17
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 11
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.035,
+        "transform": "none",
+        "chars": 8
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 23,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.065,
+        "transform": "none",
+        "chars": 3
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": []
+  },
+  "spacing": [
+    {
+      "px": 5,
+      "uses": 10
+    },
+    {
+      "px": 20,
+      "uses": 7
+    },
+    {
+      "px": 10,
+      "uses": 6
+    },
+    {
+      "px": 4,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 72,
+      "uses": 2
+    },
+    {
+      "px": 32,
+      "uses": 2
+    },
+    {
+      "px": 3,
+      "uses": 2
+    },
+    {
+      "px": 22,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 28,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 30,
+      "uses": 1
+    },
+    {
+      "px": 26,
+      "uses": 1
+    },
+    {
+      "px": 17,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "24px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--ink": "#171717",
+    "--muted": "#72716c",
+    "--hair": "#deded9",
+    "--paper": "#fff",
+    "--pad": "clamp(24px,5vw,88px)",
+    "--stage-paper": "#fff",
+    "--stage-ink": "#171717",
+    "--ui-primary": "16px",
+    "--ui-secondary": "14px",
+    "--ui-caption": "12px"
+  },
+  "breakpoints": [
+    "max 700px",
+    "min 701px",
+    "min 1450px",
+    "max 900px",
+    "max 650px",
+    "min 1550px",
+    "max 1100px",
+    "max 360px",
+    "min 500px"
+  ],
+  "tech": [
+    "gsap"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 94,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": true,
+      "color": "#171717",
+      "padding": "0px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 25,
+        "gutterBottom": 25
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          18
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "GB .",
+          "family": "Helvetica Neue",
+          "size": 23,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.065,
+          "transform": "none",
+          "color": "#171717"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "GB .",
+        "Story",
+        "Work 09",
+        "CV",
+        "Contact"
+      ],
+      "words": 7,
+      "excerpt": "Contact",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "stage",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#171717",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 104,
+        "width": 1264,
+        "gutterTop": 180,
+        "gutterBottom": 338
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "22px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          10,
+          10,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Gianluca Boccia",
+          "family": "Helvetica Neue",
+          "size": 112.32,
+          "weight": "400",
+          "lineHeight": 0,
+          "letterSpacing": -0.063,
+          "transform": "none",
+          "color": "#171717"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.015,
+        "transform": "none"
+      },
+      "labels": [
+        "View awards",
+        "Awwwards Honorable Mention"
+      ],
+      "words": 28,
+      "excerpt": "Interfaces, systems and the tools behind them.",
+      "media": {
+        "img": 6,
+        "canvas": 1,
+        "svg": 19
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "scroll-space",
+      "y": 900,
+      "height": 51322,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#171717",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 105,
+    "title": "Gianluca Boccia — Still Drawing",
+    "award": "HM",
+    "url": "https://www.gianlucaboccia.me/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/gianluca-boccia-still-drawing",
+    "categories": [
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

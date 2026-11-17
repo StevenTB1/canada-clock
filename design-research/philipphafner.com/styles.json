@@ -1,0 +1,335 @@
+{
+  "page": {
+    "url": "https://philipphafner.com/",
+    "title": "Philipp Hafner",
+    "description": "Portfolio website of Philipp Hafner, a cinematographer working internationally.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f4f2ec",
+        "share": 0.633
+      },
+      {
+        "value": "#111111",
+        "share": 0.367
+      },
+      {
+        "value": "#0b0b0b",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.735
+      },
+      {
+        "value": "#181818",
+        "share": 0.265
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Exposure VAR",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0.15,
+        "transform": "none",
+        "chars": 52
+      },
+      {
+        "family": "Exposure VAR",
+        "size": 31.25,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0.64,
+        "transform": "uppercase",
+        "chars": 13
+      },
+      {
+        "family": "Exposure VAR",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.2,
+        "transform": "uppercase",
+        "chars": 13
+      },
+      {
+        "family": "Exposure",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.2,
+        "transform": "uppercase",
+        "chars": 13
+      },
+      {
+        "family": "Exposure VAR",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 6
+      },
+      {
+        "family": "Arial",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "Exposure 400 normal",
+      "Exposure VAR 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 5,
+      "uses": 9
+    },
+    {
+      "px": 10,
+      "uses": 6
+    },
+    {
+      "px": 2,
+      "uses": 5
+    },
+    {
+      "px": 14,
+      "uses": 4
+    },
+    {
+      "px": 7,
+      "uses": 4
+    },
+    {
+      "px": 19,
+      "uses": 2
+    },
+    {
+      "px": 29,
+      "uses": 2
+    },
+    {
+      "px": 25,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 8,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.88s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 84
+      },
+      {
+        "value": "0.28s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 13
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.36s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.72s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "Arial, Helvetica, sans-serif",
+    "--font-display": "\"Exposure\", \"Times New Roman\", serif",
+    "--font-exposure-var": "\"Exposure VAR\", \"Exposure\", \"Times New Roman\", serif",
+    "--main-marquee-duration": "185.714s"
+  },
+  "breakpoints": [
+    "max 1024px",
+    "min 721px",
+    "max 720px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "nav",
+      "y": 0,
+      "height": 85,
+      "position": "fixed",
+      "background": "#f4f2ec",
+      "backgroundImage": false,
+      "color": "#181818",
+      "padding": "10px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 49,
+        "width": 1381,
+        "gutterTop": 10,
+        "gutterBottom": 61
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          41,
+          41
+        ]
+      },
+      "headings": [
+        {
+          "tag": "button",
+          "text": "FILM",
+          "family": "Exposure VAR",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.2,
+          "transform": "uppercase",
+          "color": "#181818"
+        }
+      ],
+      "bodyType": {
+        "family": "Exposure VAR",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.2,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "FILM",
+        "PHOTO",
+        "INFO"
+      ],
+      "words": 3,
+      "excerpt": "Photo",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "view.view-main",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#f4f2ec",
+      "backgroundImage": false,
+      "color": "#181818",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 657,
+        "gutterRight": 657,
+        "width": 126,
+        "gutterTop": 778,
+        "gutterBottom": 110
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          230,
+          230,
+          230
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "S",
+          "family": "Exposure",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.2,
+          "transform": "uppercase",
+          "color": "#181818"
+        }
+      ],
+      "bodyType": {
+        "family": "Exposure",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.2,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 13,
+      "excerpt": "S",
+      "media": {
+        "img": 42
+      }
+    }
+  ],
+  "listing": {
+    "rank": 165,
+    "title": "Philipp Hafner",
+    "url": "https://philipphafner.com/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

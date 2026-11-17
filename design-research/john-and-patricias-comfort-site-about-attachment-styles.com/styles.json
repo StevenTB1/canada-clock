@@ -1,0 +1,447 @@
+{
+  "page": {
+    "url": "https://john-and-patricias-comfort-site-about-attachment-styles.com/",
+    "title": "John & Particia's Comfort Space",
+    "description": null,
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#3c3c3c59",
+        "share": 0.647
+      },
+      {
+        "value": "#f5ecd7",
+        "share": 0.349
+      },
+      {
+        "value": "#f5ecd7e6",
+        "share": 0.003
+      },
+      {
+        "value": "#8b9d77",
+        "share": 0.001
+      },
+      {
+        "value": "#c4a882",
+        "share": 0
+      },
+      {
+        "value": "#f5ecd7ed",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#5c3d2ec7",
+        "share": 0.756
+      },
+      {
+        "value": "#f5ecd7f2",
+        "share": 0.166
+      },
+      {
+        "value": "#5c3d2e",
+        "share": 0.062
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.009
+      },
+      {
+        "value": "#3d2b1f61",
+        "share": 0.004
+      },
+      {
+        "value": "#ffffffd9",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#c4a882",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.647,
+      "text": 0.013
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Lora",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.9,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 405
+      },
+      {
+        "family": "Lora",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.1,
+        "transform": "uppercase",
+        "chars": 89
+      },
+      {
+        "family": "Lora",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.07,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Lora",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.05,
+        "transform": "none",
+        "chars": 12
+      },
+      {
+        "family": "Lora",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2
+      },
+      {
+        "family": "Lora",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2
+      },
+      {
+        "family": "Lora",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1
+      },
+      {
+        "family": "Lora",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "Lora 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 7,
+      "uses": 10
+    },
+    {
+      "px": 28,
+      "uses": 6
+    },
+    {
+      "px": 11,
+      "uses": 6
+    },
+    {
+      "px": 42,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 9,
+      "uses": 4
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 14,
+      "uses": 2
+    },
+    {
+      "px": 5,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "3px",
+      "uses": 6
+    },
+    {
+      "value": "2px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {},
+  "breakpoints": [],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "preloader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f5ecd7",
+      "backgroundImage": false,
+      "color": "#5c3d2ec7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 524,
+        "gutterRight": 524,
+        "width": 392,
+        "gutterTop": 316,
+        "gutterBottom": 315
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "28px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          27,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "This website is a current prototype of an idealized digital twin space for a co…",
+          "family": "Lora",
+          "size": 15,
+          "weight": "400",
+          "lineHeight": 1.9,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#5c3d2ec7"
+        }
+      ],
+      "bodyType": {
+        "family": "Lora",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.9,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Enter",
+        "Enter without sound"
+      ],
+      "words": 59,
+      "excerpt": "This website is a current prototype of an idealized digital twin space",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "experience-wrapper",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "modal-overlay",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#3c3c3c59",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "modal-overlay",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#3c3c3c59",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "hitbox-markers",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#f5ecd7f2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column-reverse",
+        "gap": "7px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          1,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "NEEDS & INTIMACY CALENDAR",
+          "family": "Lora",
+          "size": 11,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.1,
+          "transform": "uppercase",
+          "color": "#f5ecd7f2"
+        }
+      ],
+      "bodyType": {
+        "family": "Lora",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.1,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 12,
+      "excerpt": "Character Attachment Styles",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 83,
+    "title": "John and Patricia's Space",
+    "award": "HM",
+    "url": "https://john-and-patricias-comfort-site-about-attachment-styles.com/",
+    "awwwards": "https://www.awwwards.com/sites/john-and-patricias-space",
+    "categories": [
+      "Culture & Education",
+      "Other"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

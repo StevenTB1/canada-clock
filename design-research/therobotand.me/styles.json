@@ -1,0 +1,471 @@
+{
+  "page": {
+    "url": "https://therobotand.me/",
+    "title": "The Robot and Me",
+    "description": "A record of what happens in the room when a designer and a machine actually work together.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 5712,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.868
+      },
+      {
+        "value": "#2b2bce",
+        "share": 0.059
+      },
+      {
+        "value": "#eeeeee",
+        "share": 0.029
+      },
+      {
+        "value": "#0a0c14",
+        "share": 0.02
+      },
+      {
+        "value": "#1e28969e",
+        "share": 0.02
+      },
+      {
+        "value": "#010101d9",
+        "share": 0.004
+      },
+      {
+        "value": "#0e1217",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#50565c",
+        "share": 0.675
+      },
+      {
+        "value": "#0e1217",
+        "share": 0.166
+      },
+      {
+        "value": "#ff5956",
+        "share": 0.122
+      },
+      {
+        "value": "#dfe6f5",
+        "share": 0.018
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.012
+      },
+      {
+        "value": "#000000",
+        "share": 0.005
+      },
+      {
+        "value": "#88ffff",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 0.5
+      },
+      {
+        "value": "#e6e7e7",
+        "share": 0.5
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.921,
+      "text": 0.858
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.63,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1203
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.63,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 548
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 220
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.18,
+        "transform": "uppercase",
+        "chars": 203
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 20,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 160
+      },
+      {
+        "family": "Source Serif 4",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 152
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 137
+      },
+      {
+        "family": "Source Serif 4",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 108
+      },
+      {
+        "family": "Source Serif 4",
+        "size": 48,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 105
+      },
+      {
+        "family": "ui-monospace",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 97
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 71
+      },
+      {
+        "family": "Space Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 58
+      },
+      {
+        "family": "Source Serif 4",
+        "size": 60,
+        "weight": "700",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 40
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 13,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.25,
+        "transform": "uppercase",
+        "chars": 37
+      }
+    ],
+    "loadedFonts": [
+      "Space Grotesk 400 normal",
+      "Space Mono 400 normal",
+      "Source Serif 4 300 normal",
+      "Source Serif 4 400 normal",
+      "Source Serif 4 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 24
+    },
+    {
+      "px": 40,
+      "uses": 16
+    },
+    {
+      "px": 46,
+      "uses": 16
+    },
+    {
+      "px": 10,
+      "uses": 16
+    },
+    {
+      "px": 11,
+      "uses": 16
+    },
+    {
+      "px": 12,
+      "uses": 12
+    },
+    {
+      "px": 64,
+      "uses": 11
+    },
+    {
+      "px": 18,
+      "uses": 10
+    },
+    {
+      "px": 13,
+      "uses": 8
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 58,
+      "uses": 6
+    },
+    {
+      "px": 43,
+      "uses": 5
+    },
+    {
+      "px": 24,
+      "uses": 5
+    },
+    {
+      "px": 35,
+      "uses": 4
+    },
+    {
+      "px": 26,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 27
+      },
+      {
+        "value": "0.42s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.25s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.3s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.22s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.18s linear",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--bg": "#0d0d0d",
+    "--cream": "#f0ede6",
+    "--cream-55": "#f0ede68c",
+    "--cream-42": "#f0ede66b",
+    "--cream-22": "#f0ede638",
+    "--pill": "#fff",
+    "--ink": "#181716",
+    "--label": "#6f6a5f",
+    "--size-display": "clamp(32px, 8vw, 110px)",
+    "--size-h2": "clamp(22px, 3vw, 32px)",
+    "--size-body": "clamp(16px, 1.4vw, 18px)",
+    "--size-label": "11px",
+    "--s-1": "4px",
+    "--s-2": "8px",
+    "--s-3": "16px",
+    "--s-4": "24px",
+    "--s-5": "32px",
+    "--s-6": "48px",
+    "--s-7": "64px",
+    "--gutter": "clamp(24px, 6vw, 90px)"
+  },
+  "breakpoints": [
+    "max 620px",
+    "max 899px",
+    "max 640px",
+    "max 720px",
+    "max 1120px",
+    "min 1121px",
+    "min 621px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": "grain.space_grotesk_3bcbe46-module__RqocTa__variable",
+      "y": 0,
+      "height": 5712,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#50565c",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 43,
+        "width": 1354,
+        "gutterTop": 24,
+        "gutterBottom": 114
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Eight questions I could not answer alone.",
+          "family": "Source Serif 4",
+          "size": 60,
+          "weight": "700",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0e1217"
+        },
+        {
+          "tag": "h3",
+          "text": "Vagalumes",
+          "family": "Source Serif 4",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0e1217"
+        },
+        {
+          "tag": "h3",
+          "text": "Night Colonies",
+          "family": "Source Serif 4",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0e1217"
+        },
+        {
+          "tag": "h3",
+          "text": "The Pattern",
+          "family": "Source Serif 4",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0e1217"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.63,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SKIP TO CONTENT",
+        "About +",
+        "OPENED UP “the face was peeled back. in…",
+        "And Me ABOUT ME →",
+        "Vagalumes",
+        "Open the experiment for Vagalumes →",
+        "Look under the hood of Vagalumes",
+        "Night Colonies",
+        "Open the experiment for Night Colonies →",
+        "Look under the hood of Night Colonies"
+      ],
+      "words": 607,
+      "excerpt": "The material that arrives is not mine: public domain photographs and mid-century",
+      "media": {
+        "img": 8,
+        "video": 1,
+        "canvas": 1,
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 28,
+    "title": "The Robot and Me",
+    "award": "HM",
+    "url": "http://therobotand.me/",
+    "awwwards": "https://www.awwwards.com/sites/the-robot-and-me",
+    "categories": [
+      "Experimental",
+      "Art & Illustration",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

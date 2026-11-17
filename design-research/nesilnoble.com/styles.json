@@ -1,0 +1,448 @@
+{
+  "page": {
+    "url": "https://nesilnoble.com/",
+    "title": "Nesil’s Lucid Dreams · Nesil Noble, Product Designer & Art Director",
+    "description": "Nesil Noble is a product designer and art director who designs and builds products, design systems and brands. Open to new roles and freelance work.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 25650,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.967
+      },
+      {
+        "value": "#545388",
+        "share": 0.032
+      },
+      {
+        "value": "#ffffff14",
+        "share": 0
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      },
+      {
+        "value": "#0a6fc2",
+        "share": 0
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0
+      },
+      {
+        "value": "#7ce38b",
+        "share": 0
+      },
+      {
+        "value": "#f4f2ff",
+        "share": 0
+      },
+      {
+        "value": "#babafb",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#f4f2ff",
+        "share": 0.452
+      },
+      {
+        "value": "#babafb",
+        "share": 0.41
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.085
+      },
+      {
+        "value": "#000000",
+        "share": 0.053
+      }
+    ],
+    "borders": [
+      {
+        "value": "#0d99ff",
+        "share": 0.714
+      },
+      {
+        "value": "#f4f2ff8c",
+        "share": 0.143
+      },
+      {
+        "value": "#000000",
+        "share": 0.143
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.967,
+      "text": 0.59
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Big Shoulders",
+        "size": 19.8,
+        "weight": "600",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "Big Shoulders",
+        "size": 13,
+        "weight": "620",
+        "lineHeight": "normal",
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 44
+      },
+      {
+        "family": "Big Shoulders",
+        "size": 15,
+        "weight": "550",
+        "lineHeight": "normal",
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 27
+      },
+      {
+        "family": "Big Shoulders",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.03,
+        "transform": "uppercase",
+        "chars": 25
+      },
+      {
+        "family": "Big Shoulders",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 21
+      },
+      {
+        "family": "Mighty Ditey NF",
+        "size": 51.84,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 20
+      },
+      {
+        "family": "Big Shoulders",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Exposit Trial",
+        "size": 24.48,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 13
+      },
+      {
+        "family": "Big Shoulders",
+        "size": 18,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.03,
+        "transform": "uppercase",
+        "chars": 11
+      },
+      {
+        "family": "Mighty Ditey NF",
+        "size": 216,
+        "weight": "400",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 10
+      },
+      {
+        "family": "Big Shoulders",
+        "size": 12,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0.016,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "Big Shoulders",
+        "size": 12,
+        "weight": "650",
+        "lineHeight": "normal",
+        "letterSpacing": 0.016,
+        "transform": "none",
+        "chars": 5
+      },
+      {
+        "family": "Exposit Trial",
+        "size": 18.12,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": 0.054,
+        "transform": "uppercase",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": [
+      "Big Shoulders 100 900 normal",
+      "Melodrama 500 normal",
+      "NameFallback 400 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 10
+    },
+    {
+      "px": 8,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 5
+    },
+    {
+      "px": 9,
+      "uses": 5
+    },
+    {
+      "px": 32,
+      "uses": 4
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 3,
+      "uses": 4
+    },
+    {
+      "px": 7,
+      "uses": 4
+    },
+    {
+      "px": 16,
+      "uses": 3
+    },
+    {
+      "px": 14,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 28,
+      "uses": 2
+    },
+    {
+      "px": 125,
+      "uses": 2
+    },
+    {
+      "px": 13,
+      "uses": 1
+    },
+    {
+      "px": 5,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "2px",
+      "uses": 4
+    },
+    {
+      "value": "22px",
+      "uses": 1
+    },
+    {
+      "value": "999px",
+      "uses": 1
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    },
+    {
+      "value": "12px",
+      "uses": 1
+    },
+    {
+      "value": "4px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.35s ease",
+        "uses": 5
+      }
+    ],
+    "cssAnimatedElements": 8,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--ink": "#000",
+    "--paper": "#fff",
+    "--sel": "#0D99FF",
+    "--sel-deep": "#0A6FC2",
+    "--fg": "#F4F2FF",
+    "--lav": "#BABAFB",
+    "--turmeric": "#545388",
+    "--hibiscus": "#7B3F6E",
+    "--monsoon": "#3E5591",
+    "--backwater": "#2B6468",
+    "--leaf": "#4C6230",
+    "--kokum": "#8A3D4E",
+    "--pad": "clamp(16px,2.2vw,32px)"
+  },
+  "breakpoints": [
+    "min 721px",
+    "max 720px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "frame",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f4f2ff",
+      "padding": "12px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 44,
+        "gutterBottom": 46
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "NESIL NOBLE",
+          "family": "Mighty Ditey NF",
+          "size": 216,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Big Shoulders",
+        "size": 19.8,
+        "weight": "600",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "SOUND OFF Click for sound",
+        "WORK",
+        "ABOUT",
+        "CONTACT",
+        "HELLO",
+        "SYSTEMS",
+        "BELIEFS",
+        "BENGALURU"
+      ],
+      "words": 63,
+      "excerpt": "I design & build experiences that you wish existed",
+      "media": {
+        "img": 6,
+        "canvas": 1,
+        "svg": 34
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "space",
+      "y": 0,
+      "height": 25650,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f4f2ff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 121,
+    "title": "Nesil's Lucid Dreams",
+    "award": "HM",
+    "url": "https://nesilnoble.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/nesils-lucid-dreams",
+    "categories": [
+      "Art & Illustration",
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

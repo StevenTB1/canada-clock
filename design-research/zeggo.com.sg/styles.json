@@ -1,0 +1,558 @@
+{
+  "page": {
+    "url": "https://www.zeggo.com.sg/",
+    "title": "ZEGGO | Smart HVAC Optimization",
+    "description": "AI-Driven HVAC Optimization for VRF & Chilled-Water Systems | Sustainable & Efficient Solutions",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 12500,
+    "generator": "Astro v5.12.8"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 1
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.913
+      },
+      {
+        "value": "#ff3701",
+        "share": 0.043
+      },
+      {
+        "value": "#ffffffbf",
+        "share": 0.022
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0.014
+      },
+      {
+        "value": "#000000",
+        "share": 0.008
+      }
+    ],
+    "borders": [
+      {
+        "value": "#484848",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.957
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 1977
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 552
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 391
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 30,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 239
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.011,
+        "transform": "none",
+        "chars": 233
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 112,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.56,
+        "letterSpacing": -0.009,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.011,
+        "transform": "none",
+        "chars": 6
+      }
+    ],
+    "loadedFonts": []
+  },
+  "spacing": [
+    {
+      "px": 33,
+      "uses": 34
+    },
+    {
+      "px": 24,
+      "uses": 24
+    },
+    {
+      "px": 16,
+      "uses": 12
+    },
+    {
+      "px": 97,
+      "uses": 10
+    },
+    {
+      "px": 8,
+      "uses": 9
+    },
+    {
+      "px": 4,
+      "uses": 9
+    },
+    {
+      "px": 96,
+      "uses": 8
+    },
+    {
+      "px": 64,
+      "uses": 5
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 108,
+      "uses": 3
+    },
+    {
+      "px": 48,
+      "uses": 3
+    },
+    {
+      "px": 128,
+      "uses": 3
+    },
+    {
+      "px": 900,
+      "uses": 2
+    },
+    {
+      "px": 450,
+      "uses": 2
+    },
+    {
+      "px": 495,
+      "uses": 1
+    },
+    {
+      "px": 597,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.35544e+07px",
+      "uses": 21
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.625s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 105
+      },
+      {
+        "value": "0.325s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 58
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 6
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.8s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 3
+      }
+    ],
+    "cssAnimatedElements": 9,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--color-red-400": "oklch(70.4% .191 22.216)",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-blue-500": "oklch(62.3% .214 259.815)",
+    "--color-gray-800": "oklch(27.8% .033 256.848)",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--breakpoint-sm": "40rem",
+    "--breakpoint-md": "48rem",
+    "--container-xs": "20rem",
+    "--container-sm": "24rem",
+    "--container-md": "28rem",
+    "--container-xl": "36rem",
+    "--container-2xl": "42rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1/.75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25/.875)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75/1.125)",
+    "--text-4xl": "2.25rem",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--tracking-normal": "0em",
+    "--leading-tight": "1.25",
+    "--ease-out": "cubic-bezier(0,0,.2,1)",
+    "--ease-in-out": "cubic-bezier(.4,0,.2,1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--animate-ping": "ping 1s cubic-bezier(0,0,.2,1)infinite",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--spacing-gutter": "var(--gutter)",
+    "--breakpoint-3xl": "120rem",
+    "--color-background": "var(--background)",
+    "--color-foreground": "var(--foreground)",
+    "--color-border": "var(--border)",
+    "--color-primary": "var(--primary)",
+    "--header-height": "calc(var(--spacing)*16)",
+    "--gutter": "clamp(1rem, .7rem + 1.5vw, 2.5rem)",
+    "--background": "oklch(0% 0 0)",
+    "--foreground": "oklch(100% 0 0)",
+    "--border": "oklch(40% 0 0)",
+    "--primary": "oklch(65% .238565 33.1474)",
+    "--brand": "oklch(65% .238565 33.1474)"
+  },
+  "breakpoints": [
+    "min 48rem",
+    "min 64rem",
+    "min 40rem",
+    "min 80rem",
+    "min 96rem",
+    "min 120rem"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header.fixed",
+      "y": 0,
+      "height": 64,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1173,
+        "gutterRight": 33,
+        "width": 234,
+        "gutterTop": 22,
+        "gutterBottom": 22
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "S",
+          "family": "Helvetica Neue",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Solutions Solutions",
+        "Request Demo Request Demo"
+      ],
+      "words": 20,
+      "excerpt": "S",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "sticky-top-dvh",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "main",
+      "name": "swup",
+      "y": 0,
+      "height": 11600,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "-900px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 33,
+        "gutterRight": 33,
+        "width": 1374,
+        "gutterTop": 592,
+        "gutterBottom": 234
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Unified Platform for a Sustainable Future Unified Platform for a Sustainable Fu…",
+          "family": "Helvetica Neue",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Our Mission Our Mission",
+          "family": "Helvetica Neue",
+          "size": 112,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Benefits of Integrating ZEGGO with your HVAC Systems Benefits of Integrating ZE…",
+          "family": "Helvetica Neue",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Energy Saving Energy Saving",
+          "family": "Helvetica Neue",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Request Demo Request Demo",
+        "Request Demo Today Request Demo Today"
+      ],
+      "words": 568,
+      "excerpt": "costs, and support your sustainability goals—contact us today for a",
+      "media": {
+        "img": 12,
+        "svg": 8
+      }
+    },
+    {
+      "i": 4,
+      "tag": "footer",
+      "name": "bg-foreground/3.fixed",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 33,
+        "gutterRight": 33,
+        "width": 1374,
+        "gutterTop": 514,
+        "gutterBottom": -258
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          95,
+          95
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Optimize Your HVAC Systems Today",
+          "family": "Helvetica Neue",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.011,
+        "transform": "none"
+      },
+      "labels": [
+        "Home Home",
+        "Solutions Solutions",
+        "Careers Careers",
+        "sales@zeggo.com.sg sales@zeggo.com.sg",
+        "+65 6749 1575 +65 6749 1575",
+        "Contact Us Contact Us",
+        "Terms",
+        "Privacy",
+        "Zero x Infinity"
+      ],
+      "words": 83,
+      "excerpt": "© 2025 Copyright FLEX GLOBAL INNOVATIONS PTE. LTD.",
+      "media": {
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 176,
+    "title": "ZEGGO",
+    "award": "HM",
+    "url": "https://www.zeggo.com.sg/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/zeggo",
+    "categories": [
+      "Business & Corporate",
+      "Technology",
+      "Web & Interactive"
+    ]
+  }
+}

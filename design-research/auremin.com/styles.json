@@ -1,0 +1,1104 @@
+{
+  "page": {
+    "url": "https://www.auremin.com/",
+    "title": "Auremin | Integrated Commodities, Processing & Industrial Development",
+    "description": "An integrated commodities, processing and industrial development platform operating across Africa - trading physical commodities and developing the processing capacity and industrial infrastructure behind them.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 7962,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f4f0ea",
+        "share": 0.624
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.315
+      },
+      {
+        "value": "#00000033",
+        "share": 0.06
+      },
+      {
+        "value": "#2d5167b3",
+        "share": 0.001
+      },
+      {
+        "value": "#333333",
+        "share": 0
+      },
+      {
+        "value": "#4a4643",
+        "share": 0
+      },
+      {
+        "value": "#2e332e",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#2c2d32",
+        "share": 0.39
+      },
+      {
+        "value": "#4a4643",
+        "share": 0.196
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.175
+      },
+      {
+        "value": "#4a464399",
+        "share": 0.071
+      },
+      {
+        "value": "#d3cfcb",
+        "share": 0.048
+      },
+      {
+        "value": "#3a3a3a",
+        "share": 0.047
+      },
+      {
+        "value": "#000000",
+        "share": 0.029
+      },
+      {
+        "value": "#b1a9a0",
+        "share": 0.022
+      },
+      {
+        "value": "#929292",
+        "share": 0.02
+      },
+      {
+        "value": "#f4f0ea",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#d3cfcb",
+        "share": 0.667
+      },
+      {
+        "value": "#524b44",
+        "share": 0.222
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.056
+      },
+      {
+        "value": "#333333",
+        "share": 0.056
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 0.978
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1358
+      },
+      {
+        "family": "Switzer",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 690
+      },
+      {
+        "family": "Switzer",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 424
+      },
+      {
+        "family": "Switzer",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 382
+      },
+      {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 314
+      },
+      {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 207
+      },
+      {
+        "family": "Switzer",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 0.94,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 175
+      },
+      {
+        "family": "Switzer",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 165
+      },
+      {
+        "family": "Switzer",
+        "size": 22,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 155
+      },
+      {
+        "family": "Switzer",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 95
+      },
+      {
+        "family": "Switzer",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 83
+      },
+      {
+        "family": "Switzer",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 82
+      },
+      {
+        "family": "Switzer",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 79
+      },
+      {
+        "family": "Switzer",
+        "size": 72,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.028,
+        "transform": "none",
+        "chars": 68
+      }
+    ],
+    "loadedFonts": [
+      "Switzer 400 normal",
+      "Switzer 500 normal",
+      "Switzer 600 normal",
+      "Switzer 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 89
+    },
+    {
+      "px": 20,
+      "uses": 59
+    },
+    {
+      "px": 22,
+      "uses": 58
+    },
+    {
+      "px": 25,
+      "uses": 37
+    },
+    {
+      "px": 2,
+      "uses": 36
+    },
+    {
+      "px": 5,
+      "uses": 25
+    },
+    {
+      "px": 3,
+      "uses": 20
+    },
+    {
+      "px": 18,
+      "uses": 19
+    },
+    {
+      "px": 12,
+      "uses": 18
+    },
+    {
+      "px": 32,
+      "uses": 16
+    },
+    {
+      "px": 4,
+      "uses": 15
+    },
+    {
+      "px": 15,
+      "uses": 13
+    },
+    {
+      "px": 40,
+      "uses": 12
+    },
+    {
+      "px": 30,
+      "uses": 11
+    },
+    {
+      "px": 11,
+      "uses": 11
+    },
+    {
+      "px": 60,
+      "uses": 10
+    }
+  ],
+  "radii": [
+    {
+      "value": "3px",
+      "uses": 35
+    },
+    {
+      "value": "2px",
+      "uses": 9
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 10
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.45s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.2s cubic-bezier(0.455, 0.03, 0.515, 0.955)",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 3,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--white": "#fff",
+    "--beige": "#f4f0ea",
+    "--brown": "#4a4643",
+    "--blue": "#2d5167",
+    "--blue-light": "#b2c6d5",
+    "--gray": "#2c2d32",
+    "--brown-light": "#b1a9a0",
+    "--brown-warm": "#524b44"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 767px",
+    "max 991px",
+    "max 768px",
+    "min 768px",
+    "max 600px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "three",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "intro-preloader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f4f0ea",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "section.beige",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#f4f0ea",
+      "backgroundImage": false,
+      "color": "#b1a9a0",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 144,
+        "gutterBottom": -3
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Moving Commodities, Building Markets",
+          "family": "Switzer",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#4a4643"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 0.94,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "DAR ES SALAAM, TANZANIA",
+        "NAIROBI, KENYA",
+        "KINSHASA, DRC",
+        "LUBUMBASHI, DRC",
+        "WALVIS BAY, NAMIBIA",
+        "LONDON OFFICE",
+        "DUBAI OFFICE",
+        "SOUTH AFRICA OFFICE",
+        "AMSTERDAM OFFICE",
+        "SINGAPORE OFFICE"
+      ],
+      "words": 17,
+      "excerpt": "An integrated commodities, processing and",
+      "media": {
+        "img": 22,
+        "canvas": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "who-we-are",
+      "y": 900,
+      "height": 1121,
+      "position": "relative",
+      "background": "#f4f0ea",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 740,
+        "width": 680,
+        "gutterTop": 30,
+        "gutterBottom": 42
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          50,
+          50,
+          50,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Who We Are",
+          "family": "Switzer",
+          "size": 72,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "More about us"
+      ],
+      "words": 63,
+      "excerpt": "platform operating across Africa. We originate,",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "section.beige",
+      "y": 2021,
+      "height": 909,
+      "position": "relative",
+      "background": "#f4f0ea",
+      "backgroundImage": false,
+      "color": "#4a4643",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 30,
+        "gutterBottom": 84
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "100px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What We Do",
+          "family": "Switzer",
+          "size": 72,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#2c2d32"
+        },
+        {
+          "tag": "h3",
+          "text": "Commodity Trading",
+          "family": "Switzer",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 0.94,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#4a4643"
+        },
+        {
+          "tag": "h3",
+          "text": "Mineral Processing",
+          "family": "Switzer",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 0.94,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#4a4643"
+        },
+        {
+          "tag": "h3",
+          "text": "Industrial Infrastructure",
+          "family": "Switzer",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 0.94,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#4a4643"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 104,
+      "excerpt": "Auremin trades and delivers a focused portfolio of commodities across energy, constructio…",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "section.au-seq-wrap",
+      "y": 2930,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": true,
+      "color": "#d3cfcb",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 877,
+        "width": 543,
+        "gutterTop": 30,
+        "gutterBottom": 70
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our Commodities",
+          "family": "Switzer",
+          "size": 72,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#4a4643"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View Our Products"
+      ],
+      "words": 36,
+      "excerpt": "A highly conductive metal essential to electrical wiring, renewable energy infrastructure…",
+      "media": {
+        "img": 4,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "section.map-section",
+      "y": 3830,
+      "height": 1063,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": true,
+      "color": "#2c2d32",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 736,
+        "gutterBottom": 92
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Nairobi",
+          "family": "Switzer",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#4a4643"
+        },
+        {
+          "tag": "h4",
+          "text": "Kenya",
+          "family": "Switzer",
+          "size": 22,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#4a4643"
+        },
+        {
+          "tag": "h3",
+          "text": "Dar Es Salaam",
+          "family": "Switzer",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#4a4643"
+        },
+        {
+          "tag": "h4",
+          "text": "Tanzania",
+          "family": "Switzer",
+          "size": 22,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#4a4643"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "+971 44 567 1561",
+        "Immeuble la Vision, Route du Golf, n 57…",
+        "+243 843 892 970",
+        "9 Raffles Place #26-01, Republic Plaza,…",
+        "De Ruijterkade 142, 1/F 1011 AC, Amster…",
+        "Office 68, 2nd Floor, West Tower, Nelso…",
+        "27, Avenue Kalemie, Commune de la Gombe…",
+        "Office 201B, JBC 3, Jumeirah Lakes Towe…",
+        "Tower 42 International Financial Centre…",
+        "+44 203 897 9441"
+      ],
+      "words": 261,
+      "excerpt": "Region Dar Es Salaam, District Kinondoni, Ward Msasani, Postal Code 14111, 2nd",
+      "media": {
+        "img": 19,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "section.beige",
+      "y": 4893,
+      "height": 1514,
+      "position": "relative",
+      "background": "#f4f0ea",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 159,
+        "width": 1261,
+        "gutterTop": 40,
+        "gutterBottom": 72
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The Auremin Feed",
+          "family": "Switzer",
+          "size": 72,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#4a4643"
+        },
+        {
+          "tag": "h3",
+          "text": "$100m MoU signed for modular LNG infrastructure in Tanzania",
+          "family": "Switzer",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Auremin Wins Orpetron Site of the Day Award",
+          "family": "Switzer",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Auremin Opens New Office in Lubumbashi, DRC",
+          "family": "Switzer",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View All News",
+        "$100m MoU signed for modular LNG infras…",
+        "Auremin Wins Orpetron Site of the Day A…",
+        "Auremin Opens New Office in Lubumbashi,…",
+        "DRC Mining Week 2026"
+      ],
+      "words": 55,
+      "excerpt": "The latest from Auremin – market developments, operational milestones, and the people",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "section",
+      "y": 6407,
+      "height": 216,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#2c2d32",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 289,
+        "width": 1131,
+        "gutterTop": 0,
+        "gutterBottom": 1
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          49,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Careers",
+          "family": "Switzer",
+          "size": 72,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#4a4643"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View All Careers"
+      ],
+      "words": 38,
+      "excerpt": "Our people are at the core of everything we do. We work",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "pre-footer",
+      "y": 6623,
+      "height": 758,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#2c2d32",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 15,
+        "gutterBottom": 297
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Contact us",
+          "family": "Switzer",
+          "size": 72,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#4a4643"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Privacy Policy"
+      ],
+      "words": 32,
+      "excerpt": "Office 201B, JBC 3, Jumeirah Lakes Towers, Cluster Y, P.O. Box 282027,",
+      "media": {
+        "img": 1,
+        "iframe": 2
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "section",
+      "y": 7381,
+      "height": 581,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#3a3a3a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 60,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          49,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Home",
+          "family": "Switzer",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#3a3a3a"
+        }
+      ],
+      "bodyType": {
+        "family": "Switzer",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Privacy Policy",
+        "Home",
+        "Commodities",
+        "Infrastructure",
+        "Sustainability and Impact",
+        "Ethics and Compliance",
+        "Copper",
+        "Cobalt",
+        "Sulfur & Sulfuric Acid",
+        "Diesel"
+      ],
+      "words": 49,
+      "excerpt": "© Copyright 2026. All rights reserved.",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 92,
+    "title": "Auremin",
+    "award": "HM",
+    "url": "https://www.auremin.com/",
+    "awwwards": "https://www.awwwards.com/sites/auremin",
+    "categories": [
+      "Business & Corporate"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

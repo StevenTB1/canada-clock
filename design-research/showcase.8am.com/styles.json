@@ -1,0 +1,548 @@
+{
+  "page": {
+    "url": "https://showcase.8am.com/",
+    "title": "8am Showcase: AI and Cash Flow Tools for Law Firms | 8am",
+    "description": "New AI tools that give law firms time back, plus Smart Spend Intelligence and Capital to help them capture more revenue and grow.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 12800,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.623
+      },
+      {
+        "value": "#13193b",
+        "share": 0.376
+      },
+      {
+        "value": "#84849238",
+        "share": 0
+      },
+      {
+        "value": "#f05722",
+        "share": 0
+      },
+      {
+        "value": "#13173642",
+        "share": 0
+      },
+      {
+        "value": "#f5f5f7",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#0b3140",
+        "share": 0.813
+      },
+      {
+        "value": "#16202e",
+        "share": 0.045
+      },
+      {
+        "value": "#f5f5f6d1",
+        "share": 0.043
+      },
+      {
+        "value": "#f5f5f7",
+        "share": 0.041
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.038
+      },
+      {
+        "value": "#f5f5f7e6",
+        "share": 0.021
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff8c",
+        "share": 0.75
+      },
+      {
+        "value": "#ffffff6b",
+        "share": 0.125
+      },
+      {
+        "value": "#ffffff47",
+        "share": 0.063
+      },
+      {
+        "value": "#f05722",
+        "share": 0.063
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.623,
+      "text": 0.143
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PP Neue Montreal",
+        "size": 8.69,
+        "weight": "600",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 372
+      },
+      {
+        "family": "-apple-system",
+        "size": 14.4,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 233
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 16.59,
+        "weight": "600",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 125
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 16.59,
+        "weight": "600",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 66
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 40,
+        "weight": "600",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 43
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 21.6,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 41
+      },
+      {
+        "family": "-apple-system",
+        "size": 15.2,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 12.24,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 20
+      },
+      {
+        "family": "PP Neue Montreal",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "-apple-system",
+        "size": 27,
+        "weight": "500",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 8
+      }
+    ],
+    "loadedFonts": [
+      "PP Neue Montreal 400 normal",
+      "PP Neue Montreal 600 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 18,
+      "uses": 58
+    },
+    {
+      "px": 2,
+      "uses": 14
+    },
+    {
+      "px": 29,
+      "uses": 4
+    },
+    {
+      "px": 43,
+      "uses": 3
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 64,
+      "uses": 2
+    },
+    {
+      "px": 115,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 9,
+      "uses": 2
+    },
+    {
+      "px": 20,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 13,
+      "uses": 1
+    },
+    {
+      "px": 8100,
+      "uses": 1
+    },
+    {
+      "px": 16,
+      "uses": 1
+    },
+    {
+      "px": 177,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "5.6%",
+      "uses": 70
+    },
+    {
+      "value": "7.83328px",
+      "uses": 14
+    },
+    {
+      "value": "2px",
+      "uses": 3
+    },
+    {
+      "value": "999px",
+      "uses": 1
+    },
+    {
+      "value": "9999px",
+      "uses": 1
+    },
+    {
+      "value": "40px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.35s ease",
+        "uses": 43
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 15
+      },
+      {
+        "value": "0.4s cubic-bezier(0.34, 1.45, 0.64, 1)",
+        "uses": 14
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.3s ease-out",
+        "uses": 2
+      },
+      {
+        "value": "1s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 7,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--shadow5": "rgba(6, 10, 30, .16)",
+    "--shadow25": "rgba(255, 255, 255, .22)",
+    "--site-max": "2560px",
+    "--section-top": "clamp(72px, 10svh, 100px)",
+    "--sp-0": "0px",
+    "--sp-px": "1px",
+    "--sp-1": "4px",
+    "--sp-2": "8px",
+    "--sp-2_5": "10px",
+    "--sp-3": "12px",
+    "--sp-4": "16px",
+    "--sp-4_5": "18px",
+    "--sp-5": "20px",
+    "--sp-6": "24px",
+    "--sp-8": "32px",
+    "--sp-10": "40px",
+    "--sp-12": "48px",
+    "--sp-16": "64px",
+    "--sp-20": "80px",
+    "--sp-24": "96px",
+    "--sp-36": "144px",
+    "--sp-40": "160px",
+    "--fs-xs": "12px",
+    "--fs-sm": "14px",
+    "--fs-base": "16px",
+    "--fs-lg": "18px",
+    "--fs-xl": "20px",
+    "--fs-2xl": "24px",
+    "--fs-3xl": "30px",
+    "--fs-4xl": "36px",
+    "--fs-5xl": "48px",
+    "--fs-6xl": "60px",
+    "--fs-7xl": "72px",
+    "--fs-8xl": "96px",
+    "--lh-none": "1",
+    "--lh-tight": "1.25",
+    "--lh-4": "16px",
+    "--lh-5": "20px",
+    "--lh-6": "24px",
+    "--radius-none": "0px",
+    "--radius-3xl": "24px",
+    "--radius-4xl": "32px",
+    "--radius-5xl": "48px",
+    "--radius-full": "9999px",
+    "--sc-radius-pill": "999px",
+    "--sc-radius-28": "28px",
+    "--sc-radius-22": "22px",
+    "--sc-radius-14": "14px",
+    "--sc-radius-12": "12px",
+    "--w-sm": "24rem",
+    "--w-lg": "512px",
+    "--w-md": "448px",
+    "--w-xl": "576px",
+    "--w-2xl": "672px",
+    "--w-5xl": "1024px",
+    "--w-screen-xl": "1280px",
+    "--intro-ink": "#0b3140",
+    "--intro-ink-bright": "#08242f",
+    "--intro-range-to": "#fff0c4",
+    "--intro-range-from": "#d0d8f7",
+    "--ds-outline-dim": "#0b314040",
+    "--ds-shadow-5": "#0b31400d",
+    "--ds-shadow-25": "#0b314040",
+    "--ds-surface": "#ffffff",
+    "--sc-brand": "#f05722",
+    "--sc-ink": "#16202e",
+    "--sc-ink-navy": "#13193b",
+    "--sc-ink-light": "#f5f5f7",
+    "--sc-surface": "#ffffff",
+    "--sc-font": "\"PP Neue Montreal\", sans-serif",
+    "--bp-desktop": "1920",
+    "--bp-laptop": "1024",
+    "--bp-tablet": "768",
+    "--bp-mobile": "375",
+    "--mesh-light": "radial-gradient(70% 55% at 82% 8%, #fbf4e6 0%, transparent 60%), radial-gradient",
+    "--sc-chapter-payment-preferences": "linear-gradient(154.8deg, #D0D8F7 22.11%, #FFF0C4 94.46%)",
+    "--sc-chapter-firm-agent": "linear-gradient(154.8deg, #FF7381 22.11%, #F9F1CA 94.46%)",
+    "--sc-chapter-discovery-assistant": "linear-gradient(154.8deg, #F2FEDA 22.11%, #F2C12E 94.46%)",
+    "--sc-chapter-case-assistant": "linear-gradient(154.8deg, #EDEBFF 22.11%, #BAE5E5 94.46%)",
+    "--sc-chapter-mycase-for-claude": "linear-gradient(154.8deg, #F2C12E 22.11%, #F05722 94.46%)"
+  },
+  "breakpoints": [
+    "max 768px",
+    "max 1024px",
+    "max 1023.98px",
+    "max 900px",
+    "max 480px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "bg-light",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#f5f5f7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "bg-mesh",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#13193b",
+      "backgroundImage": true,
+      "color": "#f5f5f7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#13193b",
+      "backgroundImage": false,
+      "color": "#f5f5f6d1",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 64,
+        "gutterRight": 64,
+        "width": 1312,
+        "gutterTop": 430,
+        "gutterBottom": 31
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "18px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          22,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Fall ’26",
+          "family": "-apple-system",
+          "size": 27,
+          "weight": "500",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#f5f5f7"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Neue Montreal",
+        "size": 21.6,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 19,
+      "excerpt": "Our newest innovations to power your firm",
+      "media": {
+        "img": 13,
+        "canvas": 1,
+        "svg": 6
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "hero__pin-reserve",
+      "y": 900,
+      "height": 3800,
+      "position": "static",
+      "background": "#13193b",
+      "backgroundImage": false,
+      "color": "#f5f5f7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 184,
+    "title": "8am Showcase '26 Fall Release",
+    "award": "HM",
+    "url": "https://showcase.8am.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/8am-showcase-26-fall-release",
+    "categories": [
+      "Business & Corporate",
+      "Technology",
+      "Web & Interactive"
+    ]
+  }
+}

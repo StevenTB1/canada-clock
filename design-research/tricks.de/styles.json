@@ -1,0 +1,1690 @@
+{
+  "page": {
+    "url": "https://www.tricks.de/",
+    "title": "Webdesign- & Werbeagentur Bielefeld | tricks GmbH",
+    "description": "Webdesign-Agentur Bielefeld seit 2008: tricks konzipiert, gestaltet und entwickelt Websites, Marken und Onlineshops zum Festpreis",
+    "lang": "de",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 17200,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#e4e3da",
+        "share": 0.742
+      },
+      {
+        "value": "#d9ff81",
+        "share": 0.181
+      },
+      {
+        "value": "#000000",
+        "share": 0.035
+      },
+      {
+        "value": "#ff8585",
+        "share": 0.017
+      },
+      {
+        "value": "#86c6ff",
+        "share": 0.009
+      },
+      {
+        "value": "#81ffad",
+        "share": 0.008
+      },
+      {
+        "value": "#d485ff",
+        "share": 0.004
+      },
+      {
+        "value": "#85fff5",
+        "share": 0.004
+      },
+      {
+        "value": "#f1f0ec",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.888
+      },
+      {
+        "value": "#191919",
+        "share": 0.066
+      },
+      {
+        "value": "#d9ff81",
+        "share": 0.041
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.004
+      },
+      {
+        "value": "#f1f0ec",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 0.4
+      },
+      {
+        "value": "#d3cfcf",
+        "share": 0.356
+      },
+      {
+        "value": "#191919",
+        "share": 0.244
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.777,
+      "text": 0.96
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Sora",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 5805
+      },
+      {
+        "family": "Sora",
+        "size": 17.14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4381
+      },
+      {
+        "family": "Sora",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.67,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 723
+      },
+      {
+        "family": "Sora",
+        "size": 28.57,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 721
+      },
+      {
+        "family": "Sora",
+        "size": 76.19,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 592
+      },
+      {
+        "family": "Castoro",
+        "size": 30.47,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 494
+      },
+      {
+        "family": "Sora",
+        "size": 17.14,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 415
+      },
+      {
+        "family": "Castoro",
+        "size": 48.57,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 374
+      },
+      {
+        "family": "Sora",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 365
+      },
+      {
+        "family": "Alfa Slab One",
+        "size": 48.57,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 304
+      },
+      {
+        "family": "Sora",
+        "size": 48.57,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 270
+      },
+      {
+        "family": "Castoro",
+        "size": 31.43,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 263
+      },
+      {
+        "family": "Sora",
+        "size": 30.47,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 260
+      },
+      {
+        "family": "Castoro",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 256
+      }
+    ],
+    "loadedFonts": [
+      "Sora 100 800 normal",
+      "Castoro 400 italic",
+      "Alfa Slab One 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 84
+    },
+    {
+      "px": 19,
+      "uses": 79
+    },
+    {
+      "px": 30,
+      "uses": 75
+    },
+    {
+      "px": 15,
+      "uses": 69
+    },
+    {
+      "px": 17,
+      "uses": 41
+    },
+    {
+      "px": 9,
+      "uses": 41
+    },
+    {
+      "px": 76,
+      "uses": 32
+    },
+    {
+      "px": 37,
+      "uses": 32
+    },
+    {
+      "px": 3,
+      "uses": 30
+    },
+    {
+      "px": 69,
+      "uses": 21
+    },
+    {
+      "px": 80,
+      "uses": 18
+    },
+    {
+      "px": 21,
+      "uses": 17
+    },
+    {
+      "px": 34,
+      "uses": 17
+    },
+    {
+      "px": 11,
+      "uses": 16
+    },
+    {
+      "px": 28,
+      "uses": 15
+    },
+    {
+      "px": 12,
+      "uses": 13
+    }
+  ],
+  "radii": [
+    {
+      "value": "32px",
+      "uses": 21
+    },
+    {
+      "value": "60.9408px",
+      "uses": 16
+    },
+    {
+      "value": "50%",
+      "uses": 9
+    },
+    {
+      "value": "34.272px",
+      "uses": 6
+    },
+    {
+      "value": "45.7056px",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.33s ease",
+        "uses": 50
+      },
+      {
+        "value": "0.2s cubic-bezier(0.34, 1.12, 0.83, 1.44)",
+        "uses": 31
+      },
+      {
+        "value": "0.25s cubic-bezier(0.34, 1.12, 0.83, 1.44)",
+        "uses": 16
+      },
+      {
+        "value": "0.22s cubic-bezier(0.34, 2.03, 0.71, 1.74)",
+        "uses": 9
+      },
+      {
+        "value": "0.2s cubic-bezier(0.35, 4.25, 0.7, 1.75)",
+        "uses": 6
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 3
+      }
+    ],
+    "cssAnimatedElements": 14,
+    "canvases": 0,
+    "videos": 6
+  },
+  "cssVariables": {
+    "--livewire-progress-bar-color": "#2299dd",
+    "--font-sans": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto S",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)"
+  },
+  "breakpoints": [],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "c-intro.intro",
+      "y": 151,
+      "height": 369,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 76.32px",
+      "margin": "0px 0px 68.544px",
+      "border": null,
+      "content": {
+        "gutterLeft": 76,
+        "gutterRight": 493,
+        "width": 871,
+        "gutterTop": 0,
+        "gutterBottom": 130
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          89,
+          60
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "tricks – Internetagentur & Webdesign aus Bielefeld. Unser Fokus liegt auf den B…",
+          "family": "Sora",
+          "size": 45.72,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 45.72,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "5.0"
+      ],
+      "words": 17,
+      "excerpt": ". Unser Fokus liegt auf den Bedürfnissen Ihrer Kunden.",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "c-hero-video.hero-video",
+      "y": 589,
+      "height": 810,
+      "position": "relative",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 578,
+        "gutterRight": 602,
+        "width": 259,
+        "gutterTop": 38,
+        "gutterBottom": 748
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Pause",
+          "family": "Sora",
+          "size": 17.14,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "GanzesVideo abspielen | 72 Sek."
+      ],
+      "words": 7,
+      "excerpt": "Video abspielen | 72 Sek.",
+      "media": {
+        "video": 2,
+        "svg": 3
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "c-text-with-facts.text-with-facts",
+      "y": 1484,
+      "height": 694,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "68.544px 76.32px",
+      "margin": "85.68px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 76,
+        "gutterRight": 76,
+        "width": 1287,
+        "gutterTop": 69,
+        "gutterBottom": 69
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          60,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WAS WIR TUN",
+          "family": "Sora",
+          "size": 15.24,
+          "weight": "600",
+          "lineHeight": 1.6,
+          "letterSpacing": 0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Produktive Workshops",
+          "family": "Castoro",
+          "size": 19.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Individuelles Webdesign",
+          "family": "Castoro",
+          "size": 19.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Realisierung State-of-the-Art",
+          "family": "Castoro",
+          "size": 19.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 17.14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Wie wir arbeiten"
+      ],
+      "words": 95,
+      "excerpt": "tricks setzt Ihre Website mit modernster, passgenau ausgewählter Technologie um – leistun…",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "c-video-with-text.video-with-text",
+      "y": 2178,
+      "height": 1058,
+      "position": "relative",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 0px 179.712px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 166,
+        "gutterRight": 185,
+        "width": 1089,
+        "gutterTop": 93,
+        "gutterBottom": 308
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 127.872px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          21,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "UNSERE WORKSHOPS",
+          "family": "Sora",
+          "size": 15.24,
+          "weight": "600",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 28.57,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Video abspielen ­| 78 Sek."
+      ],
+      "words": 38,
+      "excerpt": "für individuelle Anforderungen an – live in unserer",
+      "media": {
+        "video": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "c-project-overview.project-overview",
+      "y": 3236,
+      "height": 1575,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#d9ff81",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 18,
+        "gutterRight": 18,
+        "width": 1404,
+        "gutterTop": -1890,
+        "gutterBottom": -1215
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          83,
+          83
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "PROJEKTE",
+          "family": "Sora",
+          "size": 76.19,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#d9ff81"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 76.19,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Live ansehen",
+        "Alle Referenzen"
+      ],
+      "words": 40,
+      "excerpt": "Büroeinrichtungen aus Bielefeld",
+      "media": {
+        "img": 7,
+        "video": 2,
+        "svg": 44
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "c-faq-swiper",
+      "y": 4811,
+      "height": 875,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 123,
+        "gutterRight": 183,
+        "width": 1134,
+        "gutterTop": 246,
+        "gutterBottom": 123
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "122.89px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          91,
+          91
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Häufige Fragen",
+          "family": "Alfa Slab One",
+          "size": 48.57,
+          "weight": "400",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Wie lange dauert es, bis eine Website fertig ist?",
+          "family": "Castoro",
+          "size": 30.47,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Wie viel kostet eine Website?",
+          "family": "Castoro",
+          "size": 30.47,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Welches ist das beste CMS-System?",
+          "family": "Castoro",
+          "size": 30.47,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 17.14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "keine Pauschalpreise",
+        "Statamic oder Headless-Lösungen",
+        "Flatrate für Updates, Backups und Siche…",
+        "10 Fragen an tricks",
+        "Telefon oder per Videocall"
+      ],
+      "words": 493,
+      "excerpt": "Ja, wir sorgen dafür, dass Ihre Inhalte nicht nur für Suchmaschinen, sondern",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "c-quote-with-animation.quote-with-animation",
+      "y": 5686,
+      "height": 1440,
+      "position": "static",
+      "background": "#d9ff81",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 76,
+        "gutterRight": 493,
+        "width": 871,
+        "gutterTop": 463,
+        "gutterBottom": 766
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "i",
+          "text": "Emotionen",
+          "family": "Castoro",
+          "size": 50.29,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 45.72,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 16,
+      "excerpt": "Wir verstehen Menschen, Marken und",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "c-customer-slider.customer-slider",
+      "y": 7126,
+      "height": 801,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 76,
+        "gutterRight": 12,
+        "width": 1351,
+        "gutterTop": 86,
+        "gutterBottom": 129
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 15,
+        "childWidthsPct": [
+          59,
+          59,
+          59,
+          59,
+          59,
+          59,
+          59,
+          59
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "KUNDENSTIMMEN",
+          "family": "Sora",
+          "size": 15.24,
+          "weight": "600",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Fach Natursteine",
+          "family": "Sora",
+          "size": 17.14,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Oberstufen-Kolleg Bielefeld",
+          "family": "Sora",
+          "size": 17.14,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "mach’",
+          "family": "Sora",
+          "size": 17.14,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Case Study ansehen",
+        "Flatrate"
+      ],
+      "words": 943,
+      "excerpt": "»Wir sind durch Zufall im Netz über mukutu gestolpert, als es darum",
+      "media": {
+        "img": 30,
+        "svg": 3
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "c-customer-logo-reel.customer-logo-reel",
+      "y": 7927,
+      "height": 814,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 76.32px",
+      "margin": "0px 0px 85.68px",
+      "border": null,
+      "content": {
+        "gutterLeft": 76,
+        "gutterRight": 153,
+        "width": 1211,
+        "gutterTop": 86,
+        "gutterBottom": 537
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 5,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 15,
+        "childWidthsPct": [
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "NUR EIN PAAR MARKEN, DIE AUF TRICKS VERTRAUEN",
+          "family": "Sora",
+          "size": 15.24,
+          "weight": "600",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 15.24,
+        "weight": "600",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "nur ein paar Marken, die auf tricks vertrauen",
+      "media": {
+        "img": 18
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "c-text-with-facts.text-with-facts",
+      "y": 8827,
+      "height": 322,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "68.544px 76.32px 0px",
+      "margin": "85.68px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 76,
+        "gutterRight": 155,
+        "width": 1209,
+        "gutterTop": 69,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WAS WIR FÜR UNTERNEHMEN ENTWICKELN",
+          "family": "Sora",
+          "size": 15.24,
+          "weight": "600",
+          "lineHeight": 1.87,
+          "letterSpacing": 0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 28.57,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 33,
+      "excerpt": ", Corporate Designs sowie Print- und Außenwerbung.",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "c-service-cards.is-ready",
+      "y": 9206,
+      "height": 900,
+      "position": "relative",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#191919",
+      "padding": "0px",
+      "margin": "57.168px 0px 177.637px",
+      "border": null,
+      "content": {
+        "gutterLeft": 97,
+        "gutterRight": 101,
+        "width": 1242,
+        "gutterTop": 135,
+        "gutterBottom": 119
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px 16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          23,
+          25,
+          19,
+          19,
+          29,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Webdesign & Website-Entwicklung",
+          "family": "Sora",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#191919"
+        },
+        {
+          "tag": "h3",
+          "text": "Markenentwicklung & Corporate Design",
+          "family": "Sora",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#191919"
+        },
+        {
+          "tag": "h3",
+          "text": "Onlineshops & E-Commerce",
+          "family": "Sora",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#191919"
+        },
+        {
+          "tag": "h3",
+          "text": "Printdesign & Außenwerbung",
+          "family": "Sora",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#191919"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.67,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Webdesign & Website-Entwicklung",
+        "Markenentwicklung & Corporate Design",
+        "Onlineshops & E-Commerce",
+        "Printdesign & Außenwerbung",
+        "Software-Entwicklung & App-Programmieru…",
+        "Strategie & Workshops",
+        "Mehr dazu : Webdesign & Website-Entwick…",
+        "Mehr dazu : Markenentwicklung & Corpora…",
+        "Mehr dazu : Onlineshops & E-Commerce",
+        "Mehr dazu : Printdesign & Außenwerbung"
+      ],
+      "words": 113,
+      "excerpt": "Konzeption, UX, individuelles Shopdesign, technische Entwicklung, Shopsysteme, Schnittste…",
+      "media": {
+        "svg": 14
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "c-we-are.we-are",
+      "y": 10284,
+      "height": 900,
+      "position": "relative",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 132,
+        "gutterRight": 1158,
+        "width": 149,
+        "gutterTop": 58,
+        "gutterBottom": 796
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 28.8px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Wir sind …",
+          "family": "Sora",
+          "size": 28.8,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 28.8,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "Wir sind …",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "c-text-with-facts.text-with-facts",
+      "y": 11270,
+      "height": 617,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "68.544px 76.32px",
+      "margin": "85.68px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 76,
+        "gutterRight": 76,
+        "width": 1287,
+        "gutterTop": 69,
+        "gutterBottom": 69
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          60,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "WIR SIND TRICKS",
+          "family": "Sora",
+          "size": 15.24,
+          "weight": "600",
+          "lineHeight": 1.6,
+          "letterSpacing": 0.06,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Umfassende Expertise",
+          "family": "Castoro",
+          "size": 19.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Markenentwicklung",
+          "family": "Castoro",
+          "size": 19.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "Nachhaltiges Ergebnis",
+          "family": "Castoro",
+          "size": 19.05,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 17.14,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Das Team"
+      ],
+      "words": 100,
+      "excerpt": "verbinden wir Design, Markenentwicklung und Corporate Identity zu wirkungsvollen Websites…",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "c-fact-box-list.fact-box-list",
+      "y": 11886,
+      "height": 456,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "100px 76.32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 95,
+        "gutterRight": 95,
+        "width": 1249,
+        "gutterTop": 119,
+        "gutterBottom": 119
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "19.008px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          29,
+          29,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "18",
+          "family": "Sora",
+          "size": 45.72,
+          "weight": "400",
+          "lineHeight": 1.15,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 17.14,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 71,
+      "excerpt": "Unser Team ist seit 2008 auf 20 Kollegen gewachsen. Die optimale Größe,",
+      "media": {}
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "c-quote-highlight.quote-highlight",
+      "y": 12342,
+      "height": 875,
+      "position": "relative",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "85.68px 76.32px 34.272px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 240,
+        "gutterRight": 240,
+        "width": 961,
+        "gutterTop": 270,
+        "gutterBottom": 141
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "»Wir brennen für nutzerzentriertes und intelligentes Design.«",
+          "family": "Alfa Slab One",
+          "size": 76.19,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Alfa Slab One",
+        "size": 76.19,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 12,
+      "excerpt": "»Wir brennen für nutzerzentriertes und intelligentes Design.«",
+      "media": {
+        "img": 1,
+        "svg": 22
+      }
+    },
+    {
+      "i": 16,
+      "tag": "section",
+      "name": "c-button-list-section.industries",
+      "y": 13218,
+      "height": 1015,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 76.32px",
+      "margin": "0px 0px 119.952px",
+      "border": null,
+      "content": {
+        "gutterLeft": 76,
+        "gutterRight": 76,
+        "width": 1287,
+        "gutterTop": 0,
+        "gutterBottom": 18
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "18.8496px 14.5656px",
+        "justify": "normal",
+        "align": "center",
+        "children": 32,
+        "childWidthsPct": [
+          24,
+          4,
+          29,
+          4,
+          32,
+          4,
+          20,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "BRANCHEN",
+          "family": "Sora",
+          "size": 15.24,
+          "weight": "600",
+          "lineHeight": 1.6,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 30.47,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Selected Work",
+        "Webdesign & Code",
+        "Print & Außenwerbung",
+        "Logos & CI",
+        "Onlineshops",
+        "Industrie & Produktion",
+        "Dienstleistung & Handel",
+        "Gastronomie & Food",
+        "Handwerk",
+        "Gesundheit & Medizin"
+      ],
+      "words": 72,
+      "excerpt": "die zu Ihnen passt. Wählen Sie eine der folgend aufgeführten",
+      "media": {
+        "svg": 32
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "c-contact-teaser.contact-form",
+      "y": 14353,
+      "height": 1575,
+      "position": "relative",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#d9ff81",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 18,
+        "gutterRight": 18,
+        "width": 1404,
+        "gutterTop": -3192,
+        "gutterBottom": -2517
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12.852px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          17,
+          19,
+          15,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "SAY HELLO",
+          "family": "Sora",
+          "size": 76.19,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#d9ff81"
+        }
+      ],
+      "bodyType": {
+        "family": "Sora",
+        "size": 76.19,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "eine Website",
+        "einen Webshop",
+        "eine Marke",
+        "Jobs & Praktika"
+      ],
+      "words": 61,
+      "excerpt": "Worüber wollen wir sprechen?",
+      "media": {
+        "img": 2,
+        "svg": 33
+      }
+    },
+    {
+      "i": 18,
+      "tag": "footer",
+      "name": "footer",
+      "y": 15928,
+      "height": 1272,
+      "position": "static",
+      "background": "#e4e3da",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "59.976px 0px 85.68px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 76,
+        "width": 1311,
+        "gutterTop": 133,
+        "gutterBottom": 246
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 24,
+        "childWidthsPct": [
+          19,
+          27,
+          23,
+          22,
+          27,
+          23,
+          19,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Marken-Workshop",
+          "family": "Sora",
+          "size": 48.57,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Castoro",
+        "size": 48.57,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "0521 / 329 484 -10",
+        "Instagram",
+        "Facebook",
+        "LinkedIn",
+        "Blog",
+        "Impressum",
+        "Datenschutz",
+        "5.0"
+      ],
+      "words": 118,
+      "excerpt": "Renommierte Technologien, auf die wir setzen",
+      "media": {
+        "svg": 27
+      }
+    }
+  ],
+  "listing": {
+    "rank": 49,
+    "title": "tricks GmbH",
+    "award": "HM",
+    "url": "https://www.tricks.de/",
+    "awwwards": "https://www.awwwards.com/sites/tricks-gmbh",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive",
+      "Startups"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

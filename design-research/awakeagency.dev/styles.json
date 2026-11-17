@@ -1,0 +1,990 @@
+{
+  "page": {
+    "url": "https://www.awakeagency.dev/",
+    "title": "Awake, creative digital studio in Warsaw. Premium websites and web products.",
+    "description": "We design and build websites, storefronts and web product front ends for founders and product teams who need to stand out. Webflow, Next.js, Shopify, motion and WebGL. 60+ projects shipped.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10238,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.653
+      },
+      {
+        "value": "#f1f1f3",
+        "share": 0.133
+      },
+      {
+        "value": "#ff003d",
+        "share": 0.087
+      },
+      {
+        "value": "#161d25",
+        "share": 0.078
+      },
+      {
+        "value": "#e8e9eb",
+        "share": 0.019
+      },
+      {
+        "value": "#dbdcde",
+        "share": 0.019
+      },
+      {
+        "value": "#d6d6dd",
+        "share": 0.007
+      },
+      {
+        "value": "#ffffffd1",
+        "share": 0.003
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0
+      },
+      {
+        "value": "#d90033",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#2d343b",
+        "share": 0.388
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.29
+      },
+      {
+        "value": "#161d25",
+        "share": 0.201
+      },
+      {
+        "value": "#161d25b8",
+        "share": 0.058
+      },
+      {
+        "value": "#ff003d",
+        "share": 0.028
+      },
+      {
+        "value": "#5d646b",
+        "share": 0.018
+      },
+      {
+        "value": "#ffffff73",
+        "share": 0.008
+      },
+      {
+        "value": "#d90033",
+        "share": 0.005
+      },
+      {
+        "value": "#c4002e",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 0.875
+      },
+      {
+        "value": "#171b2438",
+        "share": 0.063
+      },
+      {
+        "value": "#161d25",
+        "share": 0.063
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.912,
+      "text": 0.963
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "aeonik",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 869
+      },
+      {
+        "family": "aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 193
+      },
+      {
+        "family": "syne",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 187
+      },
+      {
+        "family": "aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 153
+      },
+      {
+        "family": "aeonik",
+        "size": 70,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "lowercase",
+        "chars": 124
+      },
+      {
+        "family": "aeonik",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 115
+      },
+      {
+        "family": "aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 95
+      },
+      {
+        "family": "aeonik",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 74
+      },
+      {
+        "family": "aeonik",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 68
+      },
+      {
+        "family": "aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 51
+      },
+      {
+        "family": "aeonik",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 42
+      },
+      {
+        "family": "aeonik",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 41
+      },
+      {
+        "family": "aeonik",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 33
+      },
+      {
+        "family": "syne",
+        "size": 110,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 30
+      }
+    ],
+    "loadedFonts": [
+      "aeonik 400 normal",
+      "aeonik 500 normal",
+      "aeonik Fallback normal normal",
+      "syne 500 normal",
+      "syne Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 40,
+      "uses": 48
+    },
+    {
+      "px": 30,
+      "uses": 32
+    },
+    {
+      "px": 20,
+      "uses": 23
+    },
+    {
+      "px": 14,
+      "uses": 20
+    },
+    {
+      "px": 11,
+      "uses": 14
+    },
+    {
+      "px": 22,
+      "uses": 14
+    },
+    {
+      "px": 12,
+      "uses": 13
+    },
+    {
+      "px": 6,
+      "uses": 12
+    },
+    {
+      "px": 16,
+      "uses": 12
+    },
+    {
+      "px": 1,
+      "uses": 9
+    },
+    {
+      "px": 3,
+      "uses": 8
+    },
+    {
+      "px": 24,
+      "uses": 7
+    },
+    {
+      "px": 8,
+      "uses": 7
+    },
+    {
+      "px": 21,
+      "uses": 6
+    },
+    {
+      "px": 4,
+      "uses": 4
+    },
+    {
+      "px": 201,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 17
+    },
+    {
+      "value": "32px",
+      "uses": 10
+    },
+    {
+      "value": "40px",
+      "uses": 10
+    },
+    {
+      "value": "16px",
+      "uses": 10
+    },
+    {
+      "value": "1px",
+      "uses": 5
+    },
+    {
+      "value": "50%",
+      "uses": 5
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 46
+      },
+      {
+        "value": "0.2s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 17
+      },
+      {
+        "value": "0.4s cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "uses": 10
+      },
+      {
+        "value": "0.4s cubic-bezier(0.22, 1.2, 0.36, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.45s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 5,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--c-red": "#ff003d",
+    "--c-ink": "#161d25",
+    "--c-white": "#fff",
+    "--c-grey-panel": "#f1f1f3",
+    "--c-grey-page": "#f0f0ef",
+    "--c-grey-muted": "#c3c8cc",
+    "--c-grey-text": "#5d646b",
+    "--hover-lift": "14%",
+    "--hover-sink": "9%",
+    "--c-red-text": "#d90033",
+    "--c-grey-line": "#161d251f",
+    "--c-line-on-red": "#fff6",
+    "--font-body": "var(--font-aeonik), \"Helvetica Neue\", Arial, sans-serif",
+    "--font-display": "var(--font-syne), var(--font-aeonik), \"Helvetica Neue\", Arial, sans-serif",
+    "--frame": ".75rem",
+    "--gap": "var(--frame)",
+    "--inset": "1.25rem",
+    "--nav-h": "clamp(4rem, calc(100vw / 18), 5rem)",
+    "--panel-h": "calc(100dvh - var(--frame) * 2)",
+    "--panel-h-fixed": "calc(100svh - var(--frame) * 2)",
+    "--content-w": "calc(100vw - var(--frame) * 2 - var(--inset) * 2)",
+    "--pad-y": "var(--inset)",
+    "--r-panel": "clamp(1.25rem, calc(100vw / 45), 2rem)",
+    "--r-pill": "2.5rem",
+    "--r-nav-bar": ".875rem",
+    "--r-card": "1rem",
+    "--t-hero": "min(calc(var(--content-w) / 12), 14vh)",
+    "--t-mega": "min(max(2.125rem, calc(var(--content-w) * 195 / 1320)), 14vh)",
+    "--t-section": "min(max(1.625rem, calc(var(--content-w) * 114 / 1320)), 9vh)",
+    "--t-statement": "min(max(1.3125rem, calc(var(--content-w) * 80 / 1320)), 6.5vh)",
+    "--t-h2": "min(max(1.25rem, calc(var(--content-w) * 64 / 1320)), 6vh)",
+    "--t-card-title": "min(max(1.0625rem, calc(var(--content-w) * 32 / 1320)), 5vh)",
+    "--t-lead": "1.0625rem",
+    "--t-body": "1rem",
+    "--t-small": ".875rem",
+    "--t-meta": ".6875rem",
+    "--btn-h": "2.5rem",
+    "--btn-px": "1.25rem",
+    "--btn-font": "var(--t-body)",
+    "--link-font": "var(--t-body)",
+    "--micro-font": "var(--t-meta)",
+    "--micro-ls": ".06em",
+    "--e-expo-out": "cubic-bezier(.16, 1, .3, 1)",
+    "--e-expo-in-out": "cubic-bezier(.87, 0, .13, 1)",
+    "--e-out": "var(--e-expo-out)",
+    "--e-in-out": "var(--e-expo-in-out)",
+    "--e-land": "cubic-bezier(.34, 1.56, .64, 1)",
+    "--e-land-soft": "cubic-bezier(.22, 1.2, .36, 1)",
+    "--d-fast": ".2s",
+    "--d-base": ".4s",
+    "--d-slow": ".8s",
+    "--d-hover": ".6s"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 1023px",
+    "max 1279px",
+    "max 1439px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "Hero-module__KTD73a__frame",
+      "y": 20,
+      "height": 860,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "20px 20px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 60,
+        "width": 1320,
+        "gutterTop": 40,
+        "gutterBottom": 11
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          92,
+          92,
+          21,
+          92
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "WE BUILD WEBSITES PEOPLE REMEMBER.",
+          "family": "syne",
+          "size": 110,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "aeonik",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "get in touch.",
+        "menu. close.",
+        "CONTACT@AWAKEAGENCY.DEV COPY TO CLIPBOA…"
+      ],
+      "words": 77,
+      "excerpt": "Awake is a creative digital studio in Warsaw. We design and build",
+      "media": {
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "about",
+      "y": 900,
+      "height": 860,
+      "position": "relative",
+      "background": "#f1f1f3",
+      "backgroundImage": false,
+      "color": "#161d25",
+      "padding": "80px 40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 231,
+        "gutterRight": 45,
+        "width": 1164,
+        "gutterTop": 270,
+        "gutterBottom": 270
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          87
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "W",
+          "family": "syne",
+          "size": 80,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#161d25"
+        }
+      ],
+      "bodyType": {
+        "family": "syne",
+        "size": 80,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 187,
+      "excerpt": "W",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "h2",
+      "name": "CaseGrid-module__tbWBJq__heading",
+      "y": 3108,
+      "height": 195,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#161d25",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "OUR PROJECTS",
+          "family": "aeonik",
+          "size": 195,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#161d25"
+        }
+      ],
+      "bodyType": {
+        "family": "aeonik",
+        "size": 195,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Our projects",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "CaseGrid-module__tbWBJq__stage",
+      "y": 3475,
+      "height": 1749,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#161d25",
+      "padding": "0px",
+      "margin": "0px 0px 0px -20px",
+      "border": null,
+      "content": {
+        "gutterLeft": 128,
+        "gutterRight": 107,
+        "width": 1205,
+        "gutterTop": 528,
+        "gutterBottom": 82
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          26,
+          26
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Mihailove",
+          "family": "aeonik",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#161d25"
+        }
+      ],
+      "bodyType": {
+        "family": "aeonik",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Development Mihailove",
+        "Development Frame",
+        "Branding Portfolio Ventures",
+        "Development Manypixels"
+      ],
+      "words": 9,
+      "excerpt": "Portfolio Ventures",
+      "media": {
+        "img": 8,
+        "canvas": 4,
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "Archive-module__t718NW__section",
+      "y": 5368,
+      "height": 654,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#161d25",
+      "padding": "73px 0px 0px",
+      "margin": "0px 20px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 60,
+        "width": 1320,
+        "gutterTop": 132,
+        "gutterBottom": 89
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          97,
+          97,
+          97,
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Condor",
+          "family": "aeonik",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#161d25"
+        }
+      ],
+      "bodyType": {
+        "family": "aeonik",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Condor Development 2026",
+        "Cortland Web design 2026",
+        "Rally Development 2025",
+        "Rhinestone Development 2025",
+        "Ezra Development 2024",
+        "VIEW ALL"
+      ],
+      "words": 18,
+      "excerpt": "Development",
+      "media": {
+        "img": 10,
+        "svg": 3
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "services",
+      "y": 6103,
+      "height": 860,
+      "position": "relative",
+      "background": "#161d25",
+      "backgroundImage": false,
+      "color": "#2d343b",
+      "padding": "40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 60,
+        "width": 1320,
+        "gutterTop": 40,
+        "gutterBottom": -440
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          92,
+          92
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "SERVICES",
+          "family": "aeonik",
+          "size": 114,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h3",
+          "text": "Webflow development",
+          "family": "aeonik",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#161d25"
+        },
+        {
+          "tag": "h3",
+          "text": "UX/UI design",
+          "family": "aeonik",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#161d25"
+        },
+        {
+          "tag": "h3",
+          "text": "Branding",
+          "family": "aeonik",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#161d25"
+        }
+      ],
+      "bodyType": {
+        "family": "aeonik",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "more information about Webflow developm…",
+        "more information about UX/UI design",
+        "more information about Branding",
+        "more information about Webflow maintena…"
+      ],
+      "words": 150,
+      "excerpt": "Begin Webflow development with our Project Discovery session, aligning our team with",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "CtaBand-module__4ELZEW__band.CtaBand-module__4ELZEW__home",
+      "y": 9143,
+      "height": 619,
+      "position": "relative",
+      "background": "#ff003d",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "20px 20px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 60,
+        "width": 1260,
+        "gutterTop": -151,
+        "gutterBottom": -826
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "57.6px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          33,
+          20
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "I need",
+          "family": "aeonik",
+          "size": 114,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "aeonik",
+        "size": 70,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "lowercase"
+      },
+      "labels": [
+        "development",
+        "web design",
+        "branding",
+        "next"
+      ],
+      "words": 23,
+      "excerpt": "development",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 8,
+      "tag": "footer",
+      "name": "Footer-module__yg9ahW__footer",
+      "y": 9782,
+      "height": 436,
+      "position": "static",
+      "background": "#161d25",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "20px 20px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 60,
+        "width": 1320,
+        "gutterTop": 40,
+        "gutterBottom": 40
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Home",
+          "family": "aeonik",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "aeonik",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "Services",
+        "Projects",
+        "Contacts",
+        "LinkedIn",
+        "Upwork",
+        "contact@awakeagency.dev Copy to clipboa…",
+        "PRIVACY",
+        "COOKIES",
+        "TERMS"
+      ],
+      "words": 34,
+      "excerpt": "contact@awakeagency.dev",
+      "media": {
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 135,
+    "title": "Awake Agency",
+    "award": "HM",
+    "url": "https://www.awakeagency.dev/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/awake-agency",
+    "categories": [
+      "Design Agencies",
+      "Portfolio"
+    ]
+  }
+}

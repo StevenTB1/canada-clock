@@ -1,0 +1,1277 @@
+{
+  "page": {
+    "url": "https://vantra-studio.webflow.io/",
+    "title": "Vantra Studio - Webflow HTML website template",
+    "description": "Vantra is an independent design studio for brand identity, digital product, content and design systems. Nine years, 24 projects, one senior team. Open for Q1 2027.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10555,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f5f4f0",
+        "share": 0.708
+      },
+      {
+        "value": "#0a0a0a",
+        "share": 0.174
+      },
+      {
+        "value": "#1414140d",
+        "share": 0.076
+      },
+      {
+        "value": "#161616",
+        "share": 0.032
+      },
+      {
+        "value": "#09090938",
+        "share": 0.007
+      },
+      {
+        "value": "#0a0a0ac7",
+        "share": 0.001
+      },
+      {
+        "value": "#f1f1f112",
+        "share": 0.001
+      },
+      {
+        "value": "#2c2c2c",
+        "share": 0.001
+      },
+      {
+        "value": "#000000cc",
+        "share": 0
+      },
+      {
+        "value": "#0c0c0c29",
+        "share": 0
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      },
+      {
+        "value": "#7c3aed",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#0a0a0a",
+        "share": 0.282
+      },
+      {
+        "value": "#0a0a0aad",
+        "share": 0.223
+      },
+      {
+        "value": "#f5f4f0",
+        "share": 0.165
+      },
+      {
+        "value": "#0a0a0ab8",
+        "share": 0.113
+      },
+      {
+        "value": "#f5f4f09e",
+        "share": 0.104
+      },
+      {
+        "value": "#f5f4f0d1",
+        "share": 0.088
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.015
+      },
+      {
+        "value": "#0a0a0a7a",
+        "share": 0.012
+      }
+    ],
+    "borders": [
+      {
+        "value": "#f1f1f112",
+        "share": 0.375
+      },
+      {
+        "value": "#0c0c0c29",
+        "share": 0.313
+      },
+      {
+        "value": "#f3f3f329",
+        "share": 0.188
+      },
+      {
+        "value": "#f8f1f124",
+        "share": 0.063
+      },
+      {
+        "value": "#727272",
+        "share": 0.063
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1.002
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Instrument Sans",
+        "size": 14.06,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 593
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 16.88,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 262
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 18.75,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 255
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 195
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 13.13,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 182
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 14.06,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 173
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 13.13,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 164
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 11.72,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 151
+      },
+      {
+        "family": "Inter",
+        "size": 20.63,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 131
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 11.72,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 128
+      },
+      {
+        "family": "Inter",
+        "size": 18.75,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 126
+      },
+      {
+        "family": "Inter",
+        "size": 45,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 118
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 13.13,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 109
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 18.75,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 86
+      }
+    ],
+    "loadedFonts": [
+      "Instrument Sans 400 normal",
+      "Instrument Sans 500 normal",
+      "Instrument Sans 600 normal",
+      "Instrument Sans 700 normal",
+      "Inter 100 normal",
+      "Inter 200 normal",
+      "Inter 300 normal",
+      "Inter 400 normal",
+      "Inter 500 normal",
+      "Inter 600 normal",
+      "Inter 700 normal",
+      "Inter 800 normal",
+      "Inter 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 15,
+      "uses": 67
+    },
+    {
+      "px": 8,
+      "uses": 52
+    },
+    {
+      "px": 30,
+      "uses": 44
+    },
+    {
+      "px": 45,
+      "uses": 31
+    },
+    {
+      "px": 4,
+      "uses": 28
+    },
+    {
+      "px": 7,
+      "uses": 26
+    },
+    {
+      "px": 6,
+      "uses": 22
+    },
+    {
+      "px": 23,
+      "uses": 18
+    },
+    {
+      "px": 90,
+      "uses": 17
+    },
+    {
+      "px": 26,
+      "uses": 16
+    },
+    {
+      "px": 13,
+      "uses": 14
+    },
+    {
+      "px": 38,
+      "uses": 14
+    },
+    {
+      "px": 11,
+      "uses": 13
+    },
+    {
+      "px": 14,
+      "uses": 12
+    },
+    {
+      "px": 75,
+      "uses": 10
+    },
+    {
+      "px": 51,
+      "uses": 10
+    }
+  ],
+  "radii": [
+    {
+      "value": "20px",
+      "uses": 12
+    },
+    {
+      "value": "16px",
+      "uses": 11
+    },
+    {
+      "value": "8px",
+      "uses": 9
+    },
+    {
+      "value": "999px",
+      "uses": 8
+    },
+    {
+      "value": "4px",
+      "uses": 6
+    },
+    {
+      "value": "12px",
+      "uses": 5
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.24s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 16
+      },
+      {
+        "value": "0.24s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 10
+      },
+      {
+        "value": "0.45s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.44s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--_theme---background-colors--primary": "var(--_theme---neutral-colors--shade-05)",
+    "--_typography---font-family--text": "\"Instrument Sans\", sans-serif",
+    "--_theme---text-colors--primary": "var(--_theme---neutral-colors--shade-90)",
+    "--fluid--size-font-base": "calc(var(--fluid--size-container) / (var(--fluid--size-container-ideal) / var(--",
+    "--_typography---line-height--line-height-155": "1.55",
+    "--_typography---font-weight--font-weight-normal": "400",
+    "--spaces--space-0": "0em",
+    "--_typography---font-family--display": "Inter, sans-serif",
+    "--_typography---heading--h1": "var(--_typography---all-font-size--size-11xl)",
+    "--_typography---line-height--line-height-90": ".9",
+    "--_typography---font-weight--font-weight-semi-bold": "600",
+    "--_typography---letter-spacing--tight-3x": "-.03em",
+    "--_typography---heading--h2": "var(--_typography---all-font-size--size-8xl)",
+    "--_typography---line-height--line-height-100": "1",
+    "--_typography---heading--h3": "var(--_typography---all-font-size--size-4xl)",
+    "--_typography---line-height--line-height-104": "1.04",
+    "--_typography---heading--h4": "var(--_typography---all-font-size--size-3xl)",
+    "--_typography---heading--h5": "var(--_typography---all-font-size--size-2xl)",
+    "--_typography---line-height--line-height-112": "1.12",
+    "--_typography---heading--h6": "var(--_typography---all-font-size--size-xl)",
+    "--spaces--space-2x": "2em",
+    "--_typography---all-font-size--size-2xl": "1.5em",
+    "--_typography---line-height--line-height-144": "1.44",
+    "--_typography---font-weight--font-weight-medium": "500",
+    "--spaces--space-1-5x": "1.5em",
+    "--padding-horizontal--padding-l": "var(--spaces--space-3x)",
+    "--max-width--max-width-m": "30em",
+    "--border-stroke--border-stroke-m": "1px",
+    "--_theme---neutral-colors--shade-25": "#f5f4f029",
+    "--border-radius--border-radius-sm": ".75rem",
+    "--_theme---neutral-colors--shade-80": "#0a0a0ac7",
+    "--max-width--max-width-xl": "46em",
+    "--max-width--max-width-5xl": "70em",
+    "--spaces--space-0-75x": ".75em",
+    "--spaces--space-1x": "1em",
+    "--_theme---neutral-colors--shade-05": "#f5f4f0",
+    "--_typography---all-font-size--size-xs": ".78125em",
+    "--spaces--space-1-25x": "1.25em",
+    "--border-radius--border-radius-xs": ".5rem",
+    "--_theme---neutral-colors--shade-00": "#fff",
+    "--spaces--space-0-5x": ".5em",
+    "--spaces--space-3x": "3em",
+    "--spaces--space-0-875x": ".875em",
+    "--_theme---neutral-colors--shade-30": "#f5f4f012",
+    "--_theme---text-colors--secondary": "var(--_theme---neutral-colors--shade-05)",
+    "--_typography---all-font-size--size-ml": "1.125em",
+    "--_typography---letter-spacing--tight-2x": "-.02em",
+    "--_theme---neutral-colors--shade-15": "#f5f4f09e",
+    "--_typography---all-font-size--size-s": ".875em",
+    "--_typography---button--button-2": "var(--_typography---all-font-size--size-sm)",
+    "--_typography---letter-spacing--micro": "-.005em",
+    "--_theme---neutral-colors--paper-42<deleted|variable-7ec1988b-3148-8d2a-c2c4-ad0212969a7a>": "#f5f4f06b",
+    "--border-radius--border-radius-footer-bg": "1.25rem",
+    "--_theme---neutral-colors--shade-90": "#0a0a0a",
+    "--_theme---neutral-colors--shade-10": "#f5f4f0d1",
+    "--padding-vertical--padding-m": "var(--spaces--space-6x)",
+    "--padding-vertical--padding-xs": "var(--spaces--space-1-5x)",
+    "--grid--gutter": "var(--spaces--space-1-5x)",
+    "--spaces--space-4x": "4em",
+    "--spaces--space-6x": "6em",
+    "--max-width--max-width-xs": "20em",
+    "--max-width--max-width-ml": "32.5em",
+    "--_typography---all-font-size--size-m": "1em",
+    "--spaces--space-7x": "7em",
+    "--spaces--space-0-25x": ".25em",
+    "--_typography---all-font-size--size-5xl": "2.25em",
+    "--_typography---letter-spacing--tight-1x": "-.01em",
+    "--spaces--space-3-5x": "3.5em",
+    "--spaces--space-2-5x": "2.5em",
+    "--_theme---text-colors--tertiary": "var(--_theme---neutral-colors--shade-10)",
+    "--spaces--space-0-375x": ".375em",
+    "--_typography---all-font-size--size-sm": ".9375em",
+    "--padding-vertical--padding-xxl": "var(--spaces--space-12x)",
+    "--fluid--size-container-max": "1920px",
+    "--spaces--space-12-75x": "12.75em",
+    "--_typography---body--body-2xl": "var(--_typography---all-font-size--size-7xl)",
+    "--_typography---line-height--line-height-120": "1.2",
+    "--_typography---all-font-size--size-6xl": "2.5em",
+    "--_typography---all-font-size--size-4xl": "2em",
+    "--_theme---neutral-colors--shade-55": "#0a0a0a29"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 767px",
+    "max 991px",
+    "min 768px",
+    "min 0px",
+    "min 480px",
+    "min 1280px",
+    "min 1440px",
+    "min 1920px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "section_hero",
+      "y": 8,
+      "height": 885,
+      "position": "relative",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#f5f4f0",
+      "padding": "0px",
+      "margin": "7.5px",
+      "border": null,
+      "content": {
+        "gutterLeft": 53,
+        "gutterRight": 229,
+        "width": 1158,
+        "gutterTop": 501,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "30px 45px",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Make. Every Idea. Matter.",
+          "family": "Inter",
+          "size": 131.25,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#f5f4f0"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 16.88,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "STUDIO STATUS Open for Q1 2027 projects."
+      ],
+      "words": 11,
+      "excerpt": "Open for Q1 2027 projects.",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "section_statement",
+      "y": 900,
+      "height": 720,
+      "position": "static",
+      "background": "#f5f4f0",
+      "backgroundImage": false,
+      "color": "#0a0a0a",
+      "padding": "191.25px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 379,
+        "gutterRight": 379,
+        "width": 682,
+        "gutterTop": 246,
+        "gutterBottom": 319
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "52.5px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          58,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "V",
+          "family": "Instrument Sans",
+          "size": 43.13,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 43.13,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 80,
+      "excerpt": "V",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "work",
+      "y": 1620,
+      "height": 1605,
+      "position": "static",
+      "background": "#f5f4f0",
+      "backgroundImage": false,
+      "color": "#f5f4f0",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 45,
+        "gutterRight": 45,
+        "width": 1350,
+        "gutterTop": 0,
+        "gutterBottom": 687
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "75px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Work that lasts.",
+          "family": "Inter",
+          "size": 45,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "FOLD+",
+          "family": "Inter",
+          "size": 26.25,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#f5f4f0"
+        },
+        {
+          "tag": "h3",
+          "text": "HALCYON®",
+          "family": "Inter",
+          "size": 26.25,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#f5f4f0"
+        },
+        {
+          "tag": "h3",
+          "text": "MERIDIAN+",
+          "family": "Inter",
+          "size": 26.25,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#f5f4f0"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 11.72,
+        "weight": "500",
+        "lineHeight": 1.12,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "FOLD+ 2026 DIGITAL PRODUCT Discover case",
+        "HALCYON® 2026 BRAND IDENTITY Discover c…",
+        "MERIDIAN+ 2025 FILM & CAMPAIGN Discover…",
+        "SABLE® 2025 PACKAGING Discover case"
+      ],
+      "words": 33,
+      "excerpt": "Brand, product, campaign",
+      "media": {
+        "img": 4,
+        "svg": 4
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "live",
+      "y": 3225,
+      "height": 623,
+      "position": "static",
+      "background": "#f5f4f0",
+      "backgroundImage": false,
+      "color": "#0a0a0ab8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 45,
+        "gutterRight": 45,
+        "width": 1350,
+        "gutterTop": 90,
+        "gutterBottom": 123
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "75px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "In the studio right now.",
+          "family": "Inter",
+          "size": 45,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "Halcyon",
+          "family": "Inter",
+          "size": 22.5,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "Aurel",
+          "family": "Inter",
+          "size": 22.5,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "Norrland Coffee",
+          "family": "Inter",
+          "size": 22.5,
+          "weight": "600",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 11.72,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 56,
+      "excerpt": "Live now — 03 / 05",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "services",
+      "y": 3848,
+      "height": 945,
+      "position": "static",
+      "background": "#f5f4f0",
+      "backgroundImage": false,
+      "color": "#0a0a0aad",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 45,
+        "gutterRight": 45,
+        "width": 1350,
+        "gutterTop": 90,
+        "gutterBottom": 116
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "75px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What we actually do.",
+          "family": "Inter",
+          "size": 45,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 16.88,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 70,
+      "excerpt": "Naming, identity, and the rules that keep it holding together.",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "culture",
+      "y": 4793,
+      "height": 1240,
+      "position": "static",
+      "background": "#f5f4f0",
+      "backgroundImage": false,
+      "color": "#0a0a0a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 376,
+        "gutterRight": 376,
+        "width": 688,
+        "gutterTop": 90,
+        "gutterBottom": 134
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "120px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Nine years of shipped work.",
+          "family": "Inter",
+          "size": 90,
+          "weight": "600",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 90,
+        "weight": "600",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 11,
+      "excerpt": "of shipped work.",
+      "media": {
+        "img": 2,
+        "video": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "testimonials",
+      "y": 6033,
+      "height": 915,
+      "position": "static",
+      "background": "#f5f4f0",
+      "backgroundImage": false,
+      "color": "#0a0a0a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 45,
+        "gutterRight": 45,
+        "width": 1350,
+        "gutterTop": 90,
+        "gutterBottom": 120
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "75px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What clients say back.",
+          "family": "Inter",
+          "size": 45,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 18.75,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 85,
+      "excerpt": "Incredible team. They delivered exactly what we needed, on time and beyond",
+      "media": {
+        "img": 9
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "faq",
+      "y": 6948,
+      "height": 609,
+      "position": "static",
+      "background": "#f5f4f0",
+      "backgroundImage": false,
+      "color": "#0a0a0aad",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 45,
+        "gutterRight": 45,
+        "width": 1350,
+        "gutterTop": 90,
+        "gutterBottom": 41
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 22.5px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          46,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Before you brief us.",
+          "family": "Inter",
+          "size": 45,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 14.06,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 121,
+      "excerpt": "A two-week positioning sprint. It sets the scope for everything that follows",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "journal",
+      "y": 7556,
+      "height": 1333,
+      "position": "static",
+      "background": "#f5f4f0",
+      "backgroundImage": false,
+      "color": "#0a0a0a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 45,
+        "gutterRight": 77,
+        "width": 1318,
+        "gutterTop": 90,
+        "gutterBottom": 129
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "75px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          94,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Notes from the studio.",
+          "family": "Inter",
+          "size": 45,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "What a brand system owes its engineers.",
+          "family": "Inter",
+          "size": 26.25,
+          "weight": "600",
+          "lineHeight": 1.3,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#f5f4f0"
+        },
+        {
+          "tag": "h3",
+          "text": "Why we price in outcomes, not hours.",
+          "family": "Inter",
+          "size": 26.25,
+          "weight": "600",
+          "lineHeight": 1.3,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#f5f4f0"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter",
+        "size": 18.75,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "BRAND SYSTEMS JUNE 12, 2026 What a bran…",
+        "PRACTICE MARCH 2, 2026 Why we price in …",
+        "BRAND SYSTEMS What a brand system owes …",
+        "INTERFACE Designing in the browser MAY …",
+        "STUDIO Inside a Vantra studio week APRI…",
+        "PRACTICE Why we price in outcomes, not …"
+      ],
+      "words": 67,
+      "excerpt": "What a brand system owes its engineers.",
+      "media": {
+        "img": 6,
+        "svg": 4
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "careers",
+      "y": 9010,
+      "height": 900,
+      "position": "relative",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#f5f4f0d1",
+      "padding": "112.5px 0px",
+      "margin": "120px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 379,
+        "gutterRight": 379,
+        "width": 683,
+        "gutterTop": 195,
+        "gutterBottom": 182
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          54
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Build what’s next with us",
+          "family": "Inter",
+          "size": 131.25,
+          "weight": "600",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#f5f4f0"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 18.75,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Start a project Start a project",
+        "Meet the studio Meet the studio"
+      ],
+      "words": 34,
+      "excerpt": "Wherever you sit at Vantra, there is room to shape real work",
+      "media": {
+        "img": 1,
+        "svg": 4
+      }
+    },
+    {
+      "i": 11,
+      "tag": "footer",
+      "name": "footer",
+      "y": 9887,
+      "height": 667,
+      "position": "relative",
+      "background": "#0a0a0a",
+      "backgroundImage": false,
+      "color": "#f5f4f0",
+      "padding": "0px",
+      "margin": "-22.5px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 45,
+        "gutterRight": 45,
+        "width": 1350,
+        "gutterTop": 98,
+        "gutterBottom": 23
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "22.5px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Home",
+          "family": "Instrument Sans",
+          "size": 33.75,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.013,
+          "transform": "capitalize",
+          "color": "#f5f4f0"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Sans",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "About",
+        "Works",
+        "Journal",
+        "Contact",
+        "Style Guide",
+        "Custom 404",
+        "Licenses",
+        "Custom 401",
+        "Change Log"
+      ],
+      "words": 54,
+      "excerpt": "Vantra is an independent studio working across brand, product, and content. We",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 104,
+    "title": "Vantra (Featured Template)",
+    "award": "HM",
+    "url": "https://vantra-studio.webflow.io/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/vantra-featured-template",
+    "categories": [
+      "Design Agencies",
+      "Portfolio",
+      "Art & Illustration",
+      "Business & Corporate"
+    ]
+  }
+}

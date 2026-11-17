@@ -1,0 +1,455 @@
+{
+  "page": {
+    "url": "https://reckon.house/",
+    "title": "Reckon House · Design & Build",
+    "description": "The portfolio of Jeremy Prasatik, an independent designer and developer in Texas. Apps, ecommerce, campaigns, brand systems, interiors, and AI tools, with case studies for each.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.495
+      },
+      {
+        "value": "#000000",
+        "share": 0.311
+      },
+      {
+        "value": "#e8e4e0",
+        "share": 0.161
+      },
+      {
+        "value": "#ece8e4",
+        "share": 0.02
+      },
+      {
+        "value": "#f2f2f0",
+        "share": 0.012
+      },
+      {
+        "value": "#00000033",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.52
+      },
+      {
+        "value": "#0000006b",
+        "share": 0.433
+      },
+      {
+        "value": "#ffffff75",
+        "share": 0.019
+      },
+      {
+        "value": "#0000004d",
+        "share": 0.017
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.01
+      },
+      {
+        "value": "#ffffffc7",
+        "share": 0.001
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Avenir Next",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.003,
+        "transform": "none",
+        "chars": 2509
+      },
+      {
+        "family": "Avenir Next",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 2.09,
+        "letterSpacing": -0.003,
+        "transform": "none",
+        "chars": 1801
+      },
+      {
+        "family": "Avenir Next",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1274
+      },
+      {
+        "family": "Avenir Next",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.27,
+        "letterSpacing": -0.003,
+        "transform": "none",
+        "chars": 585
+      },
+      {
+        "family": "Avenir Next",
+        "size": 9.5,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.003,
+        "transform": "none",
+        "chars": 498
+      },
+      {
+        "family": "Avenir Next",
+        "size": 8,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 263
+      },
+      {
+        "family": "Avenir Next",
+        "size": 34.85,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.045,
+        "transform": "none",
+        "chars": 249
+      },
+      {
+        "family": "Avenir Next",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 0.98,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 202
+      },
+      {
+        "family": "Avenir Next",
+        "size": 8,
+        "weight": "600",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 164
+      },
+      {
+        "family": "Avenir Next",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 2.09,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 145
+      },
+      {
+        "family": "Avenir Next",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.27,
+        "letterSpacing": -0.003,
+        "transform": "none",
+        "chars": 100
+      },
+      {
+        "family": "Avenir Next",
+        "size": 13,
+        "weight": "600",
+        "lineHeight": 1.18,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 72
+      },
+      {
+        "family": "Avenir Next",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 68
+      },
+      {
+        "family": "Avenir Next",
+        "size": 11,
+        "weight": "600",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 64
+      }
+    ],
+    "loadedFonts": [
+      "Avenir Next 400 normal",
+      "Avenir Next 500 normal",
+      "Avenir Next 600 normal",
+      "Avenir Next 700 normal",
+      "Avenir Next 800 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 3,
+      "uses": 300
+    },
+    {
+      "px": 2,
+      "uses": 193
+    },
+    {
+      "px": 1,
+      "uses": 169
+    },
+    {
+      "px": 20,
+      "uses": 38
+    },
+    {
+      "px": 9,
+      "uses": 34
+    },
+    {
+      "px": 13,
+      "uses": 27
+    },
+    {
+      "px": 7,
+      "uses": 24
+    },
+    {
+      "px": 8,
+      "uses": 17
+    },
+    {
+      "px": 4,
+      "uses": 10
+    },
+    {
+      "px": 32,
+      "uses": 9
+    },
+    {
+      "px": 60,
+      "uses": 8
+    },
+    {
+      "px": 40,
+      "uses": 6
+    },
+    {
+      "px": 12,
+      "uses": 6
+    },
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 11,
+      "uses": 6
+    },
+    {
+      "px": 26,
+      "uses": 5
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 160
+    },
+    {
+      "value": "50%",
+      "uses": 31
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.26s cubic-bezier(0.45, 0, 0.2, 1)",
+        "uses": 218
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 180
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 31
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 31
+      },
+      {
+        "value": "1.1s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.9s cubic-bezier(0.2, 0.7, 0.2, 1)",
+        "uses": 12
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--ink": "#000",
+    "--paper": "#fff",
+    "--cream": "#EDE7E2",
+    "--grey": "rgba(0, 0, 0, .42)",
+    "--faint": "rgba(0, 0, 0, .16)",
+    "--hair": "rgba(0, 0, 0, .13)",
+    "--sans": "\"Avenir Next\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "--serif": "\"RH Ogg\", \"Ogg\", Georgia, \"Times New Roman\", serif",
+    "--mono": "ui-monospace, \"SF Mono\", Menlo, monospace",
+    "--ease": "cubic-bezier(.2, .7, .2, 1)",
+    "--m": "20px",
+    "--fs": "12px",
+    "--idxw": "min(46vw, 760px)",
+    "--gut": "64px",
+    "--top": "22px",
+    "--stl": "calc(var(--m) + var(--idxw) + var(--gut) / 2)",
+    "--halo": "none",
+    "--hl": "#ECECEC"
+  },
+  "breakpoints": [
+    "max 760px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 19,
+        "gutterRight": 20,
+        "width": 1401,
+        "gutterTop": 20,
+        "gutterBottom": -1978
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What I Make 6",
+          "family": "Avenir Next",
+          "size": 8,
+          "weight": "600",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Years 14",
+          "family": "Avenir Next",
+          "size": 8,
+          "weight": "600",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Figures 60",
+          "family": "Avenir Next",
+          "size": 8,
+          "weight": "600",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "About 5",
+          "family": "Avenir Next",
+          "size": 8,
+          "weight": "600",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Avenir Next",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.003,
+        "transform": "none"
+      },
+      "labels": [
+        "Ivy Park by Beyoncé",
+        "A.R.C. - AI Home Inventory",
+        "Hill Country home",
+        "Robert Rodriguez x Neiman’s",
+        "Nordstrom personalization",
+        "Dallas Sport Collective",
+        "Capitan Boot Co.",
+        "Faux Reel",
+        "Nordstrom framework",
+        "Nordstrom beauty"
+      ],
+      "words": 1451,
+      "excerpt": "with regional variation, and it runs dozens of campaigns at once. I",
+      "media": {
+        "img": 8,
+        "video": 1,
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 73,
+    "title": "Reckon House Staples",
+    "award": "HM",
+    "url": "https://reckon.house/",
+    "awwwards": "https://www.awwwards.com/sites/reckon-house-staples",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

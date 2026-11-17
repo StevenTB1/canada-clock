@@ -1,0 +1,882 @@
+{
+  "page": {
+    "url": "https://www.septiembrearquitectura.com/",
+    "title": "Septiembre Arquitectura | Página web oficial",
+    "description": "En Septiembre Arquitectura fusionamos diseño, cultura, arte y tecnología para crear arquitectura estratégica y sostenible. ¡Contáctanos!",
+    "lang": "es",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 18703,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#fffbf2",
+        "share": 0.953
+      },
+      {
+        "value": "#9b0000",
+        "share": 0.047
+      }
+    ],
+    "text": [
+      {
+        "value": "#9b0000",
+        "share": 0.977
+      },
+      {
+        "value": "#fffbf2",
+        "share": 0.023
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.953,
+      "text": 0.023
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Gilda Display",
+        "size": 54.44,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 219
+      },
+      {
+        "family": "adelphi-pe-variable",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 60
+      },
+      {
+        "family": "adelphi-pe-variable",
+        "size": 12.29,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 48
+      },
+      {
+        "family": "Gilda Display",
+        "size": 184.39,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.07,
+        "transform": "none",
+        "chars": 33
+      },
+      {
+        "family": "adelphi-pe-variable",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 30
+      },
+      {
+        "family": "adelphi-pe-variable",
+        "size": 54.44,
+        "weight": "900",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 22
+      },
+      {
+        "family": "adelphi-pe-variable",
+        "size": 68.49,
+        "weight": "700",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.03,
+        "transform": "lowercase",
+        "chars": 21
+      },
+      {
+        "family": "Gilda Display",
+        "size": 68.49,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.03,
+        "transform": "lowercase",
+        "chars": 13
+      },
+      {
+        "family": "adelphi-pe-variable",
+        "size": 41.27,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 12
+      },
+      {
+        "family": "Arial",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 11
+      },
+      {
+        "family": "Gilda Display",
+        "size": 14.05,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 6
+      },
+      {
+        "family": "adelphi-pe-variable",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 5
+      },
+      {
+        "family": "Gilda Display",
+        "size": 17.56,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "Gilda Display 400 normal",
+      "adelphi-pe-variable 100 900 normal",
+      "icomoon 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 7,
+      "uses": 42
+    },
+    {
+      "px": 5,
+      "uses": 41
+    },
+    {
+      "px": 11,
+      "uses": 41
+    },
+    {
+      "px": 8,
+      "uses": 17
+    },
+    {
+      "px": 35,
+      "uses": 16
+    },
+    {
+      "px": 56,
+      "uses": 16
+    },
+    {
+      "px": 44,
+      "uses": 16
+    },
+    {
+      "px": 42,
+      "uses": 16
+    },
+    {
+      "px": 54,
+      "uses": 16
+    },
+    {
+      "px": 28,
+      "uses": 16
+    },
+    {
+      "px": 9,
+      "uses": 14
+    },
+    {
+      "px": 20,
+      "uses": 10
+    },
+    {
+      "px": 18,
+      "uses": 5
+    },
+    {
+      "px": 68,
+      "uses": 4
+    },
+    {
+      "px": 176,
+      "uses": 2
+    },
+    {
+      "px": 79,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 2
+    },
+    {
+      "value": "8.78053px",
+      "uses": 1
+    },
+    {
+      "value": "1px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 32
+      },
+      {
+        "value": "0.6s cubic-bezier(0.645, 0.045, 0.355, 1)",
+        "uses": 10
+      },
+      {
+        "value": "1s cubic-bezier(0.19, 1, 0.155, 1.01)",
+        "uses": 9
+      },
+      {
+        "value": "0.6s cubic-bezier(0.785, 0.135, 0.15, 0.86)",
+        "uses": 6
+      },
+      {
+        "value": "0.6s cubic-bezier(0.42, 0, 0.58, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.4s cubic-bezier(0.42, 0, 0.58, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 3,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--black-1": "#000",
+    "--white-1": "#FFFBF2",
+    "--white-2": "#FFFFFF",
+    "--red-1": "#9B0000",
+    "--padding-fluid": "2rem",
+    "--padding": ".8rem",
+    "--header-height": "6.5rem",
+    "--pt-header": "0",
+    "--scrollbar": "7.5px",
+    "--w-100vw": "100%",
+    "--swiper-theme-color": "#007aff"
+  },
+  "breakpoints": [
+    "max 1025px",
+    "max 767.98px",
+    "min 1025.1px",
+    "min 767.98px",
+    "min 768px",
+    "max 768px",
+    "min 420px",
+    "max 1024px",
+    "min 576px",
+    "min 991px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "loader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px 7.5px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 305,
+        "gutterRight": 312,
+        "width": 823,
+        "gutterTop": 331,
+        "gutterBottom": 77
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          57,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Septiembre.",
+          "family": "Gilda Display",
+          "size": 184.39,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.07,
+          "transform": "none",
+          "color": "#9b0000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gilda Display",
+        "size": 184.39,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.07,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Septiembre.",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "spacer.pin-spacer",
+      "y": -1000,
+      "height": 900,
+      "position": "absolute",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 308,
+        "gutterRight": 308,
+        "width": 823,
+        "gutterTop": 1331,
+        "gutterBottom": -947
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          57,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Septiembre.",
+          "family": "Gilda Display",
+          "size": 184.39,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.07,
+          "transform": "none",
+          "color": "#9b0000"
+        }
+      ],
+      "bodyType": {
+        "family": "adelphi-pe-variable",
+        "size": 41.27,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.06,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "arquitectura",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "row.initial-img-row",
+      "y": -1000,
+      "height": 900,
+      "position": "relative",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#fffbf2",
+      "padding": "0px",
+      "margin": "0px -7.02442px",
+      "border": null,
+      "content": {
+        "gutterLeft": 305,
+        "gutterRight": 312,
+        "width": 823,
+        "gutterTop": 1229,
+        "gutterBottom": -550
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Septiembre.",
+          "family": "Gilda Display",
+          "size": 184.39,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.07,
+          "transform": "none",
+          "color": "#fffbf2"
+        }
+      ],
+      "bodyType": {
+        "family": "Gilda Display",
+        "size": 184.39,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.07,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "Septiembre.",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "gallery-spacer.pin-spacer",
+      "y": -1000,
+      "height": 900,
+      "position": "absolute",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 3500,
+      "height": 900,
+      "position": "relative",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px",
+      "margin": "0px -7.02442px",
+      "border": null,
+      "content": {
+        "gutterLeft": 54,
+        "gutterRight": 61,
+        "width": 1325,
+        "gutterTop": 304,
+        "gutterBottom": 234
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Septiembre",
+          "family": "adelphi-pe-variable",
+          "size": 54.44,
+          "weight": "900",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#9b0000"
+        }
+      ],
+      "bodyType": {
+        "family": "Gilda Display",
+        "size": 54.44,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 41,
+      "excerpt": "comprometidas",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "row.about-content-row",
+      "y": 5926,
+      "height": 1179,
+      "position": "relative",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px",
+      "margin": "0px -7.02442px",
+      "border": null,
+      "content": {
+        "gutterLeft": 92,
+        "gutterRight": 889,
+        "width": 459,
+        "gutterTop": 1053,
+        "gutterBottom": 103
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          100,
+          32,
+          64,
+          40,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "1 . 5",
+          "family": "adelphi-pe-variable",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#9b0000"
+        }
+      ],
+      "bodyType": {
+        "family": "adelphi-pe-variable",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "1 . 5",
+      "media": {
+        "img": 5,
+        "video": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "container-info",
+      "y": 7344,
+      "height": 117,
+      "position": "static",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "24.5855px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "col-12.column-portfolio",
+      "y": 9232,
+      "height": 119,
+      "position": "static",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px 7.02442px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 9491,
+      "height": 900,
+      "position": "absolute",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-end",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          7,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "pin-spacer.pin-spacer-horizontalScroll2",
+      "y": 9491,
+      "height": 900,
+      "position": "relative",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "herencia de",
+          "family": "Gilda Display",
+          "size": 68.49,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": -0.03,
+          "transform": "lowercase",
+          "color": "#9b0000"
+        }
+      ],
+      "bodyType": {
+        "family": "adelphi-pe-variable",
+        "size": 68.49,
+        "weight": "700",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.03,
+        "transform": "lowercase"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "arquitectura",
+      "media": {
+        "img": 22
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "home-team",
+      "y": 15813,
+      "height": 1155,
+      "position": "static",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "175.611px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 8,
+        "childWidthsPct": [
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16,
+          16
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 16
+      }
+    },
+    {
+      "i": 12,
+      "tag": "footer",
+      "name": "footer",
+      "y": 16968,
+      "height": 735,
+      "position": "static",
+      "background": "#fffbf2",
+      "backgroundImage": false,
+      "color": "#9b0000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 35,
+        "gutterRight": 51,
+        "width": 1354,
+        "gutterTop": 705,
+        "gutterBottom": 14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          40,
+          48,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "©2025 SEPTIEMBRE ARQUITECTURA. ALL RIGHTS RESERVED. BY EMEXS.",
+          "family": "adelphi-pe-variable",
+          "size": 12,
+          "weight": "300",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#9b0000"
+        }
+      ],
+      "bodyType": {
+        "family": "adelphi-pe-variable",
+        "size": 12,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "BY EMEXS",
+        "AVISO LEGAL",
+        "POLÍTICA DE COOKIES",
+        "BACK TO TOP"
+      ],
+      "words": 17,
+      "excerpt": "©2025 SEPTIEMBRE ARQUITECTURA. ALL RIGHTS RESERVED.",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 78,
+    "title": "Septiembre Arquitectura",
+    "award": "HM",
+    "url": "https://www.septiembrearquitectura.com/",
+    "awwwards": "https://www.awwwards.com/sites/septiembre-arquitectura",
+    "categories": [
+      "Architecture"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

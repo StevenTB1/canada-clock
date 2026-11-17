@@ -1,0 +1,344 @@
+{
+  "page": {
+    "url": "https://a24.raviklaassens.com/",
+    "title": "A24 — Films",
+    "description": "Explore A24's acclaimed film catalog featuring award-winning independent cinema from visionary directors. Discover upcoming releases and praised movies.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f2f2f2",
+        "share": 0.667
+      },
+      {
+        "value": "#000000",
+        "share": 0.333
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Ppeiko",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 55
+      },
+      {
+        "family": "Ppmuseum",
+        "size": 7.5,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.2,
+        "transform": "uppercase",
+        "chars": 50
+      },
+      {
+        "family": "Ppneuemontreal",
+        "size": 13.5,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 46
+      },
+      {
+        "family": "Ppneuemontreal",
+        "size": 13.5,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 22
+      },
+      {
+        "family": "Ppeiko",
+        "size": 30,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 9
+      }
+    ],
+    "loadedFonts": [
+      "Ppneuemontreal 500 normal",
+      "Ppmuseum 400 normal",
+      "Ppeiko 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 6,
+      "uses": 15
+    },
+    {
+      "px": 12,
+      "uses": 8
+    },
+    {
+      "px": 3,
+      "uses": 8
+    },
+    {
+      "px": 4,
+      "uses": 7
+    },
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 36,
+      "uses": 2
+    },
+    {
+      "px": 30,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3px",
+      "uses": 3
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.77, 0, 0.18, 1)",
+        "uses": 29
+      },
+      {
+        "value": "0.3s cubic-bezier(0.32, 0.72, 0, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.4s cubic-bezier(0.32, 0.72, 0, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.46s cubic-bezier(0.32, 0.72, 0, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.2s cubic-bezier(0.32, 0.72, 0, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--_theme---background": "var(--_colors---swatch--white)",
+    "--_paragraphs---paragraph-regular--font": "var(--_fonts---fonts--paragraph)",
+    "--_theme---body-text": "var(--_colors---swatch--black)",
+    "--_paragraphs---paragraph-regular--line-height": "1.4em",
+    "--_paragraphs---paragraph-regular--font-weight": "var(--_fonts---font-weight--medium)",
+    "--_paragraphs---paragraph-regular--letter-spacing": "-.025em",
+    "--_fonts---fonts--heading": "Ppeiko, Arial, sans-serif",
+    "--_headings---heading-xxl--font-size": "var(--_sizes---size--160px)",
+    "--_headings---heading-xxl--line-height": "1em",
+    "--_headings---heading-xxl--font-weight": "var(--_fonts---font-weight--normal)",
+    "--_headings---heading-xxl--letter-spacing": "-.04em",
+    "--_headings---heading-xl--font": "var(--_fonts---fonts--heading)",
+    "--_headings---heading-xl--font-size": "var(--_sizes---size--128px)",
+    "--_headings---heading-xl--font-weight": "var(--_fonts---font-weight--normal)",
+    "--_headings---heading-xl--letter-spacing": "-.04em",
+    "--_headings---heading-l--font": "var(--_fonts---fonts--heading)",
+    "--_headings---heading-l--font-size": "var(--_sizes---size--96px)",
+    "--_headings---heading-xl--line-height": "1.2em",
+    "--_headings---heading-l--font-weight": "var(--_fonts---font-weight--normal)",
+    "--_headings---heading-l--letter-spacing": "-.04em",
+    "--_headings---heading-m--font": "var(--_fonts---fonts--heading)",
+    "--_headings---heading-m--font-size": "var(--_sizes---size--56px)",
+    "--_headings---heading-m--line-height": "1em",
+    "--_headings---heading-m--font-weight": "var(--_fonts---font-weight--normal)",
+    "--_headings---heading-m--letter-spacing": "-.04em",
+    "--_headings---heading-s--font": "var(--_fonts---fonts--heading)",
+    "--_headings---heading-s--font-size": "var(--_sizes---size--40px)",
+    "--_headings---heading-s--line-height": "1.1em",
+    "--_headings---heading-s--font-weight": "var(--_fonts---font-weight--normal)",
+    "--_headings---heading-s--letter-spacing": "-.04em",
+    "--_headings---heading-xs--font": "var(--_fonts---fonts--heading)",
+    "--_headings---heading-xs--font-size": "var(--_sizes---size--28px)",
+    "--_headings---heading-xs--line-height": "1.1em",
+    "--_headings---heading-xs--font-weight": "var(--_fonts---font-weight--normal)",
+    "--_headings---heading-xs--letter-spacing": "-.04em",
+    "--color-mode-default--body-text<deleted|variable-cb61a870-d154-a6fe-c8a0-f25e0e5af2eb>": "var(--swatch--gunmetal\\<deleted\\|variable-7aae26b0-9412-ed86-55f6-0d55abbd998f\\>",
+    "--_layout---padding-global--page-padding": "2em",
+    "--_layout---padding-global--tablet<deleted|variable-a729b81a-e434-9b17-3dd4-232b48219fba>": "1.5em",
+    "--_layout---padding-global--mobile<deleted|variable-c1796e7f-e37f-9814-266d-d39e03ff04a2>": "1rem",
+    "--_sizes---size--96px": "6em",
+    "--_sizes---size--128px": "8em",
+    "--_sizes---size--320px": "20em",
+    "--_sizes---size--64px": "4em",
+    "--_sizes---size--40px": "2.5em",
+    "--_sizes---size--16px": "1em",
+    "--color-mode-default--active-state<deleted|variable-43f921cb-bd7a-3666-9ac5-0f1d734b1a8f>": "var(--swatch--honeydew\\<deleted\\|variable-ce750e9f-1666-65be-5b8a-2186b18b3781\\>",
+    "--_paragraphs---paragraph-regular--font-size": "1em",
+    "--_headings---heading-l--line-height": "1em",
+    "--_paragraphs---paragraph-xl--font": "var(--_fonts---fonts--paragraph)",
+    "--_paragraphs---paragraph-xl--font-size": "2em",
+    "--_paragraphs---paragraph-xl--line-height": "1.3em",
+    "--_paragraphs---paragraph-xl--font-weight": "var(--_fonts---font-weight--medium)",
+    "--_paragraphs---paragraph-xl--letter-spacing": "-.025em",
+    "--_paragraphs---paragraph-l--font": "var(--_fonts---fonts--paragraph)",
+    "--_paragraphs---paragraph-l--font-size": "1.5em",
+    "--_paragraphs---paragraph-l--line-height": "1.4em",
+    "--_paragraphs---paragraph-l--font-weight": "var(--_fonts---font-weight--medium)",
+    "--_paragraphs---paragraph-l--letter-spacing": "-.025em",
+    "--_paragraphs---paragraph-m--font": "var(--_fonts---fonts--paragraph)",
+    "--_paragraphs---paragraph-m--font-size": "1.125em",
+    "--_paragraphs---paragraph-m--line-height": "1.4em",
+    "--_paragraphs---paragraph-m--letter-spacing": "-.025em",
+    "--_paragraphs---paragraph-s--font": "var(--_fonts---fonts--paragraph)",
+    "--_paragraphs---paragraph-s--font-size": ".875em",
+    "--_paragraphs---paragraph-s--line-height": "1.3em",
+    "--_paragraphs---paragraph-s--font-weight": "var(--_fonts---font-weight--medium)",
+    "--_paragraphs---paragraph-s--letter-spacing": "-.025em",
+    "--_paragraphs---paragraph-xs--font-size": ".75em",
+    "--_paragraphs---paragraph-xs--font-weight": "var(--_fonts---font-weight--medium)",
+    "--_paragraphs---paragraph-xxs--font": "var(--_fonts---fonts--paragraph)",
+    "--_paragraphs---paragraph-xxs--font-size": ".625em",
+    "--_paragraphs---paragraph-xxs--line-height": "1.4em",
+    "--_paragraphs---paragraph-xxs--font-weight": "var(--_fonts---font-weight--medium)",
+    "--_paragraphs---paragraph-xxs--letter-spacing": "-.025em",
+    "--element-button--gap<deleted|variable-0282ece1-564b-3134-a176-8a733f25aca8>": "1em",
+    "--_layout---grid--gap": "2em",
+    "--_layout---grid--gap-tablet<deleted|variable-ff4ab7d8-1b7d-e830-21bf-aa88e5d5e74c>": "1.5em",
+    "--_layout---grid--gap-mobile<deleted|variable-4fadcf1f-040e-5667-91a8-46bc48510e01>": "1em",
+    "--element-button--height<deleted|variable-d0d4f496-fb53-f8c5-27d6-19ba5c3f0b43>": "3rem",
+    "--element-button--radius-desktop<deleted|variable-f8d99249-c057-b20e-d4ea-c9ff0273add7>": ".5em"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 767px",
+    "max 479px",
+    "min 992px",
+    "min 768px",
+    "min 480px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "three",
+    "barba"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "page-wrapper",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#f2f2f2",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 6,
+        "gutterRight": 412,
+        "width": 1022,
+        "gutterTop": 6,
+        "gutterBottom": 36
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          21,
+          43
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "BACKROOMS",
+          "family": "Ppeiko",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppeiko",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Films",
+        "Television",
+        "Index 12"
+      ],
+      "words": 29,
+      "excerpt": "Surrealistic Spell”",
+      "media": {
+        "canvas": 1,
+        "svg": 18
+      }
+    }
+  ],
+  "listing": {
+    "rank": 103,
+    "title": "A24",
+    "award": "SOTD",
+    "url": "https://a24.raviklaassens.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/a24",
+    "categories": [
+      "Technology",
+      "Web & Interactive",
+      "Portfolio",
+      "Experimental"
+    ]
+  }
+}

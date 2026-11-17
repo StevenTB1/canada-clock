@@ -1,0 +1,188 @@
+{
+  "page": {
+    "url": "https://awards.racing/",
+    "title": "Awards Racing",
+    "description": "Customize your car and race through parody award shows and galleries in Awards Racing (also known as Versus Racing and Versus: Design Grand Prix) - tune your ride, chase the leaderboard, and show off your style.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Druk Wide Cy TT",
+        "size": 138,
+        "weight": "900",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 13
+      }
+    ],
+    "loadedFonts": [
+      "Druk Wide Cy TT 900 italic",
+      "Druk Wide Cy TT 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-primary": "\"Druk Wide Cy TT\",sans-serif",
+    "--base-font-size": "16px",
+    "--color-theme": "#f00000",
+    "--color-theme-dark": "#c00000",
+    "--color-theme-overlay": "rgba(166,33,55,.44)",
+    "--color-theme-selection": "rgba(255,6,6,.6)",
+    "--color-line-1": "#fff",
+    "--color-line-2": "#f00000",
+    "--color-line-3": "#c60000",
+    "--color-line-4": "#ff6464",
+    "--color-accent": "#ffc500",
+    "--color-text-white": "#fff",
+    "--color-text-black": "#000",
+    "--color-text-gray-light": "silver",
+    "--color-text-gray-dark": "#505050",
+    "--color-text-disabled": "#d9d9d9",
+    "--color-bg-white": "#fff",
+    "--color-bg-black": "#000",
+    "--color-bg-gray-default": "#e9e9e9",
+    "--color-bg-gray-secondary": "#ededed",
+    "--color-bg-gray-light": "#f6f6f6",
+    "--color-border-gray": "#909090",
+    "--color-white": "#fff",
+    "--color-black": "#000",
+    "--ease-out-cubic": "cubic-bezier(.33,1,.68,1)",
+    "--ease-in-out-cubic": "cubic-bezier(.65,0,.35,1)",
+    "--header-height": "192px",
+    "--header-offset-top": "48px",
+    "--header-offset-inline": "clamp(32px,2.5vw,48px)",
+    "--header-offset-bottom": "24px",
+    "--header-logo-width": "270px"
+  },
+  "breakpoints": [
+    "min 768px",
+    "min 1920px",
+    "min 2560px",
+    "min 479px",
+    "min 1280px",
+    "min 1440px",
+    "min 992px",
+    "min 1600px",
+    "max 991px",
+    "min 620px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "__nuxt",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 220,
+        "gutterRight": 220,
+        "width": 1000,
+        "gutterTop": 323,
+        "gutterBottom": 323
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "AWARDS RACING",
+          "family": "Druk Wide Cy TT",
+          "size": 138,
+          "weight": "900",
+          "lineHeight": 0.92,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Druk Wide Cy TT",
+        "size": 138,
+        "weight": "900",
+        "lineHeight": 0.92,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "awards racing",
+      "media": {
+        "img": 1,
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 4,
+    "title": "Awards Racing",
+    "award": "SOTD",
+    "url": "https://awards.racing/",
+    "awwwards": "https://www.awwwards.com/sites/awards-racing",
+    "categories": [
+      "Games & Entertainment",
+      "Web & Interactive",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

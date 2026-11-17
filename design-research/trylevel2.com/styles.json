@@ -1,0 +1,1111 @@
+{
+  "page": {
+    "url": "https://www.trylevel2.com/",
+    "title": "Level2 - No-Code Strategy Automation for Traders",
+    "description": "Easily build fully automated trading strategies without any coding. Level2 empowers active traders with visual, no-code tools.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6194,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#020618",
+        "share": 0.548
+      },
+      {
+        "value": "#f8fafc",
+        "share": 0.356
+      },
+      {
+        "value": "#0d142826",
+        "share": 0.033
+      },
+      {
+        "value": "#002870",
+        "share": 0.029
+      },
+      {
+        "value": "#f9f9f9",
+        "share": 0.026
+      },
+      {
+        "value": "#0000004d",
+        "share": 0.007
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#90a1b9",
+        "share": 0.351
+      },
+      {
+        "value": "#727272",
+        "share": 0.224
+      },
+      {
+        "value": "#020618",
+        "share": 0.206
+      },
+      {
+        "value": "#f8fafc",
+        "share": 0.196
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.012
+      },
+      {
+        "value": "#99a1af",
+        "share": 0.012
+      }
+    ],
+    "borders": [
+      {
+        "value": "#91a0b933",
+        "share": 0.563
+      },
+      {
+        "value": "#000000",
+        "share": 0.313
+      },
+      {
+        "value": "#8f9fb740",
+        "share": 0.063
+      },
+      {
+        "value": "#f5ffff1a",
+        "share": 0.063
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.389,
+      "text": 0.432
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 950
+      },
+      {
+        "family": "Roboto",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 625
+      },
+      {
+        "family": "Roboto",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 523
+      },
+      {
+        "family": "Roboto",
+        "size": 48,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 125
+      },
+      {
+        "family": "Roboto",
+        "size": 28,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 107
+      },
+      {
+        "family": "Roboto",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 105
+      },
+      {
+        "family": "Roboto",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 71
+      },
+      {
+        "family": "Roboto",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 64
+      },
+      {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 64
+      },
+      {
+        "family": "Roboto",
+        "size": 64,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 34
+      },
+      {
+        "family": "Roboto",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 12
+      },
+      {
+        "family": "Roboto",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "Roboto 400 normal",
+      "Roboto 500 normal",
+      "Roboto 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 107
+    },
+    {
+      "px": 8,
+      "uses": 62
+    },
+    {
+      "px": 12,
+      "uses": 34
+    },
+    {
+      "px": 24,
+      "uses": 30
+    },
+    {
+      "px": 32,
+      "uses": 25
+    },
+    {
+      "px": 40,
+      "uses": 13
+    },
+    {
+      "px": 48,
+      "uses": 8
+    },
+    {
+      "px": 4,
+      "uses": 8
+    },
+    {
+      "px": 208,
+      "uses": 8
+    },
+    {
+      "px": 96,
+      "uses": 4
+    },
+    {
+      "px": 64,
+      "uses": 4
+    },
+    {
+      "px": 80,
+      "uses": 3
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 2,
+      "uses": 2
+    },
+    {
+      "px": 67,
+      "uses": 2
+    },
+    {
+      "px": 176,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "8px",
+      "uses": 14
+    },
+    {
+      "value": "3.35544e+07px",
+      "uses": 11
+    },
+    {
+      "value": "24px",
+      "uses": 11
+    },
+    {
+      "value": "16px",
+      "uses": 7
+    },
+    {
+      "value": "4px",
+      "uses": 5
+    },
+    {
+      "value": "32px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 9
+      },
+      {
+        "value": "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 9
+      },
+      {
+        "value": "0.3s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 6
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--color-red-500": "lab(55.4814% 75.0732 48.8528)",
+    "--color-amber-500": "lab(72.7183% 31.8672 97.9407)",
+    "--color-green-300": "lab(86.9953% -47.2691 25.0054)",
+    "--color-emerald-500": "lab(66.9756% -58.27 19.5419)",
+    "--color-sky-600": "lab(51.7754% -11.4712 -49.8349)",
+    "--color-blue-300": "lab(77.5052% -6.4629 -36.42)",
+    "--color-blue-400": "lab(65.0361% -1.42065 -56.9802)",
+    "--color-blue-500": "lab(54.1736% 13.3369 -74.6839)",
+    "--color-blue-600": "lab(44.0605% 29.0279 -86.0352)",
+    "--color-blue-700": "lab(36.9089% 35.0961 -85.6872)",
+    "--color-gray-100": "lab(96.1596% -.0823438 -1.13575)",
+    "--color-gray-200": "lab(91.6229% -.159115 -2.26791)",
+    "--color-gray-300": "lab(85.1236% -.612259 -3.7138)",
+    "--color-gray-400": "lab(65.9269% -.832707 -8.17473)",
+    "--color-gray-600": "lab(35.6337% -1.58697 -10.8425)",
+    "--color-gray-700": "lab(27.1134% -.956401 -12.3224)",
+    "--color-gray-800": "lab(16.1051% -1.18239 -11.7533)",
+    "--color-gray-900": "lab(8.11897% .811279 -12.254)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--container-sm": "24rem",
+    "--container-md": "28rem",
+    "--container-lg": "32rem",
+    "--container-2xl": "42rem",
+    "--container-3xl": "48rem",
+    "--container-4xl": "56rem",
+    "--container-5xl": "64rem",
+    "--container-7xl": "80rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1/.75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25/.875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "calc(1.5/1)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75/1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75/1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2/1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "calc(2.25/1.875)",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5/2.25)",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--text-6xl": "3.75rem",
+    "--text-6xl--line-height": "1",
+    "--text-7xl": "4.5rem",
+    "--text-7xl--line-height": "1",
+    "--font-weight-light": "300",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--font-weight-extrabold": "800",
+    "--font-weight-black": "900",
+    "--tracking-tighter": "-.05em",
+    "--tracking-tight": "-.025em",
+    "--leading-tight": "1.25",
+    "--leading-snug": "1.375",
+    "--leading-relaxed": "1.625",
+    "--radius-xs": ".125rem",
+    "--radius-2xl": "1rem",
+    "--radius-3xl": "1.5rem",
+    "--radius-4xl": "2rem",
+    "--ease-in-out": "cubic-bezier(.4,0,.2,1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--blur-sm": "8px",
+    "--blur-md": "12px",
+    "--blur-2xl": "40px",
+    "--blur-3xl": "64px",
+    "--aspect-video": "16/9",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-geist-sans)",
+    "--default-mono-font-family": "var(--font-geist-mono)",
+    "--radius": ".625rem",
+    "--background": "#fff"
+  },
+  "breakpoints": [
+    "min 120rem",
+    "min 48rem",
+    "min 140rem",
+    "min 40rem",
+    "min 64rem",
+    "min 80rem",
+    "min 96rem",
+    "max 600px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "nav",
+      "name": "flex.items-center",
+      "y": 40,
+      "height": 88,
+      "position": "static",
+      "background": "#020618",
+      "backgroundImage": false,
+      "color": "#99a1af",
+      "padding": "16px 40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 452,
+        "gutterRight": 40,
+        "width": 948,
+        "gutterTop": 24,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          29,
+          37,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Home",
+          "family": "Roboto",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "Features",
+        "Pricing",
+        "Widgets",
+        "Resources",
+        "Log in",
+        "Sign up"
+      ],
+      "words": 9,
+      "excerpt": "Resources",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "bg-background.rounded-b-3xl",
+      "y": 128,
+      "height": 975,
+      "position": "static",
+      "background": "#020618",
+      "backgroundImage": false,
+      "color": "#90a1b9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 380,
+        "gutterRight": 380,
+        "width": 680,
+        "gutterTop": 54,
+        "gutterBottom": 607
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          99,
+          99,
+          99,
+          99
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "See the Market. Trade with Clarity.",
+          "family": "Roboto",
+          "size": 64,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Backed by",
+        "Get Started"
+      ],
+      "words": 41,
+      "excerpt": "Level2 is the fastest and most engaging way for traders to build,",
+      "media": {
+        "img": 2,
+        "video": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "px-6",
+      "y": 1103,
+      "height": 392,
+      "position": "static",
+      "background": "#f8fafc",
+      "backgroundImage": false,
+      "color": "#727272",
+      "padding": "0px 24px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 434,
+        "gutterRight": 434,
+        "width": 573,
+        "gutterTop": 96,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "48px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          40,
+          97,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Broker & Technology Partners",
+          "family": "Roboto",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#020618"
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Integrate with Level2"
+      ],
+      "words": 17,
+      "excerpt": "Integrations with innovators to power the future of retail trading.",
+      "media": {
+        "img": 26,
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "min-h-[382px].mt-14",
+      "y": 1551,
+      "height": 452,
+      "position": "static",
+      "background": "#f8fafc",
+      "backgroundImage": false,
+      "color": "#727272",
+      "padding": "0px",
+      "margin": "56px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 34,
+        "gutterRight": 704,
+        "width": 702,
+        "gutterTop": 98,
+        "gutterBottom": 96
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          51,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Strategic solutions to power your vision",
+          "family": "Roboto",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#020618"
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Partner with Level2"
+      ],
+      "words": 38,
+      "excerpt": "Level2 provides an intuitive systematic trading solution, aligned with the evolving needs",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": null,
+      "y": 2007,
+      "height": 604,
+      "position": "static",
+      "background": "#f8fafc",
+      "backgroundImage": false,
+      "color": "#90a1b9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 36,
+        "gutterRight": 36,
+        "width": 1368,
+        "gutterTop": 426,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Unlock effortless strategy creation",
+          "family": "Roboto",
+          "size": 28,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#f8fafc"
+        },
+        {
+          "tag": "h4",
+          "text": "Give traders full freedom to create",
+          "family": "Roboto",
+          "size": 28,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#f8fafc"
+        },
+        {
+          "tag": "h4",
+          "text": "Collaborate and support at every step",
+          "family": "Roboto",
+          "size": 28,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#f8fafc"
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 104,
+      "excerpt": "Empower your traders to create and test strategies visually — no coding",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": null,
+      "y": 2691,
+      "height": 1136,
+      "position": "static",
+      "background": "#f8fafc",
+      "backgroundImage": false,
+      "color": "#020618",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 272,
+        "gutterRight": 272,
+        "width": 896,
+        "gutterTop": 0,
+        "gutterBottom": 34
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          37,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Frequently Asked Questions",
+          "family": "Roboto",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#020618"
+        },
+        {
+          "tag": "h3",
+          "text": "What is Level2 and how can it benefit my brokerage?",
+          "family": "Roboto",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#020618"
+        },
+        {
+          "tag": "h3",
+          "text": "How does Level2 integrate with existing trading platforms?",
+          "family": "Roboto",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#020618"
+        },
+        {
+          "tag": "h3",
+          "text": "Which trading platforms does Level2 already support?",
+          "family": "Roboto",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#020618"
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "What is Level2 and how can it benefit m…",
+        "How does Level2 integrate with existing…",
+        "Which trading platforms does Level2 alr…",
+        "How can Level2 help me attract and reta…",
+        "What is the pricing model for brokers?",
+        "What asset classes are available for tr…",
+        "What types of market data does Level2 p…",
+        "How quickly can I integrate and get sta…",
+        "How do I become a Level2 partner?"
+      ],
+      "words": 113,
+      "excerpt": "Have questions about Level2 for your brokerage? Explore how our platform can",
+      "media": {
+        "svg": 9
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "contactus",
+      "y": 3867,
+      "height": 973,
+      "position": "static",
+      "background": "#f8fafc",
+      "backgroundImage": false,
+      "color": "#90a1b9",
+      "padding": "0px 4px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 85,
+        "gutterRight": 740,
+        "width": 615,
+        "gutterTop": 70,
+        "gutterBottom": 78
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          42,
+          99
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Contact Us",
+          "family": "Roboto",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Send message"
+      ],
+      "words": 33,
+      "excerpt": "Have questions about Level2, want to explore partnership opportunities, or need technical",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": null,
+      "y": 4840,
+      "height": 829,
+      "position": "static",
+      "background": "#f8fafc",
+      "backgroundImage": false,
+      "color": "#727272",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 8,
+        "gutterRight": 8,
+        "width": 1424,
+        "gutterTop": 106,
+        "gutterBottom": 605
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          99,
+          99,
+          99
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Trading. Visualizied.",
+          "family": "Roboto",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#020618"
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 18,
+      "excerpt": "The most intuitive platform for building, testing and deploying systematic trading strate…",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "bg-foreground.mt-0",
+      "y": 5669,
+      "height": 525,
+      "position": "static",
+      "background": "#f8fafc",
+      "backgroundImage": false,
+      "color": "#f8fafc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 52,
+        "gutterRight": 52,
+        "width": 1336,
+        "gutterTop": 56,
+        "gutterBottom": 48
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "40px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          8,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Find out more",
+          "family": "Roboto",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f8fafc"
+        },
+        {
+          "tag": "h4",
+          "text": "Get in contact",
+          "family": "Roboto",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f8fafc"
+        }
+      ],
+      "bodyType": {
+        "family": "Roboto",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "Features",
+        "Pricing",
+        "Widgets",
+        "Resources",
+        "University trading competition",
+        "Contact us",
+        "Privacy Policy",
+        "Terms and Conditions",
+        "Customer Agreement"
+      ],
+      "words": 31,
+      "excerpt": "© 2025 Level2. All rights reserved.",
+      "media": {
+        "img": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 35,
+    "title": "Redesigning Trust: Level2",
+    "award": "HM",
+    "url": "https://www.trylevel2.com/",
+    "awwwards": "https://www.awwwards.com/sites/redesigning-trust-level2",
+    "categories": [
+      "Business & Corporate"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

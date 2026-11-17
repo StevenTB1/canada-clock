@@ -1,0 +1,1511 @@
+{
+  "page": {
+    "url": "https://orbita.bar/",
+    "title": "Орбита",
+    "description": null,
+    "lang": null,
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 16433,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#1d1d1d",
+        "share": 0.764
+      },
+      {
+        "value": "#f7efdc",
+        "share": 0.123
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.06
+      },
+      {
+        "value": "#000000",
+        "share": 0.047
+      },
+      {
+        "value": "#ff819e",
+        "share": 0.005
+      },
+      {
+        "value": "#fffcf4",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.742
+      },
+      {
+        "value": "#1d1d1d",
+        "share": 0.097
+      },
+      {
+        "value": "#ff819e",
+        "share": 0.073
+      },
+      {
+        "value": "#000000",
+        "share": 0.048
+      },
+      {
+        "value": "#f7efdc",
+        "share": 0.033
+      },
+      {
+        "value": "#fdfdfd",
+        "share": 0.004
+      },
+      {
+        "value": "#3e99d8",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#797979",
+        "share": 0.667
+      },
+      {
+        "value": "#3a3a3a",
+        "share": 0.333
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.872,
+      "text": 0.891
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Inter Tight",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 576
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.21,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 520
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.07,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 515
+      },
+      {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.19,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 273
+      },
+      {
+        "family": "Inter Tight",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 260
+      },
+      {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 156
+      },
+      {
+        "family": "Inter Tight",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 144
+      },
+      {
+        "family": "Inter Tight",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 144
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 143
+      },
+      {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 142
+      },
+      {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 0.88,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 102
+      },
+      {
+        "family": "DrukCyr",
+        "size": 40,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 75
+      },
+      {
+        "family": "Inter Tight",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 74
+      },
+      {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.56,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 68
+      }
+    ],
+    "loadedFonts": [
+      "DrukCyr 500 normal",
+      "DrukCyr 700 normal",
+      "Inter Tight 400 normal",
+      "Inter Tight 600 normal",
+      "Inter Tight 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 49
+    },
+    {
+      "px": 252,
+      "uses": 22
+    },
+    {
+      "px": 115,
+      "uses": 22
+    },
+    {
+      "px": 120,
+      "uses": 22
+    },
+    {
+      "px": 209,
+      "uses": 11
+    },
+    {
+      "px": 20,
+      "uses": 6
+    },
+    {
+      "px": 4,
+      "uses": 5
+    },
+    {
+      "px": 5,
+      "uses": 3
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 14,
+      "uses": 2
+    },
+    {
+      "px": 18,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 11,
+      "uses": 2
+    },
+    {
+      "px": 17,
+      "uses": 1
+    },
+    {
+      "px": 523,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "10px",
+      "uses": 16
+    },
+    {
+      "value": "3px",
+      "uses": 6
+    },
+    {
+      "value": "30px",
+      "uses": 4
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    },
+    {
+      "value": "100%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0s ease-in-out",
+        "uses": 439
+      },
+      {
+        "value": "0.2s ease-in-out",
+        "uses": 64
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 41,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--ScaleWrapper": "translate(-50%, -50%) scale(1.5)",
+    "--BorderRadius": "10px",
+    "--ScaleWrapperPhone": "translate(-50%, -50%) scale(0.7)"
+  },
+  "breakpoints": [
+    "max 639px",
+    "max 1199px",
+    "max 959px",
+    "min 1200px",
+    "max 980px",
+    "max 479px",
+    "min 981px",
+    "min 960px",
+    "min 640px",
+    "min 480px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "rec1045255886",
+      "y": 0,
+      "height": 660,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1224,
+        "gutterRight": 65,
+        "width": 151,
+        "gutterTop": 89,
+        "gutterBottom": 421
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px normal",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 4,
+        "childWidthsPct": [
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "о концепции",
+          "family": "Inter Tight",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "о концепции",
+        "пространство",
+        "команда",
+        "контакты"
+      ],
+      "words": 9,
+      "excerpt": "двигайся вместе с орбитой",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "rec1013185281",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 172,
+        "width": 1220,
+        "gutterTop": 43,
+        "gutterBottom": 192
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "6px normal",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          4,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "ОРБИТА",
+          "family": "DrukCyr",
+          "size": 350,
+          "weight": "700",
+          "lineHeight": 1.55,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ЗАБРОНИРОВАТЬ"
+      ],
+      "words": 57,
+      "excerpt": "Исторический особняк с баром, музыкой и мероприятиями от Вани Дмитриенко",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "rec965292756",
+      "y": 900,
+      "height": 1164,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 5,
+        "iframe": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "t396__carrier",
+      "y": 2064,
+      "height": 3768,
+      "position": "absolute",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "t396__filter",
+      "y": 2064,
+      "height": 3768,
+      "position": "absolute",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "t396__elem.tn-elem",
+      "y": 2698,
+      "height": 936,
+      "position": "absolute",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "t396__carrier",
+      "y": 5832,
+      "height": 1824,
+      "position": "absolute",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "t396__filter",
+      "y": 5832,
+      "height": 1824,
+      "position": "absolute",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "t396__elem.tn-elem",
+      "y": 6049,
+      "height": 119,
+      "position": "absolute",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#f7efdc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 415,
+        "gutterRight": 205,
+        "width": 819,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "ТВОРЧЕСКИЙ КЛАСТЕР",
+          "family": "DrukCyr",
+          "size": 110,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f7efdc"
+        }
+      ],
+      "bodyType": {
+        "family": "DrukCyr",
+        "size": 110,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "творческий кластер",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "t396__elem.tn-elem",
+      "y": 6170,
+      "height": 119,
+      "position": "absolute",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#f7efdc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 499,
+        "width": 893,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "И БАР ТРАНСФОРМЕР",
+          "family": "DrukCyr",
+          "size": 110,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f7efdc"
+        }
+      ],
+      "bodyType": {
+        "family": "DrukCyr",
+        "size": 110,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "и бар трансформер",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "t396__elem.tn-elem",
+      "y": 6292,
+      "height": 119,
+      "position": "absolute",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#f7efdc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 415,
+        "gutterRight": 77,
+        "width": 948,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "ОТ ВАНИ ДМИТРИЕНКО",
+          "family": "DrukCyr",
+          "size": 110,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f7efdc"
+        }
+      ],
+      "bodyType": {
+        "family": "DrukCyr",
+        "size": 110,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 3,
+      "excerpt": "от вани дмитриенко",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "rec981900566",
+      "y": 7676,
+      "height": 540,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "rec1012225966",
+      "y": 8216,
+      "height": 780,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 984,
+        "gutterRight": 84,
+        "width": 372,
+        "gutterTop": 185,
+        "gutterBottom": 262
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Встретимся на Орбите!",
+          "family": "Inter Tight",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.21,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.21,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 76,
+      "excerpt": "Я, как автор, человек творчества, давно мечтал о пространстве, в котором смогу",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "rec1121954641",
+      "y": 8996,
+      "height": 1598,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 179,
+        "gutterRight": 71,
+        "width": 1191,
+        "gutterTop": 168,
+        "gutterBottom": 234
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          11,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "ПЛАН РАССАДКИ",
+          "family": "DrukCyr",
+          "size": 100,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f7efdc"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.56,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "ЗАБРОНИРОВАТЬ"
+      ],
+      "words": 14,
+      "excerpt": "Забронировать",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "rec975675996",
+      "y": 10594,
+      "height": 588,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#f7efdc",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 180,
+        "width": 1140,
+        "gutterTop": 216,
+        "gutterBottom": 34
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "В НАШЕМ МЕНЮ",
+          "family": "DrukCyr",
+          "size": 100,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#f7efdc"
+        }
+      ],
+      "bodyType": {
+        "family": "DrukCyr",
+        "size": 100,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "с авторским взглядом",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "rec1012258766",
+      "y": 11182,
+      "height": 427,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 269,
+        "gutterRight": 247,
+        "width": 924,
+        "gutterTop": 24,
+        "gutterBottom": 266
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Лимонад Брусника / Те Гуань Инь",
+          "family": "Inter Tight",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 91,
+      "excerpt": "Зеленый салат с авокадо и йогуртовым соусом",
+      "media": {
+        "img": 89
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "rec1040465061",
+      "y": 11609,
+      "height": 128,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 453,
+        "gutterRight": 618,
+        "width": 369,
+        "gutterTop": 49,
+        "gutterBottom": 50
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "МЕНЮ КУХНИ",
+          "family": "Inter Tight",
+          "size": 16,
+          "weight": "600",
+          "lineHeight": 1.55,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "МЕНЮ КУХНИ",
+        "БАРНОЕ МЕНЮ"
+      ],
+      "words": 4,
+      "excerpt": "БАРНОЕ МЕНЮ",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "rec982722916",
+      "y": 11737,
+      "height": 346,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 52,
+        "width": 1340,
+        "gutterTop": 96,
+        "gutterBottom": 70
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "ОРБИТАЛЬНОСТЬ",
+          "family": "DrukCyr",
+          "size": 80,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.07,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "РЕГИСТРИРУЙСЯ В ОРБИТАЛЬНОСТИ"
+      ],
+      "words": 42,
+      "excerpt": "Набираешь баллы и поднимаешься по четырём уровням, открывая новые возможности. Тебя ждут",
+      "media": {}
+    },
+    {
+      "i": 19,
+      "tag": "div",
+      "name": "rec1051847571",
+      "y": 12083,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 20,
+      "tag": "div",
+      "name": "rec982740046",
+      "y": 12983,
+      "height": 168,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1440,
+        "gutterRight": 1440,
+        "width": -1440,
+        "gutterTop": null,
+        "gutterBottom": null
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "КАК УСТРОЕНА ОРБИТАЛЬНОСТЬ:",
+          "family": "Inter Tight",
+          "size": 16,
+          "weight": "600",
+          "lineHeight": 0.88,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.07,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 35,
+      "excerpt": "Набираешь баллы и поднимаешься по четырём уровням, открывая новые возможности. Тебя ждут",
+      "media": {}
+    },
+    {
+      "i": 21,
+      "tag": "div",
+      "name": "rec1012345981",
+      "y": 13151,
+      "height": 894,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 188,
+        "gutterRight": 216,
+        "width": 1036,
+        "gutterTop": 66,
+        "gutterBottom": 136
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Мы – про исследование, новые голоса и ритмы, опыт, который нельзя забыть",
+          "family": "Inter Tight",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 24,
+      "excerpt": "Мы – про исследование, новые голоса и ритмы, опыт, который нельзя забыть",
+      "media": {
+        "img": 12,
+        "iframe": 1
+      }
+    },
+    {
+      "i": 22,
+      "tag": "div",
+      "name": "rec982776651",
+      "y": 14045,
+      "height": 672,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 925,
+        "width": 467,
+        "gutterTop": 120,
+        "gutterBottom": 300
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          17,
+          28
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "МЫ — КОМАНДА ТВОРЧЕСКИХ ЛЮДЕЙ, КОТОРЫЕ ЦЕНЯТ СВОБОДУ, КРЕАТИВ И ОТКРЫТОСТЬ.",
+          "family": "DrukCyr",
+          "size": 40,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "СТАТЬ ЧАСТЬЮ КОМАНДЫ"
+      ],
+      "words": 26,
+      "excerpt": "Работа в Орбите — это возможность развиваться и вместе создавать уникальную атмосферу.",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 23,
+      "tag": "div",
+      "name": "rec982936366",
+      "y": 14717,
+      "height": 924,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 917,
+        "width": 475,
+        "gutterTop": 192,
+        "gutterBottom": 152
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          15,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "ИЩИ НАС ЗДЕСЬ",
+          "family": "DrukCyr",
+          "size": 130,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.07,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ПОСТРОИТЬ МАРШРУТ"
+      ],
+      "words": 27,
+      "excerpt": "г. Москва, улица Яузская 1/15. Ближайшие станции метро: Китай-город, Таганская.",
+      "media": {
+        "svg": 4,
+        "iframe": 2
+      }
+    },
+    {
+      "i": 24,
+      "tag": "div",
+      "name": "rec984793866",
+      "y": 15641,
+      "height": 792,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 24,
+        "gutterBottom": 13
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "4px normal",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 5,
+        "childWidthsPct": [
+          13,
+          13,
+          13,
+          13,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "ОРБИТА",
+          "family": "DrukCyr",
+          "size": 350,
+          "weight": "700",
+          "lineHeight": 1.55,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "О нас",
+        "Залы",
+        "Команда",
+        "Контакты",
+        "Бартер",
+        "orbita.yauza@gmail.com",
+        "+7 (495) 045 73 81",
+        "реквизиты",
+        "политика конфиденциальности"
+      ],
+      "words": 18,
+      "excerpt": "политика конфиденциальности",
+      "media": {}
+    },
+    {
+      "i": 25,
+      "tag": "div",
+      "name": "Настройки cookie",
+      "y": 831,
+      "height": 69,
+      "position": "fixed",
+      "background": "#1d1d1d",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "14px 18px",
+      "margin": "0px",
+      "border": "2px solid #3a3a3a",
+      "content": {
+        "gutterLeft": 120,
+        "gutterRight": 120,
+        "width": 1200,
+        "gutterTop": 16,
+        "gutterBottom": 14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          76,
+          6
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Мы используем cookie и сервисы аналитики, чтобы сайт работал лучше. Продолжая п…",
+          "family": "Inter Tight",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.45,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "политикой обработки данных",
+        "Хорошо"
+      ],
+      "words": 21,
+      "excerpt": "Мы используем cookie и сервисы аналитики, чтобы сайт работал лучше. Продолжая пользоваться",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 200,
+    "title": "https://orbita.bar",
+    "award": "HM",
+    "url": "http://orbita.bar/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/https-orbita-bar",
+    "categories": [
+      "Web & Interactive"
+    ]
+  }
+}

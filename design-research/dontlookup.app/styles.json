@@ -1,0 +1,617 @@
+{
+  "page": {
+    "url": "https://www.dontlookup.app/",
+    "title": "Don't Look Up — a game about keeping everyone looking down",
+    "description": "You are very rich, very tall, and standing on quite a lot of people. Keep them distracted and they keep paying. Let them look up, and they push you over.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f4f3ef",
+        "share": 0.951
+      },
+      {
+        "value": "#fffffff5",
+        "share": 0.016
+      },
+      {
+        "value": "#f8e08a",
+        "share": 0.009
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.009
+      },
+      {
+        "value": "#000000",
+        "share": 0.007
+      },
+      {
+        "value": "#f4f3eff0",
+        "share": 0.004
+      },
+      {
+        "value": "#fffffff7",
+        "share": 0.003
+      },
+      {
+        "value": "#14140f",
+        "share": 0.001
+      },
+      {
+        "value": "#17170f21",
+        "share": 0
+      },
+      {
+        "value": "#c98f06",
+        "share": 0
+      },
+      {
+        "value": "#c0342a",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#14140f",
+        "share": 0.895
+      },
+      {
+        "value": "#c0342a",
+        "share": 0.068
+      },
+      {
+        "value": "#000000",
+        "share": 0.025
+      },
+      {
+        "value": "#f4f3ef",
+        "share": 0.011
+      }
+    ],
+    "borders": [
+      {
+        "value": "#14140f",
+        "share": 0.808
+      },
+      {
+        "value": "#c0342a",
+        "share": 0.154
+      },
+      {
+        "value": "#f4f3ef",
+        "share": 0.038
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.991,
+      "text": 0.931
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Nunito",
+        "size": 11,
+        "weight": "600",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 98
+      },
+      {
+        "family": "Nunito",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 97
+      },
+      {
+        "family": "Nunito",
+        "size": 10,
+        "weight": "700",
+        "lineHeight": 1.7,
+        "letterSpacing": 0.09,
+        "transform": "uppercase",
+        "chars": 91
+      },
+      {
+        "family": "Nunito",
+        "size": 17,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 68
+      },
+      {
+        "family": "Nunito",
+        "size": 11,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 33
+      },
+      {
+        "family": "Marsipan",
+        "size": 12,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.2,
+        "transform": "uppercase",
+        "chars": 31
+      },
+      {
+        "family": "Nunito",
+        "size": 10.5,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 27
+      },
+      {
+        "family": "Nunito",
+        "size": 10.5,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "Nunito",
+        "size": 9,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.2,
+        "transform": "uppercase",
+        "chars": 19
+      },
+      {
+        "family": "Marsipan",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.03,
+        "transform": "none",
+        "chars": 17
+      },
+      {
+        "family": "Arial",
+        "size": 10,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 16
+      },
+      {
+        "family": "Nunito",
+        "size": 11,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.09,
+        "transform": "uppercase",
+        "chars": 13
+      },
+      {
+        "family": "Marsipan",
+        "size": 7.25,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.22,
+        "transform": "uppercase",
+        "chars": 13
+      },
+      {
+        "family": "Marsipan",
+        "size": 13,
+        "weight": "800",
+        "lineHeight": 1.45,
+        "letterSpacing": 0.04,
+        "transform": "uppercase",
+        "chars": 13
+      }
+    ],
+    "loadedFonts": [
+      "Marsipan 400 normal",
+      "Nunito 400 800 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 24
+    },
+    {
+      "px": 12,
+      "uses": 14
+    },
+    {
+      "px": 6,
+      "uses": 13
+    },
+    {
+      "px": 8,
+      "uses": 12
+    },
+    {
+      "px": 13,
+      "uses": 9
+    },
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 7,
+      "uses": 6
+    },
+    {
+      "px": 4,
+      "uses": 6
+    },
+    {
+      "px": 9,
+      "uses": 5
+    },
+    {
+      "px": 3,
+      "uses": 5
+    },
+    {
+      "px": 30,
+      "uses": 4
+    },
+    {
+      "px": 22,
+      "uses": 4
+    },
+    {
+      "px": 14,
+      "uses": 3
+    },
+    {
+      "px": 11,
+      "uses": 3
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 17,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 8
+    },
+    {
+      "value": "12px",
+      "uses": 6
+    },
+    {
+      "value": "24px 30px",
+      "uses": 4
+    },
+    {
+      "value": "3px",
+      "uses": 3
+    },
+    {
+      "value": "15px 18px",
+      "uses": 3
+    },
+    {
+      "value": "11px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.14s ease-out",
+        "uses": 5
+      },
+      {
+        "value": "0.26s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.26s ease-in",
+        "uses": 2
+      },
+      {
+        "value": "0.12s ease-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 65,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--paper": "#f4f3ef",
+    "--ink": "#14140f",
+    "--red": "#c0342a",
+    "--btn-h": "40px",
+    "--convert": "#9abeef",
+    "--follow": "#2b5a9b",
+    "--y1": "#f8e08a",
+    "--y2": "#f2c31a",
+    "--y3": "#c98f06",
+    "--btn-r": "14px",
+    "--display": "'Marsipan', 'Luckiest Guy', ui-rounded, \"SF Pro Rounded\", system-ui, sans-serif",
+    "--body": "'Nunito', ui-rounded, \"SF Pro Rounded\", system-ui, sans-serif",
+    "--font": "var(--body)",
+    "--hand": "var(--body)",
+    "--rail-n": "8",
+    "--rail-bottom": "calc(var(--btn-h) + 26px + env(safe-area-inset-bottom, 0px))",
+    "--rail-h": "calc(var(--rail-n) * var(--btn-h) + (var(--rail-n) - 1) * 10px)"
+  },
+  "breakpoints": [
+    "max 820px",
+    "max 1060px",
+    "min 821px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "stage",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f4f3ef",
+      "backgroundImage": false,
+      "color": "#14140f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "bubbles",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f4f3ef",
+      "backgroundImage": false,
+      "color": "#c0342a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 428,
+        "gutterRight": 227,
+        "width": 784,
+        "gutterTop": 333,
+        "gutterBottom": 220
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "ah!",
+          "family": "Nunito",
+          "size": 16,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#c0342a"
+        }
+      ],
+      "bodyType": {
+        "family": "Nunito",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "hey!",
+      "media": {
+        "svg": 7
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "intro",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f4f3ef",
+      "backgroundImage": true,
+      "color": "#14140f",
+      "padding": "30px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 471,
+        "gutterRight": 471,
+        "width": 498,
+        "gutterTop": 632,
+        "gutterBottom": 177
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "22px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          30,
+          35,
+          18
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "You are very rich, very tall, and standing on quite a lot of people.",
+          "family": "Nunito",
+          "size": 17,
+          "weight": "600",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#14140f"
+        }
+      ],
+      "bodyType": {
+        "family": "Nunito",
+        "size": 17,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "START",
+        "TUTORIAL"
+      ],
+      "words": 16,
+      "excerpt": "You are very rich, very tall, and standing on quite a lot",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "tbars",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#f4f3ef",
+      "backgroundImage": false,
+      "color": "#14140f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "loader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f4f3ef",
+      "backgroundImage": false,
+      "color": "#14140f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 679,
+        "gutterRight": 679,
+        "width": 82,
+        "gutterTop": 550,
+        "gutterBottom": 334
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "26px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          21,
+          6
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "LOADING",
+          "family": "Nunito",
+          "size": 12,
+          "weight": "800",
+          "lineHeight": "normal",
+          "letterSpacing": 0.14,
+          "transform": "uppercase",
+          "color": "#14140f"
+        }
+      ],
+      "bodyType": {
+        "family": "Nunito",
+        "size": 12,
+        "weight": "800",
+        "lineHeight": "normal",
+        "letterSpacing": 0.14,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "loading",
+      "media": {
+        "img": 40
+      }
+    }
+  ],
+  "listing": {
+    "rank": 206,
+    "title": "Dont Look up game",
+    "award": "SOTD",
+    "url": "https://www.dontlookup.app/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/dont-look-up-game",
+    "categories": [
+      "Games & Entertainment",
+      "Web & Interactive",
+      "Experimental"
+    ]
+  }
+}

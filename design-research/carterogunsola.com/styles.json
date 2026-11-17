@@ -1,0 +1,678 @@
+{
+  "page": {
+    "url": "https://carterogunsola.com/",
+    "title": "Carter Ogunsola :: Creative Developer & Brand Engineer",
+    "description": "I’m a creative developer, director and entrepreneur, crafting web experiences with a taste for pure digital originality. Born in Lagos, based in Utah.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#1e1e1e",
+        "share": 0.493
+      },
+      {
+        "value": "#000000",
+        "share": 0.493
+      },
+      {
+        "value": "#262626",
+        "share": 0.007
+      },
+      {
+        "value": "#2f2f2f",
+        "share": 0.003
+      },
+      {
+        "value": "#f2f2f214",
+        "share": 0.003
+      },
+      {
+        "value": "#f4bf3c",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#f7f7f7",
+        "share": 0.327
+      },
+      {
+        "value": "#f7f7f799",
+        "share": 0.221
+      },
+      {
+        "value": "#f6f6f652",
+        "share": 0.181
+      },
+      {
+        "value": "#f7f7f780",
+        "share": 0.124
+      },
+      {
+        "value": "#f7f7f7a8",
+        "share": 0.102
+      },
+      {
+        "value": "#1e1e1e",
+        "share": 0.044
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff0f",
+        "share": 0.6
+      },
+      {
+        "value": "#f7f7f7",
+        "share": 0.4
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PP Neue Montreal Mono",
+        "size": 10,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 62
+      },
+      {
+        "family": "Oracle",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 50
+      },
+      {
+        "family": "Oracle",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 30
+      },
+      {
+        "family": "Oracle",
+        "size": 12.32,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 28
+      },
+      {
+        "family": "Oracle",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 22
+      },
+      {
+        "family": "Oracle",
+        "size": 38.4,
+        "weight": "580",
+        "lineHeight": 1.06,
+        "letterSpacing": -0.028,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "PP Neue Montreal Mono",
+        "size": 9.92,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 10
+      },
+      {
+        "family": "PP Neue Montreal Mono",
+        "size": 10,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 2
+      },
+      {
+        "family": "Oracle",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1
+      },
+      {
+        "family": "Oracle",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.05,
+        "transform": "none",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "Oracle 200 1000 oblique 0deg 13deg",
+      "PP Neue Montreal Mono 300 450 normal",
+      "PP Neue Montreal Mono 451 650 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 1,
+      "uses": 78
+    },
+    {
+      "px": 2,
+      "uses": 28
+    },
+    {
+      "px": 4,
+      "uses": 26
+    },
+    {
+      "px": 8,
+      "uses": 22
+    },
+    {
+      "px": 5,
+      "uses": 20
+    },
+    {
+      "px": 6,
+      "uses": 14
+    },
+    {
+      "px": 10,
+      "uses": 13
+    },
+    {
+      "px": 30,
+      "uses": 4
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 20,
+      "uses": 1
+    },
+    {
+      "px": 18,
+      "uses": 1
+    },
+    {
+      "px": 14,
+      "uses": 1
+    },
+    {
+      "px": 24,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 7
+    },
+    {
+      "value": "6px",
+      "uses": 3
+    },
+    {
+      "value": "999px",
+      "uses": 2
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 30
+      },
+      {
+        "value": "0.5s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.3s cubic-bezier(0.5, 1, 0.89, 1)",
+        "uses": 7
+      },
+      {
+        "value": "0.2s cubic-bezier(0.5, 1, 0.89, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.45s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 6,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--s-0": "0rem",
+    "--s-2": ".125rem",
+    "--s-4": ".25rem",
+    "--s-6": ".375rem",
+    "--s-8": ".5rem",
+    "--s-10": ".625rem",
+    "--s-12": ".75rem",
+    "--s-14": ".875rem",
+    "--s-16": "1rem",
+    "--s-18": "1.125rem",
+    "--s-20": "1.25rem",
+    "--s-24": "1.5rem",
+    "--s-30": "1.875rem",
+    "--s-32": "2rem",
+    "--s-36": "2.25rem",
+    "--s-38": "2.375rem",
+    "--s-40": "2.5rem",
+    "--s-48": "3rem",
+    "--s-56": "3.5rem",
+    "--s-64": "4rem",
+    "--s-80": "5rem",
+    "--s-88": "5.5rem",
+    "--s-92": "5.75rem",
+    "--s-96": "6rem",
+    "--s-100": "6.25rem",
+    "--s-112": "7rem",
+    "--s-120": "7.5rem",
+    "--s-128": "8rem",
+    "--s-144": "9rem",
+    "--s-160": "10rem",
+    "--mono-100": "#f7f7f7",
+    "--mono-500": "#484848",
+    "--mono-900": "#1e1e1e",
+    "--surface-warm": "#fdfcfb",
+    "--white": "#fff",
+    "--paper": "#d6d6d5",
+    "--surface": "var(--surface-warm)",
+    "--card": "color-mix(in srgb, var(--mono-900) 5%, var(--paper))",
+    "--card-solid": "var(--card)",
+    "--img-outline": "#0000001a",
+    "--ink": "var(--mono-900)",
+    "--ink-muted": "#1e1e1eb3",
+    "--fill": "#1e1e1e14",
+    "--fill-strong": "#1e1e1e33",
+    "--line": "#1e1e1e0f",
+    "--divider": "#1e1e1e33",
+    "--code-bg": "#eae8e4",
+    "--code-ink": "var(--mono-900)",
+    "--code-card": "color-mix(in srgb, var(--mono-900) 7%, var(--paper))",
+    "--scrim": "#1e1e1e66",
+    "--popover": "var(--surface-warm)",
+    "--shadow-modal": "0 24px 60px -24px #1e1e1e40",
+    "--shadow-card": "0 10px 26px -16px #1e1e1e2e",
+    "--shadow-control": "0 0 0 1px #1e1e1e0f, 0 2px 6px -2px #1e1e1e24",
+    "--shadow-cut": "0 2px 5px #1e1e1e29",
+    "--shadow-seg": "0 0 0 1px #1e1e1e0a, 0 1px 2px #1e1e1e05",
+    "--chrome-bg": "var(--surface)",
+    "--chrome-rule": "var(--line)",
+    "--chrome-shadow": "var(--shadow-control)",
+    "--chrome-ring": "var(--surface)",
+    "--seg-bg": "var(--fill)",
+    "--seg-shadow": "var(--shadow-seg)",
+    "--btn-fill": "#1e1e1eeb",
+    "--btn-on": "var(--mono-100)",
+    "--spot": "#b03a1e",
+    "--spot-rgb": "176, 58, 30",
+    "--spot-wash": "rgba(var(--spot-rgb), .14)",
+    "--grain-fiber": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='600' he",
+    "--grain-tooth": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' he",
+    "--grain-carton": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' he",
+    "--grain-dots": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' heig",
+    "--r-xs": "var(--s-2)",
+    "--r-sm": "var(--s-4)",
+    "--r-md": ".375rem",
+    "--r-lg": "var(--s-8)",
+    "--r-xl": "var(--s-12)",
+    "--r-2xl": "var(--s-16)",
+    "--r-3xl": "var(--s-24)",
+    "--r-pill": "999px",
+    "--r-full": "50%"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "canvas",
+      "name": "paper-gl",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1e1e1e",
+      "backgroundImage": false,
+      "color": "#f7f7f7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "veil-dim",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f7f7f7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "canvas",
+      "name": "shelf-gl",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1e1e1e",
+      "backgroundImage": false,
+      "color": "#f7f7f7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "canvas",
+      "name": "shelf-still",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1e1e1e",
+      "backgroundImage": false,
+      "color": "#f7f7f7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "canvas",
+      "name": "flight-gl",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1e1e1e",
+      "backgroundImage": false,
+      "color": "#f7f7f7",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 96,
+      "position": "fixed",
+      "background": "#1e1e1e",
+      "backgroundImage": false,
+      "color": "#f6f6f652",
+      "padding": "0px 30px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 531,
+        "width": 879,
+        "gutterTop": 2,
+        "gutterBottom": 25
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "C",
+          "family": "Oracle",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f7f7f7"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Neue Montreal Mono",
+        "size": 10,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "PRESENCE::ON",
+        "C O",
+        "About",
+        "Lab",
+        "Writing",
+        "Studio",
+        "Contact",
+        "⌘K"
+      ],
+      "words": 44,
+      "excerpt": "PRESENCE::",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "Selected work — two linked wheels. Drag or scroll to turn, arrow keys browse, the center link opens the project.",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#1e1e1e",
+      "backgroundImage": false,
+      "color": "#f7f7f799",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 654,
+        "gutterRight": 654,
+        "width": 131,
+        "gutterTop": 398,
+        "gutterBottom": 325
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          4,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "C",
+          "family": "Oracle",
+          "size": 38.4,
+          "weight": "580",
+          "lineHeight": 1.06,
+          "letterSpacing": -0.028,
+          "transform": "none",
+          "color": "#f7f7f7"
+        }
+      ],
+      "bodyType": {
+        "family": "Oracle",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "View project"
+      ],
+      "words": 120,
+      "excerpt": "N",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1e1e1e",
+      "backgroundImage": false,
+      "color": "#1e1e1e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 783,
+        "gutterRight": 584,
+        "width": 74,
+        "gutterTop": 495,
+        "gutterBottom": 387
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "warm otter",
+          "family": "PP Neue Montreal Mono",
+          "size": 9.92,
+          "weight": "400",
+          "lineHeight": 1.4,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#1e1e1e"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Neue Montreal Mono",
+        "size": 9.92,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "warm otter",
+      "media": {
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 117,
+    "title": "Carter Ogunsola",
+    "award": "HM",
+    "url": "https://carterogunsola.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/carter-ogunsola",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio",
+      "Experimental"
+    ]
+  }
+}

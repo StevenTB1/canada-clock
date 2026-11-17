@@ -1,0 +1,524 @@
+{
+  "page": {
+    "url": "https://aestudio.studio/goshuin/en",
+    "title": "Goshuin, Temple Map and Stamp Collection in Japan and China",
+    "description": "GoShuin by AE Studio is an iPhone app for finding temples and shrines in Japan, China and Taiwan, scanning goshuin, and keeping a personal travel journal.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f9f7f2",
+        "share": 0.47
+      },
+      {
+        "value": "#e7e5df",
+        "share": 0.196
+      },
+      {
+        "value": "#eee9dc",
+        "share": 0.073
+      },
+      {
+        "value": "#eee9da",
+        "share": 0.073
+      },
+      {
+        "value": "#eee7d4",
+        "share": 0.073
+      },
+      {
+        "value": "#f8f3e7",
+        "share": 0.073
+      },
+      {
+        "value": "#efede6",
+        "share": 0.013
+      },
+      {
+        "value": "#f4f2ec",
+        "share": 0.011
+      },
+      {
+        "value": "#f9f4e6",
+        "share": 0.01
+      },
+      {
+        "value": "#f0ecdf",
+        "share": 0.003
+      },
+      {
+        "value": "#f9f5e9dd",
+        "share": 0.002
+      },
+      {
+        "value": "#fdfcf9",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#2d3435",
+        "share": 0.239
+      },
+      {
+        "value": "#4b5545",
+        "share": 0.157
+      },
+      {
+        "value": "#626761",
+        "share": 0.143
+      },
+      {
+        "value": "#d7d8cd",
+        "share": 0.115
+      },
+      {
+        "value": "#3d473d",
+        "share": 0.088
+      },
+      {
+        "value": "#4b5d60",
+        "share": 0.074
+      },
+      {
+        "value": "#bbc6c3",
+        "share": 0.055
+      },
+      {
+        "value": "#292824",
+        "share": 0.041
+      },
+      {
+        "value": "#626e67",
+        "share": 0.033
+      },
+      {
+        "value": "#72746b",
+        "share": 0.022
+      },
+      {
+        "value": "#e2dac3",
+        "share": 0.019
+      },
+      {
+        "value": "#354448",
+        "share": 0.011
+      }
+    ],
+    "borders": [
+      {
+        "value": "#d6d1c5",
+        "share": 0.6
+      },
+      {
+        "value": "#7662451a",
+        "share": 0.2
+      },
+      {
+        "value": "#8b938b40",
+        "share": 0.2
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.693,
+      "text": 0.893
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "-apple-system",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 57
+      },
+      {
+        "family": "-apple-system",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.12,
+        "transform": "none",
+        "chars": 52
+      },
+      {
+        "family": "-apple-system",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": 1.85,
+        "letterSpacing": 0.17,
+        "transform": "none",
+        "chars": 28
+      },
+      {
+        "family": "-apple-system",
+        "size": 9,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.16,
+        "transform": "none",
+        "chars": 27
+      },
+      {
+        "family": "-apple-system",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.025,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "-apple-system",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.08,
+        "transform": "none",
+        "chars": 23
+      },
+      {
+        "family": "Georgia",
+        "size": 23.76,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.06,
+        "transform": "none",
+        "chars": 22
+      },
+      {
+        "family": "-apple-system",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "-apple-system",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "-apple-system",
+        "size": 8,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.23,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "-apple-system",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.85,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "-apple-system",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.025,
+        "transform": "none",
+        "chars": 12
+      },
+      {
+        "family": "Georgia",
+        "size": 25,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 7
+      },
+      {
+        "family": "Georgia",
+        "size": 129.36,
+        "weight": "400",
+        "lineHeight": 0.98,
+        "letterSpacing": -0.07,
+        "transform": "none",
+        "chars": 7
+      }
+    ],
+    "loadedFonts": []
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 17
+    },
+    {
+      "px": 10,
+      "uses": 13
+    },
+    {
+      "px": 8,
+      "uses": 12
+    },
+    {
+      "px": 12,
+      "uses": 10
+    },
+    {
+      "px": 6,
+      "uses": 10
+    },
+    {
+      "px": 18,
+      "uses": 7
+    },
+    {
+      "px": 25,
+      "uses": 4
+    },
+    {
+      "px": 9,
+      "uses": 4
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 13,
+      "uses": 4
+    },
+    {
+      "px": 7,
+      "uses": 4
+    },
+    {
+      "px": 22,
+      "uses": 3
+    },
+    {
+      "px": 4,
+      "uses": 3
+    },
+    {
+      "px": 30,
+      "uses": 2
+    },
+    {
+      "px": 23,
+      "uses": 2
+    },
+    {
+      "px": 83,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "999px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.18s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--paper": "#fdfcf9",
+    "--ink": "#292824",
+    "--muted": "#68665f",
+    "--line": "#e5e1d8",
+    "--sage": "#b7c6b3",
+    "--teal": "#943e37",
+    "--coral": "#943e37",
+    "--serif": "Georgia,'Hiragino Mincho ProN','Yu Mincho',serif",
+    "--sans": "-apple-system,BlinkMacSystemFont,'Hiragino Kaku Gothic ProN','Yu Gothic',sans-se",
+    "--vermilion": "#a6362f",
+    "--warm-paper": "#f8f6ef",
+    "--journey-ease": "cubic-bezier(.22,.68,.2,1)",
+    "--forest": "#2f493e"
+  },
+  "breakpoints": [
+    "max 700px",
+    "min 701px",
+    "max 1000px",
+    "max 360px",
+    "max 1050px",
+    "min 1600px",
+    "max 600px",
+    "min 1800px",
+    "min 1500px",
+    "max 1100px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "GoShuin book",
+      "y": 107,
+      "height": 704,
+      "position": "relative",
+      "background": "#f9f7f2",
+      "backgroundImage": false,
+      "color": "#2d3435",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 115,
+        "gutterRight": 32,
+        "width": 1293,
+        "gutterTop": 127,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "56px",
+        "justify": "normal",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          39,
+          48,
+          48,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "GoShuin",
+          "family": "Georgia",
+          "size": 129.36,
+          "weight": "400",
+          "lineHeight": 0.98,
+          "letterSpacing": -0.07,
+          "transform": "none",
+          "color": "#2d3435"
+        }
+      ],
+      "bodyType": {
+        "family": "-apple-system",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.12,
+        "transform": "none"
+      },
+      "labels": [
+        "App Store",
+        "Explore the app"
+      ],
+      "words": 49,
+      "excerpt": "TEMPLE MAP & GOSHUIN JOURNAL · JAPAN, CHINA & TAIWAN",
+      "media": {
+        "img": 11,
+        "video": 2,
+        "svg": 11
+      }
+    },
+    {
+      "i": 2,
+      "tag": "nav",
+      "name": "Book pages",
+      "y": 811,
+      "height": 62,
+      "position": "relative",
+      "background": "#efede6",
+      "backgroundImage": false,
+      "color": "#4b5d60",
+      "padding": "8px 25px",
+      "margin": "0px",
+      "border": "1px solid #d6d1c5",
+      "content": {
+        "gutterLeft": 57,
+        "gutterRight": 57,
+        "width": 1326,
+        "gutterTop": 10,
+        "gutterBottom": 9
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          10,
+          70,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "←",
+          "family": "-apple-system",
+          "size": 23,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#4b5d60"
+        }
+      ],
+      "bodyType": {
+        "family": "-apple-system",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "← Previous",
+        "Next →"
+      ],
+      "words": 5,
+      "excerpt": "Previous",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 201,
+    "title": "GoShuin — Every stamp, a memory.",
+    "award": "HM",
+    "url": "https://aestudio.studio/goshuin/en",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/goshuin-every-stamp-a-memory",
+    "categories": [
+      "Culture & Education",
+      "Mobile & Apps"
+    ]
+  }
+}

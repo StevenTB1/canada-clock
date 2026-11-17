@@ -1,0 +1,1223 @@
+{
+  "page": {
+    "url": "https://www.righthemisphere.studio/",
+    "title": "Right Hemisphere",
+    "description": "Right Hemisphere is a design-first agency specializing in UX-UI design and no-code web development. The team specializes in Webflow, Framer, Wix and Wordpress.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 11900,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.866
+      },
+      {
+        "value": "#193526",
+        "share": 0.023
+      },
+      {
+        "value": "#000000",
+        "share": 0.023
+      },
+      {
+        "value": "#fb9920",
+        "share": 0.014
+      },
+      {
+        "value": "#ff7136",
+        "share": 0.014
+      },
+      {
+        "value": "#0f2844",
+        "share": 0.013
+      },
+      {
+        "value": "#5b5b45",
+        "share": 0.012
+      },
+      {
+        "value": "#3e7170",
+        "share": 0.012
+      },
+      {
+        "value": "#176c77",
+        "share": 0.012
+      },
+      {
+        "value": "#6165af",
+        "share": 0.011
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.813
+      },
+      {
+        "value": "#7a7a7a",
+        "share": 0.176
+      },
+      {
+        "value": "#1a1a1a",
+        "share": 0.006
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.005
+      },
+      {
+        "value": "#120df7",
+        "share": 0.001
+      }
+    ],
+    "borders": [
+      {
+        "value": "#cecece",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.889,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Ppmori",
+        "size": 14.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1128
+      },
+      {
+        "family": "Ppmori",
+        "size": 18.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1111
+      },
+      {
+        "family": "Ppmori",
+        "size": 12.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 745
+      },
+      {
+        "family": "Ppmori",
+        "size": 14.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 217
+      },
+      {
+        "family": "Ppmori",
+        "size": 22.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 184
+      },
+      {
+        "family": "Ppmori",
+        "size": 29.45,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 140
+      },
+      {
+        "family": "Ppmori",
+        "size": 12.73,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 109
+      },
+      {
+        "family": "Ppmori",
+        "size": 18.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 74
+      },
+      {
+        "family": "Ppmori",
+        "size": 29.45,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.014,
+        "transform": "uppercase",
+        "chars": 63
+      },
+      {
+        "family": "Ppmori",
+        "size": 14.73,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 40
+      },
+      {
+        "family": "Ppmori",
+        "size": 29.45,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 35
+      },
+      {
+        "family": "Ppmori",
+        "size": 12.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 33
+      },
+      {
+        "family": "Ppmori",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 30
+      },
+      {
+        "family": "Ppmori",
+        "size": 75.17,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.005,
+        "transform": "uppercase",
+        "chars": 30
+      }
+    ],
+    "loadedFonts": [
+      "Ppmori 400 normal",
+      "Karla 300 normal",
+      "Karla 400 normal",
+      "Karla 500 normal",
+      "Karla 600 normal",
+      "Karla 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 93
+    },
+    {
+      "px": 8,
+      "uses": 61
+    },
+    {
+      "px": 10,
+      "uses": 33
+    },
+    {
+      "px": 40,
+      "uses": 31
+    },
+    {
+      "px": 32,
+      "uses": 29
+    },
+    {
+      "px": 2,
+      "uses": 25
+    },
+    {
+      "px": 12,
+      "uses": 22
+    },
+    {
+      "px": 16,
+      "uses": 22
+    },
+    {
+      "px": 14,
+      "uses": 20
+    },
+    {
+      "px": 112,
+      "uses": 20
+    },
+    {
+      "px": 24,
+      "uses": 13
+    },
+    {
+      "px": 3,
+      "uses": 9
+    },
+    {
+      "px": 160,
+      "uses": 7
+    },
+    {
+      "px": 80,
+      "uses": 4
+    },
+    {
+      "px": 240,
+      "uses": 2
+    },
+    {
+      "px": 192,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--_text-size---20": "clamp(1rem, .6241rem + .607vw, 1.25rem)",
+    "--_text-size---14": "clamp(.625rem, .2491rem + .607vw, .875rem)",
+    "--_text-size---16": "clamp(.75rem, .3741rem + .607vw, 1rem)",
+    "--_text-size---10": "clamp(.5rem, .3342rem + .2674vw, .625rem)",
+    "--_text-size---32": "clamp(1.5rem, .7481rem + 1.214vw, 2rem)",
+    "--_text-size---24": "clamp(1.25rem, .8741rem + .607vw, 1.5rem)",
+    "--_text-size---12": "clamp(.625rem, .2934rem + .5348vw, .875rem)",
+    "--_spacing---home-heading-left": "clamp(6.4375rem, .9591rem + 8.8362vw, 11.5625rem)"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 479px",
+    "max 991px",
+    "min 480px",
+    "min 768px",
+    "min 0px",
+    "min 992px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "section_hero",
+      "y": 0,
+      "height": 663,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none #000000",
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 240,
+        "gutterBottom": 41
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "BUILDING",
+          "family": "Ppmori",
+          "size": 75.17,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.012,
+          "transform": "uppercase",
+          "color": "#1a1a1a"
+        },
+        {
+          "tag": "h1",
+          "text": "WEB",
+          "family": "Ppmori",
+          "size": 75.17,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.012,
+          "transform": "uppercase",
+          "color": "#1a1a1a"
+        },
+        {
+          "tag": "h1",
+          "text": "EXPERIENCES",
+          "family": "Ppmori",
+          "size": 75.17,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.012,
+          "transform": "uppercase",
+          "color": "#1a1a1a"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 12.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "THINGS WE DID",
+        "hello@righthemisphere.studio",
+        "+91 9085226014"
+      ],
+      "words": 117,
+      "excerpt": "b",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "work_element_content_wrapper",
+      "y": 663,
+      "height": 2913,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "40px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 8,
+        "width": 1400,
+        "gutterTop": 40,
+        "gutterBottom": 225
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 6,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 8,
+        "childWidthsPct": [
+          32,
+          48,
+          32,
+          41,
+          48,
+          32,
+          48,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "B",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 14.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Bare Bones Collective 2025 DESIGN / DEV…",
+        "RiseIndia Official Strategic partner fo…",
+        "Anomaly Brands Web archive 2025 2025 DE…",
+        "Moshimbo A beautiful design studio with…",
+        "Kulfi Collective Stories that shape cul…",
+        "Post Office Studios Exploring new dimen…",
+        "Supari Studios Killing it since 1975 20…",
+        "Watch with Papa 2026 WEB APP DEVELOPMEN…"
+      ],
+      "words": 134,
+      "excerpt": "DESIGN / DEVELOPMENT (Project under development)",
+      "media": {
+        "img": 24
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "work_element_content_wrapper._2",
+      "y": 3575,
+      "height": 873,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "24px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 8,
+        "width": 1400,
+        "gutterTop": 24,
+        "gutterBottom": 114
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 6,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          48,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Cheggout SDK",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 14.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Cheggout SDK Connecting banks, brands t…",
+        "World of waste Developing and dissemina…",
+        "SEE ALL WORK"
+      ],
+      "words": 28,
+      "excerpt": "Connecting banks, brands through intelligent rewards",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "section_about_us",
+      "y": 4448,
+      "height": 392,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 112,
+        "gutterBottom": 114
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 6,
+        "gap": "0px",
+        "justify": "center",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          16,
+          48,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "PRETTY PECULIAR ABOUT PRETTY PIXELS",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 22.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "KNOW US BETTER"
+      ],
+      "words": 27,
+      "excerpt": "We’re a bunch of creatives and engineers exploring how beauty meets utility",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "section_services_v2",
+      "y": 4840,
+      "height": 743,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#7a7a7a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 949,
+        "width": 459,
+        "gutterTop": 112,
+        "gutterBottom": 114
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          15,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "THINGS WE DO",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.014,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 12.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "LEARN MORE"
+      ],
+      "words": 49,
+      "excerpt": "Building a website that fits and grows with your business",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "section_awards",
+      "y": 5583,
+      "height": 1324,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 261,
+        "width": 1147,
+        "gutterTop": 112,
+        "gutterBottom": 137
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 6,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          22,
+          64
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FEATURES",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.014,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 18.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Supari Studios July 12, 2026",
+        "Cheggout Feb 21, 2026",
+        "Cafe Mocha Jun 14, 2023",
+        "School of Yokohama Feb 10, 2023",
+        "Borno Nov 14, 2022",
+        "Shabda.io May 27, 2024",
+        "Kulfi Collective Oct 04, 2023",
+        "Moshimbo 2025",
+        "Boon 2025",
+        "Borno 2024"
+      ],
+      "words": 68,
+      "excerpt": "community is never the",
+      "media": {
+        "img": 26
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "section_media_mentions",
+      "y": 6907,
+      "height": 553,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 491,
+        "gutterRight": 139,
+        "width": 811,
+        "gutterTop": 112,
+        "gutterBottom": 125
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          20,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "MEDIA MENTIONS",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.014,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 18.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Digital Accessibility Knowledge Base ev…",
+        "Figmacode prequisites Figmacode",
+        "When is a spacing unit more than a spac…",
+        "What is Fitts’ Law and How to Apply It …"
+      ],
+      "words": 43,
+      "excerpt": "Sometimes our blogs end up on products and courses...",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "section_partners_v3",
+      "y": 7461,
+      "height": 879,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#7a7a7a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 38,
+        "width": 1370,
+        "gutterTop": 112,
+        "gutterBottom": 114
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 6,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "start",
+        "children": 5,
+        "childWidthsPct": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CLIENTS",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.014,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 12.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SEE ALL CLIENTS"
+      ],
+      "words": 52,
+      "excerpt": "Govt of Madhya Pradesh",
+      "media": {
+        "img": 17
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "section_testimonials",
+      "y": 8340,
+      "height": 581,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 949,
+        "width": 459,
+        "gutterTop": 112,
+        "gutterBottom": 64
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 6,
+        "gap": "0px",
+        "justify": "center",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "TESTIMONIALS",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.014,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 18.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 51,
+      "excerpt": "far. Their depth of knowledge, a knack for problem-solving,",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "section_faq",
+      "y": 8921,
+      "height": 549,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 491,
+        "gutterRight": 72,
+        "width": 877,
+        "gutterTop": 160,
+        "gutterBottom": 83
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 6,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          16,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FAQ'S",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.014,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 14.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 168,
+      "excerpt": "Yes. Every site we build comes with 2 months of free maintenance",
+      "media": {
+        "img": 10
+      }
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "section_blogs",
+      "y": 9470,
+      "height": 1414,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 112,
+        "gutterBottom": 130
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "BLOGS",
+          "family": "Ppmori",
+          "size": 29.45,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.014,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 18.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Mobile First Design: Why Most Websites …",
+        "Watching movies and how it helped me be…",
+        "Are Designers Just Copycats? The Truth …"
+      ],
+      "words": 36,
+      "excerpt": "Watching movies and how it helped me become a better designer.",
+      "media": {
+        "img": 9
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "section_contact",
+      "y": 10884,
+      "height": 641,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 382,
+        "gutterRight": 382,
+        "width": 676,
+        "gutterTop": 240,
+        "gutterBottom": 82
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "24px 0px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "READY TO CREATE",
+          "family": "Ppmori",
+          "size": 75.17,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "SOMETHING",
+          "family": "Ppmori",
+          "size": 75.17,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "PRETTY",
+          "family": "Ppmori",
+          "size": 75.17,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.005,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 75.17,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.005,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "WORK WITH US"
+      ],
+      "words": 8,
+      "excerpt": "ready to create",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "section_footer",
+      "y": 11525,
+      "height": 375,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 112,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 6,
+        "gap": "0px",
+        "justify": "center",
+        "align": "end",
+        "children": 4,
+        "childWidthsPct": [
+          32,
+          32,
+          16,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "R",
+          "family": "Ppmori",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Ppmori",
+        "size": 12.73,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Right Hemisphere",
+        "hello@righthemisphere.studio",
+        "+91 9085226014",
+        "BORNO.APP",
+        "SATOPLAYER.COM",
+        "SKARA.APP",
+        "HOME",
+        "WORK",
+        "SERVICES",
+        "ABOUT"
+      ],
+      "words": 275,
+      "excerpt": "o",
+      "media": {
+        "img": 17
+      }
+    }
+  ],
+  "listing": {
+    "rank": 113,
+    "title": "Right Hemisphere",
+    "award": "HM",
+    "url": "https://www.righthemisphere.studio/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/right-hemisphere-1",
+    "categories": [
+      "Portfolio",
+      "Design Agencies",
+      "Web & Interactive"
+    ]
+  }
+}

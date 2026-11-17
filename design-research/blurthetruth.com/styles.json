@@ -1,0 +1,554 @@
+{
+  "page": {
+    "url": "https://www.blurthetruth.com/",
+    "title": "Blur the Truth | The Duality of Truth in Digital Culture",
+    "description": "A digital experience exploring the contradictions of modern life—from curated identities and viral headlines to hidden realities and competing truths.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 14975,
+    "generator": "Wix.com Website Builder"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.347
+      },
+      {
+        "value": "#000000",
+        "share": 0.34
+      },
+      {
+        "value": "#ede9e5",
+        "share": 0.244
+      },
+      {
+        "value": "#047f41",
+        "share": 0.02
+      },
+      {
+        "value": "#e3de41",
+        "share": 0.01
+      },
+      {
+        "value": "#00aff3",
+        "share": 0.009
+      },
+      {
+        "value": "#007c40",
+        "share": 0.007
+      },
+      {
+        "value": "#252ed7",
+        "share": 0.006
+      },
+      {
+        "value": "#add7ff",
+        "share": 0.005
+      },
+      {
+        "value": "#0387cb",
+        "share": 0.004
+      },
+      {
+        "value": "#816643",
+        "share": 0.002
+      },
+      {
+        "value": "#ea1d24",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.673
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.21
+      },
+      {
+        "value": "#8afd79",
+        "share": 0.088
+      },
+      {
+        "value": "#ede9e5",
+        "share": 0.016
+      },
+      {
+        "value": "#43ae41",
+        "share": 0.005
+      },
+      {
+        "value": "#e3de41",
+        "share": 0.004
+      },
+      {
+        "value": "#c2c2c2",
+        "share": 0.003
+      },
+      {
+        "value": "#0387cb",
+        "share": 0.001
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.931,
+      "text": 0.902
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 112.4,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 1036
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 93.75,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 429
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 43.86,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 412
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 54,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 379
+      },
+      {
+        "family": "wfont_f2e697_c515ecc202074bba9a97632050b9e775",
+        "size": 14.25,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 260
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 32.25,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 182
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 66.89,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 128
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 105,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 103
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 94.5,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 98
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 96,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 95
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 38.25,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 89
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 45,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 87
+      },
+      {
+        "family": "wfont_f2e697_c515ecc202074bba9a97632050b9e775",
+        "size": 14.25,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 63
+      },
+      {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 48.75,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 61
+      }
+    ],
+    "loadedFonts": [
+      "wf_685aaa6ef5d14a1ab78e3be36 normal normal",
+      "madefor-text 400 normal",
+      "wf_386daa5a722348ac9f5b45f58 normal normal",
+      "wf_9b45c16e66c3476c9e077e3a9 normal normal",
+      "wf_aec9386d40c04976997c82be9 normal normal",
+      "wf_c515ecc202074bba9a9763205 normal normal",
+      "wf_e8ea5c0222424415b6f4137af normal normal",
+      "eb garamond 700 italic"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 15,
+      "uses": 147
+    },
+    {
+      "px": 23,
+      "uses": 23
+    },
+    {
+      "px": 1,
+      "uses": 19
+    },
+    {
+      "px": 9,
+      "uses": 18
+    },
+    {
+      "px": 5,
+      "uses": 14
+    },
+    {
+      "px": 4,
+      "uses": 8
+    },
+    {
+      "px": 7,
+      "uses": 4
+    },
+    {
+      "px": 67,
+      "uses": 4
+    },
+    {
+      "px": 825,
+      "uses": 4
+    },
+    {
+      "px": 131,
+      "uses": 4
+    },
+    {
+      "px": 90,
+      "uses": 2
+    },
+    {
+      "px": 68,
+      "uses": 2
+    },
+    {
+      "px": 64,
+      "uses": 2
+    },
+    {
+      "px": 60,
+      "uses": 2
+    },
+    {
+      "px": 466,
+      "uses": 2
+    },
+    {
+      "px": 101,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "32px",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 17
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.45s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 43,
+    "canvases": 0,
+    "videos": 4
+  },
+  "cssVariables": {
+    "--scrollbar-width": "0px",
+    "--one-unit": "1cqw",
+    "--section-max-width": "9999px",
+    "--spx-stopper-max": "9999px",
+    "--spx-stopper-min": "0px",
+    "--browser-zoom": "1",
+    "--safari-sticky-fix": "opacity",
+    "--experimental-safari-sticky-fix": "translateZ(0)",
+    "--wst-button-color-fill-primary": "rgb(var(--color_48))",
+    "--wst-button-color-border-primary": "rgb(var(--color_49))",
+    "--wst-button-color-text-primary": "rgb(var(--color_50))",
+    "--wst-button-color-fill-primary-hover": "rgb(var(--color_51))",
+    "--wst-button-color-border-primary-hover": "rgb(var(--color_52))",
+    "--wst-button-color-text-primary-hover": "rgb(var(--color_53))",
+    "--wst-button-color-fill-primary-disabled": "rgb(var(--color_54))",
+    "--wst-button-color-border-primary-disabled": "rgb(var(--color_55))",
+    "--wst-button-color-text-primary-disabled": "rgb(var(--color_56))",
+    "--wst-button-color-fill-secondary": "rgb(var(--color_57))",
+    "--wst-button-color-border-secondary": "rgb(var(--color_58))",
+    "--wst-button-color-text-secondary": "rgb(var(--color_59))",
+    "--wst-button-color-fill-secondary-hover": "rgb(var(--color_60))",
+    "--wst-button-color-border-secondary-hover": "rgb(var(--color_61))",
+    "--wst-button-color-text-secondary-hover": "rgb(var(--color_62))",
+    "--wst-button-color-fill-secondary-disabled": "rgb(var(--color_63))",
+    "--wst-button-color-border-secondary-disabled": "rgb(var(--color_64))",
+    "--wst-button-color-text-secondary-disabled": "rgb(var(--color_65))",
+    "--wst-color-fill-base-1": "rgb(var(--color_36))",
+    "--wst-color-fill-base-2": "rgb(var(--color_37))",
+    "--wst-color-fill-base-shade-1": "rgb(var(--color_38))",
+    "--wst-color-fill-base-shade-2": "rgb(var(--color_39))",
+    "--wst-color-fill-base-shade-3": "rgb(var(--color_40))",
+    "--wst-color-fill-accent-1": "rgb(var(--color_41))",
+    "--wst-color-fill-accent-2": "rgb(var(--color_42))",
+    "--wst-color-fill-accent-3": "rgb(var(--color_43))",
+    "--wst-color-fill-accent-4": "rgb(var(--color_44))",
+    "--wst-color-fill-background-primary": "rgb(var(--color_11))",
+    "--wst-color-fill-background-secondary": "rgb(var(--color_12))",
+    "--wst-color-text-primary": "rgb(var(--color_15))",
+    "--wst-color-text-secondary": "rgb(var(--color_14))",
+    "--wst-color-action": "rgb(var(--color_18))",
+    "--wst-color-disabled": "rgb(var(--color_39))",
+    "--wst-color-title": "rgb(var(--color_45))",
+    "--wst-color-subtitle": "rgb(var(--color_46))",
+    "--wst-color-line": "rgb(var(--color_47))",
+    "--wst-font-style-h2": "var(--font_2)",
+    "--wst-font-style-h3": "var(--font_3)",
+    "--wst-font-style-h4": "var(--font_4)",
+    "--wst-font-style-h5": "var(--font_5)",
+    "--wst-font-style-h6": "var(--font_6)",
+    "--wst-font-style-body-large": "var(--font_7)",
+    "--wst-font-style-body-medium": "var(--font_8)",
+    "--wst-font-style-body-small": "var(--font_9)",
+    "--wst-font-style-body-x-small": "var(--font_10)",
+    "--wst-color-custom-1": "rgb(var(--color_13))",
+    "--wst-color-custom-2": "rgb(var(--color_16))",
+    "--wst-color-custom-3": "rgb(var(--color_17))",
+    "--wst-color-custom-4": "rgb(var(--color_19))",
+    "--wst-color-custom-5": "rgb(var(--color_20))",
+    "--wst-color-custom-6": "rgb(var(--color_21))",
+    "--wst-color-custom-7": "rgb(var(--color_22))",
+    "--wst-color-custom-8": "rgb(var(--color_23))",
+    "--wst-color-custom-9": "rgb(var(--color_24))",
+    "--wst-color-custom-10": "rgb(var(--color_25))",
+    "--wst-color-custom-11": "rgb(var(--color_26))",
+    "--wst-color-custom-12": "rgb(var(--color_27))",
+    "--wst-color-custom-13": "rgb(var(--color_28))",
+    "--wst-color-custom-14": "rgb(var(--color_29))",
+    "--wst-color-custom-15": "rgb(var(--color_30))",
+    "--wst-color-custom-16": "rgb(var(--color_31))",
+    "--wst-color-custom-17": "rgb(var(--color_32))",
+    "--wst-color-custom-18": "rgb(var(--color_33))",
+    "--wst-color-custom-19": "rgb(var(--color_34))",
+    "--wst-color-custom-20": "rgb(var(--color_35))",
+    "--full-viewport": "100 * var(--one-unit) * var(--browser-zoom)",
+    "--scaling-factor": "clamp(var(--spx-stopper-min), var(--full-viewport), min(var(--spx-stopper-max), ",
+    "--theme-spx-ratio": "var(--scaling-factor) / 1920",
+    "--color_0": "255,255,255",
+    "--color_1": "255,255,255",
+    "--color_2": "0,0,0",
+    "--color_3": "237,28,36"
+  },
+  "breakpoints": [
+    "min 320px",
+    "max 1000px",
+    "max 750px",
+    "min 751px",
+    "max 1001px",
+    "min 390px",
+    "max 430px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "g0IvTF.wixui-page",
+      "y": 0,
+      "height": 14975,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "rk11d-container",
+      "y": 0,
+      "height": 14975,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 15,
+        "width": 1395,
+        "gutterTop": 28,
+        "gutterBottom": 38
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Every post has two sides. Two truths, layered together. One fills the feed, the…",
+          "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+          "size": 54,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "TRUTH GENERATION",
+          "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+          "size": 45,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#8afd79"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTRADICTIONS IN THE DIGITAL AGE. CRITICAL THINKING AWAKENESS.",
+          "family": "wfont_f2e697_c515ecc202074bba9a97632050b9e775",
+          "size": 14.25,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ede9e5"
+        },
+        {
+          "tag": "h2",
+          "text": "CONTRADICTIONS",
+          "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+          "size": 45,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#e3de41"
+        }
+      ],
+      "bodyType": {
+        "family": "wfont_7fbd1c_685aaa6ef5d14a1ab78e3be362985f29",
+        "size": 112.4,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 657,
+      "excerpt": "Every post has two sides. Two truths, layered together. One fills the",
+      "media": {
+        "img": 24,
+        "video": 4,
+        "svg": 104
+      }
+    }
+  ],
+  "listing": {
+    "rank": 61,
+    "title": "Truth Generation",
+    "award": "HM",
+    "url": "https://www.blurthetruth.com/",
+    "awwwards": "https://www.awwwards.com/sites/truth-generation",
+    "categories": [
+      "Art & Illustration",
+      "Culture & Education",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

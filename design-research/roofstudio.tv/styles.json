@@ -1,0 +1,862 @@
+{
+  "page": {
+    "url": "https://roofstudio.tv/",
+    "title": "Animation Studio in NYC | Roof Studio",
+    "description": "Award-winning animation studio in NYC. Crafting 2D, 3D & AI-powered stories for global brands. Exceptional craft, meaningful storytelling.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10672,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffd6b8",
+        "share": 0.997
+      },
+      {
+        "value": "#ca9e3f",
+        "share": 0.003
+      },
+      {
+        "value": "#332127",
+        "share": 0
+      },
+      {
+        "value": "#d8ff6e",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#332127",
+        "share": 1
+      }
+    ],
+    "borders": [
+      {
+        "value": "#332127",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0,
+      "text": 0
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Ambit",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 205
+      },
+      {
+        "family": "Ambit",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 199
+      },
+      {
+        "family": "Arial",
+        "size": 13.5,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 120
+      },
+      {
+        "family": "Ambit",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 104
+      },
+      {
+        "family": "GT-Alpina",
+        "size": 18,
+        "weight": "300",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 100
+      },
+      {
+        "family": "Ambit",
+        "size": 90,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 55
+      },
+      {
+        "family": "Ambit",
+        "size": 12,
+        "weight": "600",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 46
+      },
+      {
+        "family": "GT-Alpina",
+        "size": 90,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 29
+      },
+      {
+        "family": "Ambit",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 25
+      },
+      {
+        "family": "Ambit",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 20
+      },
+      {
+        "family": "GT-Alpina",
+        "size": 52.5,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 8
+      },
+      {
+        "family": "GT-Alpina",
+        "size": 52.5,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 8
+      },
+      {
+        "family": "Ambit",
+        "size": 52.5,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 4
+      },
+      {
+        "family": "Ambit",
+        "size": 52.5,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "Ambit 400 normal",
+      "Ambit 600 normal",
+      "GT-Alpina 300 italic",
+      "icomoon 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 15,
+      "uses": 64
+    },
+    {
+      "px": 8,
+      "uses": 63
+    },
+    {
+      "px": 3,
+      "uses": 45
+    },
+    {
+      "px": 5,
+      "uses": 41
+    },
+    {
+      "px": 23,
+      "uses": 19
+    },
+    {
+      "px": 2,
+      "uses": 13
+    },
+    {
+      "px": 18,
+      "uses": 5
+    },
+    {
+      "px": 45,
+      "uses": 4
+    },
+    {
+      "px": 60,
+      "uses": 2
+    },
+    {
+      "px": 143,
+      "uses": 2
+    },
+    {
+      "px": 58,
+      "uses": 1
+    },
+    {
+      "px": 4,
+      "uses": 1
+    },
+    {
+      "px": 120,
+      "uses": 1
+    },
+    {
+      "px": 287,
+      "uses": 1
+    },
+    {
+      "px": 150,
+      "uses": 1
+    },
+    {
+      "px": 225,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "37.5px",
+      "uses": 17
+    },
+    {
+      "value": "15px",
+      "uses": 8
+    },
+    {
+      "value": "1px",
+      "uses": 8
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    },
+    {
+      "value": "75px",
+      "uses": 1
+    },
+    {
+      "value": "7.5px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s cubic-bezier(0.215, 0.61, 0.355, 1)",
+        "uses": 52
+      },
+      {
+        "value": "0.3s cubic-bezier(0.42, 0, 0.58, 1)",
+        "uses": 18
+      },
+      {
+        "value": "0.4s cubic-bezier(0.42, 0, 0.58, 1)",
+        "uses": 10
+      },
+      {
+        "value": "1s cubic-bezier(0.19, 1, 0.155, 1.01)",
+        "uses": 9
+      },
+      {
+        "value": "0.8s ease",
+        "uses": 9
+      },
+      {
+        "value": "0.5s cubic-bezier(0.42, 0, 0.58, 1)",
+        "uses": 8
+      }
+    ],
+    "cssAnimatedElements": 18,
+    "canvases": 3,
+    "videos": 22
+  },
+  "cssVariables": {
+    "--black-1": "#000",
+    "--brown-1": "#332127",
+    "--white-1": "#F5EBE1",
+    "--beige-1": "#FFD6B8",
+    "--beige-2": "#F5EBE1",
+    "--yellow-1": "#CA9E3F",
+    "--green-1": "#D8FF6E",
+    "--purple-1": "#DFB1DF",
+    "--red-1": "#C50000",
+    "--padding-fluid": "2rem",
+    "--padding": ".5rem",
+    "--header-height": "8rem",
+    "--pt-header": "8rem",
+    "--scrollbar": "7.5px",
+    "--w-100vw": "100%",
+    "--swiper-theme-color": "#007aff",
+    "--livewire-progress-bar-color": "#2299dd"
+  },
+  "breakpoints": [
+    "max 1025px",
+    "max 767.98px",
+    "min 1025.1px",
+    "min 767.98px",
+    "min 768px",
+    "max 768px",
+    "min 420px",
+    "max 1024px",
+    "min 576px",
+    "min 480px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "loader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffd6b8",
+      "backgroundImage": false,
+      "color": "#332127",
+      "padding": "0px 22.5px 57.75px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 107,
+      "position": "fixed",
+      "background": "#ffd6b8",
+      "backgroundImage": false,
+      "color": "#332127",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 293,
+        "width": 1119,
+        "gutterTop": 45,
+        "gutterBottom": 41
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          16,
+          65,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "HOME",
+          "family": "Ambit",
+          "size": 18,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#332127"
+        }
+      ],
+      "bodyType": {
+        "family": "Ambit",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Roof Studio",
+        "HOME",
+        "WORK",
+        "ABOUT",
+        "CONTACT"
+      ],
+      "words": 4,
+      "excerpt": "Contact",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "home-intro",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffd6b8",
+      "backgroundImage": false,
+      "color": "#332127",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 23,
+        "gutterRight": 30,
+        "width": 1388,
+        "gutterTop": 850,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "EXCEPTIONAL CRAFT",
+          "family": "Ambit",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#332127"
+        }
+      ],
+      "bodyType": {
+        "family": "Ambit",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "EMOTIONAL STORYTELLING",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "home-about",
+      "y": 900,
+      "height": 770,
+      "position": "relative",
+      "background": "#ffd6b8",
+      "backgroundImage": false,
+      "color": "#332127",
+      "padding": "0px 0px 120px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 23,
+        "gutterRight": 137,
+        "width": 1280,
+        "gutterTop": 280,
+        "gutterBottom": 114
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "b",
+          "text": "WE CREATE",
+          "family": "Ambit",
+          "size": 90,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#332127"
+        }
+      ],
+      "bodyType": {
+        "family": "Ambit",
+        "size": 90,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "WE CREATE POWERFUL ANIMATION THAT COMBI…"
+      ],
+      "words": 11,
+      "excerpt": "animation that combines",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "spacer.pin-spacer",
+      "y": 1820,
+      "height": 900,
+      "position": "absolute",
+      "background": "#ffd6b8",
+      "backgroundImage": false,
+      "color": "#332127",
+      "padding": "0px",
+      "margin": "0px -7.5px",
+      "border": null,
+      "content": {
+        "gutterLeft": 23,
+        "gutterRight": 171,
+        "width": 1246,
+        "gutterTop": 30,
+        "gutterBottom": -667
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          142,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "FEATURED WORK",
+          "family": "Ambit",
+          "size": 52.5,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#332127"
+        },
+        {
+          "tag": "h3",
+          "text": "CLASHTERPIECES - 30 SECONDS LEFT II",
+          "family": "Ambit",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#332127"
+        },
+        {
+          "tag": "h4",
+          "text": "Supercell x3",
+          "family": "GT-Alpina",
+          "size": 18,
+          "weight": "300",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#332127"
+        },
+        {
+          "tag": "h3",
+          "text": "CLASHTERPIECES - 30 SECONDS LEFT",
+          "family": "Ambit",
+          "size": 30,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#332127"
+        }
+      ],
+      "bodyType": {
+        "family": "Ambit",
+        "size": 30,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "SNEAK PEEK",
+        "CLOSE"
+      ],
+      "words": 95,
+      "excerpt": "The Art Directors Club",
+      "media": {
+        "img": 87,
+        "video": 22,
+        "canvas": 1,
+        "svg": 8
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "changeColor2",
+      "y": 8165,
+      "height": 132,
+      "position": "static",
+      "background": "#ffd6b8",
+      "backgroundImage": false,
+      "color": "#332127",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 513,
+        "gutterRight": 521,
+        "width": 406,
+        "gutterTop": 35,
+        "gutterBottom": 37
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "VIEW ALL WORK",
+          "family": "Ambit",
+          "size": 52.5,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#332127"
+        }
+      ],
+      "bodyType": {
+        "family": "GT-Alpina",
+        "size": 52.5,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIEW ALL WORK"
+      ],
+      "words": 3,
+      "excerpt": "all work",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "section-clients-gallery",
+      "y": 8296,
+      "height": 681,
+      "position": "static",
+      "background": "#ffd6b8",
+      "backgroundImage": false,
+      "color": "#332127",
+      "padding": "142.5px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 562,
+        "gutterRight": 569,
+        "width": 309,
+        "gutterTop": 143,
+        "gutterBottom": 511
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "A FEW OF OUR PARTNERED CLIENTS",
+          "family": "Ambit",
+          "size": 18,
+          "weight": "600",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#332127"
+        }
+      ],
+      "bodyType": {
+        "family": "Ambit",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "PARTNERED",
+      "media": {
+        "img": 272
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "section-get-in-touch",
+      "y": 8977,
+      "height": 900,
+      "position": "static",
+      "background": "#ffd6b8",
+      "backgroundImage": true,
+      "color": "#332127",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "footer",
+      "name": "footer",
+      "y": 9877,
+      "height": 795,
+      "position": "relative",
+      "background": "#ffd6b8",
+      "backgroundImage": false,
+      "color": "#332127",
+      "padding": "0px 0px 18.75px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 23,
+        "gutterRight": 30,
+        "width": 1388,
+        "gutterTop": 762,
+        "gutterBottom": 18
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 7,
+        "childWidthsPct": [
+          24,
+          32,
+          16,
+          24,
+          97,
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "DESIGN BY",
+          "family": "Ambit",
+          "size": 12,
+          "weight": "600",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#332127"
+        }
+      ],
+      "bodyType": {
+        "family": "Ambit",
+        "size": 12,
+        "weight": "600",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "CÉU",
+        "PROGRAMATÓRIO",
+        "PRIVACY POLICY"
+      ],
+      "words": 9,
+      "excerpt": "Privacy Policy",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 107,
+    "title": "Roof Studio",
+    "award": "HM",
+    "url": "https://roofstudio.tv/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/roof-studio",
+    "categories": [
+      "Other",
+      "Portfolio"
+    ]
+  }
+}

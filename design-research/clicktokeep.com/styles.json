@@ -1,0 +1,539 @@
+{
+  "page": {
+    "url": "https://www.clicktokeep.com/",
+    "title": "Save for later| Web.Lab | Wix Studio",
+    "description": null,
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 9536,
+    "generator": "Wix.com Website Builder"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.58
+      },
+      {
+        "value": "#efefef",
+        "share": 0.186
+      },
+      {
+        "value": "#f0f0f0",
+        "share": 0.149
+      },
+      {
+        "value": "#141414",
+        "share": 0.049
+      },
+      {
+        "value": "#fb3d3a",
+        "share": 0.037
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.654
+      },
+      {
+        "value": "#000000",
+        "share": 0.322
+      },
+      {
+        "value": "#6e6e6e",
+        "share": 0.024
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 0.947
+      },
+      {
+        "value": "#000000",
+        "share": 0.053
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.964,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "wfont_c79f9d_37334f6f60bf42efb8660e6f67646722",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 322
+      },
+      {
+        "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+        "size": 88.5,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 234
+      },
+      {
+        "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 186
+      },
+      {
+        "family": "inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 167
+      },
+      {
+        "family": "helvetica-w01-roman",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 163
+      },
+      {
+        "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+        "size": 90,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 160
+      },
+      {
+        "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 136
+      },
+      {
+        "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 44
+      },
+      {
+        "family": "wfont_c837a6_96faffc87f1846c082746134bf1e27ee",
+        "size": 150,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.06,
+        "transform": "uppercase",
+        "chars": 32
+      },
+      {
+        "family": "wfont_c837a6_96faffc87f1846c082746134bf1e27ee",
+        "size": 225,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 19
+      },
+      {
+        "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+        "size": 150,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.05,
+        "transform": "uppercase",
+        "chars": 17
+      },
+      {
+        "family": "wfont_c837a6_96faffc87f1846c082746134bf1e27ee",
+        "size": 270,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": -0.06,
+        "transform": "none",
+        "chars": 13
+      },
+      {
+        "family": "wfont_c837a6_96faffc87f1846c082746134bf1e27ee",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 8
+      },
+      {
+        "family": "inter",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "madefor-text 400 normal",
+      "wf_37334f6f60bf42efb8660e6f6 normal normal",
+      "wf_96faffc87f1846c082746134b normal normal",
+      "wf_a8b379b1a05848e9acfe10d50 normal normal",
+      "helvetica-w01-roman 400 normal",
+      "inter 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 7,
+      "uses": 71
+    },
+    {
+      "px": 5,
+      "uses": 68
+    },
+    {
+      "px": 1,
+      "uses": 51
+    },
+    {
+      "px": 2,
+      "uses": 40
+    },
+    {
+      "px": 10,
+      "uses": 16
+    },
+    {
+      "px": 4,
+      "uses": 7
+    },
+    {
+      "px": 9,
+      "uses": 6
+    },
+    {
+      "px": 46,
+      "uses": 5
+    },
+    {
+      "px": 158,
+      "uses": 5
+    },
+    {
+      "px": 38,
+      "uses": 4
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 15,
+      "uses": 4
+    },
+    {
+      "px": 1082,
+      "uses": 3
+    },
+    {
+      "px": 11,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 1
+    },
+    {
+      "value": "11.25px",
+      "uses": 1
+    },
+    {
+      "value": "10px",
+      "uses": 1
+    },
+    {
+      "value": "7.49995px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.12, 0, 0.39, 0)",
+        "uses": 312
+      },
+      {
+        "value": "0.3s cubic-bezier(0.12, 0, 0.39, 0)",
+        "uses": 156
+      },
+      {
+        "value": "0.5s ease-out",
+        "uses": 150
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 51
+      },
+      {
+        "value": "0.2s cubic-bezier(0.12, 0, 0.39, 0)",
+        "uses": 34
+      },
+      {
+        "value": "0.4s ease-in-out",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 23,
+    "canvases": 1,
+    "videos": 170
+  },
+  "cssVariables": {
+    "--scrollbar-width": "0px",
+    "--one-unit": "1cqw",
+    "--section-max-width": "9999px",
+    "--spx-stopper-max": "9999px",
+    "--spx-stopper-min": "0px",
+    "--browser-zoom": "1",
+    "--safari-sticky-fix": "opacity",
+    "--experimental-safari-sticky-fix": "translateZ(0)",
+    "--wst-button-color-fill-primary": "rgb(var(--color_48))",
+    "--wst-button-color-border-primary": "rgb(var(--color_49))",
+    "--wst-button-color-text-primary": "rgb(var(--color_50))",
+    "--wst-button-color-fill-primary-hover": "rgb(var(--color_51))",
+    "--wst-button-color-border-primary-hover": "rgb(var(--color_52))",
+    "--wst-button-color-text-primary-hover": "rgb(var(--color_53))",
+    "--wst-button-color-fill-primary-disabled": "rgb(var(--color_54))",
+    "--wst-button-color-border-primary-disabled": "rgb(var(--color_55))",
+    "--wst-button-color-text-primary-disabled": "rgb(var(--color_56))",
+    "--wst-button-color-fill-secondary": "rgb(var(--color_57))",
+    "--wst-button-color-border-secondary": "rgb(var(--color_58))",
+    "--wst-button-color-text-secondary": "rgb(var(--color_59))",
+    "--wst-button-color-fill-secondary-hover": "rgb(var(--color_60))",
+    "--wst-button-color-border-secondary-hover": "rgb(var(--color_61))",
+    "--wst-button-color-text-secondary-hover": "rgb(var(--color_62))",
+    "--wst-button-color-fill-secondary-disabled": "rgb(var(--color_63))",
+    "--wst-button-color-border-secondary-disabled": "rgb(var(--color_64))",
+    "--wst-button-color-text-secondary-disabled": "rgb(var(--color_65))",
+    "--wst-color-fill-base-1": "rgb(var(--color_36))",
+    "--wst-color-fill-base-2": "rgb(var(--color_37))",
+    "--wst-color-fill-base-shade-1": "rgb(var(--color_38))",
+    "--wst-color-fill-base-shade-2": "rgb(var(--color_39))",
+    "--wst-color-fill-base-shade-3": "rgb(var(--color_40))",
+    "--wst-color-fill-accent-1": "rgb(var(--color_41))",
+    "--wst-color-fill-accent-2": "rgb(var(--color_42))",
+    "--wst-color-fill-accent-3": "rgb(var(--color_43))",
+    "--wst-color-fill-accent-4": "rgb(var(--color_44))",
+    "--wst-color-fill-background-primary": "rgb(var(--color_11))",
+    "--wst-color-fill-background-secondary": "rgb(var(--color_12))",
+    "--wst-color-text-primary": "rgb(var(--color_15))",
+    "--wst-color-text-secondary": "rgb(var(--color_14))",
+    "--wst-color-action": "rgb(var(--color_18))",
+    "--wst-color-disabled": "rgb(var(--color_39))",
+    "--wst-color-title": "rgb(var(--color_45))",
+    "--wst-color-subtitle": "rgb(var(--color_46))",
+    "--wst-color-line": "rgb(var(--color_47))",
+    "--wst-font-style-h2": "var(--font_2)",
+    "--wst-font-style-h3": "var(--font_3)",
+    "--wst-font-style-h4": "var(--font_4)",
+    "--wst-font-style-h5": "var(--font_5)",
+    "--wst-font-style-h6": "var(--font_6)",
+    "--wst-font-style-body-large": "var(--font_7)",
+    "--wst-font-style-body-medium": "var(--font_8)",
+    "--wst-font-style-body-small": "var(--font_9)",
+    "--wst-font-style-body-x-small": "var(--font_10)",
+    "--wst-color-custom-1": "rgb(var(--color_13))",
+    "--wst-color-custom-2": "rgb(var(--color_16))",
+    "--wst-color-custom-3": "rgb(var(--color_17))",
+    "--wst-color-custom-4": "rgb(var(--color_19))",
+    "--wst-color-custom-5": "rgb(var(--color_20))",
+    "--wst-color-custom-6": "rgb(var(--color_21))",
+    "--wst-color-custom-7": "rgb(var(--color_22))",
+    "--wst-color-custom-8": "rgb(var(--color_23))",
+    "--wst-color-custom-9": "rgb(var(--color_24))",
+    "--wst-color-custom-10": "rgb(var(--color_25))",
+    "--wst-color-custom-11": "rgb(var(--color_26))",
+    "--wst-color-custom-12": "rgb(var(--color_27))",
+    "--wst-color-custom-13": "rgb(var(--color_28))",
+    "--wst-color-custom-14": "rgb(var(--color_29))",
+    "--wst-color-custom-15": "rgb(var(--color_30))",
+    "--wst-color-custom-16": "rgb(var(--color_31))",
+    "--wst-color-custom-17": "rgb(var(--color_32))",
+    "--wst-color-custom-18": "rgb(var(--color_33))",
+    "--wst-color-custom-19": "rgb(var(--color_34))",
+    "--wst-color-custom-20": "rgb(var(--color_35))",
+    "--full-viewport": "100 * var(--one-unit) * var(--browser-zoom)",
+    "--scaling-factor": "clamp(var(--spx-stopper-min), var(--full-viewport), min(var(--spx-stopper-max), ",
+    "--theme-spx-ratio": "var(--scaling-factor) / 1920",
+    "--color_0": "255,255,255",
+    "--color_1": "255,255,255",
+    "--color_2": "0,0,0",
+    "--color_3": "237,28,36"
+  },
+  "breakpoints": [
+    "min 320px",
+    "max 750px",
+    "max 1000px",
+    "max 768px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "g0IvTF.wixui-page",
+      "y": 0,
+      "height": 9536,
+      "position": "absolute",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "c1dmp-overflow-wrapper.ku1hVK",
+      "y": 0,
+      "height": 9536,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 4,
+        "width": 1426,
+        "gutterTop": 26,
+        "gutterBottom": 15
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "How bad is your digital",
+          "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+          "size": 14,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "hoarding?",
+          "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+          "size": 14,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "When was the last time",
+          "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+          "size": 14,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "you watched it again?",
+          "family": "wfont_da15ef_a8b379b1a05848e9acfe10d50677cf11",
+          "size": 14,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "wfont_c79f9d_37334f6f60bf42efb8660e6f67646722",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Click me",
+        "SEE WHAT WE SAVED",
+        "Start creating",
+        "Accessibility"
+      ],
+      "words": 251,
+      "excerpt": "An average of over 1500 photos are saved yearly. 60% of users",
+      "media": {
+        "img": 289,
+        "video": 170,
+        "canvas": 1,
+        "svg": 785,
+        "iframe": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 88,
+    "title": "Save for later",
+    "award": "HM",
+    "url": "https://www.clicktokeep.com/",
+    "awwwards": "https://www.awwwards.com/sites/save-for-later",
+    "categories": [
+      "Games & Entertainment",
+      "Experimental",
+      "Social responsibility"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

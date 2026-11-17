@@ -1,0 +1,562 @@
+{
+  "page": {
+    "url": "https://samgoddard.co.uk/",
+    "title": "Sam Goddard // Design Engineer",
+    "description": "Sam Goddard is a Design Engineer from Nottingham, UK, with 15+ years building ambitious websites alongside designers, engineers and generally good people.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 4611,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#171717",
+        "share": 1
+      },
+      {
+        "value": "#fafafa",
+        "share": 0
+      },
+      {
+        "value": "#d4d4d499",
+        "share": 0
+      },
+      {
+        "value": "#fbbf24",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#d4d4d499",
+        "share": 0.783
+      },
+      {
+        "value": "#d4d4d4",
+        "share": 0.214
+      },
+      {
+        "value": "#171717",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#d4d4d44d",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1.001
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "geistMono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 3601
+      },
+      {
+        "family": "editorial",
+        "size": 36,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 409
+      },
+      {
+        "family": "editorial",
+        "size": 86.4,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 110
+      },
+      {
+        "family": "geistMono",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 28
+      },
+      {
+        "family": "geistMono",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "geistMono 400 normal",
+      "editorial 400 normal",
+      "editorial Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 98
+    },
+    {
+      "px": 16,
+      "uses": 15
+    },
+    {
+      "px": 6,
+      "uses": 9
+    },
+    {
+      "px": 40,
+      "uses": 8
+    },
+    {
+      "px": 4,
+      "uses": 7
+    },
+    {
+      "px": 12,
+      "uses": 7
+    },
+    {
+      "px": 24,
+      "uses": 4
+    },
+    {
+      "px": 128,
+      "uses": 3
+    },
+    {
+      "px": 96,
+      "uses": 1
+    },
+    {
+      "px": 180,
+      "uses": 1
+    },
+    {
+      "px": 64,
+      "uses": 1
+    },
+    {
+      "px": 48,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.35544e+07px",
+      "uses": 15
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "1s cubic-bezier(0.77, 0, 0.175, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 10,
+    "canvases": 7,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "var(--font-geist-mono)",
+    "--color-neutral-50": "oklch(98.5% 0 0)",
+    "--color-neutral-300": "oklch(87% 0 0)",
+    "--color-neutral-900": "oklch(20.5% 0 0)",
+    "--spacing": ".25rem",
+    "--container-xs": "20rem",
+    "--container-md": "28rem",
+    "--container-xl": "36rem",
+    "--container-6xl": "72rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-base": "1rem",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "calc(2.25 / 1.875)",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5 / 2.25)",
+    "--ease-out": "cubic-bezier(0,0,.2,1)",
+    "--animate-ping": "ping 1s cubic-bezier(0,0,.2,1) infinite",
+    "--animate-pulse": "pulse 2s cubic-bezier(.4,0,.6,1) infinite",
+    "--blur-md": "12px",
+    "--blur-lg": "16px",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--font-editorial": "var(--font-editorial)",
+    "--animate-marquee": "marquee 18s linear infinite",
+    "--animate-fade-in": "fade-in .6s cubic-bezier(.77,0,.175,1) both"
+  },
+  "breakpoints": [
+    "min 40rem",
+    "min 48rem",
+    "min 64rem",
+    "min 80rem",
+    "min 96rem"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "pt-10.pb-3",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#171717",
+      "backgroundImage": false,
+      "color": "#d4d4d4",
+      "padding": "40px 0px 12px",
+      "margin": "0px 0px 96px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 366,
+        "width": 1062,
+        "gutterTop": 40,
+        "gutterBottom": 162
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          41
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "SAMUEL GODDARD. STAFF DESIGN ENGINEER. CURRENTLY HELPING HUMANS BRIDGE THE GAP …",
+          "family": "editorial",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#d4d4d4"
+        }
+      ],
+      "bodyType": {
+        "family": "editorial",
+        "size": 86.4,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 17,
+      "excerpt": "Samuel Goddard. Staff Design Engineer. Currently helping humans bridge the gap between",
+      "media": {
+        "img": 1,
+        "canvas": 3,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "grid.grid-cols-2",
+      "y": 996,
+      "height": 597,
+      "position": "static",
+      "background": "#171717",
+      "backgroundImage": false,
+      "color": "#d4d4d499",
+      "padding": "0px",
+      "margin": "0px 0px 128px",
+      "border": null,
+      "content": {
+        "gutterLeft": 160,
+        "gutterRight": 144,
+        "width": 1136,
+        "gutterTop": 0,
+        "gutterBottom": 71
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ABOUT",
+          "family": "geistMono",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#d4d4d4"
+        }
+      ],
+      "bodyType": {
+        "family": "geistMono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 116,
+      "excerpt": "I've always been creatively minded, with a curiosity for design, photography, video",
+      "media": {
+        "canvas": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "grid.grid-cols-2",
+      "y": 1721,
+      "height": 731,
+      "position": "static",
+      "background": "#171717",
+      "backgroundImage": false,
+      "color": "#d4d4d499",
+      "padding": "0px",
+      "margin": "0px 0px 128px",
+      "border": null,
+      "content": {
+        "gutterLeft": 144,
+        "gutterRight": 476,
+        "width": 820,
+        "gutterTop": 0,
+        "gutterBottom": 1
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "PROJECTS",
+          "family": "geistMono",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#d4d4d4"
+        }
+      ],
+      "bodyType": {
+        "family": "geistMono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "FIN // [CURRENT] AI-POWERED CUSTOMER SU…",
+        "INTERCOM // [CURRENT] AI-FIRST CUSTOMER…",
+        "SHIFTWALK // [2024] INDEPENDENT DIGITAL…",
+        "ANOTHERKIND // [2024] CERTIFIED PASSIVH…",
+        "TYLER HOBBS // [2024] GENERATIVE ARTIST…",
+        "WEST OF WEST // [2024] ARCHITECTURE AND…",
+        "REX & THE RHYTHM // [2023] SONGWRITER &…",
+        "FIELD ENERGY // [2023] RENEWABLE ENERGY…",
+        "JBS // [2023] JASON BAILEY PHOTOGRAPHY …"
+      ],
+      "words": 189,
+      "excerpt": "For the past three years, I’ve worked as a Staff Design Engineer",
+      "media": {
+        "canvas": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "grid.grid-cols-2",
+      "y": 2580,
+      "height": 948,
+      "position": "static",
+      "background": "#171717",
+      "backgroundImage": false,
+      "color": "#d4d4d499",
+      "padding": "0px",
+      "margin": "0px 0px 128px",
+      "border": null,
+      "content": {
+        "gutterLeft": 160,
+        "gutterRight": 144,
+        "width": 1136,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "AWARDS & RECOGNITION",
+          "family": "geistMono",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#d4d4d4"
+        }
+      ],
+      "bodyType": {
+        "family": "geistMono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 216,
+      "excerpt": "For the past few years, I've also been selected to judge both",
+      "media": {
+        "canvas": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "grid.grid-cols-1",
+      "y": 3656,
+      "height": 955,
+      "position": "static",
+      "background": "#171717",
+      "backgroundImage": false,
+      "color": "#d4d4d499",
+      "padding": "0px 0px 40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 432,
+        "width": 980,
+        "gutterTop": 0,
+        "gutterBottom": 491
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "COLOPHON",
+          "family": "geistMono",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#d4d4d4"
+        }
+      ],
+      "bodyType": {
+        "family": "geistMono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "NEXT.JS",
+        "TAILWIND",
+        "TYPESCRIPT",
+        "ISAAC POWELL",
+        "CARBON SCORE OF A+",
+        "VERCEL",
+        "GEIST MONO",
+        "EDITORIAL OLD",
+        "V0",
+        "CLAUDE CODE"
+      ],
+      "words": 137,
+      "excerpt": "were used for creative exploration. The Multiplayer functionality is provided by",
+      "media": {
+        "canvas": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 140,
+    "title": "Sam Goddard",
+    "award": "HM",
+    "url": "https://samgoddard.co.uk/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/sam-goddard-2",
+    "categories": [
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

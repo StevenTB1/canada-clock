@@ -1,0 +1,214 @@
+{
+  "page": {
+    "url": "https://dmcg.co/",
+    "title": "The Design Office of David McGillivray",
+    "description": "Brand and software design by David McGillivray.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "neueMontreal",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.14,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 102
+      }
+    ],
+    "loadedFonts": [
+      "neueMontreal 500 normal",
+      "neueMontreal Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 28,
+      "uses": 4
+    },
+    {
+      "px": 32,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "8.00064px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.16s ease",
+        "uses": 16
+      },
+      {
+        "value": "0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 16
+      },
+      {
+        "value": "0.56s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.35s ease-out",
+        "uses": 8
+      },
+      {
+        "value": "0.7s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 8
+  },
+  "cssVariables": {
+    "--site-edge": "20px",
+    "--site-edge-top": "20px",
+    "--dock-centre": "2.338vw",
+    "--lightningcss-light": "",
+    "--lightningcss-dark": "initial",
+    "--page-background": "#FFFFFF",
+    "--page-foreground": "#000000",
+    "--page-navigation-color": "#f6f6f6",
+    "--squircle-radius": "1.841",
+    "--archive-ease": "cubic-bezier(.22, 1, .36, 1)",
+    "--type-navigation-size": "12px",
+    "--type-navigation-leading": "16px",
+    "--type-navigation-tracking": "0.04em",
+    "--type-office-size": "12px",
+    "--type-office-leading": "16px",
+    "--type-office-tracking": "0.02em",
+    "--type-body-size": "12px",
+    "--type-body-leading": "18px",
+    "--type-body-tracking": "0.04em",
+    "--type-caption-size": "11.2px",
+    "--type-caption-leading": "16px",
+    "--type-caption-tracking": "0.045em",
+    "--type-footer-size": "14px",
+    "--type-footer-leading": "22px",
+    "--type-footer-tracking": "0.04em",
+    "--type-footerName-size": "14px",
+    "--type-footerName-leading": "16px",
+    "--type-footerName-tracking": "0.04em",
+    "--type-corner-size": "12px",
+    "--type-corner-leading": "16px",
+    "--type-corner-tracking": "0.02em",
+    "--type-catalog-size": "max(11px, 0.578947vw)",
+    "--type-catalog-leading": "max(14px, 0.736842vw)",
+    "--type-catalog-tracking": "0.04em",
+    "--type-incubatorIntroduction-size": "17.1px",
+    "--type-incubatorIntroduction-leading": "21.1px",
+    "--type-incubatorIntroduction-tracking": "0.02em",
+    "--type-incubatorName-size": "25px",
+    "--type-incubatorName-leading": "16px",
+    "--type-incubatorName-tracking": "0em",
+    "--type-incubatorText-size": "15px",
+    "--type-incubatorText-leading": "18px",
+    "--type-incubatorText-tracking": "0.02em",
+    "--type-incubatorDetails-size": "12px",
+    "--type-incubatorDetails-leading": "16px",
+    "--type-incubatorDetails-tracking": "0.04em"
+  },
+  "breakpoints": [
+    "max 900px",
+    "min 901px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "portfolio__page",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 852,
+        "gutterBottom": 32
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Brand & software design",
+          "family": "neueMontreal",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.14,
+          "letterSpacing": 0.04,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "neueMontreal",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.14,
+        "letterSpacing": 0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "Brand & software design",
+      "media": {
+        "img": 16,
+        "video": 8
+      }
+    }
+  ],
+  "listing": {
+    "rank": 149,
+    "title": "David McGillivray",
+    "url": "http://dmcg.co/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

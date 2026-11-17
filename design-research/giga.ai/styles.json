@@ -1,0 +1,633 @@
+{
+  "page": {
+    "url": "https://giga.ai/",
+    "title": "Giga: AI support agents that improve your metrics",
+    "description": "Giga builds enterprise AI agents for customer support that resolve complex conversations across chat, voice, and email. Deployed in weeks, human-like at scale.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 15714,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.809
+      },
+      {
+        "value": "#0d1114",
+        "share": 0.089
+      },
+      {
+        "value": "#0000001f",
+        "share": 0.08
+      },
+      {
+        "value": "#272729",
+        "share": 0.009
+      },
+      {
+        "value": "#e1deda",
+        "share": 0.009
+      },
+      {
+        "value": "#0806069e",
+        "share": 0.003
+      },
+      {
+        "value": "#6b6b631f",
+        "share": 0.002
+      },
+      {
+        "value": "#e3f1f112",
+        "share": 0
+      },
+      {
+        "value": "#e8edef",
+        "share": 0
+      },
+      {
+        "value": "#f2f1ec",
+        "share": 0
+      },
+      {
+        "value": "#b3aeaa",
+        "share": 0
+      },
+      {
+        "value": "#ef5a00",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#e8edef",
+        "share": 0.268
+      },
+      {
+        "value": "#e8edefbd",
+        "share": 0.225
+      },
+      {
+        "value": "#e7edef8c",
+        "share": 0.139
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.082
+      },
+      {
+        "value": "#ffffff85",
+        "share": 0.073
+      },
+      {
+        "value": "#fffffff5",
+        "share": 0.044
+      },
+      {
+        "value": "#e8edef9e",
+        "share": 0.034
+      },
+      {
+        "value": "#f1f1eba8",
+        "share": 0.021
+      },
+      {
+        "value": "#ffffffe0",
+        "share": 0.021
+      },
+      {
+        "value": "#f2f1ecdb",
+        "share": 0.018
+      },
+      {
+        "value": "#fffffff2",
+        "share": 0.016
+      },
+      {
+        "value": "#ecebe7",
+        "share": 0.016
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffd1b8b3",
+        "share": 0.222
+      },
+      {
+        "value": "#ffffff1f",
+        "share": 0.167
+      },
+      {
+        "value": "#f2f1ecb3",
+        "share": 0.111
+      },
+      {
+        "value": "#3b3a39e6",
+        "share": 0.111
+      },
+      {
+        "value": "#ffffff14",
+        "share": 0.111
+      },
+      {
+        "value": "#f2f2ea3d",
+        "share": 0.056
+      },
+      {
+        "value": "#827b7a99",
+        "share": 0.056
+      },
+      {
+        "value": "#fffffff2",
+        "share": 0.056
+      },
+      {
+        "value": "#00000080",
+        "share": 0.056
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.056
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 0.957
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "geistSans",
+        "size": 16.56,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 412
+      },
+      {
+        "family": "inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.38,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 314
+      },
+      {
+        "family": "inter",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 274
+      },
+      {
+        "family": "Geist",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.63,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 243
+      },
+      {
+        "family": "inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 194
+      },
+      {
+        "family": "Geist Mono",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.27,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 130
+      },
+      {
+        "family": "inter",
+        "size": 34,
+        "weight": "400",
+        "lineHeight": 1.16,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 128
+      },
+      {
+        "family": "Geist",
+        "size": 19,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 122
+      },
+      {
+        "family": "Geist Pixel Line",
+        "size": 52.63,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 95
+      },
+      {
+        "family": "inter",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 86
+      },
+      {
+        "family": "geistSans",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "inter",
+        "size": 31.68,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": -0.017,
+        "transform": "none",
+        "chars": 77
+      },
+      {
+        "family": "Geist",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.27,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 54
+      },
+      {
+        "family": "inter",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 52
+      }
+    ],
+    "loadedFonts": [
+      "inter 400 600 normal",
+      "geistMono 400 normal",
+      "geistSans 400 normal",
+      "geistPixelLine 400 normal",
+      "Geist Pixel Line 400 normal",
+      "Geist 400 500 normal",
+      "Geist Mono 400 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 5,
+      "uses": 52
+    },
+    {
+      "px": 10,
+      "uses": 39
+    },
+    {
+      "px": 4,
+      "uses": 28
+    },
+    {
+      "px": 16,
+      "uses": 15
+    },
+    {
+      "px": 20,
+      "uses": 15
+    },
+    {
+      "px": 8,
+      "uses": 13
+    },
+    {
+      "px": 24,
+      "uses": 10
+    },
+    {
+      "px": 1,
+      "uses": 8
+    },
+    {
+      "px": 9,
+      "uses": 8
+    },
+    {
+      "px": 11,
+      "uses": 8
+    },
+    {
+      "px": 14,
+      "uses": 5
+    },
+    {
+      "px": 12,
+      "uses": 5
+    },
+    {
+      "px": 15,
+      "uses": 4
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 32,
+      "uses": 4
+    },
+    {
+      "px": 26,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 46
+    },
+    {
+      "value": "50%",
+      "uses": 32
+    },
+    {
+      "value": "8px",
+      "uses": 20
+    },
+    {
+      "value": "12px",
+      "uses": 14
+    },
+    {
+      "value": "10px",
+      "uses": 5
+    },
+    {
+      "value": "1px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.16, 0.84, 0.32, 1)",
+        "uses": 50
+      },
+      {
+        "value": "0.68s cubic-bezier(0.3, 0, 0.1, 1)",
+        "uses": 17
+      },
+      {
+        "value": "0.62s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 10
+      },
+      {
+        "value": "0.16s ease-out",
+        "uses": 8
+      },
+      {
+        "value": "0.1s cubic-bezier(0.16, 0.84, 0.32, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.26s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 4,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--sans": "\"Geist\", system-ui, sans-serif",
+    "--mono": "\"Geist Mono\", ui-monospace, monospace",
+    "--display": "inter, interExt, \"InterVariable\", system-ui, sans-serif",
+    "--text": "inter, interExt, \"InterVariable\", system-ui, sans-serif",
+    "--pixel": "\"Geist Pixel Line\", \"Geist Mono\", monospace",
+    "--orange": "#ef5a00",
+    "--bar-h": "calc(54px * max(1, var(--s, 1)))",
+    "--grain": "url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAACXBIWX",
+    "--key-radius": "8px",
+    "--key-face": "linear-gradient(123.37deg, #3b3b3e 13.97%, #2a2a2d 87.5%)",
+    "--key-edge": "rgb(255 255 255 / .12)",
+    "--key-lit": "inset 1px 1px 0 rgb(255 255 255 / .08)",
+    "--key-ink": "rgb(232 237 239 / .88)",
+    "--key-shadow": "4px 6px 5px rgb(0 0 0 / .5), 2px 4px 2.5px rgb(0 0 0 / .6)",
+    "--key-shadow-down": "1px 2px 2px rgb(0 0 0 / .5), 1px 1px 1px rgb(0 0 0 / .6)",
+    "--key-hover": "brightness(1.12)",
+    "--key-ring": "1.5px solid rgb(232 237 239 / .6)",
+    "--key-release": ".15s cubic-bezier(.16,.84,.32,1)",
+    "--key-mono": "400 11px/14px \"Geist Mono\", geistMono, monospace",
+    "--okey-face": "linear-gradient(155.7deg, #f7732b 13.97%, #dd520c 87.5%)",
+    "--okey-edge": "rgb(255 210 184 / .7)",
+    "--okey-lit": "inset 1px 1px 0 rgb(255 255 255 / .25)",
+    "--okey-ink": "rgb(255 255 255 / .95)",
+    "--okey-cast": "8px 12px 18px rgb(0 0 0 / .35), 4px 6px 8px rgb(0 0 0 / .45), 2px 4px 6px rgb(0 ",
+    "--okey-cast-down": "1px 2px 3px rgb(0 0 0 / .45), 1px 1px 1px rgb(0 0 0 / .5)",
+    "--well-glass": "linear-gradient(162.07deg, #141517 4.55%, #030405 95.45%)",
+    "--well-edge": "rgb(255 255 255 / .08)",
+    "--well-edge-hover": "rgb(255 255 255 / .14)",
+    "--well-edge-focus": "rgb(255 255 255 / .22)",
+    "--well-rim": "-1px -1px 0 rgb(0 0 0 / .55), 1px 1px 0 rgb(255 255 255 / .07)",
+    "--well-inset": "inset 2px 3px 6px rgb(0 0 0 / .85)",
+    "--display-lit": "rgb(232 237 239 / .92)",
+    "--display-body": "rgb(232 237 239 / .5)",
+    "--lkey-face": "linear-gradient(135deg, #f3f1ee 0%, #ebe8e4 50%, #dfdbd7 100%)",
+    "--lkey-edge": "rgba(255,255,255,.95)",
+    "--lkey-bevel": "inset -1px -1.5px 1.5px rgba(130,124,122,.35), inset 1px 1px 0 rgba(255,255,255,",
+    "--lkey-cast": "1.5px 2px 1px rgba(95,89,86,.54), 4px 6px 4px rgba(95,89,86,.34)",
+    "--lkey-cast-hover": "1.95px 2.6px .6px rgba(95,89,86,.6), 5.2px 7.8px 6px rgba(95,89,86,.36)",
+    "--lkey-down": "inset -1px -1px 1px rgba(130,124,122,.25), inset 1px 1px 0 rgba(255,255,255,.4),",
+    "--lkey-ring": "inset 0 0 0 1.5px rgba(59,58,56,.5)",
+    "--gh-vw": "1vw",
+    "--gutter": "max(16px, (100vw - 825px) / 2)",
+    "--gh-case-ink": "var(--gh-radial-ink)",
+    "--gh-case-muted": "var(--gh-radial-secondary)",
+    "--gh-case-hair": "rgb(232 237 239 / .12)",
+    "--gh-text-body": "1.125rem",
+    "--gh-text-action": "1rem",
+    "--gh-text-meta": ".875rem",
+    "--gh-text-subheading": "clamp(1.5rem, calc(1.9 * var(--gh-vw, 14.4px)), 1.75rem)",
+    "--gh-case-size": "var(--gh-text-body)",
+    "--gh-case-label": "var(--gh-text-meta)",
+    "--gh-case-title": "clamp(1.75rem, calc(3 * var(--gh-vw, 14.4px)), 2.625rem)",
+    "--gh-case-gap": "24px",
+    "--gh-case-column-gap": "clamp(24px, calc(4 * var(--gh-vw, 14.4px)), 56px)",
+    "--gh-case-question": "clamp(1.3125rem, calc(1.7 * var(--gh-vw, 14.4px)), 1.625rem)",
+    "--gh-case-heading-gap": "12px",
+    "--gh-case-portrait": "112px",
+    "--gh-case-portrait-width": "32%",
+    "--gh-case-portrait-top": "41px",
+    "--gh-case-mobile-type": "1rem",
+    "--gh-radial-hero-min": "860px",
+    "--gh-below-fold-bg": "#000",
+    "--gh-below-fold-lit-bg": "#000",
+    "--gh-industry-surface": "#111c22",
+    "--gh-industry-space": "clamp(56px, calc(6 * var(--gh-vw, 14.4px)), 88px)",
+    "--gh-industry-heading": "clamp(2.125rem, calc(3.6 * var(--gh-vw, 14.4px)), 3.25rem)",
+    "--gh-panel-gap": "4px",
+    "--gh-panel-height": "432px",
+    "--gh-panel-height-mobile": "480px",
+    "--gh-panel-width-mobile": "calc(78 * var(--gh-vw, 14.4px))",
+    "--gh-panel-min": "4px",
+    "--gh-panel-radius": "4px",
+    "--gh-panel-pad": "24px",
+    "--gh-panel-shade": "45%",
+    "--gh-panel-ground": "rgb(232 237 239 / .06)",
+    "--gh-industry-pixel": "52.63px",
+    "--gh-industry-pixel-mobile": "26.3158px",
+    "--gh-industry-lede": "1.125rem",
+    "--gh-industry-rail-gap": "clamp(24px, calc(4.1 * var(--gh-vw, 14.4px)), 59px)",
+    "--gh-recess": "#0d1114"
+  },
+  "breakpoints": [
+    "max 1023px",
+    "min 1024px",
+    "max 640px",
+    "max 700px",
+    "min 701px",
+    "max 1099px",
+    "max 1439px",
+    "min 810px",
+    "max 699px",
+    "max 379px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 15714,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#e8edef",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 6,
+        "gutterBottom": 44
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "No time to wait.",
+          "family": "Geist Pixel Line",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 0.89,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Giga agents are flexible.",
+          "family": "geistPixelLine",
+          "size": 52.63,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#e8edef"
+        },
+        {
+          "tag": "h3",
+          "text": "See how Giga will improve your business.",
+          "family": "inter",
+          "size": 34,
+          "weight": "400",
+          "lineHeight": 1.16,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#ecebe7"
+        },
+        {
+          "tag": "h3",
+          "text": "Fintech",
+          "family": "inter",
+          "size": 31.68,
+          "weight": "400",
+          "lineHeight": 1.12,
+          "letterSpacing": -0.017,
+          "transform": "none",
+          "color": "#e8edef"
+        }
+      ],
+      "bodyType": {
+        "family": "geistSans",
+        "size": 16.56,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Platform",
+        "Solutions",
+        "Industries",
+        "Company",
+        "Sign in",
+        "See a demo",
+        "Continue",
+        "BUILD MY PAGE",
+        "READ THE STORY",
+        "SHOW ME"
+      ],
+      "words": 416,
+      "excerpt": "AI agents that resolve issues instantly across every channel and turn support",
+      "media": {
+        "img": 11,
+        "canvas": 1,
+        "svg": 21,
+        "iframe": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 202,
+    "title": "Giga",
+    "award": "HM",
+    "url": "https://giga.ai/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/giga",
+    "categories": [
+      "Technology",
+      "Web & Interactive",
+      "Startups"
+    ]
+  }
+}

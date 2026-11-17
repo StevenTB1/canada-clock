@@ -1,0 +1,534 @@
+{
+  "page": {
+    "url": "https://later.com/made-you-look/",
+    "title": "Made You Look: Campaigns so good you break the algorithm.",
+    "description": "Meet the creators shaping culture through bold ideas and obsessive craft—and see how brands partner with them to build standout influencer campaigns with Later.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 18396,
+    "generator": "Gatsby 5.16.1"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f8f2ea",
+        "share": 0.963
+      },
+      {
+        "value": "#000000b3",
+        "share": 0.035
+      },
+      {
+        "value": "#00000080",
+        "share": 0.001
+      },
+      {
+        "value": "#000000",
+        "share": 0.001
+      },
+      {
+        "value": "#5124c1",
+        "share": 0
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.883
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.11
+      },
+      {
+        "value": "#f8f2ea",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "350",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2823
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 925
+      },
+      {
+        "family": "Super X sans Display",
+        "size": 36,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0.015,
+        "transform": "none",
+        "chars": 496
+      },
+      {
+        "family": "Inter Tight",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 176
+      },
+      {
+        "family": "Super X sans Display",
+        "size": 24.03,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0.015,
+        "transform": "none",
+        "chars": 165
+      },
+      {
+        "family": "Inter Tight",
+        "size": 18,
+        "weight": "350",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.015,
+        "transform": "none",
+        "chars": 150
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 79
+      },
+      {
+        "family": "Super X sans Display",
+        "size": 57,
+        "weight": "700",
+        "lineHeight": 1.05,
+        "letterSpacing": 0.005,
+        "transform": "none",
+        "chars": 76
+      },
+      {
+        "family": "Inter Tight",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 67
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 46
+      },
+      {
+        "family": "Super X sans Display",
+        "size": 64,
+        "weight": "900",
+        "lineHeight": 1.15,
+        "letterSpacing": 0.005,
+        "transform": "none",
+        "chars": 46
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 43
+      },
+      {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.05,
+        "transform": "none",
+        "chars": 41
+      },
+      {
+        "family": "Super X sans Display",
+        "size": 30,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 32
+      }
+    ],
+    "loadedFonts": [
+      "Super X sans Display 900 normal",
+      "Inter Tight 100 900 normal",
+      "Super X sans Display 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 12
+    },
+    {
+      "px": 40,
+      "uses": 10
+    },
+    {
+      "px": 15,
+      "uses": 10
+    },
+    {
+      "px": 24,
+      "uses": 8
+    },
+    {
+      "px": 2,
+      "uses": 8
+    },
+    {
+      "px": 12,
+      "uses": 6
+    },
+    {
+      "px": 8,
+      "uses": 6
+    },
+    {
+      "px": 18,
+      "uses": 5
+    },
+    {
+      "px": 14,
+      "uses": 5
+    },
+    {
+      "px": 9,
+      "uses": 4
+    },
+    {
+      "px": 96,
+      "uses": 4
+    },
+    {
+      "px": 54,
+      "uses": 3
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 58,
+      "uses": 2
+    },
+    {
+      "px": 42,
+      "uses": 2
+    },
+    {
+      "px": 43,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 8
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94)",
+        "uses": 6
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--0-5": "0.25rem",
+    "---0-5": "-0.25rem",
+    "--1": "0.5rem",
+    "---1": "-0.5rem",
+    "--1-5": "0.75rem",
+    "---1-5": "-0.75rem",
+    "--2": "1rem",
+    "---2": "-1rem",
+    "--2-5": "1.25rem",
+    "---2-5": "-1.25rem",
+    "--3": "1.5rem",
+    "---3": "-1.5rem",
+    "--3-5": "1.75rem",
+    "--4": "2rem",
+    "---4": "-2rem",
+    "--5": "2.5rem",
+    "---5": "-2.5rem",
+    "--6": "3rem",
+    "---6": "-3rem",
+    "--7": "3.5rem",
+    "---7": "-3.5rem",
+    "--8": "4rem",
+    "---8": "-4rem",
+    "--9": "4.5rem",
+    "--10": "5rem",
+    "--11": "5.5rem",
+    "--12": "6rem",
+    "--13": "6.5rem",
+    "--14": "7rem",
+    "--15": "7.5rem",
+    "--20": "10rem",
+    "--30": "15rem",
+    "--40": "20rem",
+    "--50": "25rem",
+    "--60": "30rem",
+    "--70": "35rem",
+    "--80": "40rem",
+    "--90": "45rem",
+    "--100": "50rem",
+    "--130": "65rem",
+    "--140": "70rem",
+    "--yellow-secondary": "#ffe880",
+    "--yellow-20": "#fff6cc",
+    "--yellow-50": "#ffe87f",
+    "--yellow-70": "#ffdd40",
+    "--blue": "#00caff",
+    "--blue-20": "#ccf4ff",
+    "--blue-70": "#70e1ff",
+    "--blue-secondary": "#80e4ff",
+    "--blue-dark": "#1a8cff",
+    "--coral": "#ffae73",
+    "--coral-secondary": "#ffd6b9",
+    "--salmon": "#ff9c9c",
+    "--salmon-secondary": "#ffcdcd",
+    "--salmon-tint": "#ffe6e6",
+    "--salmon-dark": "#9e0000",
+    "--purple": "#0057ff",
+    "--purple-secondary": "#239dff",
+    "--purple-secondary-light": "#91ceff",
+    "--purple-tint": "#def1ff",
+    "--navy": "#239dff",
+    "--navy-secondary-light": "#91ceff",
+    "--navy-20": "#d3ebff",
+    "--navy-50": "#91ceff",
+    "--navy-70": "#5ab5ff",
+    "--green": "#4dbc77",
+    "--green-20": "#dbf1e4",
+    "--green-70": "#7acd99",
+    "--green-tint": "#dbf2e4",
+    "--highlight-pink": "#e556ea",
+    "--highlight-pink-secondary": "#ff9cf7",
+    "--pink": "#ff9cf7",
+    "--pink-20": "#ffebfd",
+    "--pink-70": "#ffb5f9",
+    "--highlight-purple": "#0057ff",
+    "--highlight-purple-dark": "#001d80",
+    "--off-white": "#f8f8f8",
+    "--offwhite": "#f4f4f4",
+    "--black": "#000",
+    "--charcoal-dark": "#000"
+  },
+  "breakpoints": [
+    "min 49.9375rem",
+    "min 61.9375rem",
+    "min 74.9375rem",
+    "min 26.5rem",
+    "max 49.9375rem",
+    "min 37.4375rem",
+    "min 991px",
+    "max 800px",
+    "max 61.9375rem",
+    "min 992px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "e5UyF",
+      "y": 2194,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f8f2ea",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 188,
+        "gutterRight": 319,
+        "width": 933,
+        "gutterTop": 145,
+        "gutterBottom": 90
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 8,
+        "childWidthsPct": [
+          100,
+          115,
+          200,
+          200,
+          200,
+          200,
+          200,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "MADE YOU LOOK",
+          "family": "Super X sans Display",
+          "size": 144,
+          "weight": "800",
+          "lineHeight": 0.95,
+          "letterSpacing": 0.005,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "halo perez-gallardo",
+          "family": "Super X sans Display",
+          "size": 57,
+          "weight": "700",
+          "lineHeight": 1.05,
+          "letterSpacing": 0.005,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Timothy Goodman",
+          "family": "Super X sans Display",
+          "size": 57,
+          "weight": "700",
+          "lineHeight": 1.05,
+          "letterSpacing": 0.005,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Jeremy Jankowski",
+          "family": "Super X sans Display",
+          "size": 57,
+          "weight": "700",
+          "lineHeight": 1.05,
+          "letterSpacing": 0.005,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Inter Tight",
+        "size": 14,
+        "weight": "350",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Make them look"
+      ],
+      "words": 799,
+      "excerpt": "Julian’s piece tells us a surreal story about a UFO drifting across",
+      "media": {
+        "img": 58,
+        "svg": 18,
+        "iframe": 6
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "hs-web-interactives-top-anchor",
+      "y": 2194,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f8f2ea",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 178,
+    "title": "Later's Made You Look",
+    "award": "HM",
+    "url": "https://later.com/made-you-look/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/laters-made-you-look",
+    "categories": [
+      "Business & Corporate",
+      "Culture & Education",
+      "Promotional"
+    ]
+  }
+}

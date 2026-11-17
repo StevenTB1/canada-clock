@@ -1,0 +1,661 @@
+{
+  "page": {
+    "url": "https://shelbykho.com/",
+    "title": "Shelby Kho | Product Designer & Illustrator",
+    "description": "An interactive, hand-drawn portfolio desk by product designer and illustrator Shelby Kho. Drag things around, leave notes, say hi to a little computer guy.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 4384,
+    "generator": "Framer fb64017"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.946
+      },
+      {
+        "value": "#ffffffd9",
+        "share": 0.027
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.013
+      },
+      {
+        "value": "#000000",
+        "share": 0.004
+      },
+      {
+        "value": "#1d00ff",
+        "share": 0.002
+      },
+      {
+        "value": "#7df5ff",
+        "share": 0.002
+      },
+      {
+        "value": "#ffff61",
+        "share": 0.002
+      },
+      {
+        "value": "#ffbaf5",
+        "share": 0.001
+      },
+      {
+        "value": "#4dfffc",
+        "share": 0.001
+      },
+      {
+        "value": "#f7aeee",
+        "share": 0
+      },
+      {
+        "value": "#f7ffdc",
+        "share": 0
+      },
+      {
+        "value": "#dee2fe",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#1d00ff",
+        "share": 0.709
+      },
+      {
+        "value": "#e43bcb",
+        "share": 0.173
+      },
+      {
+        "value": "#131313",
+        "share": 0.077
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.024
+      },
+      {
+        "value": "#000000",
+        "share": 0.013
+      },
+      {
+        "value": "#1e00ff",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#1d00ff",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.99,
+      "text": 0.114
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Instrument Serif",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 512
+      },
+      {
+        "family": "Afacad",
+        "size": 13,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 94
+      },
+      {
+        "family": "Afacad",
+        "size": 7,
+        "weight": "400",
+        "lineHeight": 1.12,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 93
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 87
+      },
+      {
+        "family": "Afacad",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 76
+      },
+      {
+        "family": "Afacad",
+        "size": 21,
+        "weight": "600",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 63
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 26,
+        "weight": "700",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 55
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 48
+      },
+      {
+        "family": "Afacad",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 43
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 34
+      },
+      {
+        "family": "Afacad",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 33
+      },
+      {
+        "family": "Afacad",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "Afacad",
+        "size": 17,
+        "weight": "700",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "Instrument Serif",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 30
+      }
+    ],
+    "loadedFonts": [
+      "Instrument Serif 400 normal",
+      "Afacad 400 normal",
+      "Instrument Serif 400 italic",
+      "Afacad 700 normal",
+      "Afacad 500 normal",
+      "Afacad 600 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 32
+    },
+    {
+      "px": 12,
+      "uses": 24
+    },
+    {
+      "px": 9,
+      "uses": 19
+    },
+    {
+      "px": 5,
+      "uses": 12
+    },
+    {
+      "px": 4,
+      "uses": 12
+    },
+    {
+      "px": 14,
+      "uses": 8
+    },
+    {
+      "px": 7,
+      "uses": 6
+    },
+    {
+      "px": 1,
+      "uses": 6
+    },
+    {
+      "px": 11,
+      "uses": 5
+    },
+    {
+      "px": 13,
+      "uses": 5
+    },
+    {
+      "px": 80,
+      "uses": 4
+    },
+    {
+      "px": 15,
+      "uses": 4
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 2,
+      "uses": 2
+    },
+    {
+      "px": 30,
+      "uses": 2
+    },
+    {
+      "px": 17,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 16
+    },
+    {
+      "value": "10px",
+      "uses": 14
+    },
+    {
+      "value": "50px",
+      "uses": 13
+    },
+    {
+      "value": "8px",
+      "uses": 8
+    },
+    {
+      "value": "50%",
+      "uses": 7
+    },
+    {
+      "value": "999px",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.26s cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "uses": 9
+      },
+      {
+        "value": "0.08s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.26s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.4s cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 19,
+    "canvases": 1,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1"
+  },
+  "breakpoints": [
+    "max 809.98px",
+    "max 1199.98px",
+    "max 1439.98px",
+    "max 379.98px",
+    "min 1440px",
+    "min 810px",
+    "min 1200px"
+  ],
+  "tech": [
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "framer-1ae3usx-container",
+      "y": 0,
+      "height": 105,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d00ff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1003,
+        "gutterRight": 111,
+        "width": 327,
+        "gutterTop": 36,
+        "gutterBottom": 38
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Work",
+          "family": "Instrument Serif",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d00ff"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "About",
+        "Contact"
+      ],
+      "words": 3,
+      "excerpt": "Contact",
+      "media": {
+        "img": 3,
+        "svg": 3
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": null,
+      "y": 105,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d00ff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 74,
+        "gutterRight": 16,
+        "width": 1350,
+        "gutterTop": 4,
+        "gutterBottom": 1
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "0px",
+        "justify": "center",
+        "align": "center",
+        "children": 6,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          26,
+          24,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Featured projects",
+          "family": "Instrument Serif",
+          "size": 52,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d00ff"
+        },
+        {
+          "tag": "h1",
+          "text": "Shelby Kho; product designer & illustrator from Indonesia, currently based in N…",
+          "family": "Instrument Serif",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d00ff"
+        }
+      ],
+      "bodyType": {
+        "family": "Afacad",
+        "size": 13,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "MoneyTank app: Budgeting goals visualiz…",
+        "+ Mood + Craving + Journal Muon, web pl…",
+        "Cubo, desktop companion: Tracks presenc…"
+      ],
+      "words": 114,
+      "excerpt": "You’ve been on desk for 6h32m, consider taking a break? I have",
+      "media": {
+        "img": 23,
+        "video": 1,
+        "svg": 13
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "contact",
+      "y": 3732,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d00ff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 268,
+        "gutterRight": 383,
+        "width": 790,
+        "gutterTop": 79,
+        "gutterBottom": 207
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "60px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          83,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "shelby.kho@gmail.com",
+          "family": "Instrument Serif",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.015,
+          "transform": "none",
+          "color": "#1d00ff"
+        }
+      ],
+      "bodyType": {
+        "family": "Afacad",
+        "size": 21,
+        "weight": "600",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 20,
+      "excerpt": "Desk last tidied Oct 2026",
+      "media": {
+        "img": 3,
+        "canvas": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": null,
+      "y": 804,
+      "height": 60,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d00ff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 481,
+        "gutterRight": 480,
+        "width": 480,
+        "gutterTop": -47,
+        "gutterBottom": 18
+      },
+      "layout": {
+        "display": "inline-flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "center",
+        "children": 6,
+        "childWidthsPct": [
+          37,
+          20,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Open to design roles in the US",
+          "family": "Instrument Serif",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d00ff"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "_"
+      ],
+      "words": 11,
+      "excerpt": "Open to design roles in the US",
+      "media": {
+        "svg": 4
+      }
+    }
+  ],
+  "listing": {
+    "rank": 138,
+    "title": "Shelby's Desk",
+    "award": "HM",
+    "url": "http://shelbykho.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/shelbys-desk",
+    "categories": [
+      "Art & Illustration",
+      "Web & Interactive",
+      "Portfolio"
+    ]
+  }
+}

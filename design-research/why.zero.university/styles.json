@@ -1,0 +1,335 @@
+{
+  "page": {
+    "url": "https://why.zero.university/",
+    "title": "Zero — Human Infrastructure to Get Hired",
+    "description": "Zero is building human infrastructure for the AI era. Learn, build, and get hired through immersive, AI-native experiences designed by reverse-engineering real jobs.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#1c4839",
+        "share": 0.994
+      },
+      {
+        "value": "#00000066",
+        "share": 0.002
+      },
+      {
+        "value": "#d4d4d426",
+        "share": 0.002
+      },
+      {
+        "value": "#201d1d",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffffe6",
+        "share": 0
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff99",
+        "share": 0.377
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.377
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.169
+      },
+      {
+        "value": "#ffffffeb",
+        "share": 0.078
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 0.833
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.167
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.006,
+      "text": 1.001
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PP Supply Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 29
+      },
+      {
+        "family": "PP Supply Mono",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.12,
+        "transform": "uppercase",
+        "chars": 29
+      },
+      {
+        "family": "PP Supply Mono",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 11
+      },
+      {
+        "family": "PP Supply Mono",
+        "size": 16.8,
+        "weight": "400",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 6
+      },
+      {
+        "family": "Supply Sans",
+        "size": 150,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": [
+      "Supply Sans 400 normal",
+      "PP Supply Mono 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 12
+    },
+    {
+      "px": 2,
+      "uses": 10
+    },
+    {
+      "px": 3,
+      "uses": 5
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 26,
+      "uses": 4
+    },
+    {
+      "px": 6,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "999px",
+      "uses": 9
+    },
+    {
+      "value": "50%",
+      "uses": 7
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 7,
+    "canvases": 1,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--lightningcss-light": "initial",
+    "--lightningcss-dark": ""
+  },
+  "breakpoints": [
+    "max 768px",
+    "max 767px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "bg-gradient",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1c4839",
+      "backgroundImage": true,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "canvas",
+      "name": "webgl",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1c4839",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "ui-container",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#1c4839",
+      "backgroundImage": false,
+      "color": "#ffffff99",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 556,
+        "gutterRight": 88,
+        "width": 797,
+        "gutterTop": 16,
+        "gutterBottom": 114
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "26px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          4,
+          3,
+          3,
+          3,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "DRAW A ZERO",
+          "family": "PP Supply Mono",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Supply Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.08,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "-100 BZ",
+        "-75 BZ",
+        "-50 BZ",
+        "-25 BZ",
+        "0 BZ"
+      ],
+      "words": 24,
+      "excerpt": "DRAW A ZERO",
+      "media": {
+        "img": 2,
+        "svg": 3
+      }
+    }
+  ],
+  "listing": {
+    "rank": 32,
+    "title": "Why Zero",
+    "award": "SOTM",
+    "url": "https://why.zero.university/",
+    "awwwards": "https://www.awwwards.com/sites/why-zero",
+    "categories": [
+      "Culture & Education",
+      "Technology",
+      "Startups"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

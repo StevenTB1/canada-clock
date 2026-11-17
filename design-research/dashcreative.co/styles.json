@@ -1,0 +1,347 @@
+{
+  "page": {
+    "url": "https://www.dashcreative.co/",
+    "title": "Dash Creative | Multi-award-winning Shopify Premier Partner",
+    "description": "A London-based Shopify Premier Partner building magnetic commerce for fashion, beauty and lifestyle brands that want to attract, resonate and convert.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.928
+      },
+      {
+        "value": "#ffffff14",
+        "share": 0.072
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Messinasans-light",
+        "size": 14.08,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 503
+      },
+      {
+        "family": "Messinasans-light",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.33,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 106
+      },
+      {
+        "family": "Messinasans-semi-bold",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.33,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 76
+      },
+      {
+        "family": "Messinasans-semi-bold",
+        "size": 14.08,
+        "weight": "300",
+        "lineHeight": 1.33,
+        "letterSpacing": -0.057,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "Messinasans-light",
+        "size": 60,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "Ppeiko-light-italic",
+        "size": 60,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 14
+      }
+    ],
+    "loadedFonts": [
+      "Messinasans-semi-bold 600 normal",
+      "Messinasans-light 300 normal",
+      "Ppeiko-light-italic 300 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 7,
+      "uses": 42
+    },
+    {
+      "px": 10,
+      "uses": 28
+    },
+    {
+      "px": 14,
+      "uses": 10
+    },
+    {
+      "px": 2,
+      "uses": 7
+    },
+    {
+      "px": 5,
+      "uses": 7
+    },
+    {
+      "px": 16,
+      "uses": 4
+    },
+    {
+      "px": 4,
+      "uses": 4
+    },
+    {
+      "px": 12,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "12.8px",
+      "uses": 7
+    },
+    {
+      "value": "8px",
+      "uses": 7
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.55s cubic-bezier(0.76, 0, 0.24, 1)",
+        "uses": 24
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 7
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 8
+  },
+  "cssVariables": {
+    "--primary--background": "var(--_color---neutral--black)",
+    "--_typography---paragraph-body--font": "var(--_typography---fonts--primary-font)",
+    "--primary--text": "var(--_color---neutral--white)",
+    "--_typography---paragraph-body--font-size": "clamp(var(--_typography---paragraph-body--font-size-min-rem)*1rem,((var(--_typog",
+    "--_typography---paragraph-body--line-height": "1.33",
+    "--_typography---paragraph-body--font-weight": "300",
+    "--_typography---paragraph-body--letter-spacing": "-.05em",
+    "--_typography---h1--bottom-margin": ".2em",
+    "--_typography---h1--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h1--font-size": "3.75rem",
+    "--_typography---h1--line-height": "1.1",
+    "--_typography---h1--font-weight": "300",
+    "--_typography---h1--letter-spacing": "-.05em",
+    "--_typography---h2--bottom-margin": ".2em",
+    "--_typography---h2--font": "var(--_typography---fonts--forth-font)",
+    "--_typography---h2--font-size": "clamp(var(--_typography---h2--font-size-min-rem)*1rem,((var(--_typography---h2--",
+    "--_typography---h2--line-height": "1.1",
+    "--_typography---h2--font-weight": "300",
+    "--_typography---h2--letter-spacing": "-.05em",
+    "--_typography---h3--bottom-margin": ".3em",
+    "--_typography---h3--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h3--font-size": "clamp(var(--_typography---h3--font-size-min-rem)*1rem,((var(--_typography---h3--",
+    "--_typography---h3--line-height": "1.2",
+    "--_typography---h3--font-weight": "500",
+    "--_typography---h3--letter-spacing": "-.05em",
+    "--_typography---h4--bottom-margin": ".4em",
+    "--_typography---h4--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h4--font-size": "clamp(var(--_typography---h4--font-size-min-rem)*1rem,((var(--_typography---h4--",
+    "--_typography---h4--line-height": "1.2",
+    "--_typography---h4--font-weight": "500",
+    "--_typography---h4--letter-spacing": "-.05em",
+    "--_typography---h5--bottom-margin": ".5em",
+    "--_typography---h5--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h5--font-size": "clamp(var(--_typography---h5--font-size-min-rem)*1rem,((var(--_typography---h5--",
+    "--_typography---h5--line-height": "1.4",
+    "--_typography---h5--font-weight": "500",
+    "--_typography---h5--letter-spacing": "0em",
+    "--_typography---h6--bottom-margin": ".6em",
+    "--_typography---h6--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h6--font-size": "clamp(var(--_typography---h6--font-size-min-rem)*1rem,((var(--_typography---h6--",
+    "--_typography---h6--line-height": "1.4",
+    "--_typography---h6--font-weight": "500",
+    "--_typography---h6--letter-spacing": "0em",
+    "--_typography---paragraph-body--bottom-margin": "1em",
+    "--primary--accent": "var(--_color---primary--orange)",
+    "--_typography---fonts--primary-font": "Messinasans-light,Arial,sans-serif",
+    "--_typography---h3--font-alt": "var(--_typography---fonts--secondary-font)",
+    "--_components---section--padding": "clamp(var(--_components---section--padding-min-rem)*1rem,((var(--_components---s",
+    "--primary--border": "var(--lightningcss-light,var(--_color---neutral--mid-gray-1))var(--lightningcss-",
+    "--_layout---grid--gap-main": "14px",
+    "--_layout---grid--gap-md": "16px",
+    "--_layout---grid--gap-sm": "4px",
+    "--_layout---grid--gap-button": "4px",
+    "--_layout---grid--columns": "12",
+    "--_components---container--gutter": "8px",
+    "--_components---container--max-width": "0px",
+    "--_components---button--vertical-padding": ".7em",
+    "--_components---button--horizontal-padding": "1em",
+    "--_components---button--border-radius": ".5rem",
+    "--_components---button--font": "var(--_typography---fonts--button-font)",
+    "--_color---neutral--white": "white",
+    "--_components---button--font-size": ".88rem",
+    "--_components---button--line-height": "1.3em",
+    "--_components---button--font-weight": "400",
+    "--_components---button--letter-spacing": "0em",
+    "--primary--accent-dark": "var(--_color---primary--dark-orange)",
+    "--_color---neutral--mid-gray-2": "#2a2a2a",
+    "--_components---card--border-radius": ".5rem",
+    "--_components---card--padding": "clamp(var(--_components---card--padding-min-rem)*1rem,((var(--_components---card",
+    "--_components---input--bottom-margin": "1rem",
+    "--_size---0-5rem<deleted|variable-70a8c3ac-c656-f79e-479c-716ec38165c2>": ".5rem",
+    "--_color---neutral--mid-gray-1": "#ffffffb8",
+    "--_components---input--border-radius": ".5rem",
+    "--_components---input--font": "var(--_typography---fonts--primary-font)",
+    "--_components---input--font-size": "1rem",
+    "--_components---input--line-height": "1.5em",
+    "--_components---input--font-weight": "400",
+    "--_components---input--letter-spacing": "0em",
+    "--_color---primary--orange": "#d14424",
+    "--_components---input-label--font": "var(--_typography---fonts--primary-font)"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 479px",
+    "max 767px",
+    "min 992px",
+    "min 768px",
+    "min 0px",
+    "min 480px",
+    "max 1375px",
+    "max 1060px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "page-wrapper.u-minh-100vh",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 144,
+        "gutterRight": 14,
+        "width": 1282,
+        "gutterTop": 14,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Magnetic commerce for ambitious brands",
+          "family": "Messinasans-light",
+          "size": 60,
+          "weight": "300",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Messinasans-light",
+        "size": 14.08,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [
+        "Work",
+        "About",
+        "Services",
+        "Contact",
+        "WatchHouse. Redesign and Shopify 2.0 bu…",
+        "Kindred of Ireland Bespoke Shopify 2.0 …",
+        "Pouch Brand identity + Shopify store cr…",
+        "Bertioli by Thyme Redesign and Shopify …",
+        "Collider Award-winning Shopify 2.0 rela…",
+        "Mirror Water Brand-centred redesign and…"
+      ],
+      "words": 129,
+      "excerpt": "Brand-centred redesign and Shopify 2.0 build for Estée Lalonde’s wellbeing brand Mirror",
+      "media": {
+        "img": 22,
+        "video": 8,
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 74,
+    "title": "Dash Creative",
+    "award": "HM",
+    "url": "https://www.dashcreative.co/",
+    "awwwards": "https://www.awwwards.com/sites/dash-creative",
+    "categories": [
+      "Design Agencies",
+      "E-Commerce",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

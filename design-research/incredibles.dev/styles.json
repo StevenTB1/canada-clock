@@ -1,0 +1,1248 @@
+{
+  "page": {
+    "url": "https://incredibles.dev/",
+    "title": "Creative web development team for agencies | incredibles",
+    "description": "Two senior developers, 15+ years of experience, working seamlessly with agencies and brands worldwide on high-stakes web projects.",
+    "lang": "en-US",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 10320,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f1f1f1",
+        "share": 0.737
+      },
+      {
+        "value": "#2b2b2b",
+        "share": 0.072
+      },
+      {
+        "value": "#fafafafa",
+        "share": 0.056
+      },
+      {
+        "value": "#fafafa",
+        "share": 0.054
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.051
+      },
+      {
+        "value": "#000000",
+        "share": 0.019
+      },
+      {
+        "value": "#a2a2a2",
+        "share": 0.011
+      },
+      {
+        "value": "#fc4778",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#2b2b2b",
+        "share": 0.85
+      },
+      {
+        "value": "#656565",
+        "share": 0.095
+      },
+      {
+        "value": "#fafafa",
+        "share": 0.038
+      },
+      {
+        "value": "#a2a2a2",
+        "share": 0.013
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#dedede",
+        "share": 0.688
+      },
+      {
+        "value": "#f1f1f1",
+        "share": 0.25
+      },
+      {
+        "value": "#fafafa",
+        "share": 0.063
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Neue Montreal",
+        "size": 15,
+        "weight": "300",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 3309
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 436
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 348
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 302
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 273
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 236
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 198
+      },
+      {
+        "family": "Frama",
+        "size": 122.4,
+        "weight": "400",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 122
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 97
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 32,
+        "weight": "500",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 95
+      },
+      {
+        "family": "Frama",
+        "size": 61.2,
+        "weight": "400",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.05,
+        "transform": "none",
+        "chars": 89
+      },
+      {
+        "family": "Frama",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.03,
+        "transform": "uppercase",
+        "chars": 78
+      },
+      {
+        "family": "Neue Montreal",
+        "size": 13,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.05,
+        "transform": "none",
+        "chars": 78
+      },
+      {
+        "family": "Supply Mono",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.05,
+        "transform": "uppercase",
+        "chars": 67
+      }
+    ],
+    "loadedFonts": [
+      "Supply Mono 500 normal",
+      "Frama 400 normal",
+      "Frama 500 normal",
+      "Neue Montreal 300 normal",
+      "Neue Montreal 400 normal",
+      "Neue Montreal 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 114
+    },
+    {
+      "px": 8,
+      "uses": 65
+    },
+    {
+      "px": 16,
+      "uses": 56
+    },
+    {
+      "px": 12,
+      "uses": 50
+    },
+    {
+      "px": 48,
+      "uses": 25
+    },
+    {
+      "px": 11,
+      "uses": 10
+    },
+    {
+      "px": 6,
+      "uses": 10
+    },
+    {
+      "px": 32,
+      "uses": 8
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 9,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 4
+    },
+    {
+      "px": 160,
+      "uses": 3
+    },
+    {
+      "px": 58,
+      "uses": 2
+    },
+    {
+      "px": 225,
+      "uses": 2
+    },
+    {
+      "px": 18,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "6px",
+      "uses": 19
+    },
+    {
+      "value": "24px",
+      "uses": 14
+    },
+    {
+      "value": "12px",
+      "uses": 12
+    },
+    {
+      "value": "8px",
+      "uses": 5
+    },
+    {
+      "value": "15984px",
+      "uses": 5
+    },
+    {
+      "value": "50%",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.8s cubic-bezier(0.23, 1, 0.32, 1)",
+        "uses": 16
+      },
+      {
+        "value": "0.6s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.07s ease-out",
+        "uses": 5
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.07s linear",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 10,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--color-black": "#2b2b2b",
+    "--color-white": "#fff",
+    "--color-white-dark": "#fafafa",
+    "--color-white-darker": "#f1f1f1",
+    "--color-white-darkest": "#eaeaea",
+    "--color-gray-lighter": "#dedede",
+    "--color-gray-light": "#d7d7d7",
+    "--color-gray": "#a2a2a2",
+    "--color-gray-dark": "#656565",
+    "--color-heading": "#2b2b2b",
+    "--color-text": "#2b2b2b",
+    "--color-accent": "#fc4778",
+    "--font-family-arial": "\"Arial\",sans-serif",
+    "--font-family-frama": "\"Frama\",sans-serif",
+    "--font-family-neue-montreal": "\"Neue Montreal\",sans-serif",
+    "--font-family-supply-mono": "\"Supply Mono\",monospace",
+    "--font-family-sans": "var(--font-family-neue-montreal)",
+    "--font-family-heading": "var(--font-family-frama)",
+    "--font-family-text": "var(--font-family-neue-montreal)",
+    "--font-family-mono": "var(--font-family-supply-mono)",
+    "--font-size-base": "16px",
+    "--font-weight-base": "300",
+    "--font-height-base": "1.3",
+    "--font-family-base": "var(--font-family-text)",
+    "--font-spacing-base": "0",
+    "--font-size-h-3xl": "8.5rem",
+    "--font-weight-h-3xl": "400",
+    "--font-height-h-3xl": ".86",
+    "--font-family-h-3xl": "var(--font-family-frama)",
+    "--font-spacing-h-3xl": "-.05em",
+    "--font-size-h-2xl": "5.5rem",
+    "--font-weight-h-2xl": "400",
+    "--font-height-h-2xl": ".86",
+    "--font-family-h-2xl": "var(--font-family-frama)",
+    "--font-spacing-h-2xl": "-.05em",
+    "--font-size-h-xl": "5rem",
+    "--font-weight-h-xl": "400",
+    "--font-height-h-xl": ".86",
+    "--font-family-h-xl": "var(--font-family-frama)",
+    "--font-spacing-h-xl": "-.05em",
+    "--font-size-h-lg": "2.5rem",
+    "--font-weight-h-lg": "400",
+    "--font-height-h-lg": ".86",
+    "--font-family-h-lg": "var(--font-family-frama)",
+    "--font-spacing-h-lg": "-.05em",
+    "--font-size-h-md": "2.5rem",
+    "--font-weight-h-md": "500",
+    "--font-height-h-md": ".86",
+    "--font-family-h-md": "var(--font-family-neue-montreal)",
+    "--font-spacing-h-md": "-.02em",
+    "--font-size-h-sm": "2rem",
+    "--font-weight-h-sm": "500",
+    "--font-height-h-sm": ".86",
+    "--font-family-h-sm": "var(--font-family-neue-montreal)",
+    "--font-spacing-h-sm": "-.02em",
+    "--font-size-h-xs": "1.5rem",
+    "--font-weight-h-xs": "500",
+    "--font-height-h-xs": ".86",
+    "--font-family-h-xs": "var(--font-family-neue-montreal)",
+    "--font-spacing-h-xs": "-.02em",
+    "--font-size-t-lg": "1.25rem",
+    "--font-weight-t-lg": "400",
+    "--font-height-t-lg": "1.3",
+    "--font-family-t-lg": "var(--font-family-neue-montreal)",
+    "--font-spacing-t-lg": "0",
+    "--font-size-t-md": "1.125rem",
+    "--font-weight-t-md": "400",
+    "--font-height-t-md": "1.3",
+    "--font-family-t-md": "var(--font-family-neue-montreal)",
+    "--font-spacing-t-md": "0",
+    "--font-size-t-sm": "1.0625rem",
+    "--font-weight-t-sm": "400",
+    "--font-height-t-sm": "1.3",
+    "--font-family-t-sm": "var(--font-family-neue-montreal)",
+    "--font-spacing-t-sm": "0",
+    "--font-size-t-xs": "1rem",
+    "--font-weight-t-xs": "400",
+    "--font-height-t-xs": "1.3",
+    "--font-family-t-xs": "var(--font-family-neue-montreal)",
+    "--font-spacing-t-xs": "0"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 987px",
+    "max 576px",
+    "max 1080px",
+    "max 1536px",
+    "max 1280px",
+    "max 1680px"
+  ],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "s-hero.is-fluid-ready",
+      "y": 24,
+      "height": 1389,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "160px 0px 297px",
+      "margin": "24px",
+      "border": null,
+      "content": {
+        "gutterLeft": 339,
+        "gutterRight": 339,
+        "width": 762,
+        "gutterTop": 160,
+        "gutterBottom": 353
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          29,
+          53,
+          38,
+          26
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Creative development team for agencies that can't afford to miss",
+          "family": "Frama",
+          "size": 122.4,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 39,
+      "excerpt": "Two senior developers with 15+ years of experience, collaborating with agencies across",
+      "media": {
+        "img": 4,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "s__header",
+      "y": 225,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 383,
+        "gutterRight": 383,
+        "width": 673,
+        "gutterTop": 331,
+        "gutterBottom": 331
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Incredible devs you can count on.",
+          "family": "Frama",
+          "size": 79.2,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 24,
+      "excerpt": "We step in on high-stakes projects where execution can’t fail, from rebrands",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "li",
+      "name": "s__item",
+      "y": 2112,
+      "height": 900,
+      "position": "static",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 633,
+        "gutterRight": 633,
+        "width": 174,
+        "gutterTop": -1961,
+        "gutterBottom": 2832
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Start to Finish",
+          "family": "Neue Montreal",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 16,
+      "excerpt": "We work as one unit, ensuring your entire project is completed without",
+      "media": {
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "li",
+      "name": "s__item",
+      "y": 3012,
+      "height": 900,
+      "position": "static",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 633,
+        "gutterRight": 633,
+        "width": 174,
+        "gutterTop": -2861,
+        "gutterBottom": 3732
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Higher Potential",
+          "family": "Neue Montreal",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 15,
+      "excerpt": "Together we accomplish more. Even the most complex builds move with relentless",
+      "media": {
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "li",
+      "name": "s__item",
+      "y": 3912,
+      "height": 900,
+      "position": "static",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 633,
+        "gutterRight": 633,
+        "width": 174,
+        "gutterTop": -3761,
+        "gutterBottom": 4632
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Experienced Pros",
+          "family": "Neue Montreal",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 13,
+      "excerpt": "We understand project briefs, working quickly and skillfully without constant supervision.",
+      "media": {
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "li",
+      "name": "s__item",
+      "y": 4812,
+      "height": 900,
+      "position": "static",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 633,
+        "gutterRight": 633,
+        "width": 174,
+        "gutterTop": -4661,
+        "gutterBottom": 5526
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Top Quality",
+          "family": "Neue Montreal",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 15,
+      "excerpt": "We’re proven on high-end projects, delivering excellence for agencies who care about",
+      "media": {
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "s-work",
+      "y": 5937,
+      "height": 897,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 72,
+        "width": 1288,
+        "gutterTop": 32,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "17.687px",
+        "justify": "space-between",
+        "align": "stretch",
+        "children": 4,
+        "childWidthsPct": [
+          54,
+          38,
+          23,
+          69
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "See for yourself",
+          "family": "Frama",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h2",
+          "text": "Latest delivery",
+          "family": "Neue Montreal",
+          "size": 24,
+          "weight": "500",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SHOWREEL",
+        "REQUEST A QUOTE",
+        "View project"
+      ],
+      "words": 80,
+      "excerpt": "finished work with a true creative eye, always flexible and quick to",
+      "media": {
+        "video": 1,
+        "canvas": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "s-catchphrase",
+      "y": 5934,
+      "height": 1800,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px 0px 225px",
+      "margin": "-900px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 491,
+        "gutterRight": 491,
+        "width": 459,
+        "gutterTop": 66,
+        "gutterBottom": 1445
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Let’s talk about your project.",
+          "family": "Frama",
+          "size": 122.4,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Frama",
+        "size": 122.4,
+        "weight": "400",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "Let’s talk",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "pricing",
+      "y": 7734,
+      "height": 712,
+      "position": "static",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#656565",
+      "padding": "0px",
+      "margin": "0px 48px",
+      "border": null,
+      "content": {
+        "gutterLeft": 105,
+        "gutterRight": 48,
+        "width": 1287,
+        "gutterTop": 0,
+        "gutterBottom": -41
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Simple pricing",
+          "family": "Frama",
+          "size": 79.2,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "Single Project",
+          "family": "Neue Montreal",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "Recurring collaboration",
+          "family": "Neue Montreal",
+          "size": 32,
+          "weight": "500",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Single project",
+        "Recurring",
+        "START A CONVERSATION"
+      ],
+      "words": 146,
+      "excerpt": "Most projects will be priced according to your needs, but we can",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "s-faq.u-container",
+      "y": 8446,
+      "height": 998,
+      "position": "static",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "160px 0px",
+      "margin": "0px 48px",
+      "border": null,
+      "content": {
+        "gutterLeft": 526,
+        "gutterRight": 185,
+        "width": 729,
+        "gutterTop": 160,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          24,
+          11
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Answers to your questions",
+          "family": "Frama",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "How do you work with agencies?",
+          "family": "Neue Montreal",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "What types of projects do you specialize in?",
+          "family": "Neue Montreal",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2b2b2b"
+        },
+        {
+          "tag": "h3",
+          "text": "How do you ensure quality and consistency?",
+          "family": "Neue Montreal",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 15,
+        "weight": "300",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "reach out.",
+        "How do you work with agencies?",
+        "What types of projects do you specializ…",
+        "How do you ensure quality and consisten…",
+        "Do you handle design as well as develop…",
+        "Who is behind incredibles?",
+        "Antoine Wodniack",
+        "Olivier Guilleux",
+        "How is working with you different from …",
+        "How do you integrate into existing work…"
+      ],
+      "words": 622,
+      "excerpt": "When we team up, you can invite us into your current processes",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "s-final-cta",
+      "y": 9444,
+      "height": 812,
+      "position": "relative",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "72px 0px",
+      "margin": "0px 24px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 120,
+        "width": 1248,
+        "gutterTop": 304,
+        "gutterBottom": 297
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          90,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Build your next project with us",
+          "family": "Frama",
+          "size": 122.4,
+          "weight": "400",
+          "lineHeight": 0.86,
+          "letterSpacing": -0.05,
+          "transform": "none",
+          "color": "#2b2b2b"
+        }
+      ],
+      "bodyType": {
+        "family": "Frama",
+        "size": 122.4,
+        "weight": "400",
+        "lineHeight": 0.86,
+        "letterSpacing": -0.05,
+        "transform": "none"
+      },
+      "labels": [
+        "START A CONVERSATION"
+      ],
+      "words": 9,
+      "excerpt": "Start a conversation",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "footer",
+      "name": "site-foot.t-t-3xs",
+      "y": 10256,
+      "height": 64,
+      "position": "static",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#656565",
+      "padding": "24px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 24,
+        "gutterBottom": 23
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          41,
+          7,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Legals",
+          "family": "Neue Montreal",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": 1.3,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#656565"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Montreal",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Legals",
+        "Privacy",
+        "hi@incredibles.dev",
+        "LinkedIn"
+      ],
+      "words": 4,
+      "excerpt": "hi@incredibles.dev",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "Showreel video",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f1f1f1",
+      "backgroundImage": false,
+      "color": "#2b2b2b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [
+        "CLOSE SHOWREEL"
+      ],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 1,
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 63,
+    "title": "incredibles",
+    "award": "HM",
+    "url": "https://incredibles.dev/",
+    "awwwards": "https://www.awwwards.com/sites/incredibles",
+    "categories": [
+      "Technology",
+      "Web & Interactive",
+      "Startups"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

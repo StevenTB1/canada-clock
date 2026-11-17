@@ -1,0 +1,432 @@
+{
+  "page": {
+    "url": "https://halfthesky.app/",
+    "title": "Half the Sky — talk with 32 women carved into a wall",
+    "description": "A wall of 32 pioneering women, carved in plaster relief. Read what each of them actually did, then talk with her. Bilingual, fact-checked, open data.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#dddcd7",
+        "share": 0.735
+      },
+      {
+        "value": "#d3d2cd",
+        "share": 0.133
+      },
+      {
+        "value": "#e1e0dbf2",
+        "share": 0.133
+      }
+    ],
+    "text": [
+      {
+        "value": "#66645c",
+        "share": 0.962
+      },
+      {
+        "value": "#8a887f",
+        "share": 0.02
+      },
+      {
+        "value": "#3a3a34d9",
+        "share": 0.015
+      },
+      {
+        "value": "#3a3934",
+        "share": 0.003
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1.001,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Cormorant Garamond",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.26,
+        "transform": "uppercase",
+        "chars": 553
+      },
+      {
+        "family": "Cormorant Garamond",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.3,
+        "transform": "uppercase",
+        "chars": 175
+      },
+      {
+        "family": "Cormorant Garamond",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.26,
+        "transform": "uppercase",
+        "chars": 27
+      },
+      {
+        "family": "Cormorant Garamond",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0.18,
+        "transform": "uppercase",
+        "chars": 21
+      },
+      {
+        "family": "Cormorant Garamond",
+        "size": 15,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0.24,
+        "transform": "uppercase",
+        "chars": 12
+      },
+      {
+        "family": "Cormorant Garamond",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.08,
+        "transform": "uppercase",
+        "chars": 3
+      },
+      {
+        "family": "Cormorant Garamond",
+        "size": 11.5,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.083,
+        "transform": "uppercase",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "Cormorant Garamond 400 normal",
+      "Cormorant Garamond 500 normal",
+      "Noto Serif SC 400 normal",
+      "Noto Serif SC 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 3,
+      "uses": 15
+    },
+    {
+      "px": 4,
+      "uses": 8
+    },
+    {
+      "px": 2,
+      "uses": 8
+    },
+    {
+      "px": 7,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 4
+    },
+    {
+      "px": 88,
+      "uses": 3
+    },
+    {
+      "px": 70,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 14,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 22,
+      "uses": 1
+    },
+    {
+      "px": 26,
+      "uses": 1
+    },
+    {
+      "px": 48,
+      "uses": 1
+    },
+    {
+      "px": 72,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.9s ease",
+        "uses": 42
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 42
+      },
+      {
+        "value": "0.45s ease",
+        "uses": 42
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.8s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.7s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--plaster": "#DDDCD7",
+    "--grout": "#D3D2CD",
+    "--stone-dark": "#3A3934",
+    "--stone-mid": "#66645C",
+    "--stone-faint": "#8A887F",
+    "--accent": "#8E5B45",
+    "--warm-light": "#F3E9D2",
+    "--serif": "'Cormorant Garamond', 'Noto Serif SC', serif",
+    "--noise-wall": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' he",
+    "--noise-near": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' he",
+    "--noise-paper": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' he",
+    "--noise-mottle": "url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='700' he",
+    "--panel-w": "100vw"
+  },
+  "breakpoints": [
+    "min 1600px",
+    "min 1920px",
+    "max 768px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 0,
+      "height": 71,
+      "position": "fixed",
+      "background": "#dddcd7",
+      "backgroundImage": true,
+      "color": "#66645c",
+      "padding": "22px 70px 26px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 350,
+        "gutterRight": 365,
+        "width": 726,
+        "gutterTop": 25,
+        "gutterBottom": 29
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal 48px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "HALF THE SKY",
+          "family": "Cormorant Garamond",
+          "size": 15,
+          "weight": "500",
+          "lineHeight": "normal",
+          "letterSpacing": 0.24,
+          "transform": "uppercase",
+          "color": "#3a3a34d9"
+        }
+      ],
+      "bodyType": {
+        "family": "Cormorant Garamond",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0.18,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "中 · EN",
+        "CARVE HER NAME",
+        "ASK HER"
+      ],
+      "words": 11,
+      "excerpt": "Carve her name",
+      "media": {
+        "svg": 3
+      }
+    },
+    {
+      "i": 2,
+      "tag": "main",
+      "name": "wall",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#d3d2cd",
+      "backgroundImage": false,
+      "color": "#66645c",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 316,
+        "width": 1124,
+        "gutterTop": -32,
+        "gutterBottom": -960
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "রোকেয়া সাখাওয়াৎ হোসেন",
+          "family": "Cormorant Garamond",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.26,
+          "transform": "uppercase",
+          "color": "#66645c"
+        }
+      ],
+      "bodyType": {
+        "family": "Cormorant Garamond",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.26,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 114,
+      "excerpt": "Begum Rokeya Sakhawat Hossain",
+      "media": {
+        "img": 42
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "grain",
+      "y": -200,
+      "height": 1300,
+      "position": "fixed",
+      "background": "#dddcd7",
+      "backgroundImage": true,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "veil",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#e1e0dbf2",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "grain-focus",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#dddcd7",
+      "backgroundImage": true,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 212,
+    "title": "Half the Sky",
+    "award": "HM",
+    "url": "https://halfthesky.app/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/half-the-sky",
+    "categories": [
+      "Experimental",
+      "Art & Illustration",
+      "Culture & Education"
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "page": {
+    "url": "https://productionportugal.com/",
+    "title": "Production Portugal: Your trusted film production company in Portugal and Spain",
+    "description": "Dive into cinematic excellence with expert location scouting. Explore possibilities with Production Portugal - Your Trusted film production company in the Iberian Peninsula.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 7800,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.792
+      },
+      {
+        "value": "#ff0080",
+        "share": 0.081
+      },
+      {
+        "value": "#ff126f",
+        "share": 0.077
+      },
+      {
+        "value": "#a3003f",
+        "share": 0.048
+      },
+      {
+        "value": "#ff0063",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.784
+      },
+      {
+        "value": "#f3f3f3",
+        "share": 0.142
+      },
+      {
+        "value": "#000000",
+        "share": 0.033
+      },
+      {
+        "value": "#6b6d79",
+        "share": 0.021
+      },
+      {
+        "value": "#ffffffad",
+        "share": 0.02
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ff004d",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.792,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Neue Haas Grotesk Display Pro",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 0.96,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 373
+      },
+      {
+        "family": "Neue Haas Grotesk Display Pro",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 0.96,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 356
+      },
+      {
+        "family": "Neue Haas Grotesk Display Pro",
+        "size": 20,
+        "weight": "700",
+        "lineHeight": 0.92,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 350
+      },
+      {
+        "family": "Neue Haas Grotesk Display Pro",
+        "size": 32,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 13
+      },
+      {
+        "family": "Neue Haas Grotesk Display Pro",
+        "size": 9.6,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.037,
+        "transform": "uppercase",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": [
+      "Neue Haas Grotesk Display Pro 700 normal",
+      "PP Eiko Italic 300 italic"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 12,
+      "uses": 59
+    },
+    {
+      "px": 6,
+      "uses": 54
+    },
+    {
+      "px": 3,
+      "uses": 40
+    },
+    {
+      "px": 2,
+      "uses": 17
+    },
+    {
+      "px": 10,
+      "uses": 15
+    },
+    {
+      "px": 5,
+      "uses": 11
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 16,
+      "uses": 4
+    },
+    {
+      "px": 128,
+      "uses": 2
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 6900,
+      "uses": 1
+    },
+    {
+      "px": 57,
+      "uses": 1
+    },
+    {
+      "px": 40,
+      "uses": 1
+    },
+    {
+      "px": 87,
+      "uses": 1
+    },
+    {
+      "px": 50,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "43% 55%",
+      "uses": 4
+    },
+    {
+      "value": "50%",
+      "uses": 2
+    },
+    {
+      "value": "60%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.65s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 35
+      },
+      {
+        "value": "0.36s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 22
+      },
+      {
+        "value": "0.42s ease",
+        "uses": 21
+      },
+      {
+        "value": "0.32s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 11
+      },
+      {
+        "value": "0.52s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.45s ease",
+        "uses": 3
+      }
+    ],
+    "cssAnimatedElements": 5,
+    "canvases": 1,
+    "videos": 7
+  },
+  "cssVariables": {
+    "--_colours---color--grey--grey-100": "#6b6d79",
+    "--home__about__links-edge": "#ff1972",
+    "--_colours---brand": "#ff0063",
+    "--psp-intro-height": "100lvh",
+    "--psp-stage-height": "100lvh",
+    "--psp-stage-bottom-inset": "0px",
+    "--psp-viewport-height": "100dvh",
+    "--base-bg": "#ff0080",
+    "--blob-1": "#ff126f",
+    "--blob-2": "#a3003f",
+    "--vignette": "#590224d9",
+    "--sec-bg": "#00000005"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 767px",
+    "max 479px",
+    "min 768px",
+    "max 1024px",
+    "min 991px",
+    "max 1275px",
+    "min 1921px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "master-pin-wrap",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 5,
+        "width": 1419,
+        "gutterTop": 370,
+        "gutterBottom": -661
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "PORSCHE MACAN",
+          "family": "Neue Haas Grotesk Display Pro",
+          "size": 32,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "®we’re a leadingPremium full-scale production service partner in Portugal and S…",
+          "family": "Neue Haas Grotesk Display Pro",
+          "size": 96,
+          "weight": "700",
+          "lineHeight": 0.85,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk Display Pro",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 0.96,
+        "letterSpacing": -0.03,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "[ X/TWITTER ]",
+        "[ FACEBOOK ]",
+        "[ INSTAGRAM ]",
+        "[ CONTACT US ]"
+      ],
+      "words": 203,
+      "excerpt": "We partner with agencies, brands, and filmmakers to deliver seamless, high-end productions",
+      "media": {
+        "video": 7,
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 133,
+    "title": "PSP Production",
+    "award": "HM",
+    "url": "https://productionportugal.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/psp-production",
+    "categories": [
+      "Business & Corporate",
+      "Film & TV",
+      "Portfolio",
+      "Photography"
+    ]
+  }
+}

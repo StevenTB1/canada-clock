@@ -1,0 +1,1196 @@
+{
+  "page": {
+    "url": "https://hidokmeh.com/",
+    "title": "Award-Winning Web Design Agency in Iran | Dokmeh Agency",
+    "description": "Dokmeh Agency is an award-winning creative studio in Tehran specializing in web design, digital experiences, brand identity and e-commerce.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 20816,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.883
+      },
+      {
+        "value": "#1a1a1a",
+        "share": 0.078
+      },
+      {
+        "value": "#102632",
+        "share": 0.038
+      },
+      {
+        "value": "#f7c02f",
+        "share": 0
+      },
+      {
+        "value": "#202020",
+        "share": 0
+      },
+      {
+        "value": "#333333",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#333333",
+        "share": 0.375
+      },
+      {
+        "value": "#0f0f0e",
+        "share": 0.268
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.259
+      },
+      {
+        "value": "#000000ad",
+        "share": 0.038
+      },
+      {
+        "value": "#7f7f7f",
+        "share": 0.025
+      },
+      {
+        "value": "#f5ece8",
+        "share": 0.012
+      },
+      {
+        "value": "#f7c02f",
+        "share": 0.009
+      },
+      {
+        "value": "#202020",
+        "share": 0.008
+      },
+      {
+        "value": "#0f0f0d99",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#0000001a",
+        "share": 0.727
+      },
+      {
+        "value": "#0f0f0e",
+        "share": 0.091
+      },
+      {
+        "value": "#a0507873",
+        "share": 0.091
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.091
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.961,
+      "text": 0.992
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Satoshi",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 458
+      },
+      {
+        "family": "Satoshi",
+        "size": 27,
+        "weight": "700",
+        "lineHeight": 1.36,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 275
+      },
+      {
+        "family": "Satoshi",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 187
+      },
+      {
+        "family": "Satoshi",
+        "size": 13.5,
+        "weight": "700",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.053,
+        "transform": "none",
+        "chars": 170
+      },
+      {
+        "family": "Satoshi",
+        "size": 27,
+        "weight": "700",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 162
+      },
+      {
+        "family": "Satoshi",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 144
+      },
+      {
+        "family": "Fragment Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 90
+      },
+      {
+        "family": "Satoshi",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.06,
+        "transform": "none",
+        "chars": 88
+      },
+      {
+        "family": "Fragment Mono",
+        "size": 12.96,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 80
+      },
+      {
+        "family": "Satoshi",
+        "size": 40,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 77
+      },
+      {
+        "family": "Satoshi",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.04,
+        "transform": "none",
+        "chars": 56
+      },
+      {
+        "family": "Satoshi",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 49
+      },
+      {
+        "family": "Satoshi",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 48
+      },
+      {
+        "family": "Fragment Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 40
+      }
+    ],
+    "loadedFonts": [
+      "satoshi 400 normal",
+      "satoshi 500 normal",
+      "satoshi 700 normal",
+      "Fragment Mono 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 33
+    },
+    {
+      "px": 4,
+      "uses": 19
+    },
+    {
+      "px": 10,
+      "uses": 18
+    },
+    {
+      "px": 6,
+      "uses": 6
+    },
+    {
+      "px": 7,
+      "uses": 6
+    },
+    {
+      "px": 86,
+      "uses": 6
+    },
+    {
+      "px": 134,
+      "uses": 6
+    },
+    {
+      "px": 56,
+      "uses": 6
+    },
+    {
+      "px": 9,
+      "uses": 5
+    },
+    {
+      "px": 22,
+      "uses": 5
+    },
+    {
+      "px": 58,
+      "uses": 5
+    },
+    {
+      "px": 11,
+      "uses": 4
+    },
+    {
+      "px": 12,
+      "uses": 3
+    },
+    {
+      "px": 42,
+      "uses": 3
+    },
+    {
+      "px": 72,
+      "uses": 3
+    },
+    {
+      "px": 36,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "5px",
+      "uses": 7
+    },
+    {
+      "value": "2px",
+      "uses": 2
+    },
+    {
+      "value": "3px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 15
+      },
+      {
+        "value": "0.7s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 12
+      },
+      {
+        "value": "0.16s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.35s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 2
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 2
+      },
+      {
+        "value": "0.1s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 8,
+    "canvases": 4,
+    "videos": 6
+  },
+  "cssVariables": {
+    "--font-satoshi": "\"Satoshi\", sans-serif",
+    "--font-mono": "\"Fragment Mono\", monospace",
+    "--spaceX": "clamp(12px, 1.5vw, 24px)",
+    "--spaceHalf": "clamp(6px, 0.75vw, 12px)"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 899px",
+    "max 639px",
+    "min 768px",
+    "max 1024px",
+    "max 640px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "picture",
+      "name": "hero-static-background",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#102632",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "section-hero",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 419,
+        "gutterRight": 134,
+        "width": 887,
+        "gutterTop": 646,
+        "gutterBottom": 72
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "We design change-making website experiences that finally match the business beh…",
+          "family": "Satoshi",
+          "size": 40,
+          "weight": "700",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 40,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Scroll to explore ↓"
+      ],
+      "words": 16,
+      "excerpt": "Scroll to explore",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "section-ceo",
+      "y": 900,
+      "height": 788,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0f0f0e",
+      "padding": "42px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 131,
+        "gutterRight": 131,
+        "width": 1179,
+        "gutterTop": 401,
+        "gutterBottom": 86
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "54.72px 1.27%",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          24,
+          57,
+          57
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Farzad Kafaei",
+          "family": "Satoshi",
+          "size": 27,
+          "weight": "700",
+          "lineHeight": 1.36,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0f0f0e"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 27,
+        "weight": "700",
+        "lineHeight": 1.36,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 45,
+      "excerpt": "Every project at Dokmeh should move something forward: strengthen the brand, accelerate",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "Why Dokmeh?",
+      "y": 1688,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 133,
+        "gutterRight": 1087,
+        "width": 219,
+        "gutterTop": 494,
+        "gutterBottom": 207
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "45+",
+          "family": "Satoshi",
+          "size": 112.5,
+          "weight": "700",
+          "lineHeight": 1.36,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "Globally recognized awards",
+      "media": {
+        "img": 9
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "section-clients",
+      "y": 6188,
+      "height": 695,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#202020",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 404,
+        "gutterRight": 404,
+        "width": 631,
+        "gutterTop": 53,
+        "gutterBottom": 570
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "69.12px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          81,
+          81
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "T",
+          "family": "Satoshi",
+          "size": 72,
+          "weight": "700",
+          "lineHeight": 1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#202020"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 72,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 17,
+      "excerpt": "T",
+      "media": {
+        "img": 8
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "pin-spacer",
+      "y": 6884,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0f0f0e",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 420,
+        "gutterRight": 420,
+        "width": 599,
+        "gutterTop": 365,
+        "gutterBottom": 282
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          9,
+          42
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "More Than +350 Projects in 15 years",
+          "family": "Satoshi",
+          "size": 72,
+          "weight": "700",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0f0f0e"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 72,
+        "weight": "700",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 31,
+      "excerpt": "selected works",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "a",
+      "name": "case-item.case-item-1",
+      "y": 7899,
+      "height": 622,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0f0f0e",
+      "padding": "0px",
+      "margin": "0px 0px 56px",
+      "border": null,
+      "content": {
+        "gutterLeft": 592,
+        "gutterRight": 58,
+        "width": 791,
+        "gutterTop": 16,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "8px",
+        "justify": "space-between",
+        "align": "baseline",
+        "children": 2,
+        "childWidthsPct": [
+          36,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Urbanex Mobility Brand Identity & Web Design for Dubai eVTOL Infrastructure",
+          "family": "Satoshi",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0f0f0e"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 19,
+      "excerpt": "Urbanex Mobility Brand Identity & Web Design for Dubai eVTOL Infrastructure",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "a",
+      "name": "case-item.case-item-4",
+      "y": 9173,
+      "height": 622,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 0px 56px",
+      "border": null,
+      "content": {
+        "gutterLeft": 58,
+        "gutterRight": 1245,
+        "width": 138,
+        "gutterTop": 16,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Roma",
+          "family": "Satoshi",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0f0f0e"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "Awwwards — Nominee",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "a",
+      "name": "case-item.case-item-7",
+      "y": 9872,
+      "height": 612,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 0px 56px",
+      "border": null,
+      "content": {
+        "gutterLeft": 605,
+        "gutterRight": 697,
+        "width": 138,
+        "gutterTop": 16,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Cadence",
+          "family": "Satoshi",
+          "size": 15,
+          "weight": "700",
+          "lineHeight": "normal",
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0f0f0e"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "Awwwards — Nominee",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": null,
+      "y": 10684,
+      "height": 112,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#f7c02f",
+      "padding": "0px 0px 64px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 613,
+        "gutterRight": 613,
+        "width": 214,
+        "gutterTop": 0,
+        "gutterBottom": 64
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "a",
+          "text": "View All Cases",
+          "family": "Satoshi",
+          "size": 18,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f7c02f"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View All Cases"
+      ],
+      "words": 3,
+      "excerpt": "View All Cases",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "AwardsSection-module__HqCdXq__stage",
+      "y": 10796,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 137,
+        "gutterRight": 5,
+        "width": 1299,
+        "gutterTop": 92,
+        "gutterBottom": -67
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "12px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          3,
+          3,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Awards",
+          "family": "Satoshi",
+          "size": 72,
+          "weight": "700",
+          "lineHeight": 1.15,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#333333"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Star Award - CSS Winner",
+        "Special Kudos - CSS Design Awards",
+        "Site of the Day - CSS Winner",
+        "Honorable Mention - Awwwards",
+        "←",
+        "→"
+      ],
+      "words": 141,
+      "excerpt": "Designex Architecture Studio",
+      "media": {
+        "img": 39
+      }
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "section-video",
+      "y": 16556,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#333333",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "Services",
+      "y": 17456,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 133,
+        "gutterRight": 134,
+        "width": 1173,
+        "gutterTop": 466,
+        "gutterBottom": 224
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 7,
+        "childWidthsPct": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Websites",
+          "family": "Satoshi",
+          "size": 112.5,
+          "weight": "700",
+          "lineHeight": 1.35,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "What we do?",
+      "media": {
+        "img": 7
+      }
+    },
+    {
+      "i": 16,
+      "tag": "section",
+      "name": "section-footer",
+      "y": 20246,
+      "height": 570,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 134,
+        "gutterRight": 134,
+        "width": 1172,
+        "gutterTop": 102,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "72px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          38
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Home",
+          "family": "Satoshi",
+          "size": 50.4,
+          "weight": "700",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#f5ece8"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "Works",
+        "Studio",
+        "Contact us",
+        "hi@hidokmeh.com",
+        "+98 21 2685 8636",
+        "Instagram",
+        "Linkedin",
+        "Back to top ↑"
+      ],
+      "words": 28,
+      "excerpt": "Ask AI About Dokmeh",
+      "media": {
+        "img": 10,
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 209,
+    "title": "Dokmeh Agency",
+    "award": "HM",
+    "url": "https://www.hidokmeh.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/dokmeh-agency-2",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive",
+      "Art & Illustration"
+    ]
+  }
+}

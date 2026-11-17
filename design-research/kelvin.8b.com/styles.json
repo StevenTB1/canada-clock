@@ -1,0 +1,1164 @@
+{
+  "page": {
+    "url": "https://kelvin.8b.com/",
+    "title": "Kelvin — three nights of music, filmed in heat",
+    "description": "Kelvin is a three-night music festival filmed through thermal cameras and projected back into a former power station in Rotterdam. 23–25 July 2027.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 17000,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f1ede4",
+        "share": 0.669
+      },
+      {
+        "value": "#110d19",
+        "share": 0.273
+      },
+      {
+        "value": "#2d18a8",
+        "share": 0.058
+      }
+    ],
+    "text": [
+      {
+        "value": "#110d19",
+        "share": 0.319
+      },
+      {
+        "value": "#bcb6c6",
+        "share": 0.313
+      },
+      {
+        "value": "#5b5664",
+        "share": 0.27
+      },
+      {
+        "value": "#f1ede4",
+        "share": 0.098
+      }
+    ],
+    "borders": [
+      {
+        "value": "#110d19",
+        "share": 0.621
+      },
+      {
+        "value": "#f1ede4",
+        "share": 0.207
+      },
+      {
+        "value": "#f2ede473",
+        "share": 0.103
+      },
+      {
+        "value": "#f0ede366",
+        "share": 0.069
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.942,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2019
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 20.88,
+        "weight": "450",
+        "lineHeight": 1.42,
+        "letterSpacing": -0.005,
+        "transform": "none",
+        "chars": 1045
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 12,
+        "weight": "650",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.12,
+        "transform": "uppercase",
+        "chars": 871
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "550",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 163
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 20.8,
+        "weight": "600",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 140
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "600",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 118
+      },
+      {
+        "family": "Kalnia",
+        "size": 61.92,
+        "weight": "200",
+        "lineHeight": 1.02,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 94
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 27.36,
+        "weight": "800",
+        "lineHeight": 0.92,
+        "letterSpacing": 0.005,
+        "transform": "uppercase",
+        "chars": 54
+      },
+      {
+        "family": "Kalnia",
+        "size": 86.4,
+        "weight": "200",
+        "lineHeight": 1.02,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 52
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 34.56,
+        "weight": "800",
+        "lineHeight": 0.92,
+        "letterSpacing": 0.005,
+        "transform": "uppercase",
+        "chars": 49
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 44
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 13,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0.09,
+        "transform": "uppercase",
+        "chars": 43
+      },
+      {
+        "family": "Hubot Sans",
+        "size": 32,
+        "weight": "600",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 40
+      },
+      {
+        "family": "Kalnia",
+        "size": 50.4,
+        "weight": "200",
+        "lineHeight": 1.02,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 39
+      }
+    ],
+    "loadedFonts": [
+      "Hubot Sans 300 800 normal",
+      "Kalnia 200 normal",
+      "Kelvin Narrow normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 18,
+      "uses": 41
+    },
+    {
+      "px": 16,
+      "uses": 39
+    },
+    {
+      "px": 13,
+      "uses": 32
+    },
+    {
+      "px": 9,
+      "uses": 30
+    },
+    {
+      "px": 19,
+      "uses": 28
+    },
+    {
+      "px": 11,
+      "uses": 26
+    },
+    {
+      "px": 43,
+      "uses": 24
+    },
+    {
+      "px": 22,
+      "uses": 20
+    },
+    {
+      "px": 10,
+      "uses": 18
+    },
+    {
+      "px": 24,
+      "uses": 16
+    },
+    {
+      "px": 2,
+      "uses": 16
+    },
+    {
+      "px": 21,
+      "uses": 13
+    },
+    {
+      "px": 12,
+      "uses": 12
+    },
+    {
+      "px": 5,
+      "uses": 12
+    },
+    {
+      "px": 14,
+      "uses": 11
+    },
+    {
+      "px": 158,
+      "uses": 11
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.2, 0.7, 0.2, 1)",
+        "uses": 18
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 6
+      },
+      {
+        "value": "0.45s cubic-bezier(0.2, 0.7, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 8,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--color-1": "#f1ede4",
+    "--color-2": "#110d19",
+    "--color-3": "#2d18a8",
+    "--color-4": "#2a5cff",
+    "--color-5": "#12c3e3",
+    "--color-6": "#ffe000",
+    "--color-7": "#ff7a00",
+    "--color-8": "#ff2c46",
+    "--color-9": "#ff42ad",
+    "--color-10": "#5b5664",
+    "--color-11": "#bcb6c6",
+    "--font-1": "\"Hubot Sans\", \"Arial Narrow\", Arial, sans-serif",
+    "--font-2": "\"Kalnia\", Georgia, serif",
+    "--font-3": "\"Hubot Sans\", \"Kelvin Narrow\", sans-serif",
+    "--space-1": "clamp(16px, 3vw, 44px)",
+    "--space-2": "clamp(88px, 11vw, 168px)",
+    "--shadow-1": "0 22px 44px -22px color-mix(in srgb, var(--color-2) 55%, transparent)"
+  },
+  "breakpoints": [
+    "max 699px",
+    "max 899px",
+    "max 499px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "nav",
+      "y": 0,
+      "height": 64,
+      "position": "fixed",
+      "background": "#f1ede4",
+      "backgroundImage": false,
+      "color": "#110d19",
+      "padding": "0px 43.2px",
+      "margin": "0px",
+      "border": "0px none #110d19",
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 66,
+        "width": 1331,
+        "gutterTop": 19,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          17,
+          18,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "KELVIN",
+          "family": "Hubot Sans",
+          "size": 25.6,
+          "weight": "800",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.005,
+          "transform": "uppercase",
+          "color": "#110d19"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 15,
+        "weight": "600",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "KELVIN SOUND IN HEAT · 2027",
+        "Lineup",
+        "Nights",
+        "Archive",
+        "Visit",
+        "PASSES"
+      ],
+      "words": 11,
+      "excerpt": "Sound in heat · 2027",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "hero",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#f1ede4",
+      "backgroundImage": false,
+      "color": "#110d19",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 43,
+        "width": 1354,
+        "gutterTop": 116,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          76,
+          100,
+          27,
+          50,
+          17,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Kelvin K E L V I N",
+          "family": "Hubot Sans",
+          "size": 34,
+          "weight": "700",
+          "lineHeight": 1.55,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#110d19"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 20.88,
+        "weight": "450",
+        "lineHeight": 1.42,
+        "letterSpacing": -0.005,
+        "transform": "none"
+      },
+      "labels": [
+        "GET PASSES",
+        "See the lineup"
+      ],
+      "words": 40,
+      "excerpt": "Three nights of music, filmed through thermal cameras and projected back into",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "mirage",
+      "y": 900,
+      "height": 1272,
+      "position": "relative",
+      "background": "#110d19",
+      "backgroundImage": false,
+      "color": "#bcb6c6",
+      "padding": "0px 43.2px 158.4px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 44,
+        "width": 1353,
+        "gutterTop": 0,
+        "gutterBottom": 158
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "40px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          78,
+          38,
+          94
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Every set is filmed in heat. The room paints itself.",
+          "family": "Kalnia",
+          "size": 86.4,
+          "weight": "200",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f1ede4"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 20.88,
+        "weight": "450",
+        "lineHeight": 1.42,
+        "letterSpacing": -0.005,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 78,
+      "excerpt": "Six thermal cameras hang from the gantry of an old turbine hall.",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "lineup__stage",
+      "y": 2172,
+      "height": 900,
+      "position": "relative",
+      "background": "#f1ede4",
+      "backgroundImage": false,
+      "color": "#110d19",
+      "padding": "88px 43.2px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 414,
+        "width": 983,
+        "gutterTop": 88,
+        "gutterBottom": 48
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          59
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Six in the frame, forty‑one in the hall",
+          "family": "Kalnia",
+          "size": 50.4,
+          "weight": "200",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#110d19"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 74,
+      "excerpt": "The cameras follow the people who make the room warm. This summer",
+      "media": {
+        "img": 12
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "lineup__more",
+      "y": 4602,
+      "height": 137,
+      "position": "static",
+      "background": "#f1ede4",
+      "backgroundImage": false,
+      "color": "#110d19",
+      "padding": "48px 43.2px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 161,
+        "width": 1236,
+        "gutterTop": 48,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          51
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "ALSO IN THE HALL",
+          "family": "Hubot Sans",
+          "size": 12,
+          "weight": "650",
+          "lineHeight": 1.3,
+          "letterSpacing": 0.12,
+          "transform": "uppercase",
+          "color": "#5b5664"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 20.88,
+        "weight": "450",
+        "lineHeight": 1.42,
+        "letterSpacing": -0.005,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 34,
+      "excerpt": "Bruma, Field Hum, Hollow Coast, Tamsin Rhee, Kaito Mori, Night Swim, Saskia",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "nights",
+      "y": 4898,
+      "height": 1491,
+      "position": "relative",
+      "background": "#f1ede4",
+      "backgroundImage": false,
+      "color": "#110d19",
+      "padding": "158.4px 43.2px",
+      "margin": "0px",
+      "border": "1px solid #110d19",
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 43,
+        "width": 1354,
+        "gutterTop": 159,
+        "gutterBottom": 194
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          31,
+          35,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Three nights, three wavelengths",
+          "family": "Kalnia",
+          "size": 60.48,
+          "weight": "200",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#110d19"
+        },
+        {
+          "tag": "h3",
+          "text": "INFRARED",
+          "family": "Hubot Sans",
+          "size": 112,
+          "weight": "300",
+          "lineHeight": 0.82,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#110d19"
+        },
+        {
+          "tag": "h3",
+          "text": "VISIBLE",
+          "family": "Hubot Sans",
+          "size": 112,
+          "weight": "300",
+          "lineHeight": 0.82,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#110d19"
+        },
+        {
+          "tag": "h3",
+          "text": "ULTRAVIOLET",
+          "family": "Hubot Sans",
+          "size": 84.97,
+          "weight": "300",
+          "lineHeight": 0.82,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#f1ede4"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 134,
+      "excerpt": "Each night is tuned to a part of the spectrum the cameras",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "archive__stage",
+      "y": 6389,
+      "height": 900,
+      "position": "relative",
+      "background": "#110d19",
+      "backgroundImage": false,
+      "color": "#bcb6c6",
+      "padding": "96px 0px 45px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 133,
+        "width": 1264,
+        "gutterTop": 96,
+        "gutterBottom": 660
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "57.6px",
+        "justify": "normal",
+        "align": "center",
+        "children": 7,
+        "childWidthsPct": [
+          47,
+          31,
+          38,
+          35,
+          41,
+          30,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Last July, seen in heat",
+          "family": "Kalnia",
+          "size": 51.84,
+          "weight": "200",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f1ede4"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 12,
+        "weight": "650",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.12,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 73,
+      "excerpt": "What the six cameras kept from 2026. Every frame on the wall",
+      "media": {
+        "img": 14
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "voices",
+      "y": 11629,
+      "height": 1323,
+      "position": "relative",
+      "background": "#f1ede4",
+      "backgroundImage": false,
+      "color": "#110d19",
+      "padding": "158.4px 43.2px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 43,
+        "width": 1354,
+        "gutterTop": 158,
+        "gutterBottom": 566
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "32px 48px",
+        "justify": "normal",
+        "align": "end",
+        "children": 2,
+        "childWidthsPct": [
+          65,
+          17
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "“The first festival where the crowd is the light show. You watch a room warm up…",
+          "family": "Kalnia",
+          "size": 61.92,
+          "weight": "200",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#110d19"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 20.88,
+        "weight": "450",
+        "lineHeight": 1.42,
+        "letterSpacing": -0.005,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 72,
+      "excerpt": "“The Sunday cool-down was the best two hours of music I heard",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "tickets",
+      "y": 12952,
+      "height": 1068,
+      "position": "relative",
+      "background": "#110d19",
+      "backgroundImage": false,
+      "color": "#bcb6c6",
+      "padding": "0px 43.2px 158.4px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 63,
+        "gutterRight": 63,
+        "width": 1313,
+        "gutterTop": 81,
+        "gutterBottom": 158
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          30,
+          30,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Pick your temperature",
+          "family": "Kalnia",
+          "size": 74.88,
+          "weight": "200",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f1ede4"
+        },
+        {
+          "tag": "h3",
+          "text": "FRIDAY PASS",
+          "family": "Hubot Sans",
+          "size": 34.56,
+          "weight": "800",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.005,
+          "transform": "uppercase",
+          "color": "#f1ede4"
+        },
+        {
+          "tag": "h3",
+          "text": "SATURDAY PASS",
+          "family": "Hubot Sans",
+          "size": 34.56,
+          "weight": "800",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.005,
+          "transform": "uppercase",
+          "color": "#f1ede4"
+        },
+        {
+          "tag": "h3",
+          "text": "WEEKEND PASS",
+          "family": "Hubot Sans",
+          "size": 34.56,
+          "weight": "800",
+          "lineHeight": 0.92,
+          "letterSpacing": 0.005,
+          "transform": "uppercase",
+          "color": "#f1ede4"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "CHOOSE",
+        "hello@kelvin-festival.com"
+      ],
+      "words": 105,
+      "excerpt": "Students pay half on Sunday. Companions of disabled guests go free on",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "faq",
+      "y": 14020,
+      "height": 738,
+      "position": "relative",
+      "background": "#f1ede4",
+      "backgroundImage": false,
+      "color": "#5b5664",
+      "padding": "158.4px 43.2px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 43,
+        "width": 1354,
+        "gutterTop": 158,
+        "gutterBottom": 84
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "40px 86.4px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          35,
+          53
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Before you come",
+          "family": "Kalnia",
+          "size": 57.6,
+          "weight": "200",
+          "lineHeight": 1.02,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#110d19"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "hello@kelvin-festival.com"
+      ],
+      "words": 192,
+      "excerpt": "Only in heat. The six cameras record temperature, not light, so faces",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "name": "visit",
+      "y": 14758,
+      "height": 1165,
+      "position": "relative",
+      "background": "#110d19",
+      "backgroundImage": false,
+      "color": "#bcb6c6",
+      "padding": "158.4px 43.2px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 61,
+        "gutterRight": 43,
+        "width": 1336,
+        "gutterTop": 158,
+        "gutterBottom": 176
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "48px 72px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          41,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CENTRALE NOORD",
+          "family": "Hubot Sans",
+          "size": 120.57,
+          "weight": "300",
+          "lineHeight": 0.82,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#f1ede4"
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "hello@kelvin-festival.com",
+        "+31 10 555 0193",
+        "SUBSCRIBE"
+      ],
+      "words": 106,
+      "excerpt": "Kraanweg 14, 3089 KN Rotterdam. A former power station on the south",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 12,
+      "tag": "footer",
+      "name": "footer",
+      "y": 15923,
+      "height": 1076,
+      "position": "relative",
+      "background": "#f1ede4",
+      "backgroundImage": false,
+      "color": "#5b5664",
+      "padding": "158.4px 43.2px 0px",
+      "margin": "0px",
+      "border": "1px solid #110d19",
+      "content": {
+        "gutterLeft": 43,
+        "gutterRight": 43,
+        "width": 1354,
+        "gutterTop": 159,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "33.8406px normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 6,
+        "childWidthsPct": [
+          17,
+          14,
+          14,
+          17,
+          13,
+          18
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "K",
+          "family": "Hubot Sans",
+          "size": 564.01,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Hubot Sans",
+        "size": 17,
+        "weight": "600",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Lineup",
+        "Three nights",
+        "Passes",
+        "Questions",
+        "Instagram",
+        "YouTube",
+        "Press",
+        "Accessibility",
+        "Privacy and filming"
+      ],
+      "words": 31,
+      "excerpt": "© 2027 Kelvin Festival Foundation, Rotterdam",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 7,
+    "title": "Kelvin Music Festival 2027",
+    "award": "HM",
+    "url": "https://kelvin.8b.com/",
+    "awwwards": "https://www.awwwards.com/sites/kelvin-music-festival-2027",
+    "categories": [
+      "Music & Sound",
+      "Events",
+      "Fashion"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

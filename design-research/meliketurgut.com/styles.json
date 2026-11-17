@@ -1,0 +1,265 @@
+{
+  "page": {
+    "url": "https://meliketurgut.com/",
+    "title": "me · like — Melike Turgut",
+    "description": "A few things that made me, me. Melike Turgut’s collection of eight little worlds.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#eaece5",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.627
+      },
+      {
+        "value": "#00000080",
+        "share": 0.349
+      },
+      {
+        "value": "#40400c",
+        "share": 0.024
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.976
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Agrandir",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 131
+      },
+      {
+        "family": "AgrandirTight",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 116
+      },
+      {
+        "family": "Agrandir",
+        "size": 165.34,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 6
+      },
+      {
+        "family": "Arial",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.11,
+        "letterSpacing": -0.08,
+        "transform": "uppercase",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": [
+      "Agrandir 400 normal",
+      "AgrandirTight 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 4
+    },
+    {
+      "px": 64,
+      "uses": 2
+    },
+    {
+      "px": 39,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 13,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.24s cubic-bezier(0.2, 0.7, 0.2, 1)",
+        "uses": 11
+      },
+      {
+        "value": "0.58s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 6
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 3,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--paper": "#eaece5",
+    "--site-margin": "16px",
+    "--ink": "#40400c",
+    "--lilac": "#b466eb",
+    "--ease": "cubic-bezier(.22,1,.36,1)"
+  },
+  "breakpoints": [
+    "min 900px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "collection-viewport",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#eaece5",
+      "backgroundImage": false,
+      "color": "#40400c",
+      "padding": "64px 39.456px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 31,
+        "gutterRight": 48,
+        "width": 1361,
+        "gutterTop": 361,
+        "gutterBottom": 390
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "23.62px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          16,
+          62,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "me",
+          "family": "Agrandir",
+          "size": 165.34,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#40400c"
+        }
+      ],
+      "bodyType": {
+        "family": "Agrandir",
+        "size": 165.34,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "like",
+      "media": {
+        "canvas": 2,
+        "svg": 8
+      }
+    },
+    {
+      "i": 2,
+      "tag": "footer",
+      "name": "footnote",
+      "y": 801,
+      "height": 60,
+      "position": "absolute",
+      "background": "#eaece5",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 39,
+        "gutterRight": 1033,
+        "width": 368,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "I spent the last 15 years designing products people love to click, tap, share, …",
+          "family": "Agrandir",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Agrandir",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 25,
+      "excerpt": "people love to click, tap, share, and come back to.",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 163,
+    "title": "Melike Turgut",
+    "url": "https://meliketurgut.com/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

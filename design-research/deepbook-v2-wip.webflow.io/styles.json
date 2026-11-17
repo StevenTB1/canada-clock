@@ -1,0 +1,984 @@
+{
+  "page": {
+    "url": "https://deepbook-v2-wip.webflow.io/",
+    "title": "DeepBook on Sui | Fully On-Chain Order Book for DeFi",
+    "description": "DeepBook is a fully on-chain order book on Sui powering spot, margin, and prediction markets with shared liquidity and fast, low-latency settlement.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 11345,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.8
+      },
+      {
+        "value": "#1e6ef3",
+        "share": 0.087
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.069
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.039
+      },
+      {
+        "value": "#6a7681",
+        "share": 0.003
+      },
+      {
+        "value": "#1b1b1b",
+        "share": 0.002
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.683
+      },
+      {
+        "value": "#000000",
+        "share": 0.119
+      },
+      {
+        "value": "#00000080",
+        "share": 0.06
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.054
+      },
+      {
+        "value": "#efefeb",
+        "share": 0.027
+      },
+      {
+        "value": "#1e6ef3",
+        "share": 0.022
+      },
+      {
+        "value": "#ffffff66",
+        "share": 0.018
+      },
+      {
+        "value": "#f3f3f3",
+        "share": 0.017
+      }
+    ],
+    "borders": [
+      {
+        "value": "#2a2f34",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.91,
+      "text": 0.978
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "TWKEverett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.167,
+        "transform": "none",
+        "chars": 619
+      },
+      {
+        "family": "TWKEverett",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.063,
+        "transform": "none",
+        "chars": 184
+      },
+      {
+        "family": "TWKEverett",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.167,
+        "transform": "none",
+        "chars": 164
+      },
+      {
+        "family": "TWKEverett",
+        "size": 15.01,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.133,
+        "transform": "none",
+        "chars": 157
+      },
+      {
+        "family": "TWKEverett",
+        "size": 48,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.063,
+        "transform": "none",
+        "chars": 95
+      },
+      {
+        "family": "TWKEverett",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.188,
+        "transform": "none",
+        "chars": 71
+      },
+      {
+        "family": "TWKEverett",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.167,
+        "transform": "none",
+        "chars": 61
+      },
+      {
+        "family": "TWKEverett",
+        "size": 81,
+        "weight": "500",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 44
+      },
+      {
+        "family": "TWKEverett",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.188,
+        "transform": "none",
+        "chars": 38
+      },
+      {
+        "family": "TWKEverett",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 32
+      },
+      {
+        "family": "TWKEverett",
+        "size": 102,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "TWKEverett",
+        "size": 81,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "TWKEverett",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.075,
+        "transform": "none",
+        "chars": 20
+      }
+    ],
+    "loadedFonts": [
+      "TWKEverett 500 normal",
+      "TWKEverett 400 normal",
+      "Inter 300 normal",
+      "Inter 400 normal",
+      "Inter 500 normal",
+      "Inter 600 normal",
+      "Inter 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 42
+    },
+    {
+      "px": 16,
+      "uses": 37
+    },
+    {
+      "px": 48,
+      "uses": 34
+    },
+    {
+      "px": 15,
+      "uses": 24
+    },
+    {
+      "px": 12,
+      "uses": 19
+    },
+    {
+      "px": 8,
+      "uses": 18
+    },
+    {
+      "px": 2,
+      "uses": 18
+    },
+    {
+      "px": 19,
+      "uses": 18
+    },
+    {
+      "px": 4,
+      "uses": 9
+    },
+    {
+      "px": 32,
+      "uses": 8
+    },
+    {
+      "px": 100,
+      "uses": 8
+    },
+    {
+      "px": 20,
+      "uses": 8
+    },
+    {
+      "px": 40,
+      "uses": 7
+    },
+    {
+      "px": 13,
+      "uses": 6
+    },
+    {
+      "px": 160,
+      "uses": 5
+    },
+    {
+      "px": 60,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "4px",
+      "uses": 9
+    },
+    {
+      "value": "3px",
+      "uses": 9
+    },
+    {
+      "value": "2px",
+      "uses": 6
+    },
+    {
+      "value": "6px",
+      "uses": 6
+    },
+    {
+      "value": "8px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 6
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--_colors---background--primary": "var(--_colors---primitives--black)",
+    "--_colors---primitives--white": "white",
+    "--_typography---size--h1": "5.125em",
+    "--_typography---size--h2": "3.5em",
+    "--_typography---size--h3": "3em",
+    "--_typography---size--h4": "2.5em",
+    "--_typography---size--18px": "1.125em",
+    "--_typography---size--16": "1em",
+    "--_typography---size--15px": ".938em",
+    "--_typography---size--21px": "1.313em",
+    "--_colors---text--primary": "var(--_colors---primitives--white)",
+    "--_colors---text--secondary": "var(--_colors---primitives--white-50)",
+    "--_colors---text--tertiary": "var(--_colors---primitives--white-40)",
+    "--_colors---text--invert": "var(--_colors---primitives--black)",
+    "--_colors---text--invert-secondary": "var(--_colors---primitives--black-50)",
+    "--_colors---text--subtle": "var(--_colors---primitives--off-white)",
+    "--_colors---text--paper": "#efefeb",
+    "--_colors---text--accent": "var(--_colors---primitives--blue)",
+    "--_spacing---48": "3em",
+    "--_spacing---40": "2.5em",
+    "--_spacing---24": "1.5em",
+    "--_colors---primitives--black-50": "#00000080",
+    "--_colors---primitives--white-50": "#ffffff80",
+    "--_colors---primitives--blue": "#1e6ef3",
+    "--_colors---primitives--black": "black",
+    "--_spacing---8": ".5em",
+    "--_spacing---4": ".25em",
+    "--_spacing---0": "0em",
+    "--_colors---primitives--dark-gray": "#2a2f34",
+    "--_spacing---16": "1em",
+    "--_colors---primitives--off-white": "#f3f3f3",
+    "--_spacing---32": "2em",
+    "--_spacing---20": "1.25em",
+    "--_spacing---12": ".75em",
+    "--_colors---primitives--cream": "#efefeb",
+    "--_colors---primitives--white-40": "#fff6",
+    "--_colors---background--secondary": "var(--_colors---primitives--white)",
+    "--_colors---background--accent": "var(--_colors---primitives--blue)",
+    "--_colors---border--default": "var(--_colors---primitives--dark-gray)",
+    "--_colors---button--primary": "var(--_colors---primitives--blue)",
+    "--_colors---button--secondary": "var(--_colors---primitives--black)",
+    "--size-unit": "16",
+    "--size-container-ideal": "375",
+    "--size-container-min": "320px",
+    "--size-container-max": "479px",
+    "--size-container": "clamp(var(--size-container-min), 100vw, var(--size-container-max))",
+    "--size-font": "calc(var(--size-container) / (var(--size-container-ideal) / var(--size-unit)))",
+    "--ease": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "--ease-deepbook": "cubic-bezier(0.65, 0, 0.35, 1)"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 479px",
+    "max 991px",
+    "min 768px",
+    "min 1921px",
+    "max 1920px",
+    "min 1440px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "navbar.w-nav",
+      "y": 0,
+      "height": 113,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 598,
+        "gutterRight": 373,
+        "width": 469,
+        "gutterTop": 12,
+        "gutterBottom": 23
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          14,
+          1
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "Build",
+          "family": "TWKEverett",
+          "size": 15.01,
+          "weight": "500",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.133,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Join the DeepBook App waitlist →",
+        "Build",
+        "Trade",
+        "DEEP Token",
+        "Docs"
+      ],
+      "words": 11,
+      "excerpt": "Join the DeepBook App waitlist →",
+      "media": {
+        "svg": 4
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "hero-home",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": true,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 228,
+        "gutterRight": 228,
+        "width": 985,
+        "gutterTop": 652,
+        "gutterBottom": 75
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          68,
+          19
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Where Sui Finance Starts",
+          "family": "TWKEverett",
+          "size": 81,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.167,
+        "transform": "none"
+      },
+      "labels": [
+        "Start Building",
+        "Start Trading"
+      ],
+      "words": 16,
+      "excerpt": "Spot. Margin. Predict. Three primitives, one financial stack.",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "div-block-2",
+      "y": 1120,
+      "height": 900,
+      "position": "sticky",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#efefeb",
+      "padding": "149px 0px 79px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 180,
+        "gutterRight": 852,
+        "width": 408,
+        "gutterTop": 198,
+        "gutterBottom": 396
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Spot. Margin. Predict.",
+          "family": "TWKEverett",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.075,
+          "transform": "none",
+          "color": "#efefeb"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.188,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "The Sui finance Stack",
+      "media": {
+        "svg": 6
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "home-builders",
+      "y": 5668,
+      "height": 858,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "100px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 133,
+        "width": 1228,
+        "gutterTop": 132,
+        "gutterBottom": 127
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          46,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Builders",
+          "family": "TWKEverett",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Traders",
+          "family": "TWKEverett",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.167,
+        "transform": "none"
+      },
+      "labels": [
+        "Explore The Builder Hub",
+        "Explore The Trader Hub"
+      ],
+      "words": 67,
+      "excerpt": "Composable primitives that handle the hard parts, providing plug and play, margin",
+      "media": {
+        "svg": 6
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "home-db.container-1440",
+      "y": 6526,
+      "height": 1060,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f3f3f3",
+      "padding": "400px 0px 480px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 290,
+        "gutterRight": 290,
+        "width": 860,
+        "gutterTop": 400,
+        "gutterBottom": 480
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          60,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Who’s Building On DeepBook",
+          "family": "TWKEverett",
+          "size": 102,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f3f3f3"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 102,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Who’s Building On DeepBook",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "home-built",
+      "y": 7586,
+      "height": 1099,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "240px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 54,
+        "width": 1362,
+        "gutterTop": 240,
+        "gutterBottom": -431
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "160px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The teams below skipped the hard parts and launched on DeepBook’s financial sta…",
+          "family": "TWKEverett",
+          "size": 48,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.063,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": -0.063,
+        "transform": "none"
+      },
+      "labels": [
+        "Start Building",
+        "Start Trading"
+      ],
+      "words": 271,
+      "excerpt": "The result? Deeper markets, better execution, and a stronger DeFi ecosystem on",
+      "media": {
+        "svg": 27
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "home-security",
+      "y": 8685,
+      "height": 860,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#00000080",
+      "padding": "200px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 140,
+        "gutterRight": 779,
+        "width": 521,
+        "gutterTop": 271,
+        "gutterBottom": 286
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "64px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          38,
+          38
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Battle-Tested Security",
+          "family": "TWKEverett",
+          "size": 81,
+          "weight": "500",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.167,
+        "transform": "none"
+      },
+      "labels": [
+        "Audit report",
+        "Bug bounty"
+      ],
+      "words": 17,
+      "excerpt": "Audited. Bounty-protected. Fully transparent. Security isn’t an afterthought. It's built …",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "cta-section",
+      "y": 9545,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 368,
+        "gutterRight": 368,
+        "width": 703,
+        "gutterTop": 269,
+        "gutterBottom": 284
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          56
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Where Sui Finance Starts",
+          "family": "TWKEverett",
+          "size": 81,
+          "weight": "500",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.167,
+        "transform": "none"
+      },
+      "labels": [
+        "Start Building",
+        "Start Trading"
+      ],
+      "words": 19,
+      "excerpt": "The strongest products come from the strongest foundations.",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "footer",
+      "name": "footer",
+      "y": 10445,
+      "height": 900,
+      "position": "relative",
+      "background": "#1e6ef3",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "48px 0px 160px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 752,
+        "gutterRight": 65,
+        "width": 623,
+        "gutterTop": 48,
+        "gutterBottom": 483
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "64px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          44
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Build",
+          "family": "TWKEverett",
+          "size": 18,
+          "weight": "500",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.167,
+          "transform": "none",
+          "color": "#ffffff66"
+        }
+      ],
+      "bodyType": {
+        "family": "TWKEverett",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.167,
+        "transform": "none"
+      },
+      "labels": [
+        "Start Building",
+        "Docs",
+        "GitHub",
+        "Start Trading",
+        "DEEP Token",
+        "Audit Report",
+        "Privacy Policy",
+        "Terms of Use",
+        "Bug Bounty",
+        "Media Kit"
+      ],
+      "words": 29,
+      "excerpt": "Start Building",
+      "media": {
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 174,
+    "title": "DeepBook",
+    "award": "SOTD",
+    "url": "https://deepbook-v2-wip.webflow.io/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/deepbook",
+    "categories": [
+      "Business & Corporate",
+      "Technology",
+      "Web & Interactive"
+    ]
+  }
+}

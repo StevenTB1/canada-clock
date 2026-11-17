@@ -1,0 +1,467 @@
+{
+  "page": {
+    "url": "https://houmahani.com/",
+    "title": "Houmahani Kane · Freelance Creative Developer",
+    "description": "Houmahani Kane designs and builds interactive web experiences for brands and creative teams — an interactive Three.js portfolio.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#241f19f5",
+        "share": 0.82
+      },
+      {
+        "value": "#001d82",
+        "share": 0.18
+      },
+      {
+        "value": "#241f1985",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#241f19f5",
+        "share": 0.437
+      },
+      {
+        "value": "#161616",
+        "share": 0.26
+      },
+      {
+        "value": "#f2efcd",
+        "share": 0.091
+      },
+      {
+        "value": "#241f1985",
+        "share": 0.082
+      },
+      {
+        "value": "#3a3229b3",
+        "share": 0.044
+      },
+      {
+        "value": "#fefcf7",
+        "share": 0.025
+      },
+      {
+        "value": "#231f1ae6",
+        "share": 0.021
+      },
+      {
+        "value": "#000000",
+        "share": 0.021
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.019
+      }
+    ],
+    "borders": [
+      {
+        "value": "#241f19f5",
+        "share": 0.5
+      },
+      {
+        "value": "#001d82",
+        "share": 0.25
+      },
+      {
+        "value": "#241e1856",
+        "share": 0.25
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.821,
+      "text": 0.865
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Archivo",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 255
+      },
+      {
+        "family": "Archivo",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 75
+      },
+      {
+        "family": "DM Mono",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.16,
+        "transform": "uppercase",
+        "chars": 58
+      },
+      {
+        "family": "Archivo",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 34
+      },
+      {
+        "family": "DM Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.12,
+        "transform": "uppercase",
+        "chars": 34
+      },
+      {
+        "family": "Archivo",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 30
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": -0.035,
+        "transform": "none",
+        "chars": 28
+      },
+      {
+        "family": "Archivo",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 23
+      },
+      {
+        "family": "Archivo",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 19
+      },
+      {
+        "family": "Archivo",
+        "size": 13,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "Archivo",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 16
+      },
+      {
+        "family": "DM Mono",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0.12,
+        "transform": "uppercase",
+        "chars": 14
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 28.8,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.035,
+        "transform": "none",
+        "chars": 13
+      },
+      {
+        "family": "Instrument Sans",
+        "size": 24,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 13
+      }
+    ],
+    "loadedFonts": [
+      "Instrument Sans 400 700 normal",
+      "Archivo 500 normal",
+      "Archivo 600 normal",
+      "DM Mono 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 14,
+      "uses": 10
+    },
+    {
+      "px": 10,
+      "uses": 9
+    },
+    {
+      "px": 8,
+      "uses": 8
+    },
+    {
+      "px": 4,
+      "uses": 8
+    },
+    {
+      "px": 100,
+      "uses": 4
+    },
+    {
+      "px": 11,
+      "uses": 4
+    },
+    {
+      "px": 5,
+      "uses": 4
+    },
+    {
+      "px": 2,
+      "uses": 2
+    },
+    {
+      "px": 3,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 22,
+      "uses": 2
+    },
+    {
+      "px": 18,
+      "uses": 1
+    },
+    {
+      "px": 16,
+      "uses": 1
+    },
+    {
+      "px": 28,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "999px",
+      "uses": 7
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.26s ease",
+        "uses": 10
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.38s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.45s cubic-bezier(0.65, 0, 0.35, 1)",
+        "uses": 3
+      },
+      {
+        "value": "0.16s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.32s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 1,
+    "videos": 4
+  },
+  "cssVariables": {
+    "--app-bg": "#e6ddcf",
+    "--app-haze": "#f1eadf",
+    "--panel-line": "rgba(91, 78, 63, .18)",
+    "--panel-text": "rgba(36, 31, 25, .9)",
+    "--panel-muted": "rgba(58, 50, 41, .52)",
+    "--panel-strong": "rgba(37, 32, 26, .96)",
+    "--panel-chrome": "#525252",
+    "--accent": "#d9c3a5",
+    "--accent-rgb": "217, 195, 165",
+    "--focus-overlay-width": "max(55vw, 42.5rem)",
+    "--font-display": "\"Instrument Sans\", \"Archivo\", \"Helvetica Neue\", sans-serif",
+    "--font-chrome": "\"Archivo\", \"Helvetica Neue\", Arial, sans-serif",
+    "--font-mono": "\"DM Mono\", ui-monospace, monospace",
+    "--t-display": "clamp(2rem, 5vw, 3.1rem)",
+    "--t-display-track": "-.035em",
+    "--t-hero": "clamp(1.5rem, 3.4vw, 2.3rem)",
+    "--t-hero-track": "-.035em",
+    "--t-numeral": "2.4rem",
+    "--t-numeral-track": "-.04em",
+    "--t-body": ".9375rem",
+    "--t-ui": ".875rem",
+    "--t-action": ".8125rem",
+    "--t-action-track": "-.005em",
+    "--t-value": ".8125rem",
+    "--t-value-track": "-.01em",
+    "--t-label": ".6875rem",
+    "--t-label-track": ".12em",
+    "--t-micro": ".625rem",
+    "--t-micro-track": ".16em"
+  },
+  "breakpoints": [
+    "max 960px",
+    "min 961px",
+    "max 640px",
+    "max 360px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "app",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#241f19f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 20,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "100px",
+        "justify": "normal",
+        "align": "start",
+        "children": 3,
+        "childWidthsPct": [
+          18,
+          23,
+          9
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Houmahani Kane",
+          "family": "DM Mono",
+          "size": 11,
+          "weight": "400",
+          "lineHeight": "normal",
+          "letterSpacing": 0.12,
+          "transform": "uppercase",
+          "color": "#161616"
+        },
+        {
+          "tag": "h2",
+          "text": "Renault Group",
+          "family": "Instrument Sans",
+          "size": 28.8,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.035,
+          "transform": "none",
+          "color": "#241f19f5"
+        }
+      ],
+      "bodyType": {
+        "family": "Archivo",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Houmahani Kane",
+        "SOUND IS OFF · THE EXPERIENCE COMES ALI…",
+        "directory",
+        "default view",
+        "electric view",
+        "Renault Group",
+        "Paris Aéroport",
+        "Sia Experience",
+        "hello@houmahani.com COPIED",
+        "LinkedIn"
+      ],
+      "words": 99,
+      "excerpt": "An immersive concept for the intranet of the future, designed as a",
+      "media": {
+        "img": 1,
+        "video": 4,
+        "canvas": 1,
+        "svg": 15
+      }
+    }
+  ],
+  "listing": {
+    "rank": 139,
+    "title": "Houmahani Kane",
+    "award": "HM",
+    "url": "https://houmahani.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/houmahani-kane",
+    "categories": [
+      "Web & Interactive",
+      "Portfolio",
+      "Experimental"
+    ]
+  }
+}

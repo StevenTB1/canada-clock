@@ -1,0 +1,1018 @@
+{
+  "page": {
+    "url": "https://byotone.com/",
+    "title": "Nervous-system regulation through live sound · Byotōne",
+    "description": "Byotōne creates modern live somatic experiences designed to move the body out of stress and overwhelm, into calm and focus.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 14994,
+    "generator": "Astro v7.4.12"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#191a1e",
+        "share": 0.971
+      },
+      {
+        "value": "#0101010f",
+        "share": 0.02
+      },
+      {
+        "value": "#acffce",
+        "share": 0.006
+      },
+      {
+        "value": "#0101011a",
+        "share": 0.002
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.836
+      },
+      {
+        "value": "#acffce",
+        "share": 0.118
+      },
+      {
+        "value": "#010101a6",
+        "share": 0.03
+      },
+      {
+        "value": "#191a1e",
+        "share": 0.011
+      },
+      {
+        "value": "#01010180",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#acffce",
+        "share": 0.5
+      },
+      {
+        "value": "#0101014d",
+        "share": 0.429
+      },
+      {
+        "value": "#01010126",
+        "share": 0.071
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.993,
+      "text": 0.881
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "General Sans",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1154
+      },
+      {
+        "family": "General Sans",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 485
+      },
+      {
+        "family": "Montiac Mono",
+        "size": 28,
+        "weight": "700",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 231
+      },
+      {
+        "family": "Space Mono",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 149
+      },
+      {
+        "family": "Space Mono",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 143
+      },
+      {
+        "family": "Montiac Mono",
+        "size": 43.2,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 142
+      },
+      {
+        "family": "General Sans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 74
+      },
+      {
+        "family": "Space Mono",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 68
+      },
+      {
+        "family": "Montiac Mono",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 65
+      },
+      {
+        "family": "Montiac Mono",
+        "size": 93.6,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 49
+      },
+      {
+        "family": "Space Mono",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 41
+      },
+      {
+        "family": "Montiac Mono",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 30
+      },
+      {
+        "family": "General Sans",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 7
+      },
+      {
+        "family": "General Sans",
+        "size": 20,
+        "weight": "600",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 7
+      }
+    ],
+    "loadedFonts": [
+      "Montiac Mono 400 normal",
+      "General Sans 1 999 normal",
+      "Space Mono 400 normal",
+      "Space Mono 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 6,
+      "uses": 78
+    },
+    {
+      "px": 12,
+      "uses": 69
+    },
+    {
+      "px": 8,
+      "uses": 55
+    },
+    {
+      "px": 32,
+      "uses": 32
+    },
+    {
+      "px": 16,
+      "uses": 26
+    },
+    {
+      "px": 4,
+      "uses": 14
+    },
+    {
+      "px": 19,
+      "uses": 12
+    },
+    {
+      "px": 10,
+      "uses": 7
+    },
+    {
+      "px": 20,
+      "uses": 6
+    },
+    {
+      "px": 24,
+      "uses": 6
+    },
+    {
+      "px": 108,
+      "uses": 5
+    },
+    {
+      "px": 25,
+      "uses": 2
+    },
+    {
+      "px": 64,
+      "uses": 1
+    },
+    {
+      "px": 7,
+      "uses": 1
+    },
+    {
+      "px": 40,
+      "uses": 1
+    },
+    {
+      "px": 135,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "100%",
+      "uses": 23
+    },
+    {
+      "value": "900px",
+      "uses": 20
+    },
+    {
+      "value": "50%",
+      "uses": 6
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.25s cubic-bezier(0.165, 0.84, 0.44, 1)",
+        "uses": 101
+      },
+      {
+        "value": "0.5s cubic-bezier(0.33, 1, 0.68, 1)",
+        "uses": 37
+      },
+      {
+        "value": "0.2s cubic-bezier(0.165, 0.84, 0.44, 1)",
+        "uses": 28
+      },
+      {
+        "value": "0.4s cubic-bezier(0.165, 0.84, 0.44, 1)",
+        "uses": 8
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.8s cubic-bezier(0.33, 1, 0.68, 1)",
+        "uses": 8
+      }
+    ],
+    "cssAnimatedElements": 62,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--screen": "100dvh",
+    "--container-width": "1800px",
+    "--margin-side": "clamp(16px, 3.5vh, 48px)",
+    "--space-xs": "clamp(32px, 2.5vw, 48px)",
+    "--space-sm": "clamp(48px, 4vw, 64px)",
+    "--space-md": "clamp(64px, 5vw, 80px)",
+    "--space-lg": "clamp(80px, 8vw, 120px)",
+    "--space-xl": "clamp(120px, 12vw, 160px)",
+    "--columns": "12",
+    "--column": "calc(min(100vw, var(--container-width)) / var(--columns))",
+    "--gap": "clamp(16px, 1vw, 24px)",
+    "--color-white": "#fff",
+    "--color-white-65": "rgb(from var(--color-white) r g b / 65%)",
+    "--color-white-50": "rgb(from var(--color-white) r g b / 50%)",
+    "--color-white-30": "rgb(from var(--color-white) r g b / 30%)",
+    "--color-white-15": "rgb(from var(--color-white) r g b / 15%)",
+    "--color-white-10": "rgb(from var(--color-white) r g b / 10%)",
+    "--color-white-6": "rgb(from var(--color-white) r g b / 6%)",
+    "--color-darkgray": "#191a1e",
+    "--color-accent-purple": "#a2a7ff",
+    "--color-accent-cyan": "#89eefa",
+    "--color-accent-green": "#acffce",
+    "--color-accent-yellow": "#ffe990",
+    "--color-accent-pink": "#f4a2c3",
+    "--color-accent": "var(--color-accent-green)",
+    "--color-accent-5": "rgb(from var(--color-accent) r g b / 5%)",
+    "--color-accent-15": "rgb(from var(--color-accent) r g b / 15%)",
+    "--color-accent-20": "rgb(from var(--color-accent) r g b / 20%)",
+    "--color-red": "#e72942",
+    "--color-backdrop": "#000000bf",
+    "--bg-panel": "var(--texture,none) 50% 0 / 100vw 100lvh no-repeat, var(--color-darkgray)",
+    "--font-sans": "\"General Sans\", helvetica, arial, sans-serif",
+    "--font-title": "\"Montiac Mono\", monospace, serif",
+    "--font-mono": "\"Space Mono\", monospace",
+    "--dash-pattern": "2 3 4 5",
+    "--dash-cycle": "14px",
+    "--dash-cycle-thick": "16px",
+    "--dash-pattern-thick": "2 4 4 6",
+    "--dash-duration": ".75s",
+    "--transition-accent": ".5s var(--ease-cubic)",
+    "--transition-hover": ".2s var(--ease-quart)",
+    "--ease-quart": "cubic-bezier(.165, .84, .44, 1)",
+    "--ease-quart-inout": "cubic-bezier(.76, 0, .24, 1)",
+    "--ease-cubic": "cubic-bezier(.33, 1, .68, 1)",
+    "--ease-cubic-inout": "cubic-bezier(.785, .135, .15, .86)",
+    "--scrollbar-color-thumb": "var(--color-accent)",
+    "--scrollbar-color-track": "var(--color-darkgray)",
+    "--scrollbar-width": "thin",
+    "--scrollbar-width-legacy": "10px"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header.container",
+      "y": 0,
+      "height": 68,
+      "position": "fixed",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "31.5px 31.5px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 88,
+        "gutterRight": 32,
+        "width": 1321,
+        "gutterTop": 20,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          10,
+          36
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "BYOTŌNE",
+          "family": "General Sans",
+          "size": 18,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Space Mono",
+        "size": 14,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "BYOTŌNE",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "SESSIONS"
+      ],
+      "words": 12,
+      "excerpt": "Sessions",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "Welcome",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "31.5px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 560,
+        "gutterRight": 560,
+        "width": 320,
+        "gutterTop": 317,
+        "gutterBottom": 241
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "64px normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "EXPERIENCE A NEW AUDIO JOURNEY",
+          "family": "Montiac Mono",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "General Sans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "ENTER WITH SOUND",
+        "ENTER QUIETLY"
+      ],
+      "words": 23,
+      "excerpt": "We recommend enabling sound to get immersed and enjoy the full experience.",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "intro",
+      "y": 0,
+      "height": 1800,
+      "position": "relative",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 148,
+        "gutterRight": 125,
+        "width": 1167,
+        "gutterTop": 214,
+        "gutterBottom": 961
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 16px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          80,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "YOUR NERVOUS SYSTEM IS OVERLOADED IT’S TIME TO REGULATE IT",
+          "family": "Montiac Mono",
+          "size": 93.6,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "General Sans",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "BOOK A SESSION",
+        "DISCOVER"
+      ],
+      "words": 43,
+      "excerpt": "Byotōne creates live somatic experiences designed to move the body from stress",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "concept",
+      "y": 1800,
+      "height": 1800,
+      "position": "relative",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 92,
+        "gutterRight": 205,
+        "width": 1143,
+        "gutterTop": -1662,
+        "gutterBottom": 2814
+      },
+      "layout": {
+        "display": "inline-flex",
+        "direction": "row",
+        "gap": "4px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          2,
+          9,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "A regulator for your nervous systemA regulator for your nervous system",
+          "family": "Montiac Mono",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "General Sans",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 35,
+      "excerpt": "At the convergence of Nada Yoga, somatic practice and Japanese kankyō ongaku,",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "needs",
+      "y": 3600,
+      "height": 1494,
+      "position": "relative",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 381,
+        "gutterRight": 136,
+        "width": 923,
+        "gutterTop": -3462,
+        "gutterBottom": 4308
+      },
+      "layout": {
+        "display": "inline-flex",
+        "direction": "row",
+        "gap": "4px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          2,
+          9,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Why do you need it?Why do you need it?",
+          "family": "Montiac Mono",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "General Sans",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 42,
+      "excerpt": "Everything around and within us is connected by frequency. When we learn",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "science",
+      "y": 5094,
+      "height": 1800,
+      "position": "relative",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 323,
+        "gutterRight": 148,
+        "width": 969,
+        "gutterTop": -4911,
+        "gutterBottom": 6166
+      },
+      "layout": {
+        "display": "inline-flex",
+        "direction": "row",
+        "gap": "4px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          2,
+          12,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "We are all harmonic beingsWe are all harmonic beings",
+          "family": "Montiac Mono",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "General Sans",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 35,
+      "excerpt": "Byotōne composes live frequencies, spatial movement and low vibrations that the body",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "testimonials",
+      "y": 6894,
+      "height": 1800,
+      "position": "relative",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 92,
+        "gutterRight": 140,
+        "width": 1209,
+        "gutterTop": -6786,
+        "gutterBottom": 7910
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Real voices, real shiftsReal voices, real shifts",
+          "family": "Montiac Mono",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "General Sans",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 138,
+      "excerpt": "Hear from our community of people who experienced more than sound: a",
+      "media": {
+        "img": 6,
+        "svg": 6
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "services",
+      "y": 8694,
+      "height": 1800,
+      "position": "relative",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 327,
+        "gutterRight": 186,
+        "width": 927,
+        "gutterTop": -8511,
+        "gutterBottom": 9696
+      },
+      "layout": {
+        "display": "inline-flex",
+        "direction": "row",
+        "gap": "4px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          2,
+          9,
+          13
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Sound for body and spaceSound for body and space",
+          "family": "Montiac Mono",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "General Sans",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 35,
+      "excerpt": "We create live sound rituals, nervous-system resets and bespoke sonic environments for",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "faq",
+      "y": 10494,
+      "height": 1800,
+      "position": "relative",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 92,
+        "gutterRight": 196,
+        "width": 1153,
+        "gutterTop": 510,
+        "gutterBottom": 514
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "normal 16px",
+        "justify": "normal",
+        "align": "start",
+        "children": 2,
+        "childWidthsPct": [
+          28,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "QUESTIONS, ANSWERED QUESTIONS, ANSWERED",
+          "family": "Montiac Mono",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "Montiac Mono",
+        "size": 28,
+        "weight": "700",
+        "lineHeight": 1.1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 71,
+      "excerpt": "New to somatic sound? Discover what makes the experience different, how it",
+      "media": {
+        "svg": 6
+      }
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "name": "contact",
+      "y": 12294,
+      "height": 1800,
+      "position": "relative",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px 0px 900px",
+      "border": null,
+      "content": {
+        "gutterLeft": 320,
+        "gutterRight": 258,
+        "width": 862,
+        "gutterTop": -12202,
+        "gutterBottom": 13411
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "SEND US YOUR SIGNAL SEND US YOUR SIGNAL",
+          "family": "Montiac Mono",
+          "size": 43.2,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#acffce"
+        }
+      ],
+      "bodyType": {
+        "family": "General Sans",
+        "size": 18,
+        "weight": "500",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 30,
+      "excerpt": "Leave a voice message to share your experience, open a collaboration, or",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "webgl-scene",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#191a1e",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 26,
+    "title": "Byotōne",
+    "award": "HM",
+    "url": "https://byotone.com/",
+    "awwwards": "https://www.awwwards.com/sites/byotone",
+    "categories": [
+      "Experimental",
+      "Business & Corporate",
+      "Music & Sound"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

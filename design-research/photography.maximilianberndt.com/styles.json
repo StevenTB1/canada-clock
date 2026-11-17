@@ -1,0 +1,161 @@
+{
+  "page": {
+    "url": "https://photography.maximilianberndt.com/",
+    "title": "Maximilian Berndt",
+    "description": "Photography",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 5269,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.963
+      },
+      {
+        "value": "#16161c99",
+        "share": 0.037
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Suisse Intl",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.008,
+        "transform": "none",
+        "chars": 27
+      }
+    ],
+    "loadedFonts": [
+      "Suisse Intl 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 11
+    },
+    {
+      "px": 5,
+      "uses": 2
+    },
+    {
+      "px": 90,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 6
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto S",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-red-500": "oklch(63.7% .237 25.331)",
+    "--color-black": "#16161d",
+    "--color-white": "#fdfdfd",
+    "--spacing": ".1rem",
+    "--leading-tight": "1.25",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--spacing-page-x": "calc(var(--spacing) * 24)",
+    "--spacing-page-y": "calc(var(--spacing) * 24)",
+    "--spacing-grid-x": "calc(var(--spacing) * 24)",
+    "--color-background": "var(--color-white)",
+    "--color-foreground": "var(--color-black)",
+    "--font-suisse": "\"Suisse Intl\", system-ui, -apple-system, sans-serif"
+  },
+  "breakpoints": [],
+  "tech": [
+    "lenis"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": "type-text.font-suisse",
+      "y": 0,
+      "height": 5269,
+      "position": "static",
+      "background": "#fdfdfd",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 24,
+        "width": 1392,
+        "gutterTop": 856,
+        "gutterBottom": 4388
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Maximilian Berndt",
+          "family": "Suisse Intl",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": -0.008,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.008,
+        "transform": "none"
+      },
+      "labels": [
+        "Contact"
+      ],
+      "words": 5,
+      "excerpt": "Maximilian Berndt",
+      "media": {
+        "img": 86,
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 161,
+    "title": "Maximilian Berndt",
+    "url": "https://photography.maximilianberndt.com/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

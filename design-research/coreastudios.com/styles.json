@@ -1,0 +1,382 @@
+{
+  "page": {
+    "url": "https://www.coreastudios.com/",
+    "title": "CORE-A",
+    "description": "We are an English speaking full service video production studio based in Seoul, South Korea",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 35996,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#161515",
+        "share": 1
+      },
+      {
+        "value": "#f5f0e133",
+        "share": 0
+      },
+      {
+        "value": "#ff1b50",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#f3f1e2",
+        "share": 0.988
+      },
+      {
+        "value": "#f5f0e133",
+        "share": 0.012
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Lausanne Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.125,
+        "transform": "none",
+        "chars": 592
+      },
+      {
+        "family": "RecordDisc-Black",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0.042,
+        "transform": "uppercase",
+        "chars": 552
+      },
+      {
+        "family": "Lausanne Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.125,
+        "transform": "none",
+        "chars": 43
+      }
+    ],
+    "loadedFonts": [
+      "Lausanne Regular 400 normal",
+      "RecordDisc-Black 400 normal",
+      "RecordDisc-Regular 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 75
+    },
+    {
+      "px": 5,
+      "uses": 20
+    },
+    {
+      "px": 6,
+      "uses": 16
+    },
+    {
+      "px": 18,
+      "uses": 10
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 88,
+      "uses": 2
+    },
+    {
+      "px": 35096,
+      "uses": 1
+    },
+    {
+      "px": 20,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "8px",
+      "uses": 33
+    },
+    {
+      "value": "4px",
+      "uses": 10
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s ease",
+        "uses": 43
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 33
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 10
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 0,
+    "videos": 33
+  },
+  "cssVariables": {},
+  "breakpoints": [],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "grid.site-header",
+      "y": 0,
+      "height": 83,
+      "position": "fixed",
+      "background": "#161515",
+      "backgroundImage": false,
+      "color": "#f3f1e2",
+      "padding": "24px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 55,
+        "width": 1361,
+        "gutterTop": 33,
+        "gutterBottom": 33
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          31,
+          31,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Core-A",
+          "family": "Lausanne Regular",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0.125,
+          "transform": "none",
+          "color": "#f3f1e2"
+        }
+      ],
+      "bodyType": {
+        "family": "Lausanne Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.125,
+        "transform": "none"
+      },
+      "labels": [
+        "Core-A"
+      ],
+      "words": 2,
+      "excerpt": "Core-A",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "main-menu-root",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#161515",
+      "backgroundImage": false,
+      "color": "#f3f1e2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 87,
+        "gutterRight": 1262,
+        "width": 91,
+        "gutterTop": 336,
+        "gutterBottom": 318
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          6,
+          7,
+          3,
+          7,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "VFX",
+          "family": "Lausanne Regular",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": 0.125,
+          "transform": "none",
+          "color": "#f3f1e2"
+        }
+      ],
+      "bodyType": {
+        "family": "Lausanne Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": 0.125,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "Directors",
+      "media": {
+        "img": 7
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "outer-content-wrap.grid",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#161515",
+      "backgroundImage": false,
+      "color": "#f3f1e2",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 487,
+        "gutterRight": 363,
+        "width": 590,
+        "gutterTop": 715,
+        "gutterBottom": 169
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          64
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CRUSH “SEESAW” (FEAT. IU) MV",
+          "family": "RecordDisc-Black",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.042,
+          "transform": "uppercase",
+          "color": "#f3f1e2"
+        },
+        {
+          "tag": "h2",
+          "text": "DON’T MIND MY CLAWS",
+          "family": "RecordDisc-Black",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.042,
+          "transform": "uppercase",
+          "color": "#f3f1e2"
+        },
+        {
+          "tag": "h2",
+          "text": "JANGIN",
+          "family": "RecordDisc-Black",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.042,
+          "transform": "uppercase",
+          "color": "#f3f1e2"
+        },
+        {
+          "tag": "h2",
+          "text": "MADE FOR THIS MOMENT",
+          "family": "RecordDisc-Black",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0.042,
+          "transform": "uppercase",
+          "color": "#f3f1e2"
+        }
+      ],
+      "bodyType": {
+        "family": "Lausanne Regular",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.125,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 216,
+      "excerpt": "Girl in Blue / Fight Gravity - Production Service",
+      "media": {
+        "video": 33
+      }
+    }
+  ],
+  "listing": {
+    "rank": 151,
+    "title": "Core-A Studios",
+    "url": "https://www.coreastudios.com/",
+    "source": "siteinspire.com",
+    "listing": "https://www.siteinspire.com/websites/category/portfolio",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

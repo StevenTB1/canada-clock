@@ -1,0 +1,221 @@
+{
+  "page": {
+    "url": "chrome-error://chromewebdata/",
+    "title": "thefutureinblack.com",
+    "description": null,
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#5f6368",
+        "share": 0.856
+      },
+      {
+        "value": "#202124",
+        "share": 0.144
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "system-ui",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 94
+      },
+      {
+        "family": "system-ui",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 2,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 31
+      },
+      {
+        "family": "system-ui",
+        "size": 15,
+        "weight": "700",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 29
+      },
+      {
+        "family": "system-ui",
+        "size": 24,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 26
+      }
+    ],
+    "loadedFonts": []
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 15,
+      "uses": 2
+    },
+    {
+      "px": 126,
+      "uses": 1
+    },
+    {
+      "px": 40,
+      "uses": 1
+    },
+    {
+      "px": 12,
+      "uses": 1
+    },
+    {
+      "px": 51,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--background-color": "var(--google-gray-900)",
+    "--error-code-color": "var(--google-gray-500)",
+    "--google-blue-50": "rgb(232, 240, 254)",
+    "--google-blue-100": "rgb(210, 227, 252)",
+    "--google-blue-300": "rgb(138, 180, 248)",
+    "--google-blue-600": "rgb(26, 115, 232)",
+    "--google-blue-700": "rgb(25, 103, 210)",
+    "--google-gray-100": "rgb(241, 243, 244)",
+    "--google-gray-300": "rgb(218, 220, 224)",
+    "--google-gray-500": "rgb(154, 160, 166)",
+    "--google-gray-50": "rgb(248, 249, 250)",
+    "--google-gray-600": "rgb(128, 134, 139)",
+    "--google-gray-700": "rgb(95, 99, 104)",
+    "--google-gray-800": "rgb(60, 64, 67)",
+    "--google-gray-900": "rgb(32, 33, 36)",
+    "--heading-color": "var(--google-gray-500)",
+    "--link-color": "var(--google-blue-300)",
+    "--primary-button-fill-color-active": "rgb(129, 162, 208)",
+    "--primary-button-fill-color": "var(--google-blue-300)",
+    "--primary-button-text-color": "var(--google-gray-900)",
+    "--quiet-background-color": "var(--background-color)",
+    "--secondary-button-border-color": "var(--google-gray-700)",
+    "--secondary-button-fill-color": "var(--google-gray-900)",
+    "--secondary-button-hover-border-color": "var(--google-gray-600)",
+    "--secondary-button-hover-fill-color": "rgb(48, 51, 57)",
+    "--secondary-button-text-color": "var(--google-blue-300)",
+    "--small-link-color": "var(--google-blue-300)",
+    "--text-color": "var(--google-gray-500)"
+  },
+  "breakpoints": [
+    "max 420px",
+    "min 421px",
+    "min 240px",
+    "max 414px",
+    "max 700px",
+    "max 419px",
+    "max 239px",
+    "max 640px",
+    "max 200px",
+    "min 420px"
+  ],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "content",
+      "y": 126,
+      "height": 315,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#5f6368",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 420,
+        "gutterRight": 420,
+        "width": 600,
+        "gutterTop": 119,
+        "gutterBottom": 67
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "This site can’t be reached",
+          "family": "system-ui",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.25,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#202124"
+        }
+      ],
+      "bodyType": {
+        "family": "system-ui",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 25,
+      "excerpt": "might be temporarily down or it may have moved permanently to a",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 69,
+    "title": "The Future In Black",
+    "award": "HM",
+    "url": "https://thefutureinblack.com/",
+    "awwwards": "https://www.awwwards.com/sites/the-future-in-black",
+    "categories": [
+      "Art & Illustration",
+      "Culture & Education",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

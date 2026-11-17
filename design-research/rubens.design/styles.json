@@ -1,0 +1,516 @@
+{
+  "page": {
+    "url": "https://www.rubens.design/",
+    "title": "Rubens Cantuni — Digital Product Designer",
+    "description": "Portfolio of Rubens Cantuni — Digital Product Designer specialising in interaction design, design systems, and creative product experiences.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#fafafa",
+        "share": 0.634
+      },
+      {
+        "value": "#000000",
+        "share": 0.317
+      },
+      {
+        "value": "#ffffff4d",
+        "share": 0.013
+      },
+      {
+        "value": "#0a0a0ad9",
+        "share": 0.013
+      },
+      {
+        "value": "#ffffff73",
+        "share": 0.013
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.005
+      },
+      {
+        "value": "#000000bf",
+        "share": 0.003
+      },
+      {
+        "value": "#ffffffb3",
+        "share": 0.002
+      },
+      {
+        "value": "#00000014",
+        "share": 0
+      },
+      {
+        "value": "#1d1d1f",
+        "share": 0
+      },
+      {
+        "value": "#2a2a2c",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.574
+      },
+      {
+        "value": "#48484a",
+        "share": 0.115
+      },
+      {
+        "value": "#ffffff73",
+        "share": 0.115
+      },
+      {
+        "value": "#8e8e93",
+        "share": 0.108
+      },
+      {
+        "value": "#ffffff59",
+        "share": 0.061
+      },
+      {
+        "value": "#1d1d1f",
+        "share": 0.027
+      }
+    ],
+    "borders": [
+      {
+        "value": "#0000001f",
+        "share": 0.4
+      },
+      {
+        "value": "#00000014",
+        "share": 0.2
+      },
+      {
+        "value": "#1d1d1f",
+        "share": 0.1
+      },
+      {
+        "value": "#ffffff8c",
+        "share": 0.1
+      },
+      {
+        "value": "#ffffff99",
+        "share": 0.1
+      },
+      {
+        "value": "#ffffff12",
+        "share": 0.1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Satoshi",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "Satoshi",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 34
+      },
+      {
+        "family": "Satoshi",
+        "size": 11,
+        "weight": "600",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "Satoshi",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "monospace",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "Satoshi 400 normal",
+      "Satoshi 500 normal",
+      "Satoshi 700 normal",
+      "JetBrains Mono 400 normal",
+      "JetBrains Mono 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 46
+    },
+    {
+      "px": 8,
+      "uses": 15
+    },
+    {
+      "px": 2,
+      "uses": 10
+    },
+    {
+      "px": 12,
+      "uses": 8
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 3,
+      "uses": 5
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 6,
+      "uses": 4
+    },
+    {
+      "px": 14,
+      "uses": 4
+    },
+    {
+      "px": 5,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "20px",
+      "uses": 16
+    },
+    {
+      "value": "50%",
+      "uses": 11
+    },
+    {
+      "value": "12px",
+      "uses": 8
+    },
+    {
+      "value": "6px",
+      "uses": 6
+    },
+    {
+      "value": "999px",
+      "uses": 6
+    },
+    {
+      "value": "16px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s ease",
+        "uses": 20
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 11
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.6s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.75s ease-in-out",
+        "uses": 5
+      },
+      {
+        "value": "0.4s ease",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 4,
+    "canvases": 6,
+    "videos": 29
+  },
+  "cssVariables": {
+    "--bg": "#FAFAFA",
+    "--bg-gradient": "linear-gradient(160deg, #FAFAFA 0%, #F0F0F2 50%, #E8E8ED 100%)",
+    "--window-bg": "rgba(255, 255, 255, 0.70)",
+    "--window-border": "1px solid rgba(255, 255, 255, 0.55)",
+    "--window-radius": "16px",
+    "--window-shadow": "0 8px 32px rgba(0, 0, 0, 0.10), inset 0 1px 0 rgba(255, 255, 255, 0.90)",
+    "--window-shadow-active": "0 12px 40px rgba(0, 0, 0, 0.14), inset 0 1px 0 rgba(255, 255, 255, 0.90)",
+    "--window-shadow-inactive": "0 4px 16px rgba(0, 0, 0, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.70)",
+    "--window-backdrop": "url(#fluid-glass)",
+    "--window-inactive-opacity": "1",
+    "--titlebar-bg": "transparent",
+    "--titlebar-bg-active": "transparent",
+    "--titlebar-border": "1px solid rgba(0, 0, 0, 0.06)",
+    "--title-font": "'Satoshi', -apple-system, BlinkMacSystemFont, sans-serif",
+    "--title-size": "13px",
+    "--title-weight": "600",
+    "--title-color": "#1D1D1F",
+    "--btn-bg": "rgba(0, 0, 0, 0.08)",
+    "--btn-border": "none",
+    "--btn-radius": "50%",
+    "--btn-size": "12px",
+    "--btn-hover-bg": "rgba(0, 0, 0, 0.12)",
+    "--btn-close-hover": "#FF5F57",
+    "--btn-minimize-hover": "#FFBD2E",
+    "--btn-color": "transparent",
+    "--btn-hover-color": "#fff",
+    "--text-primary": "#1D1D1F",
+    "--text-secondary": "#48484A",
+    "--text-tertiary": "#8E8E93",
+    "--text-quaternary": "#C7C7CC",
+    "--text-on-accent": "#FFFFFF",
+    "--accent": "#007AFF",
+    "--accent-dim": "rgba(0, 122, 255, 0.12)",
+    "--danger": "#FF3B30",
+    "--danger-dim": "rgba(255, 59, 48, 0.10)",
+    "--success": "#34C759",
+    "--dock-bg": "rgba(255, 255, 255, 0.45)",
+    "--dock-border": "1px solid rgba(0, 0, 0, 0.08)",
+    "--dock-radius": "20px",
+    "--dock-backdrop": "blur(20px) saturate(1.2)",
+    "--dock-shadow": "0 4px 28px rgba(0, 0, 0, 0.06)",
+    "--dock-item-bg": "rgba(255, 255, 255, 0.7)",
+    "--dock-item-border": "1px solid rgba(0, 0, 0, 0.06)",
+    "--dock-item-radius": "12px",
+    "--dock-item-hover-bg": "rgba(255, 255, 255, 0.95)",
+    "--dock-item-active-bg": "rgba(0, 122, 255, 0.08)",
+    "--dock-item-active-dot": "#1D1D1F",
+    "--dock-item-color": "#48484A",
+    "--status-bg": "transparent",
+    "--status-border": "1px solid rgba(0, 0, 0, 0.06)",
+    "--status-color": "#8E8E93",
+    "--status-font": "'Satoshi', -apple-system, BlinkMacSystemFont, sans-serif",
+    "--status-size": "11px",
+    "--toolbar-bg": "rgba(0, 0, 0, 0.03)",
+    "--toolbar-border": "1px solid rgba(0, 0, 0, 0.06)",
+    "--toolbar-btn-bg": "transparent",
+    "--toolbar-btn-hover-bg": "rgba(0, 0, 0, 0.06)",
+    "--toolbar-btn-active-bg": "rgba(0, 0, 0, 0.10)",
+    "--toolbar-btn-border": "none",
+    "--toolbar-btn-color": "#48484A",
+    "--toolbar-sep-color": "rgba(0, 0, 0, 0.08)",
+    "--body-font": "'Satoshi', -apple-system, BlinkMacSystemFont, sans-serif",
+    "--body-size": "13px",
+    "--mono-font": "'JetBrains Mono', 'SF Mono', monospace",
+    "--topbar-bg": "rgba(255, 255, 255, 0.3)",
+    "--topbar-border": "1px solid rgba(0, 0, 0, 0.04)",
+    "--topbar-backdrop": "blur(12px)",
+    "--topbar-color": "#48484A",
+    "--topbar-sep-color": "rgba(0, 0, 0, 0.1)",
+    "--timeline-bg": "rgba(255, 255, 255, 0.5)",
+    "--timeline-border": "1px solid rgba(0, 0, 0, 0.08)",
+    "--timeline-radius": "999px",
+    "--timeline-backdrop": "blur(16px)",
+    "--timeline-segment-color": "rgba(0, 0, 0, 0.08)",
+    "--timeline-dot-border": "2px solid rgba(0, 0, 0, 0.12)",
+    "--timeline-dot-bg": "transparent",
+    "--timeline-dot-size": "8px",
+    "--timeline-dot-active-bg": "#1D1D1F",
+    "--timeline-dot-active-border": "2px solid #1D1D1F",
+    "--timeline-dot-active-shadow": "none"
+  },
+  "breakpoints": [
+    "max 768px",
+    "max 720px",
+    "min 769px",
+    "min 768px",
+    "max 767px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "view-desktop",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#fafafa",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 528,
+        "gutterRight": 16,
+        "width": 896,
+        "gutterTop": 9,
+        "gutterBottom": 776
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Tue Nov 17",
+          "family": "Satoshi",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#48484a"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 11,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "1992 My first computer",
+        "1998 Started to learn coding",
+        "2007 Got my first job as a designer",
+        "2026 Present day",
+        "2077 2077"
+      ],
+      "words": 26,
+      "excerpt": "Got my first job as a designer",
+      "media": {
+        "img": 66,
+        "video": 1,
+        "canvas": 5,
+        "svg": 4,
+        "iframe": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "view-portfolio",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff73",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 692,
+        "gutterRight": 16,
+        "width": 732,
+        "gutterTop": 872,
+        "gutterBottom": 9
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          2,
+          4,
+          16
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Tue Nov 17",
+          "family": "Satoshi",
+          "size": 13,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff73"
+        }
+      ],
+      "bodyType": {
+        "family": "Satoshi",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "↑ Desktop"
+      ],
+      "words": 6,
+      "excerpt": "Tue Nov 17",
+      "media": {
+        "img": 9,
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 17,
+    "title": "Rubens Cantuni",
+    "award": "HM",
+    "url": "https://www.rubens.design/",
+    "awwwards": "https://www.awwwards.com/sites/rubens-cantuni-1",
+    "categories": [
+      "Technology",
+      "Experimental",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

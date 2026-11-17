@@ -1,0 +1,1728 @@
+{
+  "page": {
+    "url": "https://mecha-xyz.webflow.io/",
+    "title": "Mecha Capital | Robotics & AI Investment in Legacy Ind.",
+    "description": "Mecha Capital deploys physical automation into waste management, healthcare, and landscaping. Investing in robotics and AI to transform legacy industries.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 12552,
+    "generator": "Webflow"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.895
+      },
+      {
+        "value": "#0000ff",
+        "share": 0.032
+      },
+      {
+        "value": "#d3dbde",
+        "share": 0.032
+      },
+      {
+        "value": "#ebf0f0",
+        "share": 0.018
+      },
+      {
+        "value": "#e9edef",
+        "share": 0.013
+      },
+      {
+        "value": "#ebeae0",
+        "share": 0.006
+      },
+      {
+        "value": "#911a46",
+        "share": 0.002
+      },
+      {
+        "value": "#3898ec",
+        "share": 0.001
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      },
+      {
+        "value": "#25283459",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#262933",
+        "share": 0.405
+      },
+      {
+        "value": "#26283373",
+        "share": 0.386
+      },
+      {
+        "value": "#262a3499",
+        "share": 0.193
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.009
+      },
+      {
+        "value": "#000000",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#00000026",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.964,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 1639
+      },
+      {
+        "family": "Neue Haas Grotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.32,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 1546
+      },
+      {
+        "family": "Flecha M",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 207
+      },
+      {
+        "family": "Flecha M",
+        "size": 80,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 49
+      },
+      {
+        "family": "Neue Haas Grotesk",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": 0.02,
+        "transform": "none",
+        "chars": 31
+      },
+      {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.016,
+        "transform": "none",
+        "chars": 3
+      }
+    ],
+    "loadedFonts": [
+      "Neue Haas Grotesk 400 normal",
+      "Flecha M 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 32,
+      "uses": 88
+    },
+    {
+      "px": 28,
+      "uses": 60
+    },
+    {
+      "px": 8,
+      "uses": 36
+    },
+    {
+      "px": 20,
+      "uses": 22
+    },
+    {
+      "px": 40,
+      "uses": 15
+    },
+    {
+      "px": 110,
+      "uses": 13
+    },
+    {
+      "px": 12,
+      "uses": 12
+    },
+    {
+      "px": 140,
+      "uses": 11
+    },
+    {
+      "px": 5,
+      "uses": 8
+    },
+    {
+      "px": 10,
+      "uses": 8
+    },
+    {
+      "px": 64,
+      "uses": 7
+    },
+    {
+      "px": 96,
+      "uses": 6
+    },
+    {
+      "px": 4,
+      "uses": 6
+    },
+    {
+      "px": 60,
+      "uses": 4
+    },
+    {
+      "px": 16,
+      "uses": 3
+    },
+    {
+      "px": 18,
+      "uses": 3
+    }
+  ],
+  "radii": [
+    {
+      "value": "100%",
+      "uses": 2
+    },
+    {
+      "value": "1px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.2s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.6s ease-in-out",
+        "uses": 4
+      },
+      {
+        "value": "0.8s ease",
+        "uses": 4
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 2
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 11
+  },
+  "cssVariables": {
+    "--_🟢-colors---primary--pure-white": "#fff",
+    "--body": "\"Neue Haas Grotesk\", Verdana, sans-serif",
+    "--_🟢-colors---primary--pure-black": "var(--_🟢-colors---palette--dark-gray)",
+    "--heading-family": "\"Flecha M\", Verdana, sans-serif",
+    "--_🟢-typography---heading-large--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---heading-large--font-size": "5rem",
+    "--_🟢-typography---heading-large--line-height": ".92",
+    "--_🟢-typography---heading-large--font-weight": "400",
+    "--_🟢-typography---heading-large--letter-spacing": "-.02em",
+    "--_🟢-typography---heading-medium--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---heading-medium--font-size": "3.75rem",
+    "--_🟢-typography---heading-medium--line-height": ".92",
+    "--_🟢-typography---heading-medium--font-weight": "400",
+    "--_🟢-typography---heading-medium--letter-spacing": "-.02em",
+    "--_🟢-typography---heading-small--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---heading-small--font-size": "3rem",
+    "--_🟢-typography---heading-small--line-height": ".92",
+    "--_🟢-typography---heading-small--font-weight": "400",
+    "--_🟢-typography---heading-small--letter-spacing": "-.02em",
+    "--title-family": "\"Neue Haas Grotesk\", Verdana, sans-serif",
+    "--_🟢-typography---title-large--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---title-large--font-size": "2.25rem",
+    "--_🟢-typography---title-large--line-height": "1.16",
+    "--_🟢-typography---title-large--font-weight": "400",
+    "--_🟢-typography---title-large--letter-spacing": "-.04em",
+    "--_🟢-typography---title-medium--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---title-medium--font-size": "1.75rem",
+    "--_🟢-typography---title-medium--line-height": "1.24",
+    "--_🟢-typography---title-medium--font-weight": "400",
+    "--_🟢-typography---title-medium--letter-spacing": "-.04em",
+    "--_🟢-typography---title-small--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---title-small--font-size": "1.25rem",
+    "--_🟢-typography---title-small--line-height": "1.32",
+    "--_🟢-typography---title-small--font-weight": "400",
+    "--_🟢-typography---title-small--letter-spacing": "-.04em",
+    "--_🟢-typography---body-medium--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---body-medium--font-size": ".875rem",
+    "--_🟢-typography---body-medium--line-height": "1.44",
+    "--_🟢-typography---body-medium--font-weight": "400",
+    "--_🟢-typography---body-medium--letter-spacing": ".02em",
+    "--_🟢-layout-and-spacing---section-padding": "28px",
+    "--_🟢-layout-and-spacing---container-width": "100%",
+    "--_🟢-typography---title-large--font-family": "var(--title-family)",
+    "--_🟢-colors---primary--blue": "blue",
+    "--_🟢-typography---body-large--font-size": "1rem",
+    "--_🟢-typography---body-large--line-height": "1.44",
+    "--_🟢-typography---body-large--font-weight": "400",
+    "--_🟢-typography---body-large--letter-spacing": ".02em",
+    "--_🟢-typography---body-small--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---body-small--font-size": ".75rem",
+    "--_🟢-typography---body-small--line-height": "1.32",
+    "--_🟢-typography---body-small--font-weight": "400",
+    "--_🟢-typography---body-small--letter-spacing": ".02em",
+    "--caption-family": "\"Neue Haas Grotesk\", Verdana, sans-serif",
+    "--_🟢-typography---caption--font-size": ".625rem",
+    "--_🟢-typography---caption--line-height": "1.5",
+    "--_🟢-typography---caption--font-weight": "400",
+    "--_🟢-typography---caption--letter-spacing": ".01em",
+    "--_🟢-colors---dark-40p": "#26293373",
+    "--_🟢-colors---palette--dark-gray": "#262933",
+    "--_🟢-colors---text--text-gray": "#a3a3a3",
+    "--_🟢-colors---background--bg-gray-100": "#ebebeb",
+    "--_🟢-colors---background--bg-gray-300": "#464646",
+    "--_🟢-colors---palette--maroon": "#911a46",
+    "--_🟢-colors---palette--sand": "#e9e7db",
+    "--_🟢-colors---palette--sky-blue": "#c5f0f7",
+    "--_🟢-colors---palette--steel-mist-100": "#e9edef",
+    "--_🟢-colors---palette--steel-mist-200": "#d3dbde",
+    "--_🟢-colors---palette--steel-gray": "#687980",
+    "--_🟢-colors---stroke--stroke-light": "#ffffff26",
+    "--_🟢-colors---stroke--stroke-dark": "#00000026",
+    "--_🟢-colors---stroke--stroke-solid": "#000",
+    "--_🟢-colors---stroke--inverse-stroke": "#fff",
+    "--_🟢-typography---caption--font-color": "var(--_🟢-colors---primary--pure-black)",
+    "--_🟢-typography---heading-large--font-family": "var(--heading-family)",
+    "--_🟢-typography---heading-medium--font-family": "var(--heading-family)",
+    "--_🟢-layout-and-spacing---max-width-small": "0ch",
+    "--_🟢-typography---heading-small--font-family": "var(--heading-family)",
+    "--_🟢-layout-and-spacing---max-width-medium": "0ch",
+    "--_🟢-layout-and-spacing---max-width-large": "0ch"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 767px",
+    "max 479px",
+    "min 768px",
+    "min 0px",
+    "min 480px",
+    "max 1920px",
+    "max 1440px",
+    "max 375px",
+    "max 320px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "three",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "page-fader.w-variant-c00a2059-46c2-2f9b-cf12-439f0d7b11c0",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0000ff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "cursor-wrap.not-blend",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          2,
+          2
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "cursor-wrap",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "preloader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 60,
+        "gutterRight": 1362,
+        "width": 18,
+        "gutterTop": 882,
+        "gutterBottom": 3
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          8,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "100",
+          "family": "Neue Haas Grotesk",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.016,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.016,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 1,
+      "excerpt": "100",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "footer-logo",
+      "y": 548,
+      "height": 352,
+      "position": "fixed",
+      "background": "#e9edef",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "28px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "section.is-hero",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "28px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 222,
+        "width": 705,
+        "gutterTop": 77,
+        "gutterBottom": 602
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          51,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Robotics will knock over the global economy. Mecha deploys physical automation …",
+          "family": "Flecha M",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Flecha M",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 14,
+      "excerpt": "physical automation into legacy",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "recycling-title",
+      "y": 928,
+      "height": 344,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#26283373",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 28,
+        "width": 898,
+        "gutterTop": 23,
+        "gutterBottom": -38
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "96px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          62,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Tomorrow Recycling",
+          "family": "Flecha M",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "tomorrowrecycling.com",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "is-project-detail",
+      "y": 1292,
+      "height": 252,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262a3499",
+      "padding": "0px",
+      "margin": "20px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 743,
+        "gutterRight": 158,
+        "width": 539,
+        "gutterTop": 7,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "64px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Mecha Capital's Tomorrow Recycling uses AI and robotics to boost",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262a3499"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.32,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Mecha Capital's Tomorrow Recycling uses…"
+      ],
+      "words": 48,
+      "excerpt": "recycling. In eight months, automation raised recovery by 25%, cut",
+      "media": {
+        "img": 7
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "project-gallery",
+      "y": 1684,
+      "height": 472,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "140px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "28px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          26,
+          32
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "project-gallery.is-divided",
+      "y": 2296,
+      "height": 607,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px 28px 0px 0px",
+      "margin": "140px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "28px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          17,
+          43
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "project-gallery",
+      "y": 3043,
+      "height": 503,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "140px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "28px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          31,
+          31
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 2
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "recycling-title",
+      "y": 3714,
+      "height": 271,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#26283373",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 28,
+        "width": 898,
+        "gutterTop": 23,
+        "gutterBottom": -38
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "96px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          62,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Aescape",
+          "family": "Flecha M",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "aescaPe.com",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "is-project-detail",
+      "y": 4005,
+      "height": 348,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262a3499",
+      "padding": "0px",
+      "margin": "20px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 743,
+        "gutterRight": 154,
+        "width": 543,
+        "gutterTop": 7,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "64px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Aescape is a New York-based startup that developed the world’s first",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262a3499"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.32,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Aescape is a New York-based startup tha…"
+      ],
+      "words": 57,
+      "excerpt": "Aescape is a New York-based startup that developed the world’s first",
+      "media": {
+        "img": 7
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "project-gallery.is-bigger",
+      "y": 4493,
+      "height": 561,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "140px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "28px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          33,
+          29
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "project-gallery.is-divided",
+      "y": 5194,
+      "height": 461,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "140px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          6
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "project-gallery.is-divided",
+      "y": 5795,
+      "height": 448,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "140px 0px 0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "28px",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 3,
+        "childWidthsPct": [
+          17,
+          29,
+          12
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "recycling-title",
+      "y": 6411,
+      "height": 344,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#26283373",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 28,
+        "width": 898,
+        "gutterTop": 23,
+        "gutterBottom": -38
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "96px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          62,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "The non-fiction revolution",
+          "family": "Flecha M",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "Venture capital",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "is-project-detail",
+      "y": 6775,
+      "height": 252,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262a3499",
+      "padding": "0px",
+      "margin": "20px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 743,
+        "gutterRight": 135,
+        "width": 562,
+        "gutterTop": 7,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "64px",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Mecha buys and builds operationally complex businesses in fragmented",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262a3499"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.32,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Mecha buys and builds operationally com…"
+      ],
+      "words": 40,
+      "excerpt": "harden operations. Built for venture-scale returns with private equity risk",
+      "media": {
+        "img": 7
+      }
+    },
+    {
+      "i": 19,
+      "tag": "div",
+      "name": "project-gallery-wrapper.is-last",
+      "y": 7167,
+      "height": 1348,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px 0px 110px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "28px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          43
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 3,
+        "video": 1
+      }
+    },
+    {
+      "i": 20,
+      "tag": "div",
+      "name": "recycling-title.is-2",
+      "y": 8543,
+      "height": 419,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 28,
+        "width": 898,
+        "gutterTop": 155,
+        "gutterBottom": 69
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "60px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          62,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The edge isn't the thesis. It's the people executing it.",
+          "family": "Flecha M",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Flecha M",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "thesis. It's the people",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 21,
+      "tag": "div",
+      "name": "ci_team.hover-container",
+      "y": 8961,
+      "height": 336,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "20px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 150,
+        "width": 776,
+        "gutterTop": 43,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "110px",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "First investor in Chronosphere (unicorn in ~2 years). Joined Uber in 2010 as th…",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "RYAN MCKILLEN FOUNDING PARTNER LINKEDIN"
+      ],
+      "words": 40,
+      "excerpt": "First investor in Chronosphere (unicorn in ~2 years). Joined Uber in 2010",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 22,
+      "tag": "div",
+      "name": "ci_team.hover-container",
+      "y": 9397,
+      "height": 336,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "20px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 150,
+        "width": 776,
+        "gutterTop": 43,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "110px",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Co-founded Uber’s Self-Driving Vehicles Group. Led acquisition of robotics team…",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.32,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "MATT SWEENEY FOUNDING PARTNER LINKEDIN"
+      ],
+      "words": 44,
+      "excerpt": "Co-founded Uber’s Self-Driving Vehicles Group. Led acquisition of robotics teams and robo…",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 23,
+      "tag": "div",
+      "name": "ci_team.hover-container",
+      "y": 9833,
+      "height": 336,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#26283373",
+      "padding": "20px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 150,
+        "width": 776,
+        "gutterTop": 43,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "110px",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Managing Partner at Mecha Capital. 20 years in investing and finance. Former CD…",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "GRANT WILSON MANAGING PARTNER, PE LINKE…"
+      ],
+      "words": 49,
+      "excerpt": "Managing Partner at Mecha Capital. 20 years in investing and finance. Former",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 24,
+      "tag": "div",
+      "name": "ci_team.hover-container",
+      "y": 10269,
+      "height": 336,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "20px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 150,
+        "width": 776,
+        "gutterTop": 43,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "110px",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Partner at Mecha Capital focused on AI, startups, and M&A. Co-founded multiple …",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.32,
+        "letterSpacing": 0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "DAN CINTRA PARTNER, OPERATIONS, ROBOTIC…"
+      ],
+      "words": 48,
+      "excerpt": "Partner at Mecha Capital focused on AI, startups, and M&A. Co-founded multiple",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 25,
+      "tag": "div",
+      "name": "ci_team.hover-container",
+      "y": 10705,
+      "height": 336,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "20px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 150,
+        "width": 776,
+        "gutterTop": 43,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "110px",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Principal at Mecha Capital leading Finance & Operations. 10+ years in investing…",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "CHASE KEESLING PRINCIPAL PRIVATE EQUITY…"
+      ],
+      "words": 48,
+      "excerpt": "Principal at Mecha Capital leading Finance & Operations. 10+ years in investing",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 26,
+      "tag": "div",
+      "name": "ci_team.hover-container",
+      "y": 11141,
+      "height": 336,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#26283373",
+      "padding": "20px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 150,
+        "width": 776,
+        "gutterTop": 43,
+        "gutterBottom": -14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "110px",
+        "justify": "flex-start",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Founder & CEO of BlockTower Capital ($1.5B+ AUM). Former Goldman Sachs executiv…",
+          "family": "Neue Haas Grotesk",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.32,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.01,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "MATTHEW GOETZ FOUNDING ADVISOR LINKEDIN"
+      ],
+      "words": 48,
+      "excerpt": "Founder & CEO of BlockTower Capital ($1.5B+ AUM). Former Goldman Sachs executive",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 27,
+      "tag": "div",
+      "name": "navigation-section.is-3",
+      "y": 11652,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 514,
+        "gutterRight": 12,
+        "width": 914,
+        "gutterTop": 205,
+        "gutterBottom": -444
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          62,
+          62,
+          36,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Invest with us, share an opportunity, or make an inquiry.",
+          "family": "Flecha M",
+          "size": 60,
+          "weight": "400",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#262933"
+        }
+      ],
+      "bodyType": {
+        "family": "Flecha M",
+        "size": 60,
+        "weight": "400",
+        "lineHeight": 0.92,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "PRIVACY POLICY",
+        "CONTACT@MECHA.XYZ"
+      ],
+      "words": 18,
+      "excerpt": "Invest with us, share an",
+      "media": {
+        "img": 4,
+        "svg": 1
+      }
+    },
+    {
+      "i": 28,
+      "tag": "div",
+      "name": "change-bg-element",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#d3dbde",
+      "backgroundImage": false,
+      "color": "#262933",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 175,
+    "title": "MECHA",
+    "award": "SOTD",
+    "url": "https://mecha-xyz.webflow.io/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/mecha",
+    "categories": [
+      "Business & Corporate",
+      "Technology"
+    ]
+  }
+}

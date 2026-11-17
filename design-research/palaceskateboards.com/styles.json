@@ -1,0 +1,372 @@
+{
+  "page": {
+    "url": "https://ca.palaceskateboards.com/",
+    "title": "PALACE SKATEBOARDS",
+    "description": "GULLY SH*T",
+    "lang": "EN",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 1276,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.585
+      },
+      {
+        "value": "#e4e4e4",
+        "share": 0.352
+      },
+      {
+        "value": "#ffff66",
+        "share": 0.063
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.582
+      },
+      {
+        "value": "#ffff66",
+        "share": 0.24
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.059
+      },
+      {
+        "value": "#656565",
+        "share": 0.055
+      },
+      {
+        "value": "#3b3b3b",
+        "share": 0.045
+      },
+      {
+        "value": "#9a9a9a",
+        "share": 0.018
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.937,
+      "text": 0.759
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Neue Helvetica W01",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 324
+      },
+      {
+        "family": "Neue Helvetica W01",
+        "size": 24,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 143
+      },
+      {
+        "family": "Neue Helvetica W01",
+        "size": 10,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 90
+      },
+      {
+        "family": "Neue Helvetica W01",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 39
+      }
+    ],
+    "loadedFonts": [
+      "Neue Helvetica W01 500 normal",
+      "Neue Helvetica W01 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 22
+    },
+    {
+      "px": 20,
+      "uses": 19
+    },
+    {
+      "px": 15,
+      "uses": 10
+    },
+    {
+      "px": 5,
+      "uses": 6
+    },
+    {
+      "px": 80,
+      "uses": 3
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 40,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.35544e+07px",
+      "uses": 1
+    },
+    {
+      "value": "16px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 27
+      },
+      {
+        "value": "0.25s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.4s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 3
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 4,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--spacing": ".25rem",
+    "--container-lg": "32rem",
+    "--container-2xl": "42rem",
+    "--text-xs": "10px",
+    "--text-xs--line-height": "10px",
+    "--text-sm": "12px",
+    "--text-sm--line-height": "12px",
+    "--text-base": "16px",
+    "--text-base--line-height": "16px",
+    "--text-lg": "32px",
+    "--text-lg--line-height": "32px",
+    "--text-xl": "45px",
+    "--text-xl--line-height": "45px",
+    "--text-2xl": "60px",
+    "--text-2xl--line-height": "60px",
+    "--text-3xl": "72px",
+    "--text-3xl--line-height": "72px",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5 / 2.25)",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--font-weight-normal": "500",
+    "--font-weight-medium": "500",
+    "--font-weight-bold": "700",
+    "--leading-normal": "1.5",
+    "--radius-xl": ".75rem",
+    "--radius-2xl": "1rem",
+    "--radius-4xl": "2rem",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--blur-xs": "4px",
+    "--blur-md": "12px",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--color-white": "#fff",
+    "--color-black": "#000",
+    "--color-grey-050": "#f5f5f5",
+    "--color-grey-100": "#e4e4e4",
+    "--color-grey-250": "#c4c4c4",
+    "--color-grey-400": "#9a9a9a",
+    "--color-grey-500": "#7d7d7d",
+    "--color-grey-600": "#656565",
+    "--color-grey-750": "#3b3b3b",
+    "--color-grey-900": "#1b1b1b",
+    "--color-grey-950": "#101010",
+    "--color-orange": "#ffb400",
+    "--color-manor-place": "#b5ff00",
+    "--color-text-grey": "#d1d5db",
+    "--font-sans": "\"Neue Helvetica W01\", \"Helvetica Neue\", Helvetica, Arial, ui-sans-serif, sans-se",
+    "--font-condensed": "\"Helvetica Neue LT Std Condensed\", \"Neue Helvetica W01\", \"Helvetica Neue\", Helve",
+    "--text-md": "24px",
+    "--text-md--line-height": "24px",
+    "--height-header": "calc(var(--header-height) + var(--header-padding))",
+    "--height-header-mobile": "calc(var(--header-height) + var(--header-padding))",
+    "--height-category-menu": "68px",
+    "--height-category-menu-mobile": "60px",
+    "--height-filter-button": "62px",
+    "--height-filter-button-mobile": "102px",
+    "--max-height-screen-header-mobile": "calc(100vh - var(--height-header-mobile))",
+    "--min-height-screen-header": "calc(100vh - var(--height-header))",
+    "--min-height-screen-header-mobile": "calc(100vh - var(--height-header-mobile))",
+    "--min-height-screen-header-and-collection-items": "calc(100vh - var(--height-category-menu) - var(--height-header) - var(--height-f",
+    "--min-height-screen-header-and-collection-items-mobile": "calc(100vh - var(--height-category-menu-mobile) - var(--height-header-mobile) - ",
+    "--spacing-header": "var(--height-header)",
+    "--spacing-header-mobile": "var(--height-header-mobile)",
+    "--ease-in-out-cubic": "cubic-bezier(.65, 0, .35, 1)",
+    "--header-height": "60px",
+    "--header-padding": "20px",
+    "--header-spacer": "calc(var(--header-height) + var(--header-padding))",
+    "--ios-nav-height": "60px",
+    "--ios-nav-bottom-padding": "21px",
+    "--ios-nav-spacer": "calc(var(--ios-nav-height) + var(--ios-nav-bottom-padding))"
+  },
+  "breakpoints": [],
+  "tech": [
+    "three",
+    "shopify"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "flex.flex-col",
+      "y": 0,
+      "height": 1276,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 20,
+        "width": 1400,
+        "gutterTop": 42,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "PALACE BAPE",
+          "family": "Neue Helvetica W01",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "PALACE LONDON",
+          "family": "Neue Helvetica W01",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "PALACE LIVING PROOF",
+          "family": "Neue Helvetica W01",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "PALACE NIKE MANOR PLACE",
+          "family": "Neue Helvetica W01",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Helvetica W01",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "WEB SHOP",
+        "SHOPS",
+        "ADVICE",
+        "CART",
+        "PALACE BAPE",
+        "PALACE LONDON",
+        "PALACE LIVING PROOF",
+        "PALACE NIKE MANOR PLACE",
+        "VIEW",
+        "INSTAGRAM"
+      ],
+      "words": 99,
+      "excerpt": "© Palace Skateboards Limited 2026",
+      "media": {
+        "img": 3,
+        "video": 1,
+        "canvas": 4,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 207,
+    "title": "Palace Skateboards",
+    "award": "HM",
+    "url": "https://palaceskateboards.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/palace-skateboards",
+    "categories": [
+      "E-Commerce",
+      "Fashion"
+    ]
+  }
+}

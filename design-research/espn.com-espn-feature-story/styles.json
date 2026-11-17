@@ -1,0 +1,425 @@
+{
+  "page": {
+    "url": "https://www.espn.com/espn/feature/story?id=43832710",
+    "title": "History of F1 design: 75 years of car racing technology",
+    "description": "To celebrate F1's 75th anniversary, ESPN charts the sport's evolution since 1950 through its most iconic cars, and details where it's headed in 2026.",
+    "lang": "en-US",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 60000,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f4ede6",
+        "share": 0.988
+      },
+      {
+        "value": "#e4d9ca",
+        "share": 0.009
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.002
+      },
+      {
+        "value": "#df4125",
+        "share": 0.001
+      }
+    ],
+    "text": [
+      {
+        "value": "#3a3a3a",
+        "share": 0.897
+      },
+      {
+        "value": "#6c6d6f",
+        "share": 0.033
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.032
+      },
+      {
+        "value": "#968575",
+        "share": 0.015
+      },
+      {
+        "value": "#1d1e1f",
+        "share": 0.013
+      },
+      {
+        "value": "#d8d8d8",
+        "share": 0.008
+      },
+      {
+        "value": "#000000",
+        "share": 0.003
+      }
+    ],
+    "borders": [
+      {
+        "value": "#000000",
+        "share": 0.909
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.091
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.99,
+      "text": 0.986
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "BentonSans",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.27,
+        "letterSpacing": 0.013,
+        "transform": "none",
+        "chars": 6552
+      },
+      {
+        "family": "BentonSans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 6219
+      },
+      {
+        "family": "BentonSans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.58,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 483
+      },
+      {
+        "family": "BentonSans",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.41,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 422
+      },
+      {
+        "family": "BentonSans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.36,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 192
+      },
+      {
+        "family": "BentonSans",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.15,
+        "letterSpacing": 0.015,
+        "transform": "none",
+        "chars": 124
+      },
+      {
+        "family": "BentonSans",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.46,
+        "letterSpacing": 0.015,
+        "transform": "none",
+        "chars": 120
+      },
+      {
+        "family": "BentonSansBold",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.27,
+        "letterSpacing": 0.013,
+        "transform": "none",
+        "chars": 115
+      },
+      {
+        "family": "Publico Banner Web",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 0.83,
+        "letterSpacing": 0.017,
+        "transform": "none",
+        "chars": 102
+      },
+      {
+        "family": "BentonSansMedium",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.41,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 94
+      },
+      {
+        "family": "BentonSansBold",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.41,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "BentonSansBold",
+        "size": 21,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 69
+      },
+      {
+        "family": "Publico Banner Web",
+        "size": 80,
+        "weight": "400",
+        "lineHeight": 0.85,
+        "letterSpacing": 0.01,
+        "transform": "none",
+        "chars": 67
+      },
+      {
+        "family": "BentonSans",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": -0.013,
+        "transform": "uppercase",
+        "chars": 47
+      }
+    ],
+    "loadedFonts": [
+      "Publico Banner Web 400 normal",
+      "BentonSans normal normal",
+      "BentonSansMedium normal normal",
+      "BentonSansBold normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 20,
+      "uses": 102
+    },
+    {
+      "px": 12,
+      "uses": 51
+    },
+    {
+      "px": 40,
+      "uses": 40
+    },
+    {
+      "px": 4,
+      "uses": 29
+    },
+    {
+      "px": 8,
+      "uses": 25
+    },
+    {
+      "px": 16,
+      "uses": 24
+    },
+    {
+      "px": 6,
+      "uses": 23
+    },
+    {
+      "px": 50,
+      "uses": 19
+    },
+    {
+      "px": 32,
+      "uses": 16
+    },
+    {
+      "px": 2,
+      "uses": 15
+    },
+    {
+      "px": 925,
+      "uses": 4
+    },
+    {
+      "px": 475,
+      "uses": 3
+    },
+    {
+      "px": 24,
+      "uses": 3
+    },
+    {
+      "px": 1,
+      "uses": 2
+    },
+    {
+      "px": 450,
+      "uses": 2
+    },
+    {
+      "px": 425,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.1s linear",
+        "uses": 63
+      },
+      {
+        "value": "0.15s linear",
+        "uses": 21
+      },
+      {
+        "value": "0.2s linear",
+        "uses": 9
+      },
+      {
+        "value": "0.2s ease-in-out",
+        "uses": 6
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 2
+      },
+      {
+        "value": "0.3s linear",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {},
+  "breakpoints": [],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "skrollr-body",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#f4ede6",
+      "backgroundImage": false,
+      "color": "#3a3a3a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 420,
+        "gutterRight": 420,
+        "width": 600,
+        "gutterTop": 319,
+        "gutterBottom": 33
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "HOW F1 HAS EVOLVED SINCE 1950",
+          "family": "Publico Banner Web",
+          "size": 100,
+          "weight": "400",
+          "lineHeight": 0.78,
+          "letterSpacing": 0.004,
+          "transform": "uppercase",
+          "color": "#968575"
+        },
+        {
+          "tag": "h2",
+          "text": "EVOLUTION",
+          "family": "BentonSansBold",
+          "size": 21,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.01,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "ALFA ROMEO",
+          "family": "Publico Banner Web",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#968575"
+        },
+        {
+          "tag": "h2",
+          "text": "LOTUS",
+          "family": "Publico Banner Web",
+          "size": 80,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0.01,
+          "transform": "none",
+          "color": "#968575"
+        }
+      ],
+      "bodyType": {
+        "family": "BentonSans",
+        "size": 15,
+        "weight": "400",
+        "lineHeight": 1.27,
+        "letterSpacing": 0.013,
+        "transform": "none"
+      },
+      "labels": [
+        "F1's 75th anniversary",
+        "2026 regulations",
+        "more sustainable engines",
+        "Reason to root for each driver",
+        "Inside Hamilton's first weeks at Ferrari",
+        "F1 Livery Power Rankings",
+        "Terms of Use",
+        "Privacy Policy",
+        "Your US State Privacy Rights",
+        "Children's Online Privacy Policy"
+      ],
+      "words": 2378,
+      "excerpt": "Power alone isn't the only focus, though. The 2026 cars will be",
+      "media": {
+        "img": 107,
+        "video": 1,
+        "svg": 108
+      }
+    }
+  ],
+  "listing": {
+    "rank": 87,
+    "title": "How F1 has evolved since 1950",
+    "award": "HM",
+    "url": "https://www.espn.com/espn/feature/story?id=43832710",
+    "awwwards": "https://www.awwwards.com/sites/how-f1-has-evolved-since-1950",
+    "categories": [
+      "Magazine / Newspaper / Blog",
+      "Sports"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

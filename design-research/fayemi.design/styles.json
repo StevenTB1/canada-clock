@@ -1,0 +1,292 @@
+{
+  "page": {
+    "url": "https://fayemi.design/",
+    "title": "Isaac Fayemi (Group 256)",
+    "description": "Isaac Fayemi (Group 256) is a designer and art director working across identity, image-making, and interaction design. His practice is shaped by a fascination with typography, systems, and moments of delight.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.97
+      },
+      {
+        "value": "#e5e5e5",
+        "share": 0.03
+      },
+      {
+        "value": "#ff0000",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.932
+      },
+      {
+        "value": "#00000080",
+        "share": 0.052
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.015
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Suisse Intl Condensed",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0.01,
+        "transform": "uppercase",
+        "chars": 497
+      },
+      {
+        "family": "Suisse Intl Condensed",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 230
+      },
+      {
+        "family": "Suisse Intl Condensed",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 63
+      }
+    ],
+    "loadedFonts": [
+      "Suisse Intl Condensed 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 24,
+      "uses": 6
+    },
+    {
+      "px": 1,
+      "uses": 4
+    },
+    {
+      "px": 4,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "2px",
+      "uses": 19
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.18s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 16
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.28s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.4s cubic-bezier(0.76, 0, 0.24, 1)",
+        "uses": 7
+      },
+      {
+        "value": "0.18s ease",
+        "uses": 5
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 19
+  },
+  "cssVariables": {
+    "--pad": "24px",
+    "--font": "\"Suisse Int'l Condensed\", \"Archivo Narrow\", \"Arial Narrow\", sans-serif"
+  },
+  "breakpoints": [
+    "max 640px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "workBg",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "workBgB",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "video",
+      "name": "playVideo",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "video",
+      "name": "play-video",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "mid",
+      "y": 81,
+      "height": 744,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 24,
+        "gutterRight": 1279,
+        "width": 137,
+        "gutterTop": 356,
+        "gutterBottom": 281
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "20:01:25, ZAGREB",
+          "family": "Suisse Intl Condensed",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": 0.02,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Suisse Intl Condensed",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "MAIL",
+        "TWITTER",
+        "LINKEDIN",
+        "ARE.NA"
+      ],
+      "words": 27,
+      "excerpt": "Commarts Magazine",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 169,
+    "title": "Isaac Fayemi",
+    "url": "https://fayemi.design/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

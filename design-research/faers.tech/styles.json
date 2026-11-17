@@ -1,0 +1,1598 @@
+{
+  "page": {
+    "url": "https://faers.tech/",
+    "title": "Faers, Dubai UAE",
+    "description": "FAERS designs and manufactures solar panels locally.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 20955,
+    "generator": "Framer 0918601"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.567
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.34
+      },
+      {
+        "value": "#ffffff14",
+        "share": 0.036
+      },
+      {
+        "value": "#141414",
+        "share": 0.017
+      },
+      {
+        "value": "#00000029",
+        "share": 0.012
+      },
+      {
+        "value": "#f7f7f7",
+        "share": 0.011
+      },
+      {
+        "value": "#00000033",
+        "share": 0.01
+      },
+      {
+        "value": "#3d3d3d66",
+        "share": 0.003
+      },
+      {
+        "value": "#0000003d",
+        "share": 0.002
+      },
+      {
+        "value": "#029600",
+        "share": 0.001
+      },
+      {
+        "value": "#00000014",
+        "share": 0.001
+      },
+      {
+        "value": "#72bf44",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.35
+      },
+      {
+        "value": "#3d3d3d",
+        "share": 0.288
+      },
+      {
+        "value": "#ffffff66",
+        "share": 0.104
+      },
+      {
+        "value": "#ffffff3d",
+        "share": 0.089
+      },
+      {
+        "value": "#d6d6dc",
+        "share": 0.043
+      },
+      {
+        "value": "#3d3d3d66",
+        "share": 0.043
+      },
+      {
+        "value": "#8e3f01",
+        "share": 0.042
+      },
+      {
+        "value": "#ffffff7a",
+        "share": 0.027
+      },
+      {
+        "value": "#000000",
+        "share": 0.008
+      },
+      {
+        "value": "#bec3c6",
+        "share": 0.003
+      },
+      {
+        "value": "#039600",
+        "share": 0.002
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 0.955
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PP Monument Normal Regular",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 991
+      },
+      {
+        "family": "PP Monument Wide Regular",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.07,
+        "transform": "none",
+        "chars": 776
+      },
+      {
+        "family": "PP Monument Normal Regular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 311
+      },
+      {
+        "family": "PP Monument Normal Regular",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 291
+      },
+      {
+        "family": "PP Monument Normal Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 290
+      },
+      {
+        "family": "PP Monument Normal Regular",
+        "size": 72,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 170
+      },
+      {
+        "family": "PP Monument Normal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.29,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 158
+      },
+      {
+        "family": "PP Monument Normal Regular",
+        "size": 24,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 153
+      },
+      {
+        "family": "PP Monument Normal",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 145
+      },
+      {
+        "family": "PP Monument Wide Regular",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 142
+      },
+      {
+        "family": "PP Monument Normal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 103
+      },
+      {
+        "family": "PP Monument Normal Regular",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 53
+      },
+      {
+        "family": "PP Monument Wide Regular",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none",
+        "chars": 33
+      },
+      {
+        "family": "PP Monument Wide Regular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 32
+      }
+    ],
+    "loadedFonts": [
+      "PP Monument Normal Regular 400 normal",
+      "PP Monument Wide Regular 400 normal",
+      "Inter 400 normal",
+      "PP Monument Normal Regular Placeholder normal normal",
+      "PP Monument Wide Regular Placeholder normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 208
+    },
+    {
+      "px": 16,
+      "uses": 183
+    },
+    {
+      "px": 12,
+      "uses": 166
+    },
+    {
+      "px": 8,
+      "uses": 166
+    },
+    {
+      "px": 2,
+      "uses": 147
+    },
+    {
+      "px": 24,
+      "uses": 101
+    },
+    {
+      "px": 6,
+      "uses": 38
+    },
+    {
+      "px": 4,
+      "uses": 35
+    },
+    {
+      "px": 120,
+      "uses": 21
+    },
+    {
+      "px": 80,
+      "uses": 18
+    },
+    {
+      "px": 40,
+      "uses": 18
+    },
+    {
+      "px": 7,
+      "uses": 16
+    },
+    {
+      "px": 48,
+      "uses": 14
+    },
+    {
+      "px": 32,
+      "uses": 13
+    },
+    {
+      "px": 5,
+      "uses": 10
+    },
+    {
+      "px": 9,
+      "uses": 8
+    }
+  ],
+  "radii": [
+    {
+      "value": "100px",
+      "uses": 45
+    },
+    {
+      "value": "99px",
+      "uses": 23
+    },
+    {
+      "value": "24px",
+      "uses": 22
+    },
+    {
+      "value": "40px",
+      "uses": 19
+    },
+    {
+      "value": "32px",
+      "uses": 18
+    },
+    {
+      "value": "16px",
+      "uses": 16
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 7
+      },
+      {
+        "value": "0.5s ease",
+        "uses": 3
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--token-e1cc2eef-d967-45a1-a10b-7e7dd07d2b36": "#fff",
+    "--token-1197042b-53f9-408a-a605-cde67a848930": "#3d3d3d",
+    "--token-259a08d8-a350-47c5-9946-02d2d44c1c0b": "#f7f7f7",
+    "--token-dd8fea17-1589-4ce7-9cc8-a8030b91bb87": "#000",
+    "--token-969001ae-5d4a-4ae2-b10f-101f9c878f37": "#d6d6dc",
+    "--token-fb3a1c9c-7767-4219-84a8-87581f62b539": "#141414",
+    "--token-008f18e4-2bb8-41a4-a754-d3e4a585fab5": "#039600",
+    "--token-cb393d9a-c194-4f75-9fdc-0e02d3d74dab": "#0fb30c",
+    "--token-1dee462f-b5cf-4e77-87b0-2dbc9d0a25a0": "#bec3c6",
+    "--token-77e46ca6-386e-4c54-8a63-fef06faf31ca": "#181211",
+    "--token-6f1bced3-1a63-42a8-9f00-8f623da8fe34": "#5fd96d",
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1",
+    "--framer-aspect-ratio-supported": "auto"
+  },
+  "breakpoints": [
+    "min 1024px",
+    "min 744px",
+    "max 1919px",
+    "max 1023px",
+    "max 743px",
+    "min 1440px",
+    "max 1439px",
+    "min 1920px",
+    "max 1439.98px",
+    "max 1023.98px"
+  ],
+  "tech": [
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "framer-ztokc6-container.hidden-7x7kfm",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 256,
+        "gutterRight": 60,
+        "width": 1124,
+        "gutterTop": 366,
+        "gutterBottom": 26
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          67,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Charging",
+          "family": "PP Monument Normal Regular",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 4,
+      "excerpt": "Charging",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "framer-duacno-container",
+      "y": 0,
+      "height": 74,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 732,
+        "gutterRight": 52,
+        "width": 656,
+        "gutterTop": 29,
+        "gutterBottom": 29
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Home",
+          "family": "PP Monument Normal Regular",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "Home",
+        "Products 4",
+        "Services 7",
+        "Company 5",
+        "Calculator",
+        "Blog",
+        "Career",
+        "Contact us"
+      ],
+      "words": 12,
+      "excerpt": "Calculator",
+      "media": {
+        "img": 1,
+        "svg": 5
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "framer-yvl2jq",
+      "y": 0,
+      "height": 900,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 431,
+        "gutterBottom": -1152
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "0px",
+        "justify": "center",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          100,
+          100,
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "ZAKH RENEWABLE ENERGY AND ENGINEERING MANUFACTURING",
+          "family": "PP Monument Wide Regular",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h2",
+          "text": "Industrial Power. Local Control.",
+          "family": "PP Monument Normal Regular",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Wide Regular",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "Our cerificates",
+        "Contact us",
+        "View Products"
+      ],
+      "words": 75,
+      "excerpt": "ZAKH RENEWABLE ENERGY AND ENGINEERING MANUFACTURING",
+      "media": {
+        "img": 174,
+        "svg": 14
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "scroll-trigger-0",
+      "y": 900,
+      "height": 300,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "scroll-trigger-01",
+      "y": 1200,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "scroll-trigger-02",
+      "y": 1800,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "scroll-trigger-03",
+      "y": 2400,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "scroll-trigger-04",
+      "y": 3000,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "scroll-trigger-05",
+      "y": 3600,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "scroll-trigger-06",
+      "y": 4200,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "scroll-trigger-07",
+      "y": 4800,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "scroll-trigger-08",
+      "y": 5400,
+      "height": 600,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "quote-01",
+      "y": 6000,
+      "height": 1186,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#8e3f01",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 96,
+        "width": 1304,
+        "gutterTop": 160,
+        "gutterBottom": 143
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "120px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "What is FAERS",
+          "family": "PP Monument Wide Regular",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#d6d6dc"
+        },
+        {
+          "tag": "h1",
+          "text": "FAERS is where energy becomes infrastructure. We design, build, and manufacture…",
+          "family": "PP Monument Normal Regular",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#8e3f01"
+        },
+        {
+          "tag": "h4",
+          "text": "Local manufacturing in the UAE",
+          "family": "PP Monument Normal Regular",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d"
+        },
+        {
+          "tag": "h4",
+          "text": "Up to 500 MW annual capacity",
+          "family": "PP Monument Normal Regular",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 72,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 48,
+      "excerpt": "FAERS is where energy becomes infrastructure. We design, build, and manufacture advanced",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 14,
+      "tag": "div",
+      "name": "calculator",
+      "y": 7186,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff3d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 80,
+        "width": 1280,
+        "gutterTop": 57,
+        "gutterBottom": 17
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Energy Savings",
+          "family": "PP Monument Normal",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.17,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.29,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "Our Products",
+        "Solar Panel Air",
+        "Country",
+        "Region",
+        "Per Day",
+        "Per month",
+        "Per Year",
+        "Explore Options"
+      ],
+      "words": 79,
+      "excerpt": "Visualize your potential reduction in electricity costs based on your location and",
+      "media": {
+        "svg": 14
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "descriptor-01",
+      "y": 8086,
+      "height": 418,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#3d3d3d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 661,
+        "width": 699,
+        "gutterTop": 160,
+        "gutterBottom": 120
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Shorter Supply Chains.",
+          "family": "PP Monument Wide Regular",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d66"
+        },
+        {
+          "tag": "h3",
+          "text": "Local Production Removes Shipping Delays and Overseas Dependencies.",
+          "family": "PP Monument Normal Regular",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 11,
+      "excerpt": "Dependencies.",
+      "media": {}
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": "tg-01",
+      "y": 9404,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "tg-02",
+      "y": 10304,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 18,
+      "tag": "div",
+      "name": "tg-03",
+      "y": 11204,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 19,
+      "tag": "div",
+      "name": "climate",
+      "y": 12104,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 431,
+        "gutterBottom": 52
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 4,
+        "childWidthsPct": [
+          98,
+          96,
+          96,
+          35
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Climate",
+          "family": "PP Monument Wide Regular",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h4",
+          "text": "Designed for GCC Climate",
+          "family": "PP Monument Normal Regular",
+          "size": 24,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 28,
+      "excerpt": "Engineered for long-term reliability in GCC conditions",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 20,
+      "tag": "div",
+      "name": "descriptor-02",
+      "y": 13004,
+      "height": 418,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 781,
+        "width": 579,
+        "gutterTop": 160,
+        "gutterBottom": 120
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Product Lineup.",
+          "family": "PP Monument Wide Regular",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff66"
+        },
+        {
+          "tag": "h3",
+          "text": "Different Applications Require Different Panel Architectures.",
+          "family": "PP Monument Normal Regular",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "Different Panel Architectures.",
+      "media": {}
+    },
+    {
+      "i": 21,
+      "tag": "div",
+      "name": "framer-1utxwk4",
+      "y": 13438,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 220,
+        "width": 1180,
+        "gutterTop": 24,
+        "gutterBottom": 49
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h5",
+          "text": "BIPV Custom Panel",
+          "family": "PP Monument Wide Regular",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.07,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "BIPV Custom Panel BIPV Custom Pannel Vi…",
+        "Solar Panels Solar Panles View more"
+      ],
+      "words": 27,
+      "excerpt": "BIPV Custom Pannel",
+      "media": {
+        "img": 15,
+        "svg": 2
+      }
+    },
+    {
+      "i": 22,
+      "tag": "div",
+      "name": "framer-qx9zl0",
+      "y": 14354,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff3d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 220,
+        "width": 1180,
+        "gutterTop": 24,
+        "gutterBottom": 49
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          48
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h5",
+          "text": "Faerstech Solar Kit",
+          "family": "PP Monument Wide Regular",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.07,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "Faerstech Solar Kit Faerstech Solar Kit…",
+        "Smart Solar Tiles Smart Solar Tiles Vie…"
+      ],
+      "words": 28,
+      "excerpt": "Solar generation integrated",
+      "media": {
+        "img": 6,
+        "svg": 2
+      }
+    },
+    {
+      "i": 23,
+      "tag": "div",
+      "name": "Testimonials",
+      "y": 15334,
+      "height": 631,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#3d3d3d",
+      "padding": "160px 0px 120px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 365,
+        "width": 995,
+        "gutterTop": 160,
+        "gutterBottom": 120
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "120px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Testimonials",
+          "family": "PP Monument Wide Regular",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d66"
+        },
+        {
+          "tag": "h3",
+          "text": "What are people saying about Faers?",
+          "family": "PP Monument Normal Regular",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Wide Regular",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.07,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 143,
+      "excerpt": "I'm thrilled with the results! Not only is my house more energy-efficient,",
+      "media": {
+        "img": 6
+      }
+    },
+    {
+      "i": 24,
+      "tag": "div",
+      "name": "descriptor-03",
+      "y": 15966,
+      "height": 338,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#3d3d3d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 80,
+        "gutterRight": 616,
+        "width": 744,
+        "gutterTop": 120,
+        "gutterBottom": 80
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Controlled at Every Stage.",
+          "family": "PP Monument Wide Regular",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d66"
+        },
+        {
+          "tag": "h3",
+          "text": "Material Selection, Manufacturing, and Quality Control are Managed Internally.",
+          "family": "PP Monument Normal Regular",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 13,
+      "excerpt": "Manufacturing,",
+      "media": {}
+    },
+    {
+      "i": 25,
+      "tag": "div",
+      "name": "framer-1gbf6hd",
+      "y": 17204,
+      "height": 666,
+      "position": "relative",
+      "background": "#f7f7f7",
+      "backgroundImage": false,
+      "color": "#bec3c6",
+      "padding": "120px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 200,
+        "gutterRight": 781,
+        "width": 459,
+        "gutterTop": 120,
+        "gutterBottom": 467
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "120px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          83,
+          83
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Our partners",
+          "family": "PP Monument Normal Regular",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#bec3c6"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 72,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "partners",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 26,
+      "tag": "div",
+      "name": "news",
+      "y": 17870,
+      "height": 806,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#3d3d3d",
+      "padding": "120px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 136,
+        "gutterRight": 120,
+        "width": 1184,
+        "gutterTop": 120,
+        "gutterBottom": 360
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "48px",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          83,
+          83
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "News",
+          "family": "PP Monument Wide Regular",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d66"
+        },
+        {
+          "tag": "h3",
+          "text": "FAERS at WETEX — bringing new design possibilities to solar architecture.",
+          "family": "PP Monument Normal Regular",
+          "size": 40,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#3d3d3d"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Monument Normal Regular",
+        "size": 40,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "none"
+      },
+      "labels": [
+        "View All",
+        "FAERS at WETEX — bringing new design po…"
+      ],
+      "words": 17,
+      "excerpt": "FAERS at WETEX — bringing new design possibilities to solar architecture.",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 45,
+    "title": "Faers",
+    "award": "HM",
+    "url": "https://faers.tech/",
+    "awwwards": "https://www.awwwards.com/sites/faers",
+    "categories": [
+      "Technology"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

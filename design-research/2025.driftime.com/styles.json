@@ -1,0 +1,930 @@
+{
+  "page": {
+    "url": "https://2025.driftime.com/",
+    "title": "Introduction | Impact Report 2025 — Driftime®",
+    "description": "Driftime® are an impact-first strategic and creative partner with a policy-adjacent focus.",
+    "lang": "en-GB",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6176,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#dbdcd7",
+        "share": 0.846
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.154
+      }
+    ],
+    "text": [
+      {
+        "value": "#010101",
+        "share": 0.895
+      },
+      {
+        "value": "#737373",
+        "share": 0.086
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.02
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff",
+        "share": 0.429
+      },
+      {
+        "value": "#010101",
+        "share": 0.286
+      },
+      {
+        "value": "#000000",
+        "share": 0.286
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1.001
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Instrument Serif",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 3409
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 300
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 258
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 36,
+        "weight": "600",
+        "lineHeight": 1.11,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 81
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 58
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 50
+      },
+      {
+        "family": "Koulen",
+        "size": 502.58,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 21
+      },
+      {
+        "family": "Koulen",
+        "size": 532.33,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 12
+      }
+    ],
+    "loadedFonts": [
+      "Koulen 400 normal",
+      "Instrument Serif 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 32,
+      "uses": 50
+    },
+    {
+      "px": 8,
+      "uses": 30
+    },
+    {
+      "px": 16,
+      "uses": 14
+    },
+    {
+      "px": 4,
+      "uses": 12
+    },
+    {
+      "px": 64,
+      "uses": 11
+    },
+    {
+      "px": 24,
+      "uses": 8
+    },
+    {
+      "px": 2,
+      "uses": 7
+    },
+    {
+      "px": 80,
+      "uses": 2
+    },
+    {
+      "px": 40,
+      "uses": 2
+    },
+    {
+      "px": 108,
+      "uses": 1
+    },
+    {
+      "px": 128,
+      "uses": 1
+    },
+    {
+      "px": 144,
+      "uses": 1
+    },
+    {
+      "px": 133,
+      "uses": 1
+    },
+    {
+      "px": 25,
+      "uses": 1
+    },
+    {
+      "px": 118,
+      "uses": 1
+    },
+    {
+      "px": 96,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.35544e+07px",
+      "uses": 7
+    },
+    {
+      "value": "50%",
+      "uses": 6
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 13
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 2,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "\"Helvetica Neue\", Helvetica, Arial, \"Segoe UI\", Roboto, system-ui, sans-serif",
+    "--font-serif": "var(--font-instrument-serif)",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-neutral-200": "lab(90.952% 0 -.0000119209)",
+    "--color-neutral-300": "lab(84.92% 0 -.0000119209)",
+    "--color-neutral-400": "lab(66.128% -.0000298023 .0000119209)",
+    "--color-neutral-500": "lab(48.496% 0 0)",
+    "--color-neutral-600": "lab(34.924% 0 0)",
+    "--color-neutral-700": "lab(27.036% 0 0)",
+    "--color-neutral-800": "lab(15.204% 0 -.00000596046)",
+    "--color-neutral-900": "lab(7.78201% -.0000149012 0)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--container-sm": "24rem",
+    "--container-2xl": "42rem",
+    "--container-7xl": "80rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "calc(1.5 / 1)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75 / 1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "calc(2.25 / 1.875)",
+    "--text-4xl": "2.25rem",
+    "--text-4xl--line-height": "calc(2.5 / 2.25)",
+    "--text-6xl": "3.75rem",
+    "--text-6xl--line-height": "1",
+    "--text-7xl": "4.5rem",
+    "--text-7xl--line-height": "1",
+    "--text-8xl": "6rem",
+    "--text-8xl--line-height": "1",
+    "--text-9xl": "8rem",
+    "--text-9xl--line-height": "1",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--tracking-tight": "-.025em",
+    "--tracking-normal": "0em",
+    "--leading-tight": "1.25",
+    "--leading-relaxed": "1.625",
+    "--radius-md": ".375rem",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--breakpoint-container": "1440px",
+    "--font-display": "var(--font-koulen)",
+    "--box-trim-both": "trim-both",
+    "--box-trim-start": "trim-start",
+    "--box-trim-end": "trim-end",
+    "--color-blackberry": "#1b0615",
+    "--color-clay": "#c2bdb6",
+    "--color-ink": "#010101",
+    "--color-mauve": "#c9a8af",
+    "--color-midnight": "#1b263c",
+    "--color-mist": "#dbdcd7",
+    "--color-nebula-base": "#000",
+    "--color-nebula-cloud": "#574089",
+    "--color-nebula-core": "#8f6fb0",
+    "--color-nebula-dust": "#241448",
+    "--color-nebula-glow": "#e4e1ff",
+    "--color-pearl": "#c9c6c1",
+    "--color-plum": "#2c223a",
+    "--color-sage": "#b2b3ae",
+    "--color-sand": "#d1b381",
+    "--color-scarlet": "#e60024",
+    "--color-storm": "#4a6167",
+    "--color-straw": "#f6e59d",
+    "--color-twilight": "#39466b"
+  },
+  "breakpoints": [
+    "min 48rem",
+    "min 40rem",
+    "min 64rem",
+    "min 1440px",
+    "min 80rem",
+    "min 96rem",
+    "max 600px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 158,
+      "height": 108,
+      "position": "fixed",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 232,
+        "gutterRight": 24,
+        "width": 1184,
+        "gutterTop": 37,
+        "gutterBottom": 37
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          22,
+          12
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "Introduction",
+          "family": "Helvetica Neue",
+          "size": 16,
+          "weight": "600",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.025,
+        "transform": "none"
+      },
+      "labels": [
+        "Introduction",
+        "Landscape",
+        "Moves",
+        "Moment",
+        "Horizon",
+        "Curiosities"
+      ],
+      "words": 12,
+      "excerpt": "Sound on for the best experience",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "bg-mist.pointer-events-none",
+      "y": 158,
+      "height": 900,
+      "position": "fixed",
+      "background": "#dbdcd7",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "relative.overflow-hidden",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 47,
+        "gutterBottom": 47
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Impact Report",
+          "family": "Koulen",
+          "size": 36,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Koulen",
+        "size": 532.33,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Impact",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "will-change-transform",
+      "y": 900,
+      "height": 1673,
+      "position": "static",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 108,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "A Quick Look at Our Year",
+          "family": "Koulen",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 0.8,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": null
+        }
+      ],
+      "bodyType": {
+        "family": "Koulen",
+        "size": 502.58,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "A Quick",
+      "media": {}
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "pointer-events-none.fixed",
+      "y": 158,
+      "height": 900,
+      "position": "fixed",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 488,
+        "gutterRight": 504,
+        "width": 448,
+        "gutterTop": 1196,
+        "gutterBottom": -1133
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "40px",
+        "justify": "normal",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          50,
+          8,
+          31,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Reading isn't dead. The panic is mostly vibes. Book sales in 2025 ran higher th…",
+          "family": "Instrument Serif",
+          "size": 20,
+          "weight": "500",
+          "lineHeight": 1.63,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#010101"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 195,
+      "excerpt": "Reading isn't dead. The panic is mostly vibes. Book sales in 2025",
+      "media": {
+        "img": 1,
+        "canvas": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "article",
+      "name": "border-ink.flex",
+      "y": 3977,
+      "height": 387,
+      "position": "static",
+      "background": "#dbdcd7",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "64px 0px 0px",
+      "margin": "0px",
+      "border": "3px solid #010101",
+      "content": {
+        "gutterLeft": 384,
+        "gutterRight": 32,
+        "width": 1024,
+        "gutterTop": 67,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          23,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The Landscape We Navigate",
+          "family": "Helvetica Neue",
+          "size": 36,
+          "weight": "600",
+          "lineHeight": 1.11,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#010101"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 101,
+      "excerpt": "That meant balancing interactive design against a lighter website, focusing capability ar…",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "article",
+      "name": "border-ink.flex",
+      "y": 4428,
+      "height": 395,
+      "position": "static",
+      "background": "#dbdcd7",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "64px 0px 0px",
+      "margin": "0px",
+      "border": "3px solid #010101",
+      "content": {
+        "gutterLeft": 384,
+        "gutterRight": 32,
+        "width": 1024,
+        "gutterTop": 67,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          23,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The Moves We Make",
+          "family": "Helvetica Neue",
+          "size": 36,
+          "weight": "600",
+          "lineHeight": 1.11,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#010101"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 107,
+      "excerpt": "Moves is the record of what Driftime actually did, across services, partnerships,",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "article",
+      "name": "border-ink.flex",
+      "y": 4887,
+      "height": 395,
+      "position": "static",
+      "background": "#dbdcd7",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "64px 0px 0px",
+      "margin": "0px",
+      "border": "3px solid #010101",
+      "content": {
+        "gutterLeft": 384,
+        "gutterRight": 32,
+        "width": 1024,
+        "gutterTop": 67,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          23,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The Moment We Build",
+          "family": "Helvetica Neue",
+          "size": 36,
+          "weight": "600",
+          "lineHeight": 1.11,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#010101"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 122,
+      "excerpt": "Moment is where Driftime tells the truth about the year, the parts",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "article",
+      "name": "border-ink.flex",
+      "y": 5346,
+      "height": 463,
+      "position": "static",
+      "background": "#dbdcd7",
+      "backgroundImage": false,
+      "color": "#010101",
+      "padding": "64px 0px",
+      "margin": "0px",
+      "border": "3px solid #010101",
+      "content": {
+        "gutterLeft": 384,
+        "gutterRight": 32,
+        "width": 1024,
+        "gutterTop": 67,
+        "gutterBottom": 68
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          22,
+          23,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "The Horizon We Reach",
+          "family": "Helvetica Neue",
+          "size": 36,
+          "weight": "600",
+          "lineHeight": 1.11,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#010101"
+        }
+      ],
+      "bodyType": {
+        "family": "Instrument Serif",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 99,
+      "excerpt": "A reshaped publication and a book marking Driftime's tenth year are finding",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "footer",
+      "name": "footer",
+      "y": 5873,
+      "height": 303,
+      "position": "static",
+      "background": "#dbdcd7",
+      "backgroundImage": false,
+      "color": "#737373",
+      "padding": "64px 32px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 384,
+        "gutterRight": 384,
+        "width": 672,
+        "gutterTop": 64,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "48px normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          47,
+          43,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Driftime's 2025 Impact Report was designed, made, and shaped by our team. We us…",
+          "family": "Helvetica Neue",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.63,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#737373"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.63,
+        "letterSpacing": -0.025,
+        "transform": "none"
+      },
+      "labels": [
+        "Made by Driftime® (opens in a new windo…"
+      ],
+      "words": 54,
+      "excerpt": "Driftime's 2025 Impact Report was designed, made, and shaped by our team.",
+      "media": {
+        "svg": 6
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "pointer-events-none.fixed",
+      "y": 158,
+      "height": 900,
+      "position": "fixed",
+      "background": "#010101",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 42,
+    "title": "Driftime's 2025 Impact Report",
+    "award": "HM",
+    "url": "https://2025.driftime.com/",
+    "awwwards": "https://www.awwwards.com/sites/driftimes-2025-impact-report",
+    "categories": [
+      "Music & Sound",
+      "Web & Interactive",
+      "Social responsibility"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

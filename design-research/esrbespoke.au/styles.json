@@ -1,0 +1,805 @@
+{
+  "page": {
+    "url": "https://www.esrbespoke.au/",
+    "title": "ESR",
+    "description": "Three decades of restoring excellence and reigniting the joy of the drive.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 6870,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.725
+      },
+      {
+        "value": "#000000",
+        "share": 0.206
+      },
+      {
+        "value": "#191919",
+        "share": 0.042
+      },
+      {
+        "value": "#7c7c7c",
+        "share": 0.002
+      },
+      {
+        "value": "#b4b4b4",
+        "share": 0.002
+      },
+      {
+        "value": "#444444",
+        "share": 0.002
+      },
+      {
+        "value": "#bcbcbc",
+        "share": 0.002
+      },
+      {
+        "value": "#3e3e3e",
+        "share": 0.002
+      },
+      {
+        "value": "#99bcd6",
+        "share": 0.002
+      },
+      {
+        "value": "#070b14",
+        "share": 0.002
+      },
+      {
+        "value": "#e20508",
+        "share": 0.002
+      },
+      {
+        "value": "#787776",
+        "share": 0.002
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.564
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.436
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff1a",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.987,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "__bodyFont_0f148b",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 966
+      },
+      {
+        "family": "__headingFont_a39ca7",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.09,
+        "transform": "uppercase",
+        "chars": 824
+      },
+      {
+        "family": "__bodyFont_0f148b",
+        "size": 20,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 194
+      },
+      {
+        "family": "__bodyFont_0f148b",
+        "size": 92,
+        "weight": "500",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 105
+      },
+      {
+        "family": "__bodyFont_0f148b",
+        "size": 62,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 35
+      },
+      {
+        "family": "__bodyFont_0f148b",
+        "size": 62,
+        "weight": "500",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 24
+      },
+      {
+        "family": "__headingFont_a39ca7",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.43,
+        "letterSpacing": 0.05,
+        "transform": "uppercase",
+        "chars": 7
+      },
+      {
+        "family": "__headingFont_a39ca7",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1.43,
+        "letterSpacing": 0.1,
+        "transform": "uppercase",
+        "chars": 6
+      }
+    ],
+    "loadedFonts": [
+      "__bodyFont_0f148b 400 normal",
+      "__bodyFont_0f148b 500 normal",
+      "__headingFont_a39ca7 normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 25
+    },
+    {
+      "px": 32,
+      "uses": 24
+    },
+    {
+      "px": 20,
+      "uses": 14
+    },
+    {
+      "px": 6,
+      "uses": 12
+    },
+    {
+      "px": 216,
+      "uses": 12
+    },
+    {
+      "px": 40,
+      "uses": 12
+    },
+    {
+      "px": 14,
+      "uses": 8
+    },
+    {
+      "px": 28,
+      "uses": 5
+    },
+    {
+      "px": 270,
+      "uses": 5
+    },
+    {
+      "px": 8,
+      "uses": 3
+    },
+    {
+      "px": 56,
+      "uses": 2
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 336,
+      "uses": 2
+    },
+    {
+      "px": 278,
+      "uses": 2
+    },
+    {
+      "px": 256,
+      "uses": 2
+    },
+    {
+      "px": 3,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "2px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 22
+      },
+      {
+        "value": "0.5s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 13
+      },
+      {
+        "value": "0.1s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 12
+      },
+      {
+        "value": "0.3s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 18,
+    "videos": 3
+  },
+  "cssVariables": {
+    "--foreground-rgb": "0,0,0",
+    "--background-rgb": "255,255,255",
+    "--border-rgb": "0,0,0",
+    "--scrollbarWidth": "0px"
+  },
+  "breakpoints": [
+    "min 1024px",
+    "max 1023px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "header",
+      "y": 28,
+      "height": 85,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 380,
+        "width": 1028,
+        "gutterTop": -14,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 3,
+        "childWidthsPct": [
+          6,
+          9,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "E",
+          "family": "__headingFont_a39ca7",
+          "size": 14,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.09,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "__headingFont_a39ca7",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.09,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "ESR BESPOKE",
+        "SERVICES",
+        "PARTNERS",
+        "ABOUT",
+        "CONTACT",
+        "CAREERS"
+      ],
+      "words": 32,
+      "excerpt": "since 1989",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "w-auto.grid-layout",
+      "y": -945,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "28px 32px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 28,
+        "gutterBottom": 28
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          63,
+          96,
+          6,
+          31
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "S",
+          "family": "__bodyFont_0f148b",
+          "size": 62,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "__headingFont_a39ca7",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.09,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Services",
+        "Partners",
+        "About",
+        "Contact",
+        "Careers",
+        "@ESRBESPOKE",
+        "(02) 9735 1111",
+        "ENQUIRIES@ESRBESPOKE.AU",
+        "419-431 CANTERBURY ROAD, CAMPSIE NSW 21…",
+        "HQ@ESRBESPOKE.AU"
+      ],
+      "words": 241,
+      "excerpt": "S",
+      "media": {
+        "img": 5,
+        "video": 1,
+        "canvas": 5,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "fixed.inset-0",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "w-auto.px-[1.125rem]",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#191919",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px 32px 28px",
+      "margin": "0px 0px 56px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 226,
+        "width": 1182,
+        "gutterTop": 396,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          63,
+          31,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Exceptional is our standard",
+          "family": "__bodyFont_0f148b",
+          "size": 62,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "__headingFont_a39ca7",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.09,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "OUR STORY",
+        "UNMUTE"
+      ],
+      "words": 96,
+      "excerpt": "Unmute",
+      "media": {
+        "video": 2
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "w-auto.px-[1.125rem]",
+      "y": 956,
+      "height": 648,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 32px",
+      "margin": "0px 0px 32px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "ESR is recognised as an official Porsche Certified Collision Centre, one of onl…",
+          "family": "__bodyFont_0f148b",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "__bodyFont_0f148b",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 66,
+      "excerpt": "ESR is recognised as an official Porsche Certified Collision Centre, one of",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "downMd:aspect-[0.8].md:h-[100svh]",
+      "y": 1636,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px 0px 32px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "w-auto.clip",
+      "y": 2568,
+      "height": 1721,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 25,
+        "gutterRight": 264,
+        "width": 1151,
+        "gutterTop": 0,
+        "gutterBottom": 278
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Porsche",
+          "family": "__bodyFont_0f148b",
+          "size": 92,
+          "weight": "500",
+          "lineHeight": 0.95,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "__bodyFont_0f148b",
+        "size": 92,
+        "weight": "500",
+        "lineHeight": 0.95,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Porsche",
+        "Bentley",
+        "Ferrari",
+        "Rolls-Royce",
+        "Aston Martin",
+        "Lamborghini",
+        "McLaren",
+        "Mercedes-AMG",
+        "BMW M"
+      ],
+      "words": 26,
+      "excerpt": "ESR specialise exclusively with the world’s most prestigious marques.",
+      "media": {
+        "img": 12,
+        "canvas": 12
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "w-auto.px-[1.125rem]",
+      "y": 4289,
+      "height": 1681,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "56px 32px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 56,
+        "gutterBottom": 245
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          96,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "At ESR, we offer a complete end-to-end service experience for owners of luxury …",
+          "family": "__bodyFont_0f148b",
+          "size": 40,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "__bodyFont_0f148b",
+        "size": 40,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 108,
+      "excerpt": "At ESR, we offer a complete end-to-end service experience for owners of",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "footer",
+      "name": "md:h-[100svh].relative",
+      "y": 5970,
+      "height": 900,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 264,
+        "width": 1144,
+        "gutterTop": -5945,
+        "gutterBottom": 5998
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          96,
+          32,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "E",
+          "family": "__headingFont_a39ca7",
+          "size": 14,
+          "weight": "300",
+          "lineHeight": 1,
+          "letterSpacing": 0.09,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "__headingFont_a39ca7",
+        "size": 14,
+        "weight": "300",
+        "lineHeight": 1,
+        "letterSpacing": 0.09,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "ESR BESPOKE",
+        "SERVICES",
+        "PARTNERS",
+        "ABOUT",
+        "CONTACT",
+        "CAREERS",
+        "SIGN UP",
+        "@ESRBESPOKE",
+        "PRIVACY",
+        "(02) 9735 1111"
+      ],
+      "words": 294,
+      "excerpt": "Services",
+      "media": {
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 180,
+    "title": "ESR Bespoke",
+    "award": "SOTD",
+    "url": "https://www.esrbespoke.au/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/business-corporate/",
+    "awwwards": "https://www.awwwards.com/sites/esr-bespoke",
+    "categories": [
+      "Business & Corporate",
+      "Promotional",
+      "Luxury"
+    ]
+  }
+}

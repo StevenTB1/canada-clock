@@ -1,0 +1,231 @@
+{
+  "page": {
+    "url": "https://segerman.dev/",
+    "title": "Raphael Segerman | Creative Developer",
+    "description": "Creative developer building high-performance web experiences focused on motion and interaction.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": "Astro v5.16.3"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.501
+      },
+      {
+        "value": "#000000",
+        "share": 0.499
+      }
+    ],
+    "text": [
+      {
+        "value": "#00031f",
+        "share": 0.789
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.211
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.211
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ag",
+        "size": 13.33,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.006,
+        "transform": "none",
+        "chars": 15
+      },
+      {
+        "family": "ag",
+        "size": 14.17,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.006,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "ag 500 normal",
+      "nw 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 7,
+      "uses": 2
+    },
+    {
+      "px": 13,
+      "uses": 2
+    },
+    {
+      "px": 20,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3.33333px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 5
+  },
+  "cssVariables": {
+    "--c-black": "#00031F",
+    "--c-white": "#ffffff",
+    "--col": "7.4rem",
+    "--unit": "1.6rem",
+    "--ar": "1.736/1"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 1099px",
+    "max 1365px",
+    "min 1100px",
+    "min 1366px",
+    "max 1366px"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "loader",
+      "y": 0,
+      "height": 900,
+      "position": "absolute",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 701,
+        "gutterRight": 701,
+        "width": 38,
+        "gutterTop": 475,
+        "gutterBottom": 408
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          3,
+          3
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "100",
+          "family": "ag",
+          "size": 14.17,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.006,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ag",
+        "size": 14.17,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.006,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "100",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "canvas",
+      "name": "canvas",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#00031f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "overlay",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#00031f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 48,
+    "title": "Raphael Segerman Portfolio",
+    "award": "HM",
+    "url": "https://segerman.dev/",
+    "awwwards": "https://www.awwwards.com/sites/raphael-segerman-portfolio",
+    "categories": [
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

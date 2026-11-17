@@ -1,0 +1,442 @@
+{
+  "page": {
+    "url": "https://mesh3d.gallery/the-state-of-the-gallery",
+    "title": "The state of the gallery | mesh3d",
+    "description": "A Three.js showcase for the current state of the mesh3d gallery.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#08090d",
+        "share": 0.995
+      },
+      {
+        "value": "#ecff3e",
+        "share": 0.005
+      }
+    ],
+    "text": [
+      {
+        "value": "#cfdee5",
+        "share": 0.434
+      },
+      {
+        "value": "#bababa",
+        "share": 0.27
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.253
+      },
+      {
+        "value": "#08090d",
+        "share": 0.043
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.995,
+      "text": 0.566
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "overusedGrotesk",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 116
+      },
+      {
+        "family": "overusedGrotesk",
+        "size": 115.2,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 105
+      },
+      {
+        "family": "overusedGrotesk",
+        "size": 36.86,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.031,
+        "transform": "none",
+        "chars": 77
+      },
+      {
+        "family": "overusedGrotesk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 44
+      },
+      {
+        "family": "overusedGrotesk",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 35
+      },
+      {
+        "family": "overusedGrotesk",
+        "size": 172.8,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "Geist",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 18
+      }
+    ],
+    "loadedFonts": [
+      "Geist 100 900 normal",
+      "overusedGrotesk 400 normal",
+      "overusedGrotesk Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 25,
+      "uses": 105
+    },
+    {
+      "px": 4,
+      "uses": 46
+    },
+    {
+      "px": 38,
+      "uses": 23
+    },
+    {
+      "px": 56,
+      "uses": 5
+    },
+    {
+      "px": 40,
+      "uses": 4
+    },
+    {
+      "px": 16,
+      "uses": 3
+    },
+    {
+      "px": 24,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 18,
+      "uses": 2
+    },
+    {
+      "px": 42,
+      "uses": 2
+    },
+    {
+      "px": 80,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "19px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.7s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 372
+      },
+      {
+        "value": "0.32s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 51
+      },
+      {
+        "value": "0.2s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.36s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto S",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-red-200": "#ffcaca",
+    "--color-red-400": "#ff6568",
+    "--color-red-500": "#fb2c36",
+    "--color-amber-200": "#fee685",
+    "--color-amber-400": "#fcbb00",
+    "--color-amber-500": "#f99c00",
+    "--color-amber-600": "#dd7400",
+    "--color-green-400": "#05df72",
+    "--color-emerald-200": "#a4f4cf",
+    "--color-emerald-300": "#5ee9b5",
+    "--color-emerald-400": "#00d294",
+    "--color-emerald-500": "#00bb7f",
+    "--color-sky-200": "#b8e6fe",
+    "--color-sky-500": "#00a5ef",
+    "--color-blue-50": "#eff6ff",
+    "--color-blue-100": "#dbeafe",
+    "--color-blue-600": "#155dfc",
+    "--color-purple-50": "#faf5ff",
+    "--color-rose-200": "#ffccd3",
+    "--color-rose-300": "#ffa2ae",
+    "--color-rose-500": "#ff2357",
+    "--color-gray-500": "#6a7282",
+    "--color-gray-600": "#4a5565",
+    "--color-neutral-800": "#262626",
+    "--color-neutral-900": "#171717",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--container-sm": "24rem",
+    "--container-md": "28rem",
+    "--container-lg": "32rem",
+    "--container-2xl": "42rem",
+    "--container-3xl": "48rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--text-xl": "1.25rem",
+    "--text-xl--line-height": "calc(1.75 / 1.25)",
+    "--text-2xl": "1.5rem",
+    "--text-2xl--line-height": "calc(2 / 1.5)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "calc(2.25 / 1.875)",
+    "--font-weight-light": "300",
+    "--font-weight-normal": "400",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--tracking-wide": ".025em",
+    "--tracking-wider": ".05em",
+    "--tracking-widest": ".1em",
+    "--leading-relaxed": "1.625",
+    "--radius-xs": ".125rem",
+    "--radius-sm": "calc(.5rem - 4px)",
+    "--radius-md": "calc(.5rem - 2px)",
+    "--radius-lg": ".5rem",
+    "--radius-xl": ".75rem",
+    "--radius-2xl": "1rem",
+    "--radius-3xl": "1.5rem",
+    "--ease-in": "cubic-bezier(.4, 0, 1, 1)",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--animate-pulse": "pulse 2s cubic-bezier(.4, 0, .6, 1) infinite",
+    "--blur-xs": "4px",
+    "--blur-md": "12px",
+    "--blur-xl": "24px",
+    "--aspect-video": "16 / 9",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--animate-accordion-down": "accordion-down .32s cubic-bezier(.4, 0, .2, 1)",
+    "--animate-accordion-up": "accordion-up .32s cubic-bezier(.4, 0, .2, 1)",
+    "--animate-collapsible-down": "collapsible-down .24s cubic-bezier(.4, 0, .2, 1)",
+    "--animate-collapsible-up": "collapsible-up .2s cubic-bezier(.4, 0, .2, 1)"
+  },
+  "breakpoints": [
+    "min 40rem",
+    "min 48rem",
+    "min 64rem",
+    "min 80rem",
+    "min 96rem",
+    "min 1440px",
+    "min 768px",
+    "max 600px",
+    "max 768px"
+  ],
+  "tech": [
+    "three",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "header",
+      "name": "pointer-events-none.fixed",
+      "y": 0,
+      "height": 76,
+      "position": "fixed",
+      "background": "#08090d",
+      "backgroundImage": false,
+      "color": "#cfdee5",
+      "padding": "0px 40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 63,
+        "width": 1337,
+        "gutterTop": 30,
+        "gutterBottom": 30
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          17,
+          7,
+          17
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "S",
+          "family": "overusedGrotesk",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.02,
+          "transform": "uppercase",
+          "color": "#cfdee5"
+        }
+      ],
+      "bodyType": {
+        "family": "overusedGrotesk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "AUDIO OFF"
+      ],
+      "words": 22,
+      "excerpt": "S",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "relative.w-full",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#08090d",
+      "backgroundImage": false,
+      "color": "#cfdee5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 40,
+        "gutterRight": 40,
+        "width": 1360,
+        "gutterTop": 56,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          94,
+          94,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "span",
+          "text": "T",
+          "family": "overusedGrotesk",
+          "size": 172.8,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#cfdee5"
+        }
+      ],
+      "bodyType": {
+        "family": "overusedGrotesk",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "Browse the gallery",
+        "SHARE",
+        "MADE BY MAJO PUTERKA"
+      ],
+      "words": 378,
+      "excerpt": "Browse the gallery",
+      "media": {
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 40,
+    "title": "The state of the gallery",
+    "award": "SOTD",
+    "url": "https://mesh3d.gallery/the-state-of-the-gallery",
+    "awwwards": "https://www.awwwards.com/sites/the-state-of-the-gallery",
+    "categories": [
+      "Technology",
+      "Web & Interactive",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

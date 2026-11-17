@@ -1,0 +1,698 @@
+{
+  "page": {
+    "url": "https://almadalabel.com/",
+    "title": "ALMADA LABEL - A modern take on a seasonless wardrobe",
+    "description": "Seasonless modern wardrobe staples designed with Scandinavian minimalism, resonating beyond trends. Responsibly crafted from high-quality materials.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 4280,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.626
+      },
+      {
+        "value": "#f8f8f8",
+        "share": 0.374
+      }
+    ],
+    "text": [
+      {
+        "value": "#17140f",
+        "share": 0.725
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.2
+      },
+      {
+        "value": "#88847c",
+        "share": 0.05
+      },
+      {
+        "value": "#0000ee",
+        "share": 0.024
+      }
+    ],
+    "borders": [
+      {
+        "value": "#767676",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.975
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Paragraph Primary Font",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 403
+      },
+      {
+        "family": "Heading Font Italic",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 63
+      },
+      {
+        "family": "Paragraph Primary Font",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 44
+      },
+      {
+        "family": "Heading Font Italic",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.31,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 39
+      },
+      {
+        "family": "Button Font",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 37
+      },
+      {
+        "family": "Paragraph Primary Font",
+        "size": 7.01,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 18
+      },
+      {
+        "family": "Paragraph Primary Font",
+        "size": 11.01,
+        "weight": "400",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 15
+      }
+    ],
+    "loadedFonts": [
+      "Heading Font Italic normal normal",
+      "Paragraph Primary Font 400 normal",
+      "Button Font 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 23
+    },
+    {
+      "px": 32,
+      "uses": 11
+    },
+    {
+      "px": 30,
+      "uses": 9
+    },
+    {
+      "px": 12,
+      "uses": 8
+    },
+    {
+      "px": 24,
+      "uses": 8
+    },
+    {
+      "px": 6,
+      "uses": 8
+    },
+    {
+      "px": 16,
+      "uses": 7
+    },
+    {
+      "px": 4,
+      "uses": 6
+    },
+    {
+      "px": 20,
+      "uses": 6
+    },
+    {
+      "px": 2,
+      "uses": 5
+    },
+    {
+      "px": 48,
+      "uses": 4
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 2
+    },
+    {
+      "px": 100,
+      "uses": 2
+    },
+    {
+      "px": 146,
+      "uses": 2
+    },
+    {
+      "px": 1,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.2s ease-in-out",
+        "uses": 4
+      },
+      {
+        "value": "0.18s ease-in",
+        "uses": 3
+      },
+      {
+        "value": "0.25s ease-in-out",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 0,
+    "videos": 1
+  },
+  "cssVariables": {
+    "--background_color": "#ffffff",
+    "--background_color_2": "#f3f2f2",
+    "--primary_text": "#17140f",
+    "--secondary_text": "#ffffff",
+    "--primary_accent": "#a6a6a5",
+    "--secondary_accent": "#38302e",
+    "--primary_gray": "#55534e",
+    "--secondary_gray": "#88847c",
+    "--tertiary_gray": "#f3f2f2",
+    "--button-bg": "#a6a6a5",
+    "--button-content": "#ffffff",
+    "--button-border": "#a6a6a5",
+    "--body_color": "#FFF",
+    "--loader_color": "#1e242a",
+    "--submenu-position": "66px",
+    "--header-height": "66px",
+    "--label_onSale_Bg": "#A6A6A5",
+    "--label_onSale_text": "#A6A6A5",
+    "--label_comingSoon_Bg": "#A6A6A5",
+    "--label_comingSoon_text": "#A6A6A5",
+    "--label_backInStock_Bg": "#88847C",
+    "--label_backInStock_text": "#88847C",
+    "--label_lowStock_Bg": "#88847C",
+    "--label_lowStock_text": "#88847C",
+    "--label_custom_Bg": "#88847C",
+    "--label_custom_text": "#88847C",
+    "--label_soldOut_Bg": "#A6A6A5",
+    "--label_soldOut_text": "#A6A6A5",
+    "--alert_success": "#2fa34e",
+    "--alert_error": "#dc0428",
+    "--pageTransitionColor": "#FFFFFF",
+    "--btn_primary_on_light_bg": "rgb(35, 31, 32)",
+    "--btn_primary_on_light_txt": "rgb(253, 252, 251)",
+    "--btn_primary_on_light_border": "rgb(35, 31, 32)",
+    "--btn_primary_on_dark_bg": "rgb(253, 252, 251)",
+    "--btn_primary_on_dark_txt": "rgb(19, 22, 25)",
+    "--btn_primary_on_dark_border": "rgb(19, 22, 25)",
+    "--btn_primary_on_light_txt_hover": "rgb(35, 31, 32)",
+    "--btn_primary_on_light_border_hover": "rgb(35, 31, 32)",
+    "--btn_primary_on_dark_txt_hover": "rgb(35, 31, 32)",
+    "--btn_primary_on_dark_border_hover": "rgb(253, 252, 251)",
+    "--btn_secondary_on_light_bg_hover": "rgb(35, 31, 32)",
+    "--btn_secondary_on_dark_bg_hover": "rgb(253, 252, 251)",
+    "--btn_primary_on_yellow_bg": "",
+    "--btn_primary_on_yellow_txt": "",
+    "--btn_primary_on_yellow_border": "",
+    "--btn_secondary_bg": "",
+    "--announcement-dynamic-height": "0",
+    "--type_heading_font_italic": "'Heading Font Italic'",
+    "--type_heading_font_regular": "'Heading Font Regular'",
+    "--type_heading_font_secondary": "'Heading Font Secondary'",
+    "--type_primary_paragraph_font": "'Paragraph Primary Font'",
+    "--type_button_font": "'Button Font'",
+    "--weight_heading_font_italic": "",
+    "--weight_heading_font_regular": "500",
+    "--weight_heading_font_secondary": "500",
+    "--weight_paragraph_font": "400",
+    "--weight_button_font": "500",
+    "--announcement-height-fixed": "24px",
+    "--announcement-height": "24px",
+    "--ann-is-transparent": "0",
+    "--header-height-fixed": "66px",
+    "--section_max_width": "1440px",
+    "--header-is-transparent": "1",
+    "--header-dynamic-height": "66px",
+    "--swiper-theme-color": "#007aff"
+  },
+  "breakpoints": [
+    "min 1025px",
+    "max 1024px",
+    "min 768px",
+    "min 1440px",
+    "max 1440px",
+    "min 1441px",
+    "max 767px",
+    "min 1920px"
+  ],
+  "tech": [
+    "shopify"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "shopify-section-sections--31568781607295__main-header",
+      "y": 24,
+      "height": 66,
+      "position": "sticky",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 47,
+        "width": 1361,
+        "gutterTop": 24,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          38,
+          11,
+          57
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "Shop",
+          "family": "Paragraph Primary Font",
+          "size": 12,
+          "weight": "400",
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Paragraph Primary Font",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Shop",
+        "Explore",
+        "Journal",
+        "Search",
+        "Wishlist",
+        "Cart"
+      ],
+      "words": 6,
+      "excerpt": "Wishlist",
+      "media": {
+        "img": 2,
+        "svg": 5
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "shopify-section-template--31568779608447__section_full_width_media_meUTyM",
+      "y": 24,
+      "height": 802,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "-66px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 1294,
+        "width": 114,
+        "gutterTop": 376,
+        "gutterBottom": 376
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "The Occasion Edit",
+          "family": "Heading Font Italic",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Heading Font Italic",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Shop now"
+      ],
+      "words": 5,
+      "excerpt": "The Occasion Edit",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "shopify-section-template--31568779608447__section_collection_showcase_KrEVak",
+      "y": 826,
+      "height": 530,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 6,
+        "childWidthsPct": [
+          23,
+          23,
+          23,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 6,
+        "svg": 2
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "shopify-section-template--31568779608447__section_full_width_media_WGbiPp",
+      "y": 1356,
+      "height": 802,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 1130,
+        "gutterRight": 47,
+        "width": 263,
+        "gutterTop": 376,
+        "gutterBottom": 376
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Silk, lustrous satin and delicate sheer layers",
+          "family": "Heading Font Italic",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.33,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Heading Font Italic",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.33,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Shop new arrivals"
+      ],
+      "words": 10,
+      "excerpt": "Silk, lustrous satin and delicate sheer layers",
+      "media": {
+        "img": 3,
+        "video": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "shopify-section-template--31568779608447__section_collection_showcase_qnmPTX",
+      "y": 2158,
+      "height": 530,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 6,
+        "childWidthsPct": [
+          23,
+          23,
+          23,
+          23,
+          23,
+          23
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 6,
+        "svg": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "shopify-section-template--31568779608447__section_image_text_nb9UqF",
+      "y": 2688,
+      "height": 950,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#17140f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 118,
+        "gutterRight": 858,
+        "width": 464,
+        "gutterTop": 425,
+        "gutterBottom": 410
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "24px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          49,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "The ALMADA Journal",
+          "family": "Heading Font Italic",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.31,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#17140f"
+        }
+      ],
+      "bodyType": {
+        "family": "Paragraph Primary Font",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "View journal"
+      ],
+      "words": 20,
+      "excerpt": "Discover behind-the-scenes moments from photoshoots, highlights from events, and inspirat…",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "shopify-section-sections--31568781574527__main-footer",
+      "y": 3638,
+      "height": 642,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#17140f",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 182,
+        "width": 1226,
+        "gutterTop": 96,
+        "gutterBottom": 32
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "100px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          95,
+          95
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Join our mailing list",
+          "family": "Heading Font Italic",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.31,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#17140f"
+        }
+      ],
+      "bodyType": {
+        "family": "Paragraph Primary Font",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Select Language: English",
+        "Select Country: Canada / CAD",
+        "Our Story",
+        "Our Production",
+        "Material & Care",
+        "Stockists",
+        "Press",
+        "Instagram",
+        "Contact",
+        "FAQ"
+      ],
+      "words": 45,
+      "excerpt": "Receive first access to new pieces, exclusive content and weekly inspiration",
+      "media": {
+        "svg": 8
+      }
+    }
+  ],
+  "listing": {
+    "rank": 208,
+    "title": "Almada Label",
+    "award": "HM",
+    "url": "https://almadalabel.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/minimal/",
+    "awwwards": "https://www.awwwards.com/sites/almada-label",
+    "categories": [
+      "E-Commerce",
+      "Fashion",
+      "Luxury"
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "page": {
+    "url": "https://kiselevvv.xyz/",
+    "title": "©Vasiliy Kiselev, Independent Art-Director, 2026",
+    "description": "I’m a hands-on design leader who builds systems and experiences that make products clear, useful, and emotionally engaging.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": "Framer f8e97a5"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Exposure Trial -30",
+        "size": 10,
+        "weight": "397",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.03,
+        "transform": "none",
+        "chars": 149
+      },
+      {
+        "family": "ABC Diatype Bold",
+        "size": 11,
+        "weight": "700",
+        "lineHeight": 1.27,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 105
+      }
+    ],
+    "loadedFonts": [
+      "ABC Diatype Bold 700 normal",
+      "Exposure Trial -30 397 normal",
+      "ABC Diatype Bold Placeholder normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 14
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 10,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--token-61efdb4a-f0f3-447d-a70e-f23cb76c4122": "#000",
+    "--token-1d69f25a-e1f1-49c0-b9f2-5b344300f1c2": "#fff",
+    "--token-419394a1-565d-4952-8ba3-b4f1eb92339c": "#050505",
+    "--token-f59882a3-8640-42a9-a02f-72bc61900fbd": "#ff2f00",
+    "--token-0b4cd021-339a-4cc2-9256-1dcfe83198a7": "#000",
+    "--token-723f349f-a510-4abe-bf00-52a92ed6a6bd": "#5e5e5e",
+    "--token-b7e20c66-fb9b-4645-ad8e-d15826f28f36": "#fff",
+    "--token-3152cf2e-b478-40c0-9d89-75ac11de3413": "#000",
+    "--token-c751fe22-9dfd-45e0-b4b4-22fab73a1686": "#666",
+    "--framer-will-change-override": "transform",
+    "--framer-will-change-filter-override": "filter",
+    "--overflow-clip-fallback": "hidden",
+    "--one-if-corner-shape-supported": "1"
+  },
+  "breakpoints": [
+    "max 1919px",
+    "min 700px",
+    "max 1199.98px",
+    "max 699.98px",
+    "min 1920px"
+  ],
+  "tech": [
+    "framer"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "main",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 8,
+        "gutterRight": 8,
+        "width": 1424,
+        "gutterTop": 8,
+        "gutterBottom": 8
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "10px",
+        "justify": "flex-start",
+        "align": "center",
+        "children": 5,
+        "childWidthsPct": [
+          52,
+          21,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "a",
+          "text": "©Vasiliy Kiselev, Independent Art-Director, 2026",
+          "family": "ABC Diatype Bold",
+          "size": 11,
+          "weight": "700",
+          "lineHeight": 1.27,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Exposure Trial -30",
+        "size": 10,
+        "weight": "397",
+        "lineHeight": 1.4,
+        "letterSpacing": 0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "©Vasiliy Kiselev, Independent Art-Direc…",
+        "Works,",
+        "Information,",
+        "Archive,",
+        "Showreel",
+        "Telegram,",
+        "Email,",
+        "LinkedIn"
+      ],
+      "words": 36,
+      "excerpt": "This website and all content on it, including text, graphics, videos and",
+      "media": {
+        "img": 6
+      }
+    }
+  ],
+  "listing": {
+    "rank": 166,
+    "title": "Vasiliy Kiselev",
+    "url": "https://kiselevvv.xyz/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

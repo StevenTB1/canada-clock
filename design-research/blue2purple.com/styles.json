@@ -1,0 +1,1168 @@
+{
+  "page": {
+    "url": "https://blue2purple.com/",
+    "title": "blue2purple | Creative & Performance Digital Agency",
+    "description": "Turning attention into acquisition. Social creative, influence, media performance and data intelligence working as one team for growth-minded brands.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 9545,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ffffff",
+        "share": 0.74
+      },
+      {
+        "value": "#0c00ff",
+        "share": 0.109
+      },
+      {
+        "value": "#0000004d",
+        "share": 0.053
+      },
+      {
+        "value": "#b200ff",
+        "share": 0.051
+      },
+      {
+        "value": "#00000033",
+        "share": 0.03
+      },
+      {
+        "value": "#ff00f2",
+        "share": 0.013
+      },
+      {
+        "value": "#0a0a0a",
+        "share": 0.004
+      },
+      {
+        "value": "#ffffff33",
+        "share": 0.001
+      },
+      {
+        "value": "#0c01ff",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#0a0a0a80",
+        "share": 0.437
+      },
+      {
+        "value": "#0a0a0a",
+        "share": 0.319
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.193
+      },
+      {
+        "value": "#2d2d2d",
+        "share": 0.049
+      },
+      {
+        "value": "#0c01ff",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#d9d9d9",
+        "share": 0.983
+      },
+      {
+        "value": "#2d2d2d",
+        "share": 0.017
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.828,
+      "text": 0.998
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 2615
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 1226
+      },
+      {
+        "family": "Boldonse",
+        "size": 15.59,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 776
+      },
+      {
+        "family": "Helvetica Neue",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 579
+      },
+      {
+        "family": "Boldonse",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 380
+      },
+      {
+        "family": "Open Sans",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.65,
+        "letterSpacing": 0.025,
+        "transform": "none",
+        "chars": 311
+      },
+      {
+        "family": "Boldonse",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 221
+      },
+      {
+        "family": "Boldonse",
+        "size": 37.99,
+        "weight": "500",
+        "lineHeight": 1.7,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 135
+      },
+      {
+        "family": "Boldonse",
+        "size": 69.53,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 130
+      },
+      {
+        "family": "Boldonse",
+        "size": 17.59,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 119
+      },
+      {
+        "family": "Boldonse",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.034,
+        "transform": "uppercase",
+        "chars": 72
+      },
+      {
+        "family": "Boldonse",
+        "size": 52.64,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 68
+      },
+      {
+        "family": "Boldonse",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.045,
+        "transform": "none",
+        "chars": 45
+      },
+      {
+        "family": "Open Sans",
+        "size": 18,
+        "weight": "600",
+        "lineHeight": 1.3,
+        "letterSpacing": 0.022,
+        "transform": "none",
+        "chars": 25
+      }
+    ],
+    "loadedFonts": [
+      "Helvetica Neue 400 normal",
+      "Ppneuemontreal Book 400 normal",
+      "Boldonse 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 40,
+      "uses": 143
+    },
+    {
+      "px": 12,
+      "uses": 105
+    },
+    {
+      "px": 16,
+      "uses": 104
+    },
+    {
+      "px": 8,
+      "uses": 46
+    },
+    {
+      "px": 29,
+      "uses": 40
+    },
+    {
+      "px": 24,
+      "uses": 28
+    },
+    {
+      "px": 32,
+      "uses": 26
+    },
+    {
+      "px": 4,
+      "uses": 24
+    },
+    {
+      "px": 18,
+      "uses": 18
+    },
+    {
+      "px": 48,
+      "uses": 14
+    },
+    {
+      "px": 7,
+      "uses": 12
+    },
+    {
+      "px": 5,
+      "uses": 12
+    },
+    {
+      "px": 3,
+      "uses": 12
+    },
+    {
+      "px": 13,
+      "uses": 10
+    },
+    {
+      "px": 10,
+      "uses": 9
+    },
+    {
+      "px": 20,
+      "uses": 9
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.6s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 44
+      },
+      {
+        "value": "0.55s cubic-bezier(0.4, 0.15, 0, 1)",
+        "uses": 28
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 8
+      },
+      {
+        "value": "0.28s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 5
+      },
+      {
+        "value": "0.5s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 4
+      },
+      {
+        "value": "0.8s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 8,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--core--background": "var(--_color---neutral--black)",
+    "--_typography---paragraph-body--font": "var(--_typography---fonts--secondary-font)",
+    "--core--text": "var(--_color---neutral--white)",
+    "--_typography---paragraph-lg--font-size-max": "1.125rem",
+    "--_typography---paragraph-lg--line-height": "1.35",
+    "--_typography---paragraph-body--font-weight": "var(--_typography---font-weight--regular)",
+    "--_typography---paragraph-lg--letter-spacing": "-.03em",
+    "--_typography---paragraph-lg--font-size-min": "1rem",
+    "--_typography---h1--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h1--font-size-max": "clamp(1.8 * 1rem, ((1.8 - ((5 - 1.8) / (108 - 20) * 20)) * 1rem + ((5 - 1.8) / (",
+    "--_typography---h1--line-height": "1.5",
+    "--_typography---h1--font-weight": "var(--_typography---font-weight--medium)",
+    "--_typography---h1--letter-spacing": "-.02em",
+    "--_typography---h1--font-size-min": "2.5rem",
+    "--_typography---h2--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h2--font-size-max": "clamp(1.5 * 1rem, ((1.5 - ((3.75 - 1.5) / (108 - 20) * 20)) * 1rem + ((3.75 - 1.",
+    "--_typography---h2--line-height": "1.5",
+    "--_typography---h2--font-weight": "var(--_typography---font-weight--medium)",
+    "--_typography---h2--letter-spacing": "-.02em",
+    "--_typography---h2--font-size-min": "2.25rem",
+    "--_typography---h3--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h3--font-size-max": "clamp(1.4 * 1rem, ((1.4 - ((2.625 - 1.4) / (108 - 20) * 20)) * 1rem + ((2.625 - ",
+    "--_typography---h3--line-height": "1.7",
+    "--_typography---h3--font-weight": "var(--_typography---font-weight--medium)",
+    "--_typography---h3--letter-spacing": "-.02em",
+    "--_typography---h3--font-size-min": "2rem",
+    "--_typography---h4--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h4--font-size-max": "clamp(1.25 * 1rem, ((1.25 - ((1.75 - 1.25) / (108 - 20) * 20)) * 1rem + ((1.75 -",
+    "--_typography---h4--line-height": "1.4",
+    "--_typography---h4--font-weight": "var(--_typography---font-weight--medium)",
+    "--_typography---h4--letter-spacing": "-.02em",
+    "--_typography---h4--font-size-min": "1.75rem",
+    "--_typography---h5--bottom-margin": ".5em",
+    "--_typography---h5--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h5--font-size-max": "clamp(1 * 1rem, ((1 - ((1.125 - 1) / (108 - 20) * 20)) * 1rem + ((1.125 - 1) / (",
+    "--_typography---h5--line-height": "1.6",
+    "--_typography---h5--font-weight": "var(--_typography---font-weight--medium)",
+    "--_typography---h5--letter-spacing": "0em",
+    "--_typography---h5--font-size-min": "1.6rem",
+    "--_typography---h6--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---h6--font-size-max": "clamp(.875 * 1rem, ((.875 - ((1 - .875) / (108 - 20) * 20)) * 1rem + ((1 - .875)",
+    "--_typography---h6--font-weight": "var(--_typography---font-weight--medium)",
+    "--_typography---h6--letter-spacing": "-.02em",
+    "--_typography---h6--font-size-min": "1.4rem",
+    "--_typography---paragraph-body--font-size-min": ".9rem",
+    "--_typography---paragraph-body--bottom-margin": "1em",
+    "--_typography---font-weight--bold": "700",
+    "--core--border": "#d9d9d9",
+    "--_layout---container--margin": "clamp(1.5rem, 2vw, 2rem)",
+    "--_spacing---space--0": "0rem",
+    "--_spacing---space--6": "2rem",
+    "--_spacing---gap--lg": "var(--_spacing---space--6)",
+    "--_spacing---space--8": "4rem",
+    "--surface--background": "var(--_color---neutral--900)",
+    "--_spacing---gap--md": "var(--_spacing---space--5)",
+    "--_layout---size--radius-sm": ".25rem",
+    "--_spacing---space--5": "1.5rem",
+    "--_spacing---gap--sm": "var(--_spacing---space--4)",
+    "--_color---swatch--blue-50": "color-mix(in srgb, var(--_color---swatch--blue-500), white 90%)",
+    "--surface--text": "var(--core--text)",
+    "--_spacing---space--9": "5rem",
+    "--surface--border": "color-mix(in srgb, var(--surface--text) 10%, transparent 90%)",
+    "--_typography---fonts--secondary-font": "\"Helvetica Neue\", Arial, sans-serif",
+    "--_color---neutral--white": "white",
+    "--_typography---font-weight--medium": "500",
+    "--_typography---display--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---display--font-size-max": "clamp(2 * 1rem, ((2 - ((10.625 - 2) / (108 - 20) * 20)) * 1rem + ((10.625 - 2) /",
+    "--_typography---display--line-height": "1.4",
+    "--_typography---display--font-weight": "var(--_typography---font-weight--medium)",
+    "--_typography---display--letter-spacing": "-.02em",
+    "--_typography---fonts--primary-font": "Boldonse, sans-serif",
+    "--_typography---h6--line-height": "1.6",
+    "--_typography---eyebrow--font": "var(--_typography---fonts--primary-font)",
+    "--_typography---eyebrow--font-size-max": ".5625rem",
+    "--_typography---eyebrow--line-height": "1.4",
+    "--_typography---eyebrow--font-weight": "var(--_typography---font-weight--regular)",
+    "--_typography---eyebrow--letter-spacing": "0em",
+    "--_typography---paragraph-xs--font-size-max": ".75rem",
+    "--_typography---eyebrow--font-size-min": ".5625rem",
+    "--_typography---paragraph-xs--font": "var(--_typography---fonts--secondary-font)"
+  },
+  "breakpoints": [
+    "max 991px",
+    "max 767px",
+    "max 479px",
+    "min 768px",
+    "max 440px",
+    "min 1440px",
+    "min 0px",
+    "min 480px"
+  ],
+  "tech": [
+    "gsap",
+    "lenis",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "theme-wrap",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0a0a0a80",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 145,
+        "width": 1266,
+        "gutterTop": 198,
+        "gutterBottom": 48
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "ATTENTION ACQUISITION",
+          "family": "Boldonse",
+          "size": 141.77,
+          "weight": "500",
+          "lineHeight": 1.4,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "GET PERFORMANCE CREATIVE"
+      ],
+      "words": 39,
+      "excerpt": "blue2purple is a creative and performance digital agency turning attention into acquisiti…",
+      "media": {
+        "img": 42,
+        "svg": 2
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "theme-wrap.w-variant-32630f0f-3bd8-321a-269c-aafaab3abf7c",
+      "y": 900,
+      "height": 641,
+      "position": "static",
+      "background": "#0c00ff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 192,
+        "gutterRight": 192,
+        "width": 1056,
+        "gutterTop": 128,
+        "gutterBottom": 112
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "STOP NAVIGATING BLINDLY. START TURNING ATTENTION INTO ACQUISITION.",
+          "family": "Boldonse",
+          "size": 69.53,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Boldonse",
+        "size": 69.53,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "GET IN TOUCH"
+      ],
+      "words": 11,
+      "excerpt": "acquisition.",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "section",
+      "y": 1541,
+      "height": 936,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0a0a0a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 29,
+        "width": 1382,
+        "gutterTop": 164,
+        "gutterBottom": 164
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "STRATEGY & INSIGHTS",
+          "family": "Boldonse",
+          "size": 52.64,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h2",
+          "text": "CREATIVE CONTENT",
+          "family": "Boldonse",
+          "size": 52.64,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h2",
+          "text": "MEDIA ACTIVATION",
+          "family": "Boldonse",
+          "size": 52.64,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h2",
+          "text": "DATA INTELLIGENCE",
+          "family": "Boldonse",
+          "size": 52.64,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "01 STRATEGY & INSIGHTS Before spending …",
+        "02 CREATIVE CONTENT Social first conten…",
+        "03 MEDIA ACTIVATION Paid social, SEA, S…",
+        "04 DATA INTELLIGENCE Real time dashboar…"
+      ],
+      "words": 93,
+      "excerpt": "Before spending a single euro, we audit your position, set your KPIs",
+      "media": {
+        "img": 50
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "section",
+      "y": 2477,
+      "height": 1701,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0a0a0a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 28,
+        "width": 1383,
+        "gutterTop": 128,
+        "gutterBottom": 131
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "128px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          58,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "BUILDING A SOCIAL PRESENCE THAT GIVES AN ORGANIC GROCER A VOICE, NOT JUST A PRO…",
+          "family": "Boldonse",
+          "size": 15.59,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "SOMFY MAKE THE MOVE: MULTICHANNEL AWARENESS IN SPAIN AND ITALY",
+          "family": "Boldonse",
+          "size": 15.59,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "CETELEM: HOW TO GET TO THE RIGHT PERSONA BY COMBINING MACHINE LEARNING AND 1ST …",
+          "family": "Boldonse",
+          "size": 15.59,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "CASSIS PAPRIKA: ENHANCING INTERNATIONAL SALES THROUGH TARGETED CAMPAIGNS",
+          "family": "Boldonse",
+          "size": 15.59,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Boldonse",
+        "size": 15.59,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "This is some text inside of a div block.",
+        "SEE OUR WORK"
+      ],
+      "words": 170,
+      "excerpt": "Over 50 brands across retail, finance, health, travel, FMCG and beyond. Every",
+      "media": {
+        "img": 18,
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "theme-wrap.w-variant-aff52868-67f9-c8ea-1cd8-0e28b38fe3f2",
+      "y": 4178,
+      "height": 665,
+      "position": "static",
+      "background": "#b200ff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 480,
+        "width": 932,
+        "gutterTop": 128,
+        "gutterBottom": 150
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "SECTOR NEWS. PROVEN CASES. ZERO NOISE.",
+          "family": "Boldonse",
+          "size": 69.53,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "SUBSCRIBE NOW BUTTON"
+      ],
+      "words": 20,
+      "excerpt": "Get essential market intelligence and real- world results delivered to your inbox.",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "section",
+      "y": 4843,
+      "height": 1088,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0a0a0a80",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 29,
+        "width": 1382,
+        "gutterTop": 128,
+        "gutterBottom": 128
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "64px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 6,
+        "childWidthsPct": [
+          24,
+          24,
+          24,
+          24,
+          24,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "CREATIVE AND PERFORMANCE. WORKING TOGETHER.",
+          "family": "Boldonse",
+          "size": 37.99,
+          "weight": "500",
+          "lineHeight": 1.7,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "EXPERTS SINCE 2008",
+          "family": "Boldonse",
+          "size": 15.59,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "ONE POINT OF CONTACT",
+          "family": "Boldonse",
+          "size": 15.59,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "DATA-DRIVEN",
+          "family": "Boldonse",
+          "size": 15.59,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "GET IN TOUCH"
+      ],
+      "words": 190,
+      "excerpt": "The rules of digital are changing fast. AI is collapsing the distance",
+      "media": {
+        "img": 6,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "theme-wrap",
+      "y": 5931,
+      "height": 968,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0a0a0a80",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 78,
+        "width": 1333,
+        "gutterTop": 128,
+        "gutterBottom": 646
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "PLATFORM CERTIFIED. PERFORMANCE OBSESSED.",
+          "family": "Boldonse",
+          "size": 37.99,
+          "weight": "500",
+          "lineHeight": 1.7,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "GET IN TOUCH"
+      ],
+      "words": 29,
+      "excerpt": "Google, Meta, TikTok, Snapchat, LinkedIn, Microsoft Advertising and more. Every certifica…",
+      "media": {
+        "img": 58,
+        "svg": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "section",
+      "y": 6899,
+      "height": 820,
+      "position": "relative",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0a0a0a80",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 28,
+        "gutterRight": 29,
+        "width": 1383,
+        "gutterTop": 48,
+        "gutterBottom": 128
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "112px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          29,
+          59
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "OUR LATEST THINKING.",
+          "family": "Boldonse",
+          "size": 37.99,
+          "weight": "500",
+          "lineHeight": 1.7,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "WHY BLUE2PURPLE AND MKKM MERGED, AND WHY IT MATTERS FOR ADVERTISERS",
+          "family": "Boldonse",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "QUALITY CERTIFICATE: WHAT THE NEW LABEL REALLY CHANGES FOR BELGIAN INFLUENCERS",
+          "family": "Boldonse",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        },
+        {
+          "tag": "h3",
+          "text": "UGC AND LOCAL INFLUENCE: WHAT LOCAL MARKETING WAS MISSING",
+          "family": "Boldonse",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "SEE ALL RESOURCES",
+        "Why blue2purple and MKKM merged, and wh…",
+        "Quality Certificate: what the new label…",
+        "UGC and local influence: what local mar…",
+        "Working with influencers: 5 mistakes to…",
+        "Paid media news 2026: your testing road…",
+        "UGC and influence: why content actually…"
+      ],
+      "words": 288,
+      "excerpt": "Two of the features that landed this spring switch themselves on inside",
+      "media": {
+        "img": 6,
+        "svg": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "theme-wrap.w-variant-32630f0f-3bd8-321a-269c-aafaab3abf7c",
+      "y": 7719,
+      "height": 681,
+      "position": "static",
+      "background": "#0c00ff",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 328,
+        "width": 1083,
+        "gutterTop": 192,
+        "gutterBottom": 160
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "YOUR NEXT MOVE STARTS WITH ONE CONVERSATION.",
+          "family": "Boldonse",
+          "size": 69.53,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Helvetica Neue",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.35,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [
+        "GET IN TOUCH"
+      ],
+      "words": 52,
+      "excerpt": "Tell us where you want to grow. Fill out the form and",
+      "media": {
+        "img": 2,
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "footer__component",
+      "y": 8401,
+      "height": 1145,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#0a0a0a",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 29,
+        "gutterRight": 29,
+        "width": 1382,
+        "gutterTop": 128,
+        "gutterBottom": 310
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "48px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          20,
+          73
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "We are a creative and performance digital agency turning attention into acquisi…",
+          "family": "Helvetica Neue",
+          "size": 18,
+          "weight": "400",
+          "lineHeight": 1.35,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0a0a0a"
+        }
+      ],
+      "bodyType": {
+        "family": "Boldonse",
+        "size": 17.59,
+        "weight": "500",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "HOME",
+        "CASES",
+        "ABOUT US",
+        "STRATEGY & INSIGHTS",
+        "CREATIVE CONTENT",
+        "MEDIA ACTIVATION",
+        "DATA INTELLIGENCE",
+        "BLOG & INSIGHTS",
+        "GLOSSARY",
+        "JOBS"
+      ],
+      "words": 48,
+      "excerpt": "We are a creative and performance digital agency turning attention into acquisition.",
+      "media": {
+        "img": 6,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 131,
+    "title": "blue2purple",
+    "award": "HM",
+    "url": "https://blue2purple.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/blue2purple",
+    "categories": [
+      "Portfolio",
+      "Business & Corporate",
+      "Design Agencies",
+      "Web & Interactive"
+    ]
+  }
+}

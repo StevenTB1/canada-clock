@@ -1,0 +1,296 @@
+{
+  "page": {
+    "url": "https://studiomirage.io/",
+    "title": "Studio Mirage — Immersive 3D & Interactive Design Studio | Paris & Dubai",
+    "description": "Studio Mirage is a creative tech studio crafting immersive 3D web experiences, motion design, and interactive digital campaigns for luxury and global brands.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#050505",
+        "share": 0.886
+      },
+      {
+        "value": "#00000080",
+        "share": 0.103
+      },
+      {
+        "value": "#00000033",
+        "share": 0.007
+      },
+      {
+        "value": "#fffffff2",
+        "share": 0.004
+      }
+    ],
+    "text": [
+      {
+        "value": "#f0f0f0f0",
+        "share": 0.951
+      },
+      {
+        "value": "#000000",
+        "share": 0.049
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PPPangramSans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 120
+      },
+      {
+        "family": "PPPangramSans",
+        "size": 13.76,
+        "weight": "700",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "PPPangramSans",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 21
+      },
+      {
+        "family": "PPPangramSans",
+        "size": 13.6,
+        "weight": "600",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 17
+      },
+      {
+        "family": "PPPangramSans",
+        "size": 13.6,
+        "weight": "800",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 10
+      },
+      {
+        "family": "PPPangramSans",
+        "size": 13.6,
+        "weight": "700",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 10
+      }
+    ],
+    "loadedFonts": [
+      "PPPangramSans 700 normal",
+      "PPPangramSans 600 normal",
+      "PPPangramSans 800 normal",
+      "PPPangramSans 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 30,
+      "uses": 6
+    },
+    {
+      "px": 6,
+      "uses": 6
+    },
+    {
+      "px": 11,
+      "uses": 6
+    },
+    {
+      "px": 15,
+      "uses": 4
+    },
+    {
+      "px": 24,
+      "uses": 4
+    },
+    {
+      "px": 32,
+      "uses": 3
+    },
+    {
+      "px": 1,
+      "uses": 2
+    },
+    {
+      "px": 10,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "30px",
+      "uses": 4
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.3s linear",
+        "uses": 4
+      },
+      {
+        "value": "0.45s ease-out",
+        "uses": 3
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 1
+      },
+      {
+        "value": "0.25s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.2s ease-out",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 1,
+    "videos": 10
+  },
+  "cssVariables": {
+    "--color-background": "rgb(5, 5, 5)",
+    "--color-text": "#f0f0f0f0",
+    "--color-dark": "#030302",
+    "--font-text": "\"PPPangramSans\", serif",
+    "--fontw-text": "500",
+    "--fontw-subtitle": "600",
+    "--fontw-title": "600",
+    "--fontw-cta": "700",
+    "--scrollbar-width": "6px",
+    "--padding-sides": "20px",
+    "--padding-sides-content": "20px",
+    "--default-border-radius": "18px",
+    "--header-height": "80px",
+    "--section-margin": "max(10vw, 8rem)",
+    "--gl-grid-offset": "calc(50lvh - 50svh)",
+    "--safe-bottom": "env(safe-area-inset-bottom, 0px)",
+    "--safe-left": "env(safe-area-inset-left, 0px)",
+    "--safe-right": "env(safe-area-inset-right, 0px)"
+  },
+  "breakpoints": [
+    "max 767.98px",
+    "max 768px",
+    "max 480px",
+    "min 768px",
+    "max 1024px"
+  ],
+  "tech": [
+    "lenis",
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#050505",
+      "backgroundImage": false,
+      "color": "#f0f0f0f0",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 30,
+        "width": 1400,
+        "gutterTop": 20,
+        "gutterBottom": 51
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "",
+          "family": "PPPangramSans",
+          "size": 16,
+          "weight": "500",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#f0f0f0f0"
+        }
+      ],
+      "bodyType": {
+        "family": "PPPangramSans",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Our works",
+        "About us",
+        "Contact us",
+        "Scroll to start exploring",
+        "DIFC - 4th edition",
+        "Maison Margiela",
+        "Renault Trucks",
+        "Omnicell Explorer",
+        "Ubisoft",
+        "Tasmim"
+      ],
+      "words": 35,
+      "excerpt": "Scroll to start exploring",
+      "media": {
+        "img": 13,
+        "video": 10,
+        "canvas": 1,
+        "svg": 2,
+        "iframe": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 19,
+    "title": "Studio Mirage",
+    "award": "HM",
+    "url": "https://studiomirage.io/",
+    "awwwards": "https://www.awwwards.com/sites/studio-mirage",
+    "categories": [
+      "Design Agencies",
+      "Technology",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

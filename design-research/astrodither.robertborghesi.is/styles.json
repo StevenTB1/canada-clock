@@ -1,0 +1,163 @@
+{
+  "page": {
+    "url": "https://astrodither.robertborghesi.is/",
+    "title": "ASTRODITHER — Robert Borghesi LAB — [SIGNAL. LOST. BEAUTY. FOUND. DIGITAL. CHAOS.]",
+    "description": "[SIGNAL. LOST. BEAUTY. FOUND. DIGITAL. CHAOS.] — AstroDither, an audio reactive Threejs /WebGPU experiment by Robert Borghesi on dithering and fluid simulation with TSL.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": "Astro v5.13.7"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#080808",
+        "share": 0.991
+      },
+      {
+        "value": "#00000080",
+        "share": 0.009
+      }
+    ],
+    "text": [
+      {
+        "value": "#f7f8f9",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Azeret Mono",
+        "size": 13.44,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.1,
+        "transform": "none",
+        "chars": 37
+      }
+    ],
+    "loadedFonts": [
+      "Azeret Mono 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 4
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe U",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--color-black": "#000",
+    "--color-white": "#f7f8f9",
+    "--spacing": ".1rem",
+    "--font-weight-bold": "700",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--font-main": "var(--font-main)",
+    "--size": "1500",
+    "--containerPadding": "4rem",
+    "--gridGutter": "2rem",
+    "--bodyFontSize": "1rem"
+  },
+  "breakpoints": [
+    "min 650px",
+    "min 2001px",
+    "min 375px",
+    "min 415px",
+    "min 769px",
+    "min 1100px",
+    "min 1280px",
+    "min 1536px",
+    "min 2101px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": null,
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#080808",
+      "backgroundImage": false,
+      "color": "#f7f8f9",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 574,
+        "gutterRight": 574,
+        "width": 293,
+        "gutterTop": 421,
+        "gutterBottom": 440
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "[:: CLICK TO ENTER + ENABLE AUDIO ::]",
+          "family": "Azeret Mono",
+          "size": 13.44,
+          "weight": "700",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.1,
+          "transform": "none",
+          "color": "#f7f8f9"
+        }
+      ],
+      "bodyType": {
+        "family": "Azeret Mono",
+        "size": 13.44,
+        "weight": "700",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.1,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "[:: CLICK TO ENTER + ENABLE AUDIO ::]",
+      "media": {
+        "img": 1,
+        "canvas": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 95,
+    "title": "ASTRODITHER",
+    "award": "SOTD",
+    "url": "https://astrodither.robertborghesi.is/",
+    "awwwards": "https://www.awwwards.com/sites/astrodither",
+    "categories": [
+      "Technology",
+      "Web & Interactive",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

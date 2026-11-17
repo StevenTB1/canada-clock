@@ -1,0 +1,1282 @@
+{
+  "page": {
+    "url": "https://nodmarketing.se/",
+    "title": "Nod Marketing — Marketing & web agency in Västervik, Sweden",
+    "description": "Award-winning web & marketing agency in Västervik. 7 design awards. Book a free 15-minute call.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 9577,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f8f7f5",
+        "share": 0.56
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.302
+      },
+      {
+        "value": "#0d0c0b",
+        "share": 0.09
+      },
+      {
+        "value": "#1c1c1c",
+        "share": 0.026
+      },
+      {
+        "value": "#0000000f",
+        "share": 0.015
+      },
+      {
+        "value": "#0b0a09",
+        "share": 0.005
+      },
+      {
+        "value": "#f4f3f1",
+        "share": 0
+      },
+      {
+        "value": "#f3f2ef",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#0d0c0b",
+        "share": 0.4
+      },
+      {
+        "value": "#000000ad",
+        "share": 0.147
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.098
+      },
+      {
+        "value": "#000000e0",
+        "share": 0.085
+      },
+      {
+        "value": "#ffffffca",
+        "share": 0.065
+      },
+      {
+        "value": "#0000009e",
+        "share": 0.064
+      },
+      {
+        "value": "#00000099",
+        "share": 0.059
+      },
+      {
+        "value": "#ffffffbf",
+        "share": 0.048
+      },
+      {
+        "value": "#f4f3f1",
+        "share": 0.016
+      },
+      {
+        "value": "#ffffffa8",
+        "share": 0.006
+      },
+      {
+        "value": "#ffffffe0",
+        "share": 0.005
+      },
+      {
+        "value": "#ffffff7b",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff4d",
+        "share": 0.4
+      },
+      {
+        "value": "#00000029",
+        "share": 0.2
+      },
+      {
+        "value": "#00000014",
+        "share": 0.133
+      },
+      {
+        "value": "#00000099",
+        "share": 0.067
+      },
+      {
+        "value": "#15130f",
+        "share": 0.067
+      },
+      {
+        "value": "#00000024",
+        "share": 0.067
+      },
+      {
+        "value": "#ffffff1f",
+        "share": 0.067
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.998,
+      "text": 0.997
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ppNueveMontreal",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 370
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 47.52,
+        "weight": "500",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 227
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 12.48,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 218
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 214
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 13.5,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.005,
+        "transform": "none",
+        "chars": 177
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 171
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 167
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 66.24,
+        "weight": "500",
+        "lineHeight": 1.04,
+        "letterSpacing": -0.028,
+        "transform": "none",
+        "chars": 147
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 11.52,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.14,
+        "transform": "uppercase",
+        "chars": 111
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.06,
+        "transform": "none",
+        "chars": 80
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 27.36,
+        "weight": "500",
+        "lineHeight": 1.25,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 55
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 43.2,
+        "weight": "500",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 46
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 30.24,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 44
+      },
+      {
+        "family": "ppNueveMontreal",
+        "size": 28.8,
+        "weight": "500",
+        "lineHeight": 1.28,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 42
+      }
+    ],
+    "loadedFonts": [
+      "ppNueveMontreal 300 normal",
+      "ppNueveMontreal 300 italic",
+      "ppNueveMontreal 400 normal",
+      "ppNueveMontreal 500 normal",
+      "ppNueveMontreal 500 italic",
+      "ppNueveMontreal 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 15
+    },
+    {
+      "px": 27,
+      "uses": 13
+    },
+    {
+      "px": 86,
+      "uses": 12
+    },
+    {
+      "px": 43,
+      "uses": 12
+    },
+    {
+      "px": 14,
+      "uses": 10
+    },
+    {
+      "px": 22,
+      "uses": 9
+    },
+    {
+      "px": 12,
+      "uses": 8
+    },
+    {
+      "px": 16,
+      "uses": 7
+    },
+    {
+      "px": 48,
+      "uses": 6
+    },
+    {
+      "px": 72,
+      "uses": 6
+    },
+    {
+      "px": 40,
+      "uses": 6
+    },
+    {
+      "px": 9,
+      "uses": 6
+    },
+    {
+      "px": 8,
+      "uses": 5
+    },
+    {
+      "px": 3,
+      "uses": 4
+    },
+    {
+      "px": 108,
+      "uses": 4
+    },
+    {
+      "px": 54,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "50%",
+      "uses": 6
+    },
+    {
+      "value": "8px",
+      "uses": 6
+    },
+    {
+      "value": "999px",
+      "uses": 2
+    },
+    {
+      "value": "2px",
+      "uses": 2
+    },
+    {
+      "value": "9999px",
+      "uses": 1
+    },
+    {
+      "value": "14px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.5s ease",
+        "uses": 36
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 21
+      },
+      {
+        "value": "0.5s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 19
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 11
+      },
+      {
+        "value": "0.4s cubic-bezier(0.16, 1, 0.3, 1)",
+        "uses": 10
+      },
+      {
+        "value": "0.35s ease",
+        "uses": 10
+      }
+    ],
+    "cssAnimatedElements": 6,
+    "canvases": 1,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-red-400": "lab(63.7053% 60.745 31.3109)",
+    "--color-red-500": "lab(55.4814% 75.0732 48.8528)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--container-2xl": "42rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-3xl": "1.875rem",
+    "--text-3xl--line-height": "calc(2.25 / 1.875)",
+    "--text-5xl": "3rem",
+    "--text-5xl--line-height": "1",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--font-weight-bold": "700",
+    "--tracking-tight": "-.025em",
+    "--tracking-wide": ".025em",
+    "--leading-snug": "1.375",
+    "--leading-relaxed": "1.625",
+    "--radius-2xl": "1rem",
+    "--ease-in": "cubic-bezier(.4, 0, 1, 1)",
+    "--ease-out": "cubic-bezier(0, 0, .2, 1)",
+    "--ease-in-out": "cubic-bezier(.4, 0, .2, 1)",
+    "--blur-md": "12px",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "var(--font-neue-montreal)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--background": "#fff",
+    "--foreground": "#1a1714",
+    "--surface": "#fbfbfb",
+    "--surface-muted": "#f4f4f4",
+    "--home-bg": "#f8f7f5",
+    "--home-ink": "#0d0c0b",
+    "--home-ink-soft": "#1a1917",
+    "--home-ink-rgb": "0, 0, 0",
+    "--home-menu-bar": "#1c1c1c",
+    "--om-bg": "#f8f7f5",
+    "--om-ink": "#0d0c0b",
+    "--om-ink-rgb": "0, 0, 0",
+    "--om-3d-ink": "#14120f",
+    "--om-menu-bar": "#1c1c1c",
+    "--lightningcss-light": "initial",
+    "--lightningcss-dark": "",
+    "--ease-spring": "cubic-bezier(.16, 1, .3, 1)",
+    "--ease-container": "cubic-bezier(.19, 1, .22, 1)"
+  },
+  "breakpoints": [
+    "max 767px",
+    "min 768px",
+    "max 1023px",
+    "min 40rem",
+    "min 48rem",
+    "min 80rem",
+    "max 560px",
+    "max 860px",
+    "max 600px",
+    "max 900px"
+  ],
+  "tech": [
+    "lenis",
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "fixed.bottom-0",
+      "y": 675,
+      "height": 225,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1a1714",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "nav",
+      "name": "fixed.top-0",
+      "y": 0,
+      "height": 94,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1a1714",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          20
+        ]
+      },
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "canvas": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "hero-section",
+      "y": 0,
+      "height": 666,
+      "position": "static",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#0d0c0b",
+      "padding": "0px 72px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 72,
+        "gutterRight": 72,
+        "width": 1296,
+        "gutterTop": 252,
+        "gutterBottom": 252
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "96px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          60,
+          23
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "You feel the brand before you read a word",
+          "family": "ppNueveMontreal",
+          "size": 74.88,
+          "weight": "300",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.025,
+          "transform": "none",
+          "color": "#0d0c0b"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.55,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 42,
+      "excerpt": "Nod Marketing is an award-winning agency for brand, web, film and marketing.",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "home-scroll-sec",
+      "y": 666,
+      "height": 787,
+      "position": "relative",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#1a1714",
+      "padding": "28.8px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "wwd-lead",
+      "y": 1453,
+      "height": 1062,
+      "position": "relative",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#0d0c0b",
+      "padding": "108px 86.4px 54px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 778,
+        "gutterRight": 86,
+        "width": 576,
+        "gutterTop": 150,
+        "gutterBottom": 364
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "57.6px",
+        "justify": "normal",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          40
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "We're a small studio working across the whole picture — strategy, design, motio…",
+          "family": "ppNueveMontreal",
+          "size": 47.52,
+          "weight": "500",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0d0c0b"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 47.52,
+        "weight": "500",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 44,
+      "excerpt": "We're a small studio working across the whole picture — strategy, design,",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "work-dim",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#0d0c0b",
+      "backgroundImage": false,
+      "color": "#1a1714",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "pv-header",
+      "y": 2515,
+      "height": 64,
+      "position": "static",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#1a1714",
+      "padding": "64px 0px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "h2",
+      "name": "work-heading-centred",
+      "y": 2642,
+      "height": 87,
+      "position": "static",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#0d0c0b",
+      "padding": "0px",
+      "margin": "63px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 86,
+        "gutterRight": 86,
+        "width": 1267,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Selected work",
+          "family": "ppNueveMontreal",
+          "size": 95.04,
+          "weight": "700",
+          "lineHeight": 0.92,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0d0c0b"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 95.04,
+        "weight": "700",
+        "lineHeight": 0.92,
+        "letterSpacing": -0.03,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Selected work",
+      "media": {}
+    },
+    {
+      "i": 9,
+      "tag": "article",
+      "name": "work-card.work-feature",
+      "y": 2805,
+      "height": 829,
+      "position": "relative",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#000000e0",
+      "padding": "0px",
+      "margin": "75.6px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 86,
+        "gutterRight": 86,
+        "width": 1267,
+        "gutterTop": 573,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "14.4px 40px",
+        "justify": "space-between",
+        "align": "baseline",
+        "children": 2,
+        "childWidthsPct": [
+          27,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Heniva Vård",
+          "family": "ppNueveMontreal",
+          "size": 37.44,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0d0c0b"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 22,
+      "excerpt": "Website for a nurse-led aesthetic clinic in Stockholm",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "work-grid",
+      "y": 3710,
+      "height": 862,
+      "position": "static",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#000000e0",
+      "padding": "0px",
+      "margin": "75.6px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 86,
+        "gutterRight": 86,
+        "width": 1267,
+        "gutterTop": 185,
+        "gutterBottom": 0
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "57.6px",
+        "justify": "normal",
+        "align": "start",
+        "children": 4,
+        "childWidthsPct": [
+          42,
+          42,
+          42,
+          42
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Reach Higher",
+          "family": "ppNueveMontreal",
+          "size": 30.24,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0d0c0b"
+        },
+        {
+          "tag": "h3",
+          "text": "Flexitrener",
+          "family": "ppNueveMontreal",
+          "size": 30.24,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0d0c0b"
+        },
+        {
+          "tag": "h3",
+          "text": "Laserklinik",
+          "family": "ppNueveMontreal",
+          "size": 30.24,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0d0c0b"
+        },
+        {
+          "tag": "h3",
+          "text": "Lindra Spa",
+          "family": "ppNueveMontreal",
+          "size": 30.24,
+          "weight": "500",
+          "lineHeight": 1.5,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0d0c0b"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "READ MORE • READ MORE •"
+      ],
+      "words": 58,
+      "excerpt": "Brand, website and booking flow for a luxury spa",
+      "media": {
+        "img": 4,
+        "svg": 4
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "idea-stage",
+      "y": 4679,
+      "height": 900,
+      "position": "sticky",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#0d0c0b",
+      "padding": "108px 86.4px 54px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 86,
+        "gutterRight": 130,
+        "width": 1223,
+        "gutterTop": 316,
+        "gutterBottom": 99
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "72px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          48,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "What Nod stands for",
+          "family": "ppNueveMontreal",
+          "size": 12.48,
+          "weight": "600",
+          "lineHeight": 1.5,
+          "letterSpacing": 0.02,
+          "transform": "none",
+          "color": "#0d0c0b"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 12.48,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 71,
+      "excerpt": "The paintings stayed out of sight for some 40 years after her",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "name": "idea-steps",
+      "y": 7199,
+      "height": 633,
+      "position": "relative",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#000000ad",
+      "padding": "63px 86.4px 108px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 86,
+        "gutterRight": 86,
+        "width": 1267,
+        "gutterTop": 63,
+        "gutterBottom": 108
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "43.2px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          27,
+          27,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "How we get your business out of the storeroom.",
+          "family": "ppNueveMontreal",
+          "size": 43.2,
+          "weight": "500",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#0d0c0b"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 16,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 93,
+      "excerpt": "Once they find you, the impression makes them choose you: the brand,",
+      "media": {}
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "explore",
+      "y": 7832,
+      "height": 1006,
+      "position": "relative",
+      "background": "#f8f7f5",
+      "backgroundImage": false,
+      "color": "#00000099",
+      "padding": "99px 86.4px 117px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 86,
+        "gutterRight": 86,
+        "width": 1267,
+        "gutterTop": 99,
+        "gutterBottom": 150
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "43.2px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          42,
+          38,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Want to know more?",
+          "family": "ppNueveMontreal",
+          "size": 79.2,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#0d0c0b"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 15.84,
+        "weight": "500",
+        "lineHeight": 1.45,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "About us Who we are, how we work and wh…",
+        "Growth Four pillars of growth. →",
+        "Reach Higher",
+        "Flexitrener",
+        "Laserklinik",
+        "Lindra Spa",
+        "Blog Guides on web, SEO and AI, in Swed…",
+        "Contact Book a free 15-minute call. →"
+      ],
+      "words": 48,
+      "excerpt": "Guides on web, SEO and AI, in Swedish.",
+      "media": {
+        "img": 5
+      }
+    },
+    {
+      "i": 14,
+      "tag": "footer",
+      "name": "sf.sf-has-video",
+      "y": 8839,
+      "height": 738,
+      "position": "relative",
+      "background": "#1c1c1c",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 86,
+        "gutterRight": 86,
+        "width": 1267,
+        "gutterTop": 59,
+        "gutterBottom": 54
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "normal",
+        "children": 7,
+        "childWidthsPct": [
+          100,
+          100,
+          88,
+          88,
+          44,
+          46,
+          88
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "NOD MARKETING",
+          "family": "ppNueveMontreal",
+          "size": 153,
+          "weight": "500",
+          "lineHeight": 0.82,
+          "letterSpacing": -0.04,
+          "transform": "none",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 11.52,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0.14,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "[ Home Home ]",
+        "[ Agency Agency ]",
+        "[ Growth Growth ]",
+        "[ Contact Contact ]",
+        "[ Journal Journal ]",
+        "hello@nodmarketing.se →",
+        "+46 79 335 96 74",
+        "say hello say hello↗",
+        "PRIVACY POLICY",
+        "INTEGRITET"
+      ],
+      "words": 108,
+      "excerpt": "hello@nodmarketing.se",
+      "media": {
+        "img": 7,
+        "video": 1,
+        "svg": 6
+      }
+    },
+    {
+      "i": 15,
+      "tag": "div",
+      "name": "Cookie consent",
+      "y": 824,
+      "height": 76,
+      "position": "fixed",
+      "background": "#0d0c0b",
+      "backgroundImage": false,
+      "color": "#ffffffca",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "1px solid #ffffff1f",
+      "content": {
+        "gutterLeft": 44,
+        "gutterRight": 44,
+        "width": 1352,
+        "gutterTop": 17,
+        "gutterBottom": 16
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "56px",
+        "justify": "space-between",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          27
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "We store the essentials needed to make the site work. With your consent we also…",
+          "family": "ppNueveMontreal",
+          "size": 13.5,
+          "weight": "400",
+          "lineHeight": 1.6,
+          "letterSpacing": -0.005,
+          "transform": "none",
+          "color": "#ffffffca"
+        }
+      ],
+      "bodyType": {
+        "family": "ppNueveMontreal",
+        "size": 13.5,
+        "weight": "400",
+        "lineHeight": 1.6,
+        "letterSpacing": -0.005,
+        "transform": "none"
+      },
+      "labels": [
+        "Privacy Policy",
+        "SV",
+        "EN",
+        "ESSENTIAL ONLY",
+        "ACCEPT ANALYTICS"
+      ],
+      "words": 38,
+      "excerpt": "We store the essentials needed to make the site work. With your",
+      "media": {
+        "svg": 2
+      }
+    },
+    {
+      "i": 16,
+      "tag": "div",
+      "name": null,
+      "y": 820,
+      "height": 80,
+      "position": "fixed",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1a1714",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 52,
+    "title": "Nod Marketing",
+    "award": "HM",
+    "url": "https://nodmarketing.se/",
+    "awwwards": "https://www.awwwards.com/sites/nod-marketing",
+    "categories": [
+      "Design Agencies",
+      "Web & Interactive"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

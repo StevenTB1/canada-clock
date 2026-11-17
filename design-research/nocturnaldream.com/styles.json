@@ -1,0 +1,365 @@
+{
+  "page": {
+    "url": "https://www.nocturnaldream.com/",
+    "title": "NOCTURNAL — Do you remember your last dream?",
+    "description": "Wake up, you're dreaming. An interactive lucid dream: scroll deeper, look closer.",
+    "lang": "uk",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f1e8d0",
+        "share": 0.329
+      },
+      {
+        "value": "#020203",
+        "share": 0.327
+      },
+      {
+        "value": "#cdc4ab",
+        "share": 0.327
+      },
+      {
+        "value": "#0b0a08",
+        "share": 0.014
+      },
+      {
+        "value": "#decead1f",
+        "share": 0.001
+      },
+      {
+        "value": "#daceb0",
+        "share": 0
+      },
+      {
+        "value": "#f2e6d13d",
+        "share": 0
+      },
+      {
+        "value": "#0d0f14d1",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#f1e8d0",
+        "share": 0.56
+      },
+      {
+        "value": "#8f8876",
+        "share": 0.221
+      },
+      {
+        "value": "#daceb0",
+        "share": 0.202
+      },
+      {
+        "value": "#9fb3bd",
+        "share": 0.017
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ffffff1a",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.341,
+      "text": 0
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PP Supply Mono",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 262
+      },
+      {
+        "family": "PP Supply Mono",
+        "size": 7.5,
+        "weight": "400",
+        "lineHeight": 1.7,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 72
+      },
+      {
+        "family": "PP Supply Mono",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.02,
+        "transform": "uppercase",
+        "chars": 14
+      },
+      {
+        "family": "-apple-system",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": "normal",
+        "letterSpacing": 0.3,
+        "transform": "uppercase",
+        "chars": 6
+      },
+      {
+        "family": "PP Supply Mono",
+        "size": 9,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0.022,
+        "transform": "uppercase",
+        "chars": 2
+      },
+      {
+        "family": "PP Supply Mono",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "PP Supply Mono normal normal",
+      "Sedgwick Ave Display 400 normal",
+      "PP Formula Condensed Black normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 3,
+      "uses": 22
+    },
+    {
+      "px": 5,
+      "uses": 12
+    },
+    {
+      "px": 6,
+      "uses": 10
+    },
+    {
+      "px": 1,
+      "uses": 8
+    },
+    {
+      "px": 8,
+      "uses": 6
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 7,
+      "uses": 2
+    },
+    {
+      "px": 9,
+      "uses": 2
+    },
+    {
+      "px": 2,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "12px",
+      "uses": 1
+    },
+    {
+      "value": "50%",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.45s ease",
+        "uses": 2
+      },
+      {
+        "value": "0.3s cubic-bezier(0.2, 0.8, 0.2, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.6s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.8s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 1
+      },
+      {
+        "value": "0.25s ease",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 4,
+    "canvases": 4,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--k": "1"
+  },
+  "breakpoints": [
+    "max 560px"
+  ],
+  "tech": [
+    "three"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "canvas",
+      "name": "gl",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#020203",
+      "backgroundImage": false,
+      "color": "#cfd8de",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "loader",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#020203",
+      "backgroundImage": false,
+      "color": "#daceb0",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 621,
+        "gutterRight": 621,
+        "width": 198,
+        "gutterTop": 551,
+        "gutterBottom": 15
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "div",
+          "text": "CLOSE YOUR EYES SLOWLY. THE DREAM IS STILL LOADING, DON'T WAKE UP YET.",
+          "family": "PP Supply Mono",
+          "size": 7.5,
+          "weight": "400",
+          "lineHeight": 1.7,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#daceb0"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Supply Mono",
+        "size": 7.5,
+        "weight": "400",
+        "lineHeight": 1.7,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 14,
+      "excerpt": "close your eyes slowly. the dream is still loading, don't wake up",
+      "media": {
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "loopveil",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#cdc4ab",
+      "backgroundImage": false,
+      "color": "#cfd8de",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "hud-flash",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#f1e8d0",
+      "backgroundImage": false,
+      "color": "#cfd8de",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 10,
+    "title": "Nocturnal Dream",
+    "award": "HM",
+    "url": "https://www.nocturnaldream.com/",
+    "awwwards": "https://www.awwwards.com/sites/nocturnal-dream",
+    "categories": [
+      "Art & Illustration",
+      "Web & Interactive",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

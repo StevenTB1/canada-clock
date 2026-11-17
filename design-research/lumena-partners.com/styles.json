@@ -1,0 +1,1691 @@
+{
+  "page": {
+    "url": "https://lumena-partners.com/",
+    "title": "",
+    "description": "Leadership Advisory for Executives and Boards. Lumena Partners helps executives unlock sustainable performance through strategic clarity and intentional design.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 19966,
+    "generator": "WPML ver:4.8.6 stt:1,3;"
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f6f4e9",
+        "share": 0.638
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.264
+      },
+      {
+        "value": "#fff4b0",
+        "share": 0.06
+      },
+      {
+        "value": "#073b3a",
+        "share": 0.025
+      },
+      {
+        "value": "#00000026",
+        "share": 0.013
+      },
+      {
+        "value": "#0000000d",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#1d1d1d",
+        "share": 0.816
+      },
+      {
+        "value": "#70626b",
+        "share": 0.15
+      },
+      {
+        "value": "#fff4b0",
+        "share": 0.029
+      },
+      {
+        "value": "#ff303c",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#00000026",
+        "share": 0.882
+      },
+      {
+        "value": "#fff4b01a",
+        "share": 0.059
+      },
+      {
+        "value": "#fff4b0",
+        "share": 0.059
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.915,
+      "text": 0.966
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 11880
+      },
+      {
+        "family": "base",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1410
+      },
+      {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1291
+      },
+      {
+        "family": "base",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 1224
+      },
+      {
+        "family": "base",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 1203
+      },
+      {
+        "family": "base",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 895
+      },
+      {
+        "family": "base",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 503
+      },
+      {
+        "family": "base",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1.08,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 432
+      },
+      {
+        "family": "base",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 226
+      },
+      {
+        "family": "base",
+        "size": 48,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 192
+      },
+      {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 181
+      },
+      {
+        "family": "base",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 145
+      },
+      {
+        "family": "base",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 129
+      },
+      {
+        "family": "base",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.012,
+        "transform": "none",
+        "chars": 85
+      }
+    ],
+    "loadedFonts": [
+      "base normal normal",
+      "base 400 italic",
+      "robo 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 77
+    },
+    {
+      "px": 4,
+      "uses": 75
+    },
+    {
+      "px": 16,
+      "uses": 69
+    },
+    {
+      "px": 20,
+      "uses": 62
+    },
+    {
+      "px": 40,
+      "uses": 62
+    },
+    {
+      "px": 10,
+      "uses": 49
+    },
+    {
+      "px": 24,
+      "uses": 44
+    },
+    {
+      "px": 32,
+      "uses": 43
+    },
+    {
+      "px": 23,
+      "uses": 31
+    },
+    {
+      "px": 80,
+      "uses": 30
+    },
+    {
+      "px": 48,
+      "uses": 20
+    },
+    {
+      "px": 56,
+      "uses": 11
+    },
+    {
+      "px": 25,
+      "uses": 8
+    },
+    {
+      "px": 109,
+      "uses": 5
+    },
+    {
+      "px": 9,
+      "uses": 5
+    },
+    {
+      "px": 156,
+      "uses": 4
+    }
+  ],
+  "radii": [
+    {
+      "value": "2px",
+      "uses": 12
+    },
+    {
+      "value": "4px",
+      "uses": 4
+    },
+    {
+      "value": "40px",
+      "uses": 4
+    },
+    {
+      "value": "70px",
+      "uses": 3
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.55, 0, 0.1, 1)",
+        "uses": 56
+      },
+      {
+        "value": "0.5s cubic-bezier(0.55, 0, 0.1, 1)",
+        "uses": 26
+      },
+      {
+        "value": "0.45s cubic-bezier(0.55, 0, 0.1, 1)",
+        "uses": 19
+      },
+      {
+        "value": "0.6s cubic-bezier(0.55, 0, 0.1, 1)",
+        "uses": 15
+      },
+      {
+        "value": "0.8s cubic-bezier(0.55, 0, 0.1, 1)",
+        "uses": 4
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 5,
+    "videos": 5
+  },
+  "cssVariables": {
+    "--mobileMax": "540",
+    "--touch": "1194",
+    "--padgrid": "calc(14px + ((10) * (100vw - 375px) / (1194 - 375)))",
+    "--multi": "calc(((100vw - 1440px) / 1440 * -5))",
+    "--padgut": "calc(var(--gutgrid) + var(--padgrid))",
+    "--padgut-s": "calc(var(--gutgrid) + var(--padgrid-s))",
+    "--sizegrid": "calc(100vw - ((var(--padgrid)) * 2))",
+    "--gutgrid": "calc(4px + ((4) * (100vw - 375px) / (1194 - 375)))",
+    "--padgrid-s": "calc(14px + ((10) * (100vw - 375px) / (1194 - 375)))"
+  },
+  "breakpoints": [
+    "max 1194px",
+    "min 1194px",
+    "max 540px",
+    "min 540px"
+  ],
+  "tech": [
+    "lenis",
+    "wordpress"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "home_intro",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#f6f4e9",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "109px 0px 40px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 36,
+        "width": 1372,
+        "gutterTop": 109,
+        "gutterBottom": 40
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "normal 20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          47,
+          47
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Humanizing Performance. Backed by Insight. Humanizing Performance. Backed by In…",
+          "family": "base",
+          "size": 72,
+          "weight": "400",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h3",
+          "text": "Global Organization and Leadership Advisory Global Organization and Leadership …",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 34,
+      "excerpt": "organizations,",
+      "media": {
+        "video": 1,
+        "canvas": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "blockquote",
+      "y": 990,
+      "height": 1080,
+      "position": "relative",
+      "background": "#f6f4e9",
+      "backgroundImage": false,
+      "color": "#fff4b0",
+      "padding": "120px 32px",
+      "margin": "90px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 270,
+        "gutterRight": 270,
+        "width": 899,
+        "gutterTop": 325,
+        "gutterBottom": 314
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          100,
+          62
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "“Exceptional performance and humanity are not opposing forces—they are the dual…",
+          "family": "base",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#fff4b0"
+        },
+        {
+          "tag": "h4",
+          "text": "Florian Pollner Founder & Principal, Lumena Partners Florian Pollner Founder & …",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#fff4b0"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 27,
+      "excerpt": "“Exceptional",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "insights",
+      "y": 2070,
+      "height": 983,
+      "position": "relative",
+      "background": "#fff4b0",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "80px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 48,
+        "width": 1360,
+        "gutterTop": 80,
+        "gutterBottom": 61
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "80px 0px",
+        "justify": "flex-start",
+        "align": "flex-start",
+        "children": 3,
+        "childWidthsPct": [
+          46,
+          100,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Fact Based Insights to Drive Positive Change Fact Based Insights to Drive Posit…",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Organizational Influence’s",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "The \"Agile” Illusion",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "The Decay of Human Capital",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 167,
+      "excerpt": "The half-life of a learned professional skill has dropped to just 5",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "advisory",
+      "y": 3053,
+      "height": 1036,
+      "position": "static",
+      "background": "#f6f4e9",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "80px 0px",
+      "margin": "0px 32px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 37,
+        "width": 1371,
+        "gutterTop": 129,
+        "gutterBottom": -753
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          30,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Advisory",
+          "family": "base",
+          "size": 112,
+          "weight": "400",
+          "lineHeight": 1.44,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Architecting the Modern Organization",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h3",
+          "text": "Approach",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        },
+        {
+          "tag": "h3",
+          "text": "Outcome",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 950,
+      "excerpt": "As traditional functional expertise and mastery rapidly commoditize, the “human factor”—e…",
+      "media": {
+        "img": 5,
+        "svg": 10
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "back-to-human",
+      "y": 4089,
+      "height": 900,
+      "position": "relative",
+      "background": "#fff4b0",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 361,
+        "gutterBottom": 361
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "center",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          91,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Back to Human",
+          "family": "base",
+          "size": 112,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 30,
+      "excerpt": "Exponential technology and unpredictable disruption define our era. The real differentiat…",
+      "media": {
+        "video": 1,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "home_spkTP.grid",
+      "y": 5069,
+      "height": 162,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px 5px 0px 0px",
+      "margin": "0px 32px",
+      "border": "0px none #1d1d1d",
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 37,
+        "width": 1371,
+        "gutterTop": 0,
+        "gutterBottom": 1
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          32,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Keynotes",
+          "family": "base",
+          "size": 112,
+          "weight": "400",
+          "lineHeight": 1.44,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 112,
+        "weight": "400",
+        "lineHeight": 1.44,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Keynotes",
+      "media": {}
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "home_spkP.aTlines",
+      "y": 5311,
+      "height": 114,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px 386px 0px 0px",
+      "margin": "80px 0px 80px 615px",
+      "border": null,
+      "content": {
+        "gutterLeft": 615,
+        "gutterRight": 386,
+        "width": 439,
+        "gutterTop": 0,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "I deliver highly interactive keynotes that give",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 34,
+      "excerpt": "transformation",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "home_spk_elHLD",
+      "y": 5505,
+      "height": 1398,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px 0px 56px",
+      "border": null,
+      "content": {
+        "gutterLeft": 615,
+        "gutterRight": 32,
+        "width": 793,
+        "gutterTop": 490,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Corporate Narratives",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h3",
+          "text": "About the Talk",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        },
+        {
+          "tag": "h4",
+          "text": "What you will Take Away",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 144,
+      "excerpt": "Every organization is held together by a dominant story—often rooted in the",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "home_spk_elHLD",
+      "y": 6959,
+      "height": 1410,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px 0px 56px",
+      "border": null,
+      "content": {
+        "gutterLeft": 615,
+        "gutterRight": 32,
+        "width": 793,
+        "gutterTop": 490,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "The Modern Organization Beyond the Buzzwords",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h3",
+          "text": "About the Talk",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        },
+        {
+          "tag": "h4",
+          "text": "What you will Take Away",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 148,
+      "excerpt": "As organizations seek to move beyond traditional models—hierarchies, matrices, functional…",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "home_spk_elHLD",
+      "y": 8425,
+      "height": 1221,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px 0px 56px",
+      "border": null,
+      "content": {
+        "gutterLeft": 615,
+        "gutterRight": 32,
+        "width": 793,
+        "gutterTop": 490,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "The Organizational Adaptability Gap",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h3",
+          "text": "About the Talk",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        },
+        {
+          "tag": "h4",
+          "text": "What you will Take Away",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 108,
+      "excerpt": "Technology evolves exponentially. Markets shift without warning. Yet human adaptive capac…",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "home_spk_elHLD",
+      "y": 9702,
+      "height": 1374,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 615,
+        "gutterRight": 32,
+        "width": 793,
+        "gutterTop": 490,
+        "gutterBottom": 0
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h4",
+          "text": "Back to Human",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h3",
+          "text": "About the Talk",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        },
+        {
+          "tag": "h4",
+          "text": "What you will Take Away",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#70626b"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 149,
+      "excerpt": "From Process Optimizer to Architect of Human Value: As AI commoditizes technical",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "home_acPAX",
+      "y": 11212,
+      "height": 1080,
+      "position": "relative",
+      "background": "#f6f4e9",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "img": 1
+      }
+    },
+    {
+      "i": 13,
+      "tag": "div",
+      "name": "seminars",
+      "y": 12292,
+      "height": 1062,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#70626b",
+      "padding": "80px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 40,
+        "width": 1368,
+        "gutterTop": 80,
+        "gutterBottom": 102
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 4,
+        "gap": "0px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 4,
+        "childWidthsPct": [
+          25,
+          25,
+          25,
+          25
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Executive & Academic Education Executive & Academic Education",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Modern Organizational Structures and Systems",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Architecting Organizational Change at Scale",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Back to Human: The Post-Ulrich People Function",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 246,
+      "excerpt": "This lecture traces the shift from hierarchical bureaucracy to “post-hierarchy” designs t…",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "selected-academic-engagements",
+      "y": 13354,
+      "height": 304,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 57,
+        "width": 1351,
+        "gutterTop": 0,
+        "gutterBottom": 265
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 2,
+        "gap": "40px 24px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          47,
+          15,
+          96
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Selected academic engagements",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 32,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "START A CONVERSATION"
+      ],
+      "words": 6,
+      "excerpt": "Selected academic engagements",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "about",
+      "y": 13658,
+      "height": 1392,
+      "position": "static",
+      "background": "#f6f4e9",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "80px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 37,
+        "width": 1371,
+        "gutterTop": 138,
+        "gutterBottom": 56
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-start",
+        "children": 3,
+        "childWidthsPct": [
+          15,
+          47,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "About",
+          "family": "base",
+          "size": 112,
+          "weight": "400",
+          "lineHeight": 1.44,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "(About Florian Pollner)",
+          "family": "base",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 210,
+      "excerpt": "As a McKinsey Partner across Europe and Asia, Florian served leaders and",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    },
+    {
+      "i": 16,
+      "tag": "section",
+      "name": "collaborators",
+      "y": 15050,
+      "height": 1030,
+      "position": "static",
+      "background": "#f6f4e9",
+      "backgroundImage": false,
+      "color": "#70626b",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 232,
+        "width": 1176,
+        "gutterTop": 0,
+        "gutterBottom": 227
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          29,
+          29,
+          29
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Collaborators",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h3",
+          "text": "Agnus Consulting",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Global Leadership Development Boutique",
+          "family": "base",
+          "size": 20,
+          "weight": "400",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h3",
+          "text": "Dr. Faik Karaoglu",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 134,
+      "excerpt": "Agnus Consulting is a leading leadership development boutique with global reach and",
+      "media": {
+        "img": 3,
+        "svg": 6
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "home_whySTK",
+      "y": 16080,
+      "height": 900,
+      "position": "sticky",
+      "background": "#f6f4e9",
+      "backgroundImage": false,
+      "color": "#1d1d1d",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 90,
+        "gutterBottom": 57
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "flex-start",
+        "align": "stretch",
+        "children": 2,
+        "childWidthsPct": [
+          50,
+          50
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Lumena’s Why",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Lumen — Strategic Clarity Lumen — Strategic Clarity",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Human — The Source of Performance Human — The Source of Performance",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        },
+        {
+          "tag": "h4",
+          "text": "Balance Balance",
+          "family": "base",
+          "size": 32,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#1d1d1d"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 20,
+        "weight": "400",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [
+        "Lumen ( 01 )",
+        "Human ( 02 )",
+        "Balance ( 03 )"
+      ],
+      "words": 172,
+      "excerpt": "We help leaders embody the human dimension — designing systems grounded in",
+      "media": {
+        "video": 3,
+        "canvas": 3,
+        "svg": 3
+      }
+    },
+    {
+      "i": 18,
+      "tag": "footer",
+      "name": "foot",
+      "y": 19230,
+      "height": 736,
+      "position": "static",
+      "background": "#073b3a",
+      "backgroundImage": false,
+      "color": "#fff4b0",
+      "padding": "80px 0px 20px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 32,
+        "gutterRight": 32,
+        "width": 1376,
+        "gutterTop": 80,
+        "gutterBottom": 20
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          10
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "Global Organization and Leadership Advisory",
+          "family": "base",
+          "size": 48,
+          "weight": "400",
+          "lineHeight": 1.08,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#fff4b0"
+        },
+        {
+          "tag": "h4",
+          "text": "Navigate",
+          "family": "base",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4b0"
+        },
+        {
+          "tag": "h4",
+          "text": "Contact",
+          "family": "base",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4b0"
+        },
+        {
+          "tag": "h4",
+          "text": "Socials",
+          "family": "base",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4b0"
+        }
+      ],
+      "bodyType": {
+        "family": "base",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Advisory",
+        "Keynotes",
+        "Seminars",
+        "About",
+        "info@lumena-partners.com",
+        "+41 76 793 5357",
+        "Herrliberg (Zurich), Switzerland",
+        "LinkedIn",
+        "Profile & Background Materials",
+        "JOIN THE NEWSLETTER"
+      ],
+      "words": 42,
+      "excerpt": "Global Organization and Leadership Advisory",
+      "media": {
+        "img": 1,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 86,
+    "title": "Lumena",
+    "award": "HM",
+    "url": "https://lumena-partners.com/",
+    "awwwards": "https://www.awwwards.com/sites/lumena",
+    "categories": [
+      "Business & Corporate"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

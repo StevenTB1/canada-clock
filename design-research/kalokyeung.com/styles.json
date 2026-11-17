@@ -1,0 +1,272 @@
+{
+  "page": {
+    "url": "https://kalokyeung.com/",
+    "title": "Kalok Yeung",
+    "description": "Designing playful, functional digital experiences for a better internet. Independent practice working on web design and creative direction.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f2f2f2",
+        "share": 0.881
+      },
+      {
+        "value": "#1447e6",
+        "share": 0.11
+      },
+      {
+        "value": "#d4d4d4",
+        "share": 0.003
+      },
+      {
+        "value": "#a3a3a3",
+        "share": 0.003
+      },
+      {
+        "value": "#f95484",
+        "share": 0
+      },
+      {
+        "value": "#f984ac",
+        "share": 0
+      },
+      {
+        "value": "#ad7360",
+        "share": 0
+      },
+      {
+        "value": "#620a07",
+        "share": 0
+      },
+      {
+        "value": "#e5af1b",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#a1a1a1",
+        "share": 0.724
+      },
+      {
+        "value": "#000000",
+        "share": 0.155
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.121
+      }
+    ],
+    "borders": [
+      {
+        "value": "#e2e2e2",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.887,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Kern",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 72
+      },
+      {
+        "family": "Kern",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 66
+      },
+      {
+        "family": "Kern",
+        "size": 14,
+        "weight": "600",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 25
+      },
+      {
+        "family": "Kern",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.43,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 11
+      }
+    ],
+    "loadedFonts": [
+      "Kern 100 900 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 10,
+      "uses": 46
+    },
+    {
+      "px": 6,
+      "uses": 14
+    },
+    {
+      "px": 4,
+      "uses": 2
+    },
+    {
+      "px": 288,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3px",
+      "uses": 25
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 8
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 22,
+    "videos": 13
+  },
+  "cssVariables": {
+    "--font-sans": "\"Kern\", system-ui, sans-serif",
+    "--color-blue-700": "lab(36.9089% 35.0961 -85.6872)",
+    "--color-neutral-400": "lab(66.128% -.0000298023 .0000119209)",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--font-weight-medium": "500",
+    "--font-weight-semibold": "600",
+    "--leading-tight": "1.25",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4, 0, .2, 1)",
+    "--default-font-family": "\"Kern\", system-ui, sans-serif",
+    "--default-mono-font-family": "var(--font-geist-mono)",
+    "--spacing-panel": "10px",
+    "--spacing-gutter": "4px",
+    "--mobile-nav-row": "40px"
+  },
+  "breakpoints": [
+    "min 1920px",
+    "min 64rem",
+    "min 40rem",
+    "min 48rem",
+    "min 80rem",
+    "min 96rem"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "h-full.overflow-hidden",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#a1a1a1",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 1152,
+        "width": 278,
+        "gutterTop": 21,
+        "gutterBottom": 177
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Kalok Yeung",
+          "family": "Kern",
+          "size": 14,
+          "weight": "400",
+          "lineHeight": 1.43,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "Feed",
+          "family": "Kern",
+          "size": 14,
+          "weight": "600",
+          "lineHeight": 1.43,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "Kern",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "Kalok Yeung Designing playful, function…",
+        "i-D Magazine",
+        "Titles",
+        "See You Later",
+        "Arturistic",
+        "Micaiah Carter",
+        "Nado",
+        "No Fear",
+        "studio@kalokyeung.com"
+      ],
+      "words": 25,
+      "excerpt": "Designing playful, functional digital experiences for a better internet.",
+      "media": {
+        "img": 21,
+        "video": 13,
+        "canvas": 22,
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 164,
+    "title": "Kalok Yeung",
+    "url": "https://www.kalokyeung.com/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

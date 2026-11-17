@@ -1,0 +1,312 @@
+{
+  "page": {
+    "url": "https://crl-2026.webflow.io/",
+    "title": "Creative Reference Library | CRL",
+    "description": "CRL® is a curated library of creative references — music, film, books, and writing that shape how ideas are developed, tested, and made. Enter V.01.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#a1a098",
+        "share": 1
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Neue Haas Grotesk Text Pro",
+        "size": 14.79,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 1290
+      },
+      {
+        "family": "Neue Haas Grotesk Text Pro",
+        "size": 95.1,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "uppercase",
+        "chars": 15
+      },
+      {
+        "family": "Neue Haas Grotesk Text Pro",
+        "size": 8,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.018,
+        "transform": "none",
+        "chars": 2
+      }
+    ],
+    "loadedFonts": [
+      "Neue Haas Grotesk Text Pro 400 normal",
+      "Oswald 200 normal",
+      "Oswald 300 normal",
+      "Oswald 400 normal",
+      "Oswald 500 normal",
+      "Oswald 600 normal",
+      "Oswald 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 11
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 10,
+      "uses": 4
+    },
+    {
+      "px": 32,
+      "uses": 4
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 14,
+      "uses": 2
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 28,
+      "uses": 2
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 17,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--_theme---background": "var(--swatch--light)",
+    "--_text-style---font-family": "var(--_typography---font--primary-family)",
+    "--_theme---text": "var(--swatch--black)",
+    "--_text-style---font-size": "var(--_typography---font-size--text-main)",
+    "--_text-style---line-height": "var(--_typography---line-height--1)",
+    "--_text-style---font-weight": "var(--_typography---font--primary-medium)",
+    "--_text-style---letter-spacing": "var(--_typography---letter-spacing--0-01em)",
+    "--_text-style---margin-top<deleted|variable-7dc2babc-9f66-5460-f83b-288cb6e5215f>": "var(--_spacing---space--gap--4)",
+    "--_text-style---margin-bottom<deleted|variable-8b7ad899-00d6-e02c-4dd5-6a537fb5accf>": "var(--_spacing---space--gap--4)",
+    "--_spacing---space--gap--6": "var(--size--2rem)",
+    "--size--0-5rem": ".5rem",
+    "--size--1rem": "clamp(.625*1rem,((.625 - ((1 - .625)/(var(--site--viewport-max) - var(--site--vi",
+    "--_spacing---space--gap--2": "var(--size--0-5rem)",
+    "--_spacing---space--gap--1": "var(--size--0-25rem)",
+    "--_spacing---space--gap--4": "var(--size--1rem)",
+    "--_spacing---space--gap--7": "var(--size--3rem)",
+    "--max-width--full": "100%",
+    "--site--margin": "clamp(.5*1rem,((.5 - ((1.5 - .5)/(90 - 20)*20))*1rem + ((1.5 - .5)/(90 - 20))*10",
+    "--max-width--small": "80rem",
+    "--_spacing---section-padding--main": "var(--size--5rem)",
+    "--site--gutter": "clamp(1*1rem,((1 - ((1 - 1)/(var(--site--viewport-max) - var(--site--viewport-mi",
+    "--size--0rem": "0rem",
+    "--_spacing---space--gap--3": "var(--size--0-75rem)",
+    "--_spacing---space--gap--5": "var(--size--1-5rem)",
+    "--_spacing---space--gap--8": "var(--size--4rem)",
+    "--_typography---font--primary-family": "\"Neue Haas Grotesk Text Pro\",Arial,sans-serif",
+    "--_typography---font--primary-regular": "400",
+    "--_typography---font--primary-medium": "500",
+    "--_typography---font--primary-bold": "700",
+    "--radius--small": ".5rem",
+    "--radius--main": "1rem",
+    "--radius--round": "100vw",
+    "--border-width--main": ".094rem",
+    "--_theme---border": "var(--swatch--black)",
+    "--size--0-75rem": ".75rem",
+    "--_typography---line-height--1": "1",
+    "--swatch--transparent": "transparent",
+    "--size--1-5rem": "clamp(1*1rem,((1 - ((1.5 - 1)/(var(--site--viewport-max) - var(--site--viewport-",
+    "--swatch--brand": "#c6fb50",
+    "--size--3rem": "clamp(1.5*1rem,((1.5 - ((3 - 1.5)/(var(--site--viewport-max) - var(--site--viewp",
+    "--_button-style---border": "var(--_theme---button-primary--border)",
+    "--_button-style---background": "var(--_theme---button-primary--background)",
+    "--_button-style---text": "var(--_theme---button-primary--text)",
+    "--_typography---letter-spacing--0-01em": "-.01em",
+    "--size--0-125rem": ".125rem",
+    "--_theme---button-link--text": "var(--swatch--black)",
+    "--_button-style---border-hover": "var(--_theme---button-primary--border-hover)",
+    "--_button-style---background-hover": "var(--_theme---button-primary--background-hover)",
+    "--_button-style---text-hover": "var(--_theme---button-primary--text-hover)",
+    "--_theme---button-link--text-hover": "white",
+    "--_spacing---section-padding--xsmall": "var(--size--0-75rem)",
+    "--_spacing---section-padding--xlarge": "var(--size--12rem)",
+    "--_spacing---section-padding--small": "var(--size--2-5rem)",
+    "--size--0-375rem": ".375rem",
+    "--_spacing---section-padding--large": "var(--size--10rem)",
+    "--_spacing---space--gap--11": "var(--size--7-5rem)",
+    "--_spacing---section-padding--none": "var(--size--0rem)",
+    "--_spacing---section-padding--xxlarge": "var(--size--16rem)",
+    "--_spacing---section-padding--xxxlarge": "var(--size--16rem)",
+    "--_spacing---space--gap--9": "var(--size--5rem)",
+    "--_spacing---space--gap--10": "var(--size--6rem)",
+    "--size--0-25rem": ".25rem",
+    "--swatch--dark": "#a1a098",
+    "--swatch--light-faded": "#ffffff1a",
+    "--swatch--light": "white",
+    "--_theme---button-primary--background": "var(--swatch--light)",
+    "--size--13rem": "clamp(6.5*1rem,((6.5 - ((13 - 6.5)/(var(--site--viewport-max) - var(--site--view",
+    "--swatch--black": "#000",
+    "--size--4-5rem": "clamp(2.125*1rem,((2.125 - ((4.5 - 2.125)/(var(--site--viewport-max) - var(--sit",
+    "--site--viewport-max": "120",
+    "--site--viewport-min": "20",
+    "--size--12rem": "clamp(6*1rem,((6 - ((12 - 6)/(var(--site--viewport-max) - var(--site--viewport-m",
+    "--size--14rem": "clamp(7*1rem,((7 - ((14 - 7)/(var(--site--viewport-max) - var(--site--viewport-m",
+    "--swatch--grey": "#d9d9d9",
+    "--_typography---font-size--h4": "clamp(1.25*1rem,((1.25 - ((2 - 1.25)/(var(--site--viewport-max) - var(--site--vi",
+    "--_typography---font-size--text-large": "clamp(.875*1rem,((.875 - ((2 - .875)/(var(--site--viewport-max) - var(--site--vi",
+    "--_typography---font-size--text-main": "clamp(.7475*1rem,((.7475 - ((1 - .7475)/(var(--site--viewport-max) - var(--site-",
+    "--_typography---font-size--text-small": "clamp(.65*1rem,((.65 - ((.85 - .65)/(var(--site--viewport-max) - var(--site--vie",
+    "--_theme---button-primary--text": "var(--swatch--black)",
+    "--swatch--brand-text": "var(--swatch--dark)"
+  },
+  "breakpoints": [
+    "max 767px",
+    "max 991px",
+    "max 479px",
+    "min 768px"
+  ],
+  "tech": [
+    "lenis",
+    "three",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "page_wrap",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#a1a098",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 8,
+        "gutterBottom": -32
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "CRL®",
+          "family": "Neue Haas Grotesk Text Pro",
+          "size": 95.1,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "/V.01",
+          "family": "Neue Haas Grotesk Text Pro",
+          "size": 95.1,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        },
+        {
+          "tag": "h1",
+          "text": "(2026)",
+          "family": "Neue Haas Grotesk Text Pro",
+          "size": 95.1,
+          "weight": "500",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "Neue Haas Grotesk Text Pro",
+        "size": 14.79,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "Creative Reference Library®",
+        "Index",
+        "Library",
+        "About"
+      ],
+      "words": 183,
+      "excerpt": "(1) CRL® is a curated library of creative references, built from work",
+      "media": {
+        "canvas": 1,
+        "svg": 6
+      }
+    }
+  ],
+  "listing": {
+    "rank": 192,
+    "title": "Creative Reference Library",
+    "award": "SOTD",
+    "url": "https://crl-2026.webflow.io/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/typography/",
+    "awwwards": "https://www.awwwards.com/sites/creative-reference-library",
+    "categories": [
+      "Art & Illustration",
+      "Culture & Education",
+      "Web & Interactive"
+    ]
+  }
+}

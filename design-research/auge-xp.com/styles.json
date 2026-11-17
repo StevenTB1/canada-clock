@@ -1,0 +1,341 @@
+{
+  "page": {
+    "url": "https://auge-xp.com/",
+    "title": "Digital Experience Studio | AUGE Experience",
+    "description": "AUGE Experience is an independent digital experience studio creating websites, digital products, interactive installations and creative technology for forward-thinking brands.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#edeee5",
+        "share": 0.489
+      },
+      {
+        "value": "#fdf48b",
+        "share": 0.266
+      },
+      {
+        "value": "#000000",
+        "share": 0.245
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 1
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.734,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "greedBold",
+        "size": 28.5,
+        "weight": "400",
+        "lineHeight": 0.85,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 252
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.3,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 177
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.25,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 163
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 12,
+        "weight": "500",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 59
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 38,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "ppNeueMontreal",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.5,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 16
+      },
+      {
+        "family": "greedBold",
+        "size": 292.72,
+        "weight": "400",
+        "lineHeight": 0.75,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "ppNeueMontreal 400 normal",
+      "ppNeueMontreal 500 normal",
+      "ppNeueMontreal Fallback normal normal",
+      "greedBold normal normal",
+      "greedBold Fallback normal normal",
+      "farnhamDisplay normal normal",
+      "farnhamDisplay Fallback normal normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 8,
+      "uses": 52
+    },
+    {
+      "px": 7,
+      "uses": 39
+    },
+    {
+      "px": 2,
+      "uses": 39
+    },
+    {
+      "px": 15,
+      "uses": 23
+    },
+    {
+      "px": 12,
+      "uses": 21
+    },
+    {
+      "px": 4,
+      "uses": 21
+    },
+    {
+      "px": 24,
+      "uses": 10
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 30,
+      "uses": 2
+    },
+    {
+      "px": 6,
+      "uses": 2
+    },
+    {
+      "px": 16,
+      "uses": 2
+    },
+    {
+      "px": 84,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "3px",
+      "uses": 3
+    },
+    {
+      "value": "50% 299px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [],
+    "cssAnimatedElements": 0,
+    "canvases": 1,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-sans": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto S",
+    "--font-mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Couri",
+    "--color-black": "#000",
+    "--color-white": "#fff",
+    "--spacing": ".25rem",
+    "--font-weight-medium": "500",
+    "--leading-tight": "1.25",
+    "--leading-normal": "1.5",
+    "--aspect-video": "16 / 9",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-background": "#edeee5",
+    "--color-foreground": "#000",
+    "--color-accent": "#fdf48b",
+    "--font-greed": "var(--font-greed-bold), sans-serif",
+    "--font-farnham": "var(--font-farnham-display), sans-serif",
+    "--spacing-gutter-desktop": "max(20px, 2.08333vw)",
+    "--spacing-gutter-mobile": "20px",
+    "--content-shift-distance": "40px",
+    "--grid-desktop": "repeat(12, minmax(0, 1fr))",
+    "--grid-mobile": "repeat(4, minmax(0, 1fr))",
+    "--grid-gap-desktop": "max(10px, 1.04167vw)",
+    "--grid-gap-mobile": "10px",
+    "--text-content-xs": "max(10px, .833333vw)",
+    "--text-content-xs--line-height": "1.3",
+    "--text-content-sm": "max(13px, 1.25vw)",
+    "--text-content-sm--line-height": "1.25",
+    "--text-content-md": "max(18px, 1.97917vw)",
+    "--text-content-md--line-height": "1.2",
+    "--text-content-lg": "max(24px, 3.54167vw)",
+    "--text-content-lg--line-height": "1.25",
+    "--text-content-xl": "max(58px, 12.5vw)",
+    "--text-content-xl--line-height": "1.2",
+    "--text-content-nav": "38px",
+    "--text-content-nav--line-height": "1.2"
+  },
+  "breakpoints": [
+    "min 64rem",
+    "min 40rem",
+    "min 48rem",
+    "min 80rem",
+    "min 96rem",
+    "min 1024px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "body",
+      "name": "text-foreground.antialiased",
+      "y": 0,
+      "height": 900,
+      "position": "static",
+      "background": "#edeee5",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 30,
+        "gutterRight": 22,
+        "width": 1388,
+        "gutterTop": 414,
+        "gutterBottom": 30
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "VIRU GROUP",
+          "family": "greedBold",
+          "size": 28.5,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "MAISON AUGE",
+          "family": "greedBold",
+          "size": 28.5,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "AC40 LUNAROSSA",
+          "family": "greedBold",
+          "size": 28.5,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        },
+        {
+          "tag": "h3",
+          "text": "DON MOLINICO",
+          "family": "greedBold",
+          "size": 28.5,
+          "weight": "400",
+          "lineHeight": 0.85,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "greedBold",
+        "size": 28.5,
+        "weight": "400",
+        "lineHeight": 0.85,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "PRIVACY",
+        "COOKIES",
+        "Works",
+        "About",
+        "Let's talk",
+        "LINKEDIN",
+        "INSTAGRAM"
+      ],
+      "words": 108,
+      "excerpt": "An award-winning digital experience studio",
+      "media": {
+        "img": 23,
+        "canvas": 1,
+        "svg": 3,
+        "iframe": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 1,
+    "title": "AUGE Experience",
+    "award": "SOTD",
+    "url": "https://auge-xp.com/",
+    "awwwards": "https://www.awwwards.com/sites/auge-experience",
+    "categories": [
+      "Business & Corporate",
+      "Design Agencies",
+      "Web & Interactive",
+      "Portfolio"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

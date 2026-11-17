@@ -1,0 +1,1216 @@
+{
+  "page": {
+    "url": "https://theobromachocolat.com/",
+    "title": "Cure Your Chocolate Craving | Theobroma Chocolate",
+    "description": "Shop handcrafted fine chocolate online at Theobroma Chocolate. Premium ingredients, small batch quality, and fast shipping. Order yours today.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 9412,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#fff4e3",
+        "share": 0.637
+      },
+      {
+        "value": "#c2db6f",
+        "share": 0.159
+      },
+      {
+        "value": "#2f1b12",
+        "share": 0.121
+      },
+      {
+        "value": "#46bdd2",
+        "share": 0.07
+      },
+      {
+        "value": "#91624d",
+        "share": 0.012
+      },
+      {
+        "value": "#d31127",
+        "share": 0.001
+      },
+      {
+        "value": "#2c1c112e",
+        "share": 0
+      },
+      {
+        "value": "#3e848f",
+        "share": 0
+      },
+      {
+        "value": "#d83594",
+        "share": 0
+      },
+      {
+        "value": "#1147a2",
+        "share": 0
+      },
+      {
+        "value": "#ff9800",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#2f1b12",
+        "share": 0.623
+      },
+      {
+        "value": "#fff4e3",
+        "share": 0.359
+      },
+      {
+        "value": "#46bdd2",
+        "share": 0.011
+      },
+      {
+        "value": "#c2db6f",
+        "share": 0.007
+      }
+    ],
+    "borders": [
+      {
+        "value": "#2f1b12",
+        "share": 0.833
+      },
+      {
+        "value": "#fff4e3",
+        "share": 0.167
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0,
+      "text": 0
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Bowlby One SC",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 2570
+      },
+      {
+        "family": "Figtree",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 984
+      },
+      {
+        "family": "Bowlby One SC",
+        "size": 30,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 353
+      },
+      {
+        "family": "Figtree",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 225
+      },
+      {
+        "family": "Bowlby One SC",
+        "size": 86.4,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 181
+      },
+      {
+        "family": "Bowlby One SC",
+        "size": 25.74,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 153
+      },
+      {
+        "family": "Figtree",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 138
+      },
+      {
+        "family": "Bowlby One SC",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 117
+      },
+      {
+        "family": "Bowlby One SC",
+        "size": 52,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 107
+      },
+      {
+        "family": "Bowlby One SC",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 73
+      },
+      {
+        "family": "Figtree",
+        "size": 16,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 61
+      },
+      {
+        "family": "Figtree",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 29
+      },
+      {
+        "family": "Bowlby One SC",
+        "size": 209.48,
+        "weight": "400",
+        "lineHeight": 0.8,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 9
+      },
+      {
+        "family": "Bowlby One SC",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 8
+      }
+    ],
+    "loadedFonts": [
+      "Bowlby One SC 400 normal",
+      "Figtree 300 900 normal",
+      "GTStandard-M 500 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 503
+    },
+    {
+      "px": 32,
+      "uses": 227
+    },
+    {
+      "px": 8,
+      "uses": 53
+    },
+    {
+      "px": 1,
+      "uses": 50
+    },
+    {
+      "px": 6,
+      "uses": 50
+    },
+    {
+      "px": 40,
+      "uses": 32
+    },
+    {
+      "px": 4,
+      "uses": 16
+    },
+    {
+      "px": 48,
+      "uses": 15
+    },
+    {
+      "px": 64,
+      "uses": 11
+    },
+    {
+      "px": 96,
+      "uses": 7
+    },
+    {
+      "px": 128,
+      "uses": 6
+    },
+    {
+      "px": 120,
+      "uses": 6
+    },
+    {
+      "px": 24,
+      "uses": 4
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 12,
+      "uses": 4
+    },
+    {
+      "px": 161,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "16px",
+      "uses": 160
+    },
+    {
+      "value": "4px",
+      "uses": 7
+    },
+    {
+      "value": "30.957% 59.681%",
+      "uses": 1
+    },
+    {
+      "value": "14px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.8s cubic-bezier(0.38, 0.19, 0.18, 1)",
+        "uses": 223
+      },
+      {
+        "value": "0.6s cubic-bezier(0.38, 0.19, 0.18, 1)",
+        "uses": 178
+      },
+      {
+        "value": "1s cubic-bezier(0.38, 0.19, 0.18, 1)",
+        "uses": 13
+      },
+      {
+        "value": "0.4s cubic-bezier(0.38, 0.19, 0.18, 1)",
+        "uses": 5
+      },
+      {
+        "value": "4.4s linear",
+        "uses": 3
+      },
+      {
+        "value": "0.3s ease",
+        "uses": 2
+      }
+    ],
+    "cssAnimatedElements": 139,
+    "canvases": 8,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-primary--family": "\"Work Sans\", \n    sans-serif",
+    "--font-primary--style": "normal",
+    "--font-primary--weight": "400",
+    "--color-background": "#fff4e3",
+    "--color-foreground": "#2F1B12",
+    "--style-border-radius-inputs": "4px",
+    "--tint-green": "#d7f087",
+    "--tint-eggshell": "#fdf7ee27",
+    "--ting-white": "#fdf7eea1",
+    "--tint-brown": "#45261876",
+    "--tint": "#2f1b1217",
+    "--green": "#c2db6f",
+    "--link-green": "#b1cf4e",
+    "--eggshell": "#fff4e3",
+    "--brown": "#2f1b12",
+    "--lbrown": "#91624d",
+    "--blue": "#1147a2",
+    "--lblue": "#3368c2",
+    "--orange": "#ff9800",
+    "--pink": "#d83594",
+    "--red": "#d31127",
+    "--yellow": "#ffc800",
+    "--page-width": "100%",
+    "--page-margin": "1rem",
+    "--full-height": "100svh",
+    "--radius": ".5rem",
+    "--title-font": "\"Bowlby One SC\"",
+    "--text-font": "\"Figtree\"",
+    "--ff-cerise": "\"cerise\", serif",
+    "--h1": "48px",
+    "--h2": "32px",
+    "--h3": "24px",
+    "--h4": "16px",
+    "--curve": "cubic-bezier(.38, .19, .18, 1)",
+    "--base-margin": "1rem"
+  },
+  "breakpoints": [
+    "max 768px",
+    "min 769px",
+    "max 1100px"
+  ],
+  "tech": [
+    "shopify"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "shopify-section-template--23328482787585__hero_6BHbhY",
+      "y": 0,
+      "height": 1012,
+      "position": "relative",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#fff4e3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 96,
+        "gutterRight": 128,
+        "width": 1216,
+        "gutterTop": 275,
+        "gutterBottom": 160
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          22
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Pause mode: on Flavour: loud",
+          "family": "Bowlby One SC",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h2",
+          "text": "Mini Sugar Free Dark Chocolate with Raspberry 90g",
+          "family": "Bowlby One SC",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        }
+      ],
+      "bodyType": {
+        "family": "Bowlby One SC",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "DISCOVER"
+      ],
+      "words": 19,
+      "excerpt": "Mini Sugar Free Dark Chocolate with Raspberry 90g",
+      "media": {
+        "img": 2,
+        "canvas": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "shopify-section-template--23328482787585__text_kdeejG",
+      "y": 1012,
+      "height": 480,
+      "position": "relative",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#2f1b12",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 510,
+        "width": 882,
+        "gutterTop": 53,
+        "gutterBottom": 179
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "span",
+          "text": "FOR",
+          "family": "Bowlby One SC",
+          "size": 52,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        }
+      ],
+      "bodyType": {
+        "family": "Bowlby One SC",
+        "size": 52,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 16,
+      "excerpt": "BETTER-FOR-YOU",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "shopify-section-template--23328482787585__product_selection_CtyUP4",
+      "y": 1492,
+      "height": 1122,
+      "position": "relative",
+      "background": "#46bdd2",
+      "backgroundImage": false,
+      "color": "#fff4e3",
+      "padding": "48px 0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 104,
+        "width": 1288,
+        "gutterTop": 48,
+        "gutterBottom": 80
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "96px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 30,
+        "childWidthsPct": [
+          21,
+          21,
+          21,
+          21,
+          21,
+          21,
+          21,
+          21
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "OUR PRODUCTS",
+          "family": "Bowlby One SC",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        },
+        {
+          "tag": "h3",
+          "text": "WHAT ARE STICKS?",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h3",
+          "text": "WHAT ARE CHUNKIES?",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h3",
+          "text": "WHAT ARE MINIS?",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        }
+      ],
+      "bodyType": {
+        "family": "Figtree",
+        "size": 22,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "CURE THE CRAVING"
+      ],
+      "words": 56,
+      "excerpt": "Clusters with crunch. Chocolate with protein. Built for the pace of your",
+      "media": {
+        "img": 54,
+        "canvas": 3,
+        "svg": 216
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "shopify-section-template--23328482787585__characteristics_bycBtB",
+      "y": 2614,
+      "height": 666,
+      "position": "relative",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#fff4e3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 151,
+        "gutterRight": 18,
+        "width": 1271,
+        "gutterTop": 2,
+        "gutterBottom": 12
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "16px",
+        "justify": "start",
+        "align": "center",
+        "children": 4,
+        "childWidthsPct": [
+          32,
+          34,
+          64,
+          69
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Delicious",
+          "family": "Bowlby One SC",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h3",
+          "text": "DELICIOUS? OH YES.",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h2",
+          "text": "Fairtrade",
+          "family": "Bowlby One SC",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h3",
+          "text": "Fairtrade you say?",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        }
+      ],
+      "bodyType": {
+        "family": "Bowlby One SC",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 164,
+      "excerpt": "The people harvesting the pods matter just as much as the chocolate",
+      "media": {
+        "img": 8,
+        "canvas": 4
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "shopify-section-template--23328482787585__featured_collection_aXVmRq",
+      "y": 3279,
+      "height": 1064,
+      "position": "relative",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#2f1b12",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 128,
+        "gutterBottom": 83
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          93,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our best sellers",
+          "family": "Bowlby One SC",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        },
+        {
+          "tag": "h3",
+          "text": "72% Dark Chocolate Bar with Raspberry 35g",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        },
+        {
+          "tag": "h3",
+          "text": "72% Dark Chocolate Protein Clusters with Raspberry 37g",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        },
+        {
+          "tag": "h3",
+          "text": "Mini 72% Dark Chocolate Bars with Raspberry 90g",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        }
+      ],
+      "bodyType": {
+        "family": "Bowlby One SC",
+        "size": 30,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "VIEW ALL PRODUCTS",
+        "72% Dark Chocolate Bar with Raspberry 3…",
+        "-",
+        "+",
+        "ADD TO CART",
+        "72% Dark Chocolate Protein Clusters wit…",
+        "Mini 72% Dark Chocolate Bars with Raspb…"
+      ],
+      "words": 59,
+      "excerpt": "72% Dark Chocolate Protein Clusters with Raspberry 37g",
+      "media": {
+        "img": 3
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "full-width.scroll-image-section",
+      "y": 4343,
+      "height": 900,
+      "position": "static",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#fff4e3",
+      "padding": "64px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 260,
+        "gutterRight": 260,
+        "width": 920,
+        "gutterTop": 256,
+        "gutterBottom": 256
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "16px",
+        "justify": "center",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          64,
+          64,
+          45
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "THEOBROMA CACAO FOOD OF THE GODS",
+          "family": "Bowlby One SC",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        }
+      ],
+      "bodyType": {
+        "family": "Figtree",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "LET US TELL YOU A STORY",
+        "DISCOVER OUR CHOCOLATE"
+      ],
+      "words": 77,
+      "excerpt": "Theobroma. From the Greek theos, god, and broma, food: food of the",
+      "media": {
+        "img": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "shopify-section-template--23328482787585__testimonials_PLzY6U",
+      "y": 6843,
+      "height": 637,
+      "position": "relative",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#2f1b12",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 236,
+        "width": 1156,
+        "gutterTop": 64,
+        "gutterBottom": 112
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "16px",
+        "justify": "flex-start",
+        "align": "stretch",
+        "children": 30,
+        "childWidthsPct": [
+          24,
+          24,
+          24,
+          24,
+          24,
+          24,
+          24,
+          24
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Our happy customers",
+          "family": "Bowlby One SC",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        },
+        {
+          "tag": "h3",
+          "text": "Sarah",
+          "family": "Bowlby One SC",
+          "size": 25.74,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        },
+        {
+          "tag": "h3",
+          "text": "Marcus",
+          "family": "Bowlby One SC",
+          "size": 25.74,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        },
+        {
+          "tag": "h3",
+          "text": "Priya",
+          "family": "Bowlby One SC",
+          "size": 25.74,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        }
+      ],
+      "bodyType": {
+        "family": "Bowlby One SC",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 357,
+      "excerpt": "\"WoW!! Discovery of the best chocolate in the world! From the very",
+      "media": {}
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "shopify-section-template--23328482787585__newsletter_signup_KHAHNR",
+      "y": 7480,
+      "height": 450,
+      "position": "relative",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#2f1b12",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 289,
+        "gutterRight": 289,
+        "width": 862,
+        "gutterTop": 70,
+        "gutterBottom": 90
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "center",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          89,
+          71,
+          71
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Get 15% off your first order",
+          "family": "Bowlby One SC",
+          "size": 86.4,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        }
+      ],
+      "bodyType": {
+        "family": "Bowlby One SC",
+        "size": 86.4,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "SIGN UP"
+      ],
+      "words": 8,
+      "excerpt": "Sign up",
+      "media": {
+        "svg": 5
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "shopify-section-template--23328482787585__social_section_GeGkBc",
+      "y": 7930,
+      "height": 692,
+      "position": "relative",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#2f1b12",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 128,
+        "gutterBottom": 512
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          93,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Follow us @theobromachoc",
+          "family": "Bowlby One SC",
+          "size": 52,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#2f1b12"
+        }
+      ],
+      "bodyType": {
+        "family": "Bowlby One SC",
+        "size": 52,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "@theobromachoc"
+      ],
+      "words": 3,
+      "excerpt": "@theobromachoc",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "shopify-section-sections--23328481640705__footer",
+      "y": 8622,
+      "height": 790,
+      "position": "relative",
+      "background": "#fff4e3",
+      "backgroundImage": false,
+      "color": "#fff4e3",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 48,
+        "gutterRight": 48,
+        "width": 1344,
+        "gutterTop": 112,
+        "gutterBottom": 14
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "16px",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          93,
+          93,
+          93
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h3",
+          "text": "THEOBROMA CHOCOLAT",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h3",
+          "text": "NAVIGATION",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h3",
+          "text": "SOCIALS",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        },
+        {
+          "tag": "h3",
+          "text": "Get 15% off",
+          "family": "Bowlby One SC",
+          "size": 30,
+          "weight": "400",
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "transform": "none",
+          "color": "#fff4e3"
+        }
+      ],
+      "bodyType": {
+        "family": "Figtree",
+        "size": 18,
+        "weight": "700",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "info@theobromachocolat.com",
+        "Shop",
+        "About",
+        "Wholesale",
+        "Contact",
+        "FAQ",
+        "Shipping & Returns",
+        "Locations",
+        "Instagram",
+        "Facebook"
+      ],
+      "words": 49,
+      "excerpt": "A division of Grande Maison V (GMV)",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 11,
+    "title": "Theobroma",
+    "award": "HM",
+    "url": "https://theobromachocolat.com/",
+    "awwwards": "https://www.awwwards.com/sites/theobroma",
+    "categories": [
+      "E-Commerce",
+      "Food & Drink"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

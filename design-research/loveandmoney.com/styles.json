@@ -1,0 +1,886 @@
+{
+  "page": {
+    "url": "https://loveandmoney.com/",
+    "title": "Love and Money | Brand, Product & Digital Design Consultancy",
+    "description": "Love and Money builds products, brands and businesses",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 13256,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#e72604",
+        "share": 0.812
+      },
+      {
+        "value": "#ba9e72",
+        "share": 0.044
+      },
+      {
+        "value": "#94494d",
+        "share": 0.033
+      },
+      {
+        "value": "#86b16a",
+        "share": 0.031
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.029
+      },
+      {
+        "value": "#444444",
+        "share": 0.024
+      },
+      {
+        "value": "#aeb4b2",
+        "share": 0.019
+      },
+      {
+        "value": "#ecec3c",
+        "share": 0.008
+      }
+    ],
+    "text": [
+      {
+        "value": "#000000",
+        "share": 0.985
+      },
+      {
+        "value": "#eaebe5",
+        "share": 0.015
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.072,
+      "text": 1
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "ABCDiatype-Bold",
+        "size": 18,
+        "weight": "400",
+        "lineHeight": 1.11,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 756
+      },
+      {
+        "family": "ABCDiatype-Bold",
+        "size": 13,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.077,
+        "transform": "uppercase",
+        "chars": 329
+      },
+      {
+        "family": "ABCDiatype-Bold",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 189
+      },
+      {
+        "family": "ABCDiatype-Bold",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.125,
+        "transform": "uppercase",
+        "chars": 161
+      },
+      {
+        "family": "ABCDiatype-Bold",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase",
+        "chars": 85
+      },
+      {
+        "family": "ABCDiatype-Bold",
+        "size": 96,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.031,
+        "transform": "uppercase",
+        "chars": 82
+      },
+      {
+        "family": "ABCDiatype-Bold",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.071,
+        "transform": "uppercase",
+        "chars": 24
+      },
+      {
+        "family": "ABCDiatype-Bold",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.036,
+        "transform": "uppercase",
+        "chars": 7
+      }
+    ],
+    "loadedFonts": [
+      "ABCDiatype-Bold 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 16,
+      "uses": 68
+    },
+    {
+      "px": 4,
+      "uses": 19
+    },
+    {
+      "px": 24,
+      "uses": 18
+    },
+    {
+      "px": 128,
+      "uses": 13
+    },
+    {
+      "px": 32,
+      "uses": 13
+    },
+    {
+      "px": 62,
+      "uses": 8
+    },
+    {
+      "px": 72,
+      "uses": 3
+    },
+    {
+      "px": 108,
+      "uses": 3
+    },
+    {
+      "px": 8,
+      "uses": 2
+    },
+    {
+      "px": 315,
+      "uses": 1
+    },
+    {
+      "px": 40,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 29
+      },
+      {
+        "value": "0.5s cubic-bezier(0, 0, 0.2, 1)",
+        "uses": 28
+      },
+      {
+        "value": "0.3s ease-in-out",
+        "uses": 13
+      },
+      {
+        "value": "0.2s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 12
+      },
+      {
+        "value": "0.7s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 7
+      },
+      {
+        "value": "0.5s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 6
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 25
+  },
+  "cssVariables": {
+    "--font-sans": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",\"Noto Sans\",",
+    "--font-mono": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New",
+    "--spacing": ".25rem",
+    "--container-lg": "32rem",
+    "--text-xs": ".75rem",
+    "--text-xs--line-height": "calc(1 / .75)",
+    "--text-sm": ".875rem",
+    "--text-sm--line-height": "calc(1.25 / .875)",
+    "--text-base": "1rem",
+    "--text-base--line-height": "calc(1.5 / 1)",
+    "--text-lg": "1.125rem",
+    "--text-lg--line-height": "calc(1.75 / 1.125)",
+    "--font-weight-semibold": "600",
+    "--tracking-tight": "-.025em",
+    "--tracking-normal": "0em",
+    "--tracking-wide": ".025em",
+    "--tracking-widest": ".1em",
+    "--leading-snug": "1.375",
+    "--ease-out": "cubic-bezier(0,0,.2,1)",
+    "--ease-in-out": "cubic-bezier(.4,0,.2,1)",
+    "--animate-spin": "spin 1s linear infinite",
+    "--blur-sm": "8px",
+    "--aspect-video": "16/9",
+    "--default-transition-duration": ".15s",
+    "--default-transition-timing-function": "cubic-bezier(.4,0,.2,1)",
+    "--default-font-family": "var(--font-sans)",
+    "--default-mono-font-family": "var(--font-mono)",
+    "--color-white": "#eaebe5",
+    "--site-pr": "60px",
+    "--radius": ".625rem",
+    "--background": "oklch(100% 0 0)",
+    "--foreground": "oklch(14.5% 0 0)",
+    "--card": "oklch(100% 0 0)",
+    "--card-foreground": "oklch(14.5% 0 0)",
+    "--popover": "oklch(100% 0 0)",
+    "--popover-foreground": "oklch(14.5% 0 0)",
+    "--primary": "oklch(20.5% 0 0)",
+    "--primary-foreground": "oklch(98.5% 0 0)",
+    "--secondary": "oklch(97% 0 0)",
+    "--secondary-foreground": "oklch(20.5% 0 0)",
+    "--muted": "oklch(97% 0 0)",
+    "--muted-foreground": "oklch(55.6% 0 0)",
+    "--accent": "oklch(97% 0 0)",
+    "--accent-foreground": "oklch(20.5% 0 0)",
+    "--destructive": "oklch(57.7% .245 27.325)",
+    "--border": "oklch(92.2% 0 0)",
+    "--input": "oklch(92.2% 0 0)",
+    "--ring": "oklch(70.8% 0 0)",
+    "--chart-1": "oklch(64.6% .222 41.116)",
+    "--chart-2": "oklch(60% .118 184.704)",
+    "--chart-3": "oklch(39.8% .07 227.392)",
+    "--chart-4": "oklch(82.8% .189 84.429)",
+    "--chart-5": "oklch(76.9% .188 70.08)",
+    "--sidebar": "oklch(98.5% 0 0)",
+    "--sidebar-foreground": "oklch(14.5% 0 0)",
+    "--sidebar-primary": "oklch(20.5% 0 0)",
+    "--sidebar-primary-foreground": "oklch(98.5% 0 0)",
+    "--sidebar-accent": "oklch(97% 0 0)",
+    "--sidebar-accent-foreground": "oklch(20.5% 0 0)",
+    "--sidebar-border": "oklch(92.2% 0 0)",
+    "--sidebar-ring": "oklch(70.8% 0 0)"
+  },
+  "breakpoints": [
+    "min 48rem",
+    "min 64rem",
+    "min 40rem",
+    "min 80rem",
+    "min 768px",
+    "max 1023px",
+    "min 1024px",
+    "max 1536px",
+    "min 1536px",
+    "min 375px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "section",
+      "name": "px-4.pb-[35vh]",
+      "y": 0,
+      "height": 1215,
+      "position": "static",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 16px 315px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 16,
+        "width": 1408,
+        "gutterTop": 775,
+        "gutterBottom": 339
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "LOVE AND MONEY IS NOT WHAT YOU THINK IT IS",
+          "family": "ABCDiatype-Bold",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "Love and money is",
+      "media": {
+        "svg": 1
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "layout-grid.layout-px",
+      "y": 1231,
+      "height": 766,
+      "position": "static",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px 61.5938px 0px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "layout-grid.layout-py",
+      "y": 2013,
+      "height": 630,
+      "position": "static",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "72px 61.5938px 108px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 170,
+        "gutterRight": 216,
+        "width": 1054,
+        "gutterTop": 221,
+        "gutterBottom": 257
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "LOVE AND MONEY BUILDS PRODUCTS, BRANDS AND BUSINESSES AROUND A SINGULAR CREATIV…",
+          "family": "ABCDiatype-Bold",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 13,
+      "excerpt": "vision(ary).",
+      "media": {}
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "layout-grid.pointer-events-none",
+      "y": 2683,
+      "height": 900,
+      "position": "sticky",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 607,
+        "gutterRight": 617,
+        "width": 216,
+        "gutterTop": 24,
+        "gutterBottom": 851
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          33,
+          41,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "OUR PLAYBOOK",
+          "family": "ABCDiatype-Bold",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "OUR PLAYBOOK",
+      "media": {
+        "img": 25,
+        "video": 17,
+        "svg": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "section",
+      "name": "layout-grid.layout-py",
+      "y": 8203,
+      "height": 630,
+      "position": "static",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "72px 61.5938px 108px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 157,
+        "gutterRight": 203,
+        "width": 1080,
+        "gutterTop": 221,
+        "gutterBottom": 257
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "OUR WORK SPANS CONSUMER GOODS, TECHNOLOGY, B2B, BEAUTY, FINANCE, FOOD AND BEVER…",
+          "family": "ABCDiatype-Bold",
+          "size": 56,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 56,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 12,
+      "excerpt": "technology,",
+      "media": {}
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "name": "layout-grid.layout-px",
+      "y": 8849,
+      "height": 791,
+      "position": "static",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "24px 61.5938px 24px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 131,
+        "gutterRight": 212,
+        "width": 1097,
+        "gutterTop": 41,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          79,
+          79
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "DIFFERENT",
+          "family": "ABCDiatype-Bold",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.125,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.125,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIEW DIFFERENT BRAND DIGITAL"
+      ],
+      "words": 4,
+      "excerpt": "Different",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "name": "layout-px.flex",
+      "y": 9657,
+      "height": 1238,
+      "position": "static",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "24px 61.5938px 24px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 98,
+        "width": 1326,
+        "gutterTop": 41,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          63,
+          30
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "TELEPATHIC INSTRUMENTS",
+          "family": "ABCDiatype-Bold",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.125,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.125,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIEW TELEPATHIC INSTRUMENTS BRAND DIGIT…",
+        "VIEW FLUFF BRAND DIGITAL VENTURES"
+      ],
+      "words": 11,
+      "excerpt": "Telepathic Instruments",
+      "media": {
+        "img": 2,
+        "video": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "name": "layout-grid.layout-px",
+      "y": 10911,
+      "height": 740,
+      "position": "static",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "24px 61.5938px 24px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 131,
+        "gutterRight": 212,
+        "width": 1097,
+        "gutterTop": 41,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          79,
+          79
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "OMEGA YEAST",
+          "family": "ABCDiatype-Bold",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.125,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.125,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIEW OMEGA YEAST BRAND DIGITAL"
+      ],
+      "words": 5,
+      "excerpt": "Omega Yeast",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "name": "layout-px.flex",
+      "y": 11666,
+      "height": 1071,
+      "position": "static",
+      "background": "#e72604",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "72px 61.5938px 108px 16px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 98,
+        "width": 1326,
+        "gutterTop": 89,
+        "gutterBottom": 108
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "24px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          46,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "POLAROID",
+          "family": "ABCDiatype-Bold",
+          "size": 16,
+          "weight": "400",
+          "lineHeight": 1.2,
+          "letterSpacing": 0.125,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 16,
+        "weight": "400",
+        "lineHeight": 1.2,
+        "letterSpacing": 0.125,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "VIEW POLAROID BRAND DIGITAL VENTURES",
+        "VIEW IDEALWORKS BRAND DIGITAL"
+      ],
+      "words": 9,
+      "excerpt": "Idealworks",
+      "media": {
+        "img": 1,
+        "video": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 10,
+      "tag": "footer",
+      "name": "site-footer",
+      "y": 12777,
+      "height": 479,
+      "position": "static",
+      "background": "#ffffff",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "32px 0px 24px",
+      "margin": "40px 0px 0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 16,
+        "gutterRight": 62,
+        "width": 1362,
+        "gutterTop": 32,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "128px 16px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 5,
+        "childWidthsPct": [
+          39,
+          31,
+          23,
+          39,
+          39
+        ]
+      },
+      "headings": [
+        {
+          "tag": "button",
+          "text": "BRAND STUDIO",
+          "family": "ABCDiatype-Bold",
+          "size": 28,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": 0,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "ABCDiatype-Bold",
+        "size": 28,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": 0,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "BRAND STUDIO",
+        "DIGITAL STUDIO",
+        "VENTURES",
+        "CONTACT",
+        "HELLO@LOVEANDMONEY.COM",
+        "INSTAGRAM",
+        "LINKEDIN"
+      ],
+      "words": 10,
+      "excerpt": "@loveandmoney.com",
+      "media": {
+        "video": 2,
+        "svg": 2
+      }
+    }
+  ],
+  "listing": {
+    "rank": 37,
+    "title": "Love and Money",
+    "award": "HM",
+    "url": "https://loveandmoney.com/",
+    "awwwards": "https://www.awwwards.com/sites/love-and-money",
+    "categories": [
+      "Culture & Education",
+      "Design Agencies",
+      "Portfolio",
+      "Luxury"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

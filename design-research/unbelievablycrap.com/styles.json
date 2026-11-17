@@ -1,0 +1,566 @@
+{
+  "page": {
+    "url": "https://www.unbelievablycrap.com/",
+    "title": "Liubomyr Ulytskyi - Digital Designer",
+    "description": "Liubomyr Ulytskyi — Digital Designer, award-winning UI/UX Designer, art director, conceptualist.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#000000",
+        "share": 0.355
+      },
+      {
+        "value": "#393939",
+        "share": 0.289
+      },
+      {
+        "value": "#e8271c",
+        "share": 0.177
+      },
+      {
+        "value": "#ff0000",
+        "share": 0.177
+      },
+      {
+        "value": "#ffffff1a",
+        "share": 0.001
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.001
+      },
+      {
+        "value": "#d9d9d9",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#ffffff",
+        "share": 0.577
+      },
+      {
+        "value": "#393939",
+        "share": 0.223
+      },
+      {
+        "value": "#ffffff8c",
+        "share": 0.145
+      },
+      {
+        "value": "#ffffff80",
+        "share": 0.023
+      },
+      {
+        "value": "#daecf11a",
+        "share": 0.012
+      },
+      {
+        "value": "#daecf1",
+        "share": 0.012
+      },
+      {
+        "value": "#c8c8c8",
+        "share": 0.005
+      },
+      {
+        "value": "#ffffff40",
+        "share": 0.004
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 0.646,
+      "text": 0.977
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "PP Supply Sans",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 0.5,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 7447
+      },
+      {
+        "family": "PP Supply Sans",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 1164
+      },
+      {
+        "family": "PP Supply Sans",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 50
+      },
+      {
+        "family": "PP Supply Sans",
+        "size": 64,
+        "weight": "400",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.06,
+        "transform": "uppercase",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "PP Supply Sans 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 6,
+      "uses": 29
+    },
+    {
+      "px": 4,
+      "uses": 10
+    },
+    {
+      "px": 10,
+      "uses": 10
+    },
+    {
+      "px": 32,
+      "uses": 6
+    },
+    {
+      "px": 64,
+      "uses": 6
+    },
+    {
+      "px": 2,
+      "uses": 6
+    },
+    {
+      "px": 16,
+      "uses": 6
+    },
+    {
+      "px": 8,
+      "uses": 4
+    },
+    {
+      "px": 13,
+      "uses": 4
+    },
+    {
+      "px": 60,
+      "uses": 2
+    },
+    {
+      "px": 15,
+      "uses": 1
+    }
+  ],
+  "radii": [],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.18s ease",
+        "uses": 5
+      },
+      {
+        "value": "0.28s linear",
+        "uses": 1
+      },
+      {
+        "value": "0.3s linear",
+        "uses": 1
+      },
+      {
+        "value": "0.14s linear",
+        "uses": 1
+      },
+      {
+        "value": "0.42s cubic-bezier(0.4, 0, 0.2, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 72,
+    "canvases": 11,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--font-main": "'PP Supply Sans','Neue Haas Grotesk Text','Inter',-apple-system,\n              B",
+    "--font-mono": "'PP Supply Mono',ui-monospace,'SF Mono','Roboto Mono',monospace",
+    "--c-white": "#ffffff",
+    "--c-fog": "#afafaf",
+    "--c-slate": "#6e6e6e",
+    "--c-label": "#636363",
+    "--c-fade": "#c3c3c3",
+    "--c-ink": "#393939",
+    "--hud-size": "11px",
+    "--tracking": "-0.04em",
+    "--ui-ink": "#393939",
+    "--ui-dim": "rgba(57,57,57,.5)",
+    "--ui-red": "#e8271c",
+    "--ui-grey": "#c8c8c8",
+    "--ui-bar": "#393939",
+    "--ui-10": "10px",
+    "--ui-14": "14px",
+    "--ui-track": "-0.04em",
+    "--ease-osmo": "cubic-bezier(0.625, 0.05, 0, 1)",
+    "--ease-out": "cubic-bezier(.22, .61, .36, 1)",
+    "--loader-ink": "#ffffff",
+    "--loader-ground": "#000000"
+  },
+  "breakpoints": [
+    "max 720px",
+    "max 860px"
+  ],
+  "tech": [
+    "gsap",
+    "three",
+    "barba"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "grain",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": true,
+      "color": "#c8c8c8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "transition",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#c8c8c8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "name": "aboutRoot",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 0,
+        "width": 1440,
+        "gutterTop": 900,
+        "gutterBottom": -1118
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "4.05px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 124,
+        "childWidthsPct": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "CASE FILE: THE MAN BEHIND THE IMAGE",
+          "family": "PP Supply Sans",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 0.5,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#ffffff"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Supply Sans",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 0.5,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 772,
+      "excerpt": "Why a photograph taken by accident could sometimes mean more than one",
+      "media": {
+        "canvas": 5
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "hud.is-on",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#ffffff8c",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 10,
+        "gutterRight": 10,
+        "width": 1420,
+        "gutterTop": 16,
+        "gutterBottom": -463
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "32px",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          20,
+          15
+        ]
+      },
+      "headings": [
+        {
+          "tag": "b",
+          "text": "X",
+          "family": "PP Supply Sans",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 0.5,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#393939"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Supply Sans",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 0.5,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 391,
+      "excerpt": "/////////////////////////////////////////////////////////////////////////////////////////…",
+      "media": {
+        "canvas": 1,
+        "svg": 4
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "ts",
+      "y": 450,
+      "height": 1644,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#393939",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 409,
+        "gutterRight": 397,
+        "width": 635,
+        "gutterTop": -1,
+        "gutterBottom": -6
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "10px",
+        "justify": "normal",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "//",
+          "family": "PP Supply Sans",
+          "size": 64,
+          "weight": "400",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.06,
+          "transform": "uppercase",
+          "color": "#393939"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Supply Sans",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 162,
+      "excerpt": "mystery of life",
+      "media": {
+        "img": 12,
+        "canvas": 2
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "b2.is-held",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#393939",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 0,
+        "gutterRight": 10,
+        "width": 1430,
+        "gutterTop": 0,
+        "gutterBottom": -2020
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "64px",
+        "justify": "normal",
+        "align": "flex-start",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          5
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "DON’T CLICK",
+          "family": "PP Supply Sans",
+          "size": 10,
+          "weight": "400",
+          "lineHeight": 0.5,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#393939"
+        }
+      ],
+      "bodyType": {
+        "family": "PP Supply Sans",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 0.5,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 86,
+      "excerpt": "Creative Development",
+      "media": {
+        "canvas": 2,
+        "svg": 2
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "ftr__sheet",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#ff0000",
+      "backgroundImage": false,
+      "color": "#c8c8c8",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 3,
+    "title": "Unbelievably Crap",
+    "award": "SOTD",
+    "url": "https://www.unbelievablycrap.com/",
+    "awwwards": "https://www.awwwards.com/sites/unbelievably-crap",
+    "categories": [
+      "Web & Interactive",
+      "Photography",
+      "Experimental"
+    ],
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/black-and-white/"
+  }
+}

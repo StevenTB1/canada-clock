@@ -1,0 +1,808 @@
+{
+  "page": {
+    "url": "https://astapable.com/",
+    "title": "Product Designer Evgenii Astapov",
+    "description": "Ev is a product designer shaping the complex digital products through clear structure, interaction systems, and AI-powered workflows",
+    "lang": null,
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 4294,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#fbfbfb",
+        "share": 0.98
+      },
+      {
+        "value": "#fafafa33",
+        "share": 0.009
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.008
+      },
+      {
+        "value": "#eaeaea",
+        "share": 0.002
+      },
+      {
+        "value": "#1c1c1c",
+        "share": 0.001
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      },
+      {
+        "value": "#efefef",
+        "share": 0
+      },
+      {
+        "value": "#9b9b9b",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#1c1c1c",
+        "share": 0.928
+      },
+      {
+        "value": "#ffffff",
+        "share": 0.042
+      },
+      {
+        "value": "#cdcdcd",
+        "share": 0.025
+      },
+      {
+        "value": "#9b9b9b",
+        "share": 0.004
+      }
+    ],
+    "borders": [
+      {
+        "value": "#cdcdcd",
+        "share": 0.833
+      },
+      {
+        "value": "#fbfbfb",
+        "share": 0.167
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.999
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "Barusans",
+        "size": 12.23,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.012,
+        "transform": "none",
+        "chars": 757
+      },
+      {
+        "family": "Barusans",
+        "size": 14.12,
+        "weight": "300",
+        "lineHeight": 1.21,
+        "letterSpacing": -0.011,
+        "transform": "none",
+        "chars": 139
+      },
+      {
+        "family": "Barusans",
+        "size": 10.35,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.015,
+        "transform": "none",
+        "chars": 131
+      },
+      {
+        "family": "Barusans",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.009,
+        "transform": "none",
+        "chars": 78
+      },
+      {
+        "family": "Barusans",
+        "size": 22.57,
+        "weight": "600",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.013,
+        "transform": "none",
+        "chars": 78
+      },
+      {
+        "family": "Barusans",
+        "size": 37.62,
+        "weight": "600",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 34
+      },
+      {
+        "family": "Barusans",
+        "size": 12.23,
+        "weight": "300",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.012,
+        "transform": "none",
+        "chars": 28
+      },
+      {
+        "family": "Barusans",
+        "size": 75.24,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.03,
+        "transform": "none",
+        "chars": 26
+      },
+      {
+        "family": "Barusans",
+        "size": 12.23,
+        "weight": "300",
+        "lineHeight": 1.1,
+        "letterSpacing": -0.025,
+        "transform": "none",
+        "chars": 16
+      },
+      {
+        "family": "Barusans",
+        "size": 45.14,
+        "weight": "600",
+        "lineHeight": 1,
+        "letterSpacing": -0.033,
+        "transform": "none",
+        "chars": 16
+      },
+      {
+        "family": "Barusans",
+        "size": 10.7,
+        "weight": "300",
+        "lineHeight": 1.6,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 11
+      },
+      {
+        "family": "Barusans",
+        "size": 14.12,
+        "weight": "600",
+        "lineHeight": 1.21,
+        "letterSpacing": -0.011,
+        "transform": "none",
+        "chars": 11
+      },
+      {
+        "family": "Barusans",
+        "size": 16,
+        "weight": "600",
+        "lineHeight": 1.07,
+        "letterSpacing": -0.009,
+        "transform": "none",
+        "chars": 10
+      },
+      {
+        "family": "Barusans",
+        "size": 12.23,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 4
+      }
+    ],
+    "loadedFonts": [
+      "Barusans 300 normal",
+      "Barusans 600 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 11,
+      "uses": 65
+    },
+    {
+      "px": 6,
+      "uses": 63
+    },
+    {
+      "px": 4,
+      "uses": 40
+    },
+    {
+      "px": 19,
+      "uses": 38
+    },
+    {
+      "px": 8,
+      "uses": 18
+    },
+    {
+      "px": 15,
+      "uses": 18
+    },
+    {
+      "px": 38,
+      "uses": 9
+    },
+    {
+      "px": 45,
+      "uses": 6
+    },
+    {
+      "px": 2,
+      "uses": 4
+    },
+    {
+      "px": 26,
+      "uses": 3
+    },
+    {
+      "px": 10,
+      "uses": 2
+    },
+    {
+      "px": 1,
+      "uses": 2
+    },
+    {
+      "px": 5,
+      "uses": 2
+    },
+    {
+      "px": 150,
+      "uses": 2
+    },
+    {
+      "px": 79,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    }
+  ],
+  "radii": [
+    {
+      "value": "2.82907px",
+      "uses": 13
+    },
+    {
+      "value": "5.64309px",
+      "uses": 9
+    },
+    {
+      "value": "3.76206px",
+      "uses": 6
+    },
+    {
+      "value": "100%",
+      "uses": 3
+    },
+    {
+      "value": "22.5723px",
+      "uses": 3
+    },
+    {
+      "value": "50%",
+      "uses": 2
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.65, 0.05, 0, 1)",
+        "uses": 1
+      },
+      {
+        "value": "0.4s cubic-bezier(0.625, 0.05, 0, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 1,
+    "canvases": 0,
+    "videos": 2
+  },
+  "cssVariables": {
+    "--_brand-colors---off-white": "#fbfbfb",
+    "--_brand-font---baru-sans": "Barusans, Arial, sans-serif",
+    "--_brand-colors---black": "#1c1c1c",
+    "--_typography---13": ".813rem",
+    "--_brand-font---light": "300",
+    "--_gap---gap-160": "10rem",
+    "--_gap---gap-120": "7.5rem",
+    "--_gap---gap-68": "4.25rem",
+    "--_padding---pad-20": "1.25rem",
+    "--_padding---pad-16": "1rem",
+    "--_padding---pad-12": ".75rem",
+    "--_padding---pad-160": "10rem",
+    "--_padding---pad-100": "6.25rem",
+    "--_padding---pad-120": "7.5rem",
+    "--_gap---gap-20": "1.25rem",
+    "--_padding---pad-28": "1.75rem",
+    "--_typography---48": "3rem",
+    "--_brand-font---semibold": "600",
+    "--_typography---32": "2rem",
+    "--_typography---15": ".938rem",
+    "--_typography---17": "1.063rem",
+    "--_padding---pad-8": ".5rem",
+    "--_typography---40": "2.5rem",
+    "--_brand-colors---medium-gray": "#cdcdcd",
+    "--_gap---gap-12": ".75rem",
+    "--_padding---pad-40": "2.5rem",
+    "--_gap---gap-8": ".5rem",
+    "--_padding---pad-4": ".25rem",
+    "--_padding---pad-6": ".375rem",
+    "--_border---rad-3": ".188rem",
+    "--_brand-colors---light-gray": "#eaeaea",
+    "--_typography---11": ".688rem",
+    "--_border---rad-4": ".25rem",
+    "--_brand-colors---white": "white",
+    "--_gap---gap-4": ".25rem",
+    "--_gap---gap-6": ".375rem",
+    "--_brand-colors---dark-gray": "#9b9b9b",
+    "--_typography---24": "1.5rem",
+    "--_gap---gar-84": "5.25rem",
+    "--_border---rad-24": "1.5rem",
+    "--_padding---pad-64": "4rem",
+    "--_padding---pad-32": "2rem",
+    "--_gap---gap-48": "3rem",
+    "--_typography---80": "5rem",
+    "--_typography---68": "4.25rem",
+    "--_typography---44": "2.75rem",
+    "--_gap---gap-32": "2rem",
+    "--_typography---20": "1.25rem",
+    "--_stroke---str-1": ".063rem",
+    "--_border---rad-6": ".375rem",
+    "--_gap---gap-54": "3.375rem",
+    "--_gap---gap-40": "2.5rem",
+    "--_gap---gap-100": "6.25rem",
+    "--_typography---64": "4rem",
+    "--_padding---pad-340": "21.25rem",
+    "--_gap---gap-16": "1rem",
+    "--_padding---pad-140": "8.75rem",
+    "--_typography---28": "1.75rem",
+    "--_gap---gap-2": ".125rem",
+    "--_border---rad-12": ".75rem",
+    "--_border---rad-20": "1.25rem",
+    "--_brand-colors---gray-smoke": "whitesmoke",
+    "--_border---rad-16": "1rem",
+    "--_gap---gap-140": "8.75rem"
+  },
+  "breakpoints": [
+    "max 479px",
+    "max 991px",
+    "max 767px",
+    "min 768px",
+    "min 0px",
+    "min 480px",
+    "max 980px",
+    "max 480px"
+  ],
+  "tech": [
+    "gsap",
+    "webflow"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "nav",
+      "name": "nav",
+      "y": 0,
+      "height": 68,
+      "position": "fixed",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#1c1c1c",
+      "padding": "18.8103px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 19,
+        "gutterRight": 50,
+        "width": 1371,
+        "gutterTop": 19,
+        "gutterBottom": 8
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 3,
+        "gap": "11.2862px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          32,
+          32,
+          32
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Ev Astapov",
+          "family": "Barusans",
+          "size": 16,
+          "weight": "600",
+          "lineHeight": 1.07,
+          "letterSpacing": -0.009,
+          "transform": "none",
+          "color": "#1c1c1c"
+        }
+      ],
+      "bodyType": {
+        "family": "Barusans",
+        "size": 14.12,
+        "weight": "300",
+        "lineHeight": 1.21,
+        "letterSpacing": -0.011,
+        "transform": "none"
+      },
+      "labels": [
+        "Ev Astapov Product Designer",
+        "Work",
+        "Live Apps",
+        "Playground",
+        "About"
+      ],
+      "words": 14,
+      "excerpt": "Product Designer",
+      "media": {
+        "svg": 10
+      }
+    },
+    {
+      "i": 2,
+      "tag": "section",
+      "name": "hero",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#1c1c1c",
+      "padding": "18.8103px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 19,
+        "gutterRight": 1090,
+        "width": 331,
+        "gutterTop": 779,
+        "gutterBottom": 19
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "18.8103px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Evgenii Astapovs",
+          "family": "Barusans",
+          "size": 45.14,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.033,
+          "transform": "none",
+          "color": "#1c1c1c"
+        }
+      ],
+      "bodyType": {
+        "family": "Barusans",
+        "size": 16,
+        "weight": "300",
+        "lineHeight": 1.3,
+        "letterSpacing": -0.009,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 16,
+      "excerpt": "I’m a product designer who loves making things that help others do",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "work",
+      "y": 1050,
+      "height": 1712,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#1c1c1c",
+      "padding": "18.8103px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 15,
+        "gutterRight": 19,
+        "width": 1406,
+        "gutterTop": -1035,
+        "gutterBottom": 56
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "79.0032px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          7,
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "/* Featured Work */",
+          "family": "Barusans",
+          "size": 37.62,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#cdcdcd"
+        },
+        {
+          "tag": "h3",
+          "text": "Captures",
+          "family": "Barusans",
+          "size": 22.57,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#1c1c1c"
+        },
+        {
+          "tag": "h3",
+          "text": "Discord",
+          "family": "Barusans",
+          "size": 22.57,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#1c1c1c"
+        },
+        {
+          "tag": "h3",
+          "text": "Pier Two",
+          "family": "Barusans",
+          "size": 22.57,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#1c1c1c"
+        }
+      ],
+      "bodyType": {
+        "family": "Barusans",
+        "size": 12.23,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.012,
+        "transform": "none"
+      },
+      "labels": [
+        "Product Design Vibe Coding Branding Cap…",
+        "Product Design Discord Giving new life …",
+        "Product Design Design System Pier Two C…",
+        "Design System Motion TADE GO Turning a …",
+        "Game Design Motion Advergame (soon) Bri…",
+        "Branding Website Motion Minémal Breakin…"
+      ],
+      "words": 103,
+      "excerpt": "Challenged the core logic of a staking platform and reshaped its architecture",
+      "media": {
+        "img": 3,
+        "video": 1,
+        "svg": 3
+      }
+    },
+    {
+      "i": 4,
+      "tag": "section",
+      "name": "apps",
+      "y": 2913,
+      "height": 482,
+      "position": "static",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#1c1c1c",
+      "padding": "18.8103px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 225,
+        "gutterRight": 225,
+        "width": 990,
+        "gutterTop": 19,
+        "gutterBottom": 83
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "94.0514px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          97
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "/* Live Apps */",
+          "family": "Barusans",
+          "size": 37.62,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#cdcdcd"
+        },
+        {
+          "tag": "h3",
+          "text": "TidyBo",
+          "family": "Barusans",
+          "size": 22.57,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#1c1c1c"
+        },
+        {
+          "tag": "h3",
+          "text": "Tendril",
+          "family": "Barusans",
+          "size": 22.57,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#1c1c1c"
+        },
+        {
+          "tag": "h3",
+          "text": "404 the Game",
+          "family": "Barusans",
+          "size": 22.57,
+          "weight": "600",
+          "lineHeight": 1.1,
+          "letterSpacing": -0.013,
+          "transform": "none",
+          "color": "#1c1c1c"
+        }
+      ],
+      "bodyType": {
+        "family": "Barusans",
+        "size": 12.23,
+        "weight": "300",
+        "lineHeight": 1.4,
+        "letterSpacing": -0.012,
+        "transform": "none"
+      },
+      "labels": [
+        "TidyBo This roomba organizes desktop fi…",
+        "Tendril Chrome browser extension that t…",
+        "404 the Game A platformer built for 404…"
+      ],
+      "words": 57,
+      "excerpt": "This roomba organizes desktop files. It creates a folder on your desktop",
+      "media": {
+        "img": 5,
+        "svg": 3
+      }
+    },
+    {
+      "i": 5,
+      "tag": "footer",
+      "name": "footer",
+      "y": 3394,
+      "height": 900,
+      "position": "relative",
+      "background": "#fbfbfb",
+      "backgroundImage": false,
+      "color": "#1c1c1c",
+      "padding": "18.8103px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 19,
+        "gutterRight": 333,
+        "width": 1089,
+        "gutterTop": 341,
+        "gutterBottom": 19
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "11.2862px",
+        "justify": "flex-end",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          97,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "Let’s discuss your",
+          "family": "Barusans",
+          "size": 75.24,
+          "weight": "600",
+          "lineHeight": 1,
+          "letterSpacing": -0.03,
+          "transform": "none",
+          "color": "#1c1c1c"
+        }
+      ],
+      "bodyType": {
+        "family": "Barusans",
+        "size": 14.12,
+        "weight": "300",
+        "lineHeight": 1.21,
+        "letterSpacing": -0.011,
+        "transform": "none"
+      },
+      "labels": [
+        "Email Me",
+        "Book a Call"
+      ],
+      "words": 34,
+      "excerpt": "Studied at Parsons School of Design",
+      "media": {
+        "img": 1,
+        "svg": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 168,
+    "title": "Ev Astapov",
+    "url": "https://astapable.com/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}

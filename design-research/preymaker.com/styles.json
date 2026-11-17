@@ -1,0 +1,1316 @@
+{
+  "page": {
+    "url": "https://preymaker.com/",
+    "title": "Preymaker",
+    "description": "Preymaker",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 900,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#f1f3f5",
+        "share": 0.866
+      },
+      {
+        "value": "#00000099",
+        "share": 0.087
+      },
+      {
+        "value": "#000000",
+        "share": 0.047
+      },
+      {
+        "value": "#ffffff",
+        "share": 0
+      },
+      {
+        "value": "#87919b33",
+        "share": 0
+      },
+      {
+        "value": "#b9c1c8",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#f1f3f5",
+        "share": 0.764
+      },
+      {
+        "value": "#000000",
+        "share": 0.221
+      },
+      {
+        "value": "#859099",
+        "share": 0.016
+      }
+    ],
+    "borders": [],
+    "monochromeShare": {
+      "backgrounds": 1,
+      "text": 0.985
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 896
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 40,
+        "weight": "600",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none",
+        "chars": 367
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.01,
+        "transform": "none",
+        "chars": 322
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 25,
+        "weight": "700",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 201
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "600",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 120
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.29,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 89
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 10,
+        "weight": "500",
+        "lineHeight": 1.2,
+        "letterSpacing": -0.01,
+        "transform": "capitalize",
+        "chars": 40
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 10,
+        "weight": "400",
+        "lineHeight": 1,
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 20
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 20,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.04,
+        "transform": "uppercase",
+        "chars": 17
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 40,
+        "weight": "600",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "uppercase",
+        "chars": 10
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 13.33,
+        "weight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": 0,
+        "transform": "none",
+        "chars": 7
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 5
+      },
+      {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "700",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "uppercase",
+        "chars": 5
+      }
+    ],
+    "loadedFonts": [
+      "NewGrotesk 400 normal",
+      "NewGrotesk 500 normal",
+      "NewGrotesk 600 normal",
+      "NewGrotesk 700 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 4,
+      "uses": 98
+    },
+    {
+      "px": 12,
+      "uses": 69
+    },
+    {
+      "px": 8,
+      "uses": 53
+    },
+    {
+      "px": 710,
+      "uses": 21
+    },
+    {
+      "px": 2,
+      "uses": 18
+    },
+    {
+      "px": 5,
+      "uses": 8
+    },
+    {
+      "px": 100,
+      "uses": 5
+    },
+    {
+      "px": 20,
+      "uses": 4
+    },
+    {
+      "px": 40,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "2px",
+      "uses": 25
+    },
+    {
+      "value": "10px",
+      "uses": 2
+    },
+    {
+      "value": "50%",
+      "uses": 2
+    },
+    {
+      "value": "1px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.7s cubic-bezier(0.39, 0.575, 0.565, 1)",
+        "uses": 30
+      },
+      {
+        "value": "1.5s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 14
+      },
+      {
+        "value": "0.7s cubic-bezier(0.19, 1, 0.22, 1)",
+        "uses": 10
+      },
+      {
+        "value": "0.6s cubic-bezier(0.39, 0.575, 0.565, 1)",
+        "uses": 10
+      }
+    ],
+    "cssAnimatedElements": 0,
+    "canvases": 0,
+    "videos": 19
+  },
+  "cssVariables": {
+    "--breakpoints-desktop": "1920",
+    "--breakpoints-tablet": "1920",
+    "--breakpoints-mobile": "768",
+    "--sizes-desktop": "1920",
+    "--sizes-tablet": "1440",
+    "--sizes-mobile": "390",
+    "--spacings-xl": "2rem",
+    "--spacings-l": "1.2rem",
+    "--spacings-m": "0.8rem",
+    "--spacings-s": "0.4rem",
+    "--spacings-xs": "0.2rem",
+    "--paddings-xxl": "20rem",
+    "--paddings-xl": "12rem",
+    "--paddings-l": "10rem",
+    "--paddings-m": "8rem",
+    "--paddings-s": "4rem",
+    "--grid-count": "4",
+    "--grid-gutter": "0.4rem",
+    "--grid-margin": "1.2rem",
+    "--black": "#000000",
+    "--mid-grey-shade": "#859099",
+    "--mid-grey": "#b9c1c8",
+    "--grey-shade": "#c0c6ca",
+    "--grey": "#dde1e4",
+    "--white": "#f1f3f5",
+    "--pure-white": "#ffffff",
+    "--transparent": "#859099"
+  },
+  "breakpoints": [
+    "max 768px",
+    "max 1920px",
+    "min 1920px"
+  ],
+  "tech": [
+    "next"
+  ],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "div",
+      "name": "preloader_preloader__Bt96D",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#000000",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 426,
+        "gutterBottom": 461
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "center",
+        "children": 2,
+        "childWidthsPct": [
+          14400,
+          100
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "LOADING...",
+          "family": "NewGrotesk",
+          "size": 12,
+          "weight": "600",
+          "lineHeight": 1.17,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#000000"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "600",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.02,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 2,
+      "excerpt": "Loading...",
+      "media": {}
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "name": "cursor_cursor__APDHc",
+      "y": 0,
+      "height": 900,
+      "position": "fixed",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    },
+    {
+      "i": 3,
+      "tag": "section",
+      "name": "hero_hero__Sbbfz",
+      "y": 0,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 130,
+        "width": 588,
+        "gutterTop": 567,
+        "gutterBottom": 24
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          41,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Future-Facing Creators of Exceptional Visual Content",
+          "family": "NewGrotesk",
+          "size": 40,
+          "weight": "600",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 40,
+        "weight": "600",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 8,
+      "excerpt": "Exceptional Visual Content",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "name": "Lincoln Navigator — Waterfall 60",
+      "y": 900,
+      "height": 1000,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 24,
+        "width": 694,
+        "gutterTop": -220,
+        "gutterBottom": 1180
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          18,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "LINCOLN NAVIGATOR",
+          "family": "NewGrotesk",
+          "size": 25,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 25,
+        "weight": "700",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "Lincoln Navigator",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "name": "Auto reel vol 2 — Preymaker",
+      "y": 1900,
+      "height": 1000,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 24,
+        "width": 694,
+        "gutterTop": -220,
+        "gutterBottom": 1180
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          15,
+          18
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "AUTO REEL VOL 2",
+          "family": "NewGrotesk",
+          "size": 25,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "Immersive Experiences",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 6,
+      "tag": "div",
+      "name": "Anthem reel vol 2 — Preymaker",
+      "y": 2900,
+      "height": 1000,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 24,
+        "width": 694,
+        "gutterTop": -220,
+        "gutterBottom": 1180
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          17,
+          14
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "ANTHEM REEL VOL 2",
+          "family": "NewGrotesk",
+          "size": 25,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 10,
+      "excerpt": "Anthem reel vol 2",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 7,
+      "tag": "div",
+      "name": "Ford — F1 Proving Ground",
+      "y": 3900,
+      "height": 1000,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 24,
+        "width": 694,
+        "gutterTop": -220,
+        "gutterBottom": 1180
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          2
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "FORD",
+          "family": "NewGrotesk",
+          "size": 25,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 5,
+      "excerpt": "F1 Proving Ground",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 8,
+      "tag": "div",
+      "name": "Kinder — Yes Bueno ",
+      "y": 4900,
+      "height": 1000,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 24,
+        "width": 694,
+        "gutterTop": -220,
+        "gutterBottom": 1180
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          6,
+          7
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "KINDER",
+          "family": "NewGrotesk",
+          "size": 25,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "Yes Bueno",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 9,
+      "tag": "div",
+      "name": "Toyota — Into the Wild 60sec",
+      "y": 5900,
+      "height": 1000,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 24,
+        "width": 694,
+        "gutterTop": -220,
+        "gutterBottom": 1180
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "TOYOTA",
+          "family": "NewGrotesk",
+          "size": 25,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 7,
+      "excerpt": "Into the Wild 60sec",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 10,
+      "tag": "div",
+      "name": "Xfinity — Aviators, the film",
+      "y": 6900,
+      "height": 1000,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 24,
+        "width": 694,
+        "gutterTop": -220,
+        "gutterBottom": 1180
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "row",
+        "gap": "normal",
+        "justify": "space-between",
+        "align": "flex-end",
+        "children": 2,
+        "childWidthsPct": [
+          7,
+          4
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "XFINITY",
+          "family": "NewGrotesk",
+          "size": 25,
+          "weight": "700",
+          "lineHeight": 0.88,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 6,
+      "excerpt": "Aviators, the film",
+      "media": {
+        "img": 1,
+        "video": 1
+      }
+    },
+    {
+      "i": 11,
+      "tag": "div",
+      "name": "work_cards_main__4TGBF",
+      "y": 7912,
+      "height": 1993,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 20,
+        "gutterRight": 12,
+        "width": 1408,
+        "gutterTop": 183,
+        "gutterBottom": 8
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "4px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 10,
+        "childWidthsPct": [
+          49,
+          49,
+          49,
+          49,
+          49,
+          49,
+          49,
+          49
+        ]
+      },
+      "headings": [
+        {
+          "tag": "p",
+          "text": "LOWES",
+          "family": "NewGrotesk",
+          "size": 12,
+          "weight": "600",
+          "lineHeight": 1.17,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 12,
+        "weight": "400",
+        "lineHeight": 1.17,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 46,
+      "excerpt": "Apple Watch Greek God Group Chat",
+      "media": {
+        "img": 9,
+        "video": 10
+      }
+    },
+    {
+      "i": 12,
+      "tag": "div",
+      "name": "work_cards_sub__MUVqJ",
+      "y": 9913,
+      "height": 130,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 621,
+        "gutterRight": 622,
+        "width": 197,
+        "gutterTop": 55,
+        "gutterBottom": 57
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "4px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          33,
+          16,
+          33
+        ]
+      },
+      "headings": [
+        {
+          "tag": "div",
+          "text": "S",
+          "family": "NewGrotesk",
+          "size": 20,
+          "weight": "700",
+          "lineHeight": 0.9,
+          "letterSpacing": -0.04,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 20,
+        "weight": "700",
+        "lineHeight": 0.9,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "SEE MORE WORK(215)"
+      ],
+      "words": 16,
+      "excerpt": "s",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "name": "large-paragraph_large_paragraph__D05t_",
+      "y": 10055,
+      "height": 368,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "100px 12px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 100,
+        "gutterBottom": 100
+      },
+      "layout": null,
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "An award-winning creative collective specializing in visual effects, design, co…",
+          "family": "NewGrotesk",
+          "size": 40,
+          "weight": "600",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 40,
+        "weight": "600",
+        "lineHeight": 1.05,
+        "letterSpacing": -0.02,
+        "transform": "none"
+      },
+      "labels": [],
+      "words": 38,
+      "excerpt": "An award-winning creative collective specializing in visual effects, design, color gradin…",
+      "media": {}
+    },
+    {
+      "i": 14,
+      "tag": "section",
+      "name": "partners_partners___LhCS",
+      "y": 10423,
+      "height": 1048,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "100px 12px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 722,
+        "gutterRight": 4,
+        "width": 714,
+        "gutterTop": 160,
+        "gutterBottom": 122
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "20px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 3,
+        "childWidthsPct": [
+          98,
+          98,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "PARTNERS",
+          "family": "NewGrotesk",
+          "size": 40,
+          "weight": "600",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 25,
+        "weight": "700",
+        "lineHeight": 0.88,
+        "letterSpacing": -0.04,
+        "transform": "uppercase"
+      },
+      "labels": [
+        "SEE ALL(269)"
+      ],
+      "words": 59,
+      "excerpt": "Lockheed Martin",
+      "media": {
+        "img": 21
+      }
+    },
+    {
+      "i": 15,
+      "tag": "section",
+      "name": "news_news__vWCE1",
+      "y": 11471,
+      "height": 611,
+      "position": "static",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "40px 12px 100px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": 76,
+        "gutterBottom": 100
+      },
+      "layout": {
+        "display": "flex",
+        "direction": "column",
+        "gap": "8px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          98,
+          98
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "NEWS",
+          "family": "NewGrotesk",
+          "size": 12,
+          "weight": "600",
+          "lineHeight": 1.17,
+          "letterSpacing": -0.02,
+          "transform": "uppercase",
+          "color": "#f1f3f5"
+        },
+        {
+          "tag": "h3",
+          "text": "W+K NY, Director Rupert Sanders Mark Ford’s F1 Return Via “Moving Portraits” an…",
+          "family": "NewGrotesk",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#f1f3f5"
+        },
+        {
+          "tag": "h3",
+          "text": "Preymaker Welcomes Theuns Van Rensburg and Robert Bruce",
+          "family": "NewGrotesk",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#f1f3f5"
+        },
+        {
+          "tag": "h3",
+          "text": "Michelob Ultra Tallies Lionel Messi's 20-Year World Cup Legacy",
+          "family": "NewGrotesk",
+          "size": 14,
+          "weight": "500",
+          "lineHeight": 1.14,
+          "letterSpacing": -0.01,
+          "transform": "none",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 14,
+        "weight": "500",
+        "lineHeight": 1.14,
+        "letterSpacing": -0.01,
+        "transform": "none"
+      },
+      "labels": [
+        "SEE ALL NEWS",
+        "Press W+K NY, Director Rupert Sanders M…",
+        "Press Preymaker Welcomes Theuns Van Ren…",
+        "Press Michelob Ultra Tallies Lionel Mes…",
+        "Press More Than Just a New Tool in the …"
+      ],
+      "words": 63,
+      "excerpt": "W+K NY, Director Rupert Sanders Mark Ford’s F1 Return Via “Moving Portraits”",
+      "media": {
+        "img": 4
+      }
+    },
+    {
+      "i": 16,
+      "tag": "footer",
+      "name": "footer_footer__1m2ab",
+      "y": 12082,
+      "height": 900,
+      "position": "relative",
+      "background": "#000000",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 12,
+        "gutterRight": 12,
+        "width": 1416,
+        "gutterTop": -277,
+        "gutterBottom": 552
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 12,
+        "gap": "4px",
+        "justify": "normal",
+        "align": "center",
+        "children": 3,
+        "childWidthsPct": [
+          100,
+          8,
+          8
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h2",
+          "text": "Exceptional Thinking. Visionary Craft. Elevating Brands.",
+          "family": "NewGrotesk",
+          "size": 40,
+          "weight": "600",
+          "lineHeight": 1.05,
+          "letterSpacing": -0.02,
+          "transform": "none",
+          "color": "#f1f3f5"
+        }
+      ],
+      "bodyType": {
+        "family": "NewGrotesk",
+        "size": 14,
+        "weight": "400",
+        "lineHeight": 1.29,
+        "letterSpacing": 0,
+        "transform": "none"
+      },
+      "labels": [
+        "hello@preymaker.com",
+        "Site by DashDigital Studio",
+        "Development by Mathis Humbert",
+        "WORK"
+      ],
+      "words": 24,
+      "excerpt": "Exceptional Thinking. Visionary Craft. Elevating Brands.",
+      "media": {
+        "video": 1
+      }
+    },
+    {
+      "i": 17,
+      "tag": "div",
+      "name": "transition_background__gjnW9",
+      "y": 0,
+      "height": 12982,
+      "position": "absolute",
+      "background": "#00000099",
+      "backgroundImage": false,
+      "color": "#f1f3f5",
+      "padding": "0px",
+      "margin": "0px",
+      "border": null,
+      "content": null,
+      "layout": null,
+      "headings": [],
+      "bodyType": null,
+      "labels": [],
+      "words": 0,
+      "excerpt": "",
+      "media": {}
+    }
+  ],
+  "listing": {
+    "rank": 101,
+    "title": "Preymaker",
+    "award": "SOTD",
+    "url": "https://preymaker.com/",
+    "source": "awwwards",
+    "listing": "https://www.awwwards.com/websites/portfolio/",
+    "awwwards": "https://www.awwwards.com/sites/preymaker",
+    "categories": [
+      "Design Agencies",
+      "Film & TV",
+      "Technology",
+      "Portfolio"
+    ]
+  }
+}

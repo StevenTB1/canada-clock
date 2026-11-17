@@ -1,0 +1,303 @@
+{
+  "page": {
+    "url": "https://jay.tel/",
+    "title": "Jaytel",
+    "description": "Design founder. Formerly incubated and led the Product Design Studio at Shopify following the acquisition of Molly Studio.",
+    "lang": "en",
+    "viewport": [
+      1440,
+      900
+    ],
+    "height": 1987,
+    "generator": null
+  },
+  "palette": {
+    "backgrounds": [
+      {
+        "value": "#ebe1db",
+        "share": 0.996
+      },
+      {
+        "value": "#b0a9a4",
+        "share": 0.002
+      },
+      {
+        "value": "#dbd1cc",
+        "share": 0.001
+      },
+      {
+        "value": "#7a7572",
+        "share": 0
+      },
+      {
+        "value": "#000000",
+        "share": 0
+      },
+      {
+        "value": "#423f3d",
+        "share": 0
+      }
+    ],
+    "text": [
+      {
+        "value": "#55514f",
+        "share": 0.836
+      },
+      {
+        "value": "#000000",
+        "share": 0.163
+      },
+      {
+        "value": "#ebe1db",
+        "share": 0.002
+      }
+    ],
+    "borders": [
+      {
+        "value": "#ebe1dc66",
+        "share": 1
+      }
+    ],
+    "monochromeShare": {
+      "backgrounds": 0.999,
+      "text": 1.001
+    }
+  },
+  "typography": {
+    "scale": [
+      {
+        "family": "J",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.41,
+        "letterSpacing": 0.015,
+        "transform": "none",
+        "chars": 620
+      },
+      {
+        "family": "system-ui",
+        "size": 11,
+        "weight": "500",
+        "lineHeight": 1,
+        "letterSpacing": 0.023,
+        "transform": "none",
+        "chars": 1
+      }
+    ],
+    "loadedFonts": [
+      "J 400 normal"
+    ]
+  },
+  "spacing": [
+    {
+      "px": 3,
+      "uses": 108
+    },
+    {
+      "px": 32,
+      "uses": 8
+    },
+    {
+      "px": 16,
+      "uses": 8
+    },
+    {
+      "px": 8,
+      "uses": 7
+    },
+    {
+      "px": 4,
+      "uses": 6
+    },
+    {
+      "px": 64,
+      "uses": 6
+    },
+    {
+      "px": 48,
+      "uses": 2
+    },
+    {
+      "px": 12,
+      "uses": 2
+    },
+    {
+      "px": 450,
+      "uses": 1
+    },
+    {
+      "px": 225,
+      "uses": 1
+    },
+    {
+      "px": 24,
+      "uses": 1
+    }
+  ],
+  "radii": [
+    {
+      "value": "2px",
+      "uses": 734
+    },
+    {
+      "value": "50%",
+      "uses": 3
+    },
+    {
+      "value": "4px",
+      "uses": 1
+    },
+    {
+      "value": "3px",
+      "uses": 1
+    }
+  ],
+  "motion": {
+    "transitions": [
+      {
+        "value": "0.4s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 12
+      },
+      {
+        "value": "0.16s cubic-bezier(0.22, 1, 0.36, 1)",
+        "uses": 1
+      }
+    ],
+    "cssAnimatedElements": 2,
+    "canvases": 0,
+    "videos": 0
+  },
+  "cssVariables": {
+    "--accent": "#2b47ff",
+    "--background": "#fff",
+    "--foreground": "#000",
+    "--foreground-secondary": "#5c5c5c",
+    "--row-gap": "16px",
+    "--selection-background": "#95a3ff",
+    "--selection-foreground": "#000",
+    "--section-gap": "64px",
+    "--site-font-family": "\"J\", sans-serif",
+    "--site-font-size": "17px",
+    "--site-letter-spacing": ".25px",
+    "--site-line-height": "24px",
+    "--title-gap": "32px"
+  },
+  "breakpoints": [],
+  "tech": [],
+  "sections": [
+    {
+      "i": 1,
+      "tag": "main",
+      "name": "portfolio-page",
+      "y": 0,
+      "height": 1987,
+      "position": "static",
+      "background": "#ebe1db",
+      "backgroundImage": false,
+      "color": "#55514f",
+      "padding": "450px 0px 225px",
+      "margin": "0px",
+      "border": null,
+      "content": {
+        "gutterLeft": 392,
+        "gutterRight": 388,
+        "width": 660,
+        "gutterTop": 430,
+        "gutterBottom": 225
+      },
+      "layout": {
+        "display": "grid",
+        "columns": 1,
+        "gap": "32px",
+        "justify": "normal",
+        "align": "normal",
+        "children": 2,
+        "childWidthsPct": [
+          46,
+          46
+        ]
+      },
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Jaytel",
+          "family": "J",
+          "size": 17,
+          "weight": "400",
+          "lineHeight": 1.41,
+          "letterSpacing": 0.015,
+          "transform": "none",
+          "color": "#000000"
+        },
+        {
+          "tag": "h2",
+          "text": "past",
+          "family": "J",
+          "size": 17,
+          "weight": "400",
+          "lineHeight": 1.41,
+          "letterSpacing": 0.015,
+          "transform": "none",
+          "color": "#55514f"
+        },
+        {
+          "tag": "h2",
+          "text": "products",
+          "family": "J",
+          "size": 17,
+          "weight": "400",
+          "lineHeight": 1.41,
+          "letterSpacing": 0.015,
+          "transform": "none",
+          "color": "#55514f"
+        },
+        {
+          "tag": "h2",
+          "text": "press",
+          "family": "J",
+          "size": 17,
+          "weight": "400",
+          "lineHeight": 1.41,
+          "letterSpacing": 0.015,
+          "transform": "none",
+          "color": "#55514f"
+        }
+      ],
+      "bodyType": {
+        "family": "J",
+        "size": 17,
+        "weight": "400",
+        "lineHeight": 1.41,
+        "letterSpacing": 0.015,
+        "transform": "none"
+      },
+      "labels": [
+        "S",
+        "Shopify Formed and led the Product Desi…",
+        "Molly Design studio and product incubat…",
+        "Apple Designed interactive product laun…",
+        "Twombly A collaborative canvas for agen…",
+        "Pose Individualized product photography…",
+        "ioio Personal agent to agent communicat…",
+        "Artifact Incubated and designed in-hous…",
+        "Fast Company Shopify just acquired its …",
+        "Codrops Inside Shopify’s Acquisition of…"
+      ],
+      "words": 116,
+      "excerpt": "Design studio and product incubator, acquired by Shopify",
+      "media": {
+        "img": 1
+      }
+    }
+  ],
+  "listing": {
+    "rank": 159,
+    "title": "Jaytel",
+    "url": "https://jay.tel/",
+    "source": "minimal.gallery",
+    "listing": "https://minimal.gallery/tag/portfolio/",
+    "categories": [
+      "Portfolio"
+    ]
+  }
+}
