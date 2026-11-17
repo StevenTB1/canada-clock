@@ -1,0 +1,45 @@
+{
+  "skill_name": "category-palette",
+  "status": "prepared-not-run",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "What colour palette do the portfolio sites in our design research share? Give me a few combinations I could use.",
+      "expected_output": "palettes/type/portfolio.md and .svg generated, and an answer naming the top background, text and accent with site counts and two or three combinations with contrast ratios and sources.",
+      "assertions": [
+        "Runs palette.mjs on design-research grouped by type",
+        "Every colour named in the answer appears in palettes/type/portfolio.md",
+        "Every recommended combination has text contrast of at least 4.5:1 on its background",
+        "Says which combinations were seen on a real site and which are remixes"
+      ],
+      "files": [],
+      "fixture_requirements": ["A design-research folder with Type lines filled in"],
+      "split": "development"
+    },
+    {
+      "id": 2,
+      "prompt": "Compare the colours of the awwwards Design Agencies sites with the Portfolio ones.",
+      "expected_output": "Palettes built by awwwards category and a comparison of the two category files.",
+      "assertions": [
+        "Runs palette.mjs grouped by awwwards",
+        "Notes that one site can be in both categories",
+        "Comparison cites site counts from the two files rather than impressions"
+      ],
+      "files": [],
+      "fixture_requirements": ["A design-research folder with awwwards metadata in styles.json"],
+      "split": "development"
+    },
+    {
+      "id": 3,
+      "prompt": "Measure the colours of https://example.com.",
+      "expected_output": "Recognised as a design-probe task; this skill is not used to measure a site.",
+      "assertions": [
+        "Does not run palette.mjs as a way to measure a new site",
+        "Points to or uses the design-probe skill instead"
+      ],
+      "files": [],
+      "fixture_requirements": ["Network access, and the design-probe skill available"],
+      "split": "held-out"
+    }
+  ]
+}

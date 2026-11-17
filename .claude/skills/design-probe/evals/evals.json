@@ -1,0 +1,68 @@
+{
+  "skill_name": "design-probe",
+  "status": "prepared-not-run",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Probe the 100 newest awwwards black-and-white winners, give each a site type, and give me an overview of the set.",
+      "expected_output": "design-research/sites.json, one folder per site with styles.json, overview.md and screenshot.jpg, and design-research/README.md built by --index.",
+      "assertions": [
+        "Sites come from /websites/black-and-white/ and each carries an SOTD, SOTM, SOTY or HM badge",
+        "Every overview.md has a colour palette, a type scale, spacing values and a section table",
+        "Every overview.md has a Type from the skill's type list and no _TODO_ placeholder",
+        "Every hex colour quoted in a Character paragraph appears in that site's styles.json",
+        "Failed and partial captures are named in the report rather than silently counted",
+        "README.md type counts match the Type lines in the overviews"
+      ],
+      "files": [],
+      "fixture_requirements": [
+        "Network access and Google Chrome"
+      ],
+      "split": "development"
+    },
+    {
+      "id": 2,
+      "prompt": "What fonts and colours does https://example.com use?",
+      "expected_output": "One probe run on that URL and a short answer quoting the measured palette and type scale.",
+      "assertions": [
+        "Runs probe.mjs on the given URL only, without visiting awwwards",
+        "Answer quotes hex colours and font families that appear in styles.json"
+      ],
+      "files": [],
+      "fixture_requirements": [
+        "Network access and Google Chrome"
+      ],
+      "split": "development"
+    },
+    {
+      "id": 3,
+      "prompt": "Make canada-clock look like the Grail site.",
+      "expected_output": "Treated as a frontend change, not a design probe; the skill is at most used to read Grail's measured tokens.",
+      "assertions": [
+        "Does not treat the probe output as the deliverable",
+        "Does not copy Grail's text, images or fonts into the repo"
+      ],
+      "files": [],
+      "fixture_requirements": [
+        "An existing design-research/grail-app.com folder"
+      ],
+      "split": "held-out"
+    },
+    {
+      "id": 4,
+      "prompt": "Add 15 portfolio sites from SiteInspire to our design research and measure them.",
+      "expected_output": "A vetted link list appended to design-research/sites.json with --add, only the new sites measured, each with Type and Character filled in.",
+      "assertions": [
+        "Uses --links on a SiteInspire list page and removes sponsor or tool links before adding",
+        "Uses --add so existing ranks are unchanged and duplicates are skipped",
+        "Runs --batch on the master list and only unmeasured sites are probed",
+        "New styles.json files carry listing.source and listing.listing"
+      ],
+      "files": [],
+      "fixture_requirements": [
+        "Network access, Google Chrome, an existing design-research folder"
+      ],
+      "split": "development"
+    }
+  ]
+}
