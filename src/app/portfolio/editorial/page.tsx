@@ -1,8 +1,9 @@
 import type { CSSProperties } from 'react'
 import type { Metadata } from 'next'
+import PhotoCredits from '@/components/PhotoCredits'
 import StyleBar from '@/components/StyleBar'
 import WorkIndex from '@/components/WorkIndex'
-import { credits, education, person, skills, work } from '@/lib/portfolio'
+import { education, person, skills, work } from '@/lib/portfolio'
 import s from './editorial.module.css'
 
 // Design 2 — Editorial index. Pure type on white, laid out like a Swiss magazine index.
@@ -23,7 +24,7 @@ export default function Editorial() {
   return (
     <StyleBar current="/portfolio/editorial" className="min-h-svh">
 
-      <header className="flex min-h-svh flex-col px-5 pt-5 pb-20 sm:px-8 sm:pt-16 sm:pb-8">
+      <header className="flex min-h-svh flex-col px-5 pt-5 pb-28 sm:px-8 sm:pt-16 sm:pb-8">
         <div className={`${label} ${s.fade} grid grid-cols-2 gap-4 border-b border-[var(--ink)] pb-3 sm:grid-cols-4`} style={delay('0s')}>
           <span>{person.first} {person.last}</span>
           <span className="hidden sm:block">{person.role}</span>
@@ -97,16 +98,8 @@ export default function Editorial() {
         </section>
       </main>
 
-      <footer className={`${label} flex flex-wrap justify-between gap-4 border-t border-[var(--ink)] px-5 py-6 pb-20 text-[var(--muted)] sm:px-8 sm:pb-6`}>
-        <span>
-          Photos on <a href="https://unsplash.com" className="underline">Unsplash</a> by{' '}
-          {credits.map((p, i) => (
-            <span key={p.user}>
-              <a href={`https://unsplash.com/@${p.user}`} className="underline">{p.by}</a>
-              {i < credits.length - 1 ? ', ' : ''}
-            </span>
-          ))}
-        </span>
+      <footer className={`${label} flex flex-wrap justify-between gap-4 border-t border-[var(--ink)] px-5 py-6 pb-28 text-[var(--muted)] sm:px-8 sm:pb-6`}>
+        <PhotoCredits />
         <span className="flex gap-6">
           <a href={person.github} className="hover:underline">GitHub ↗</a>
           <a href={person.linkedin} className="hover:underline">LinkedIn ↗</a>

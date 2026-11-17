@@ -1,8 +1,9 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
+import PhotoCredits from '@/components/PhotoCredits'
 import PortfolioHero from '@/components/PortfolioHero'
 import StyleBar from '@/components/StyleBar'
-import { credits, education, person, photos, skills, work } from '@/lib/portfolio'
+import { education, person, photos, skills, work } from '@/lib/portfolio'
 
 // Design 1 — Exposure. Colours come from the palette chosen in <StyleBar> (black and white by default):
 // --paper/--ink for the light sections, --dark/--light for the hero and the About band, --muted for secondary text.
@@ -100,15 +101,8 @@ export default function Portfolio() {
         </section>
       </main>
 
-      <footer className="border-t border-[var(--ink)] px-6 py-8 pb-20 text-sm text-[var(--muted)] sm:px-10 sm:pb-8">
-        Photos on{' '}
-        <a href="https://unsplash.com" className="underline">Unsplash</a> by{' '}
-        {credits.map((p, i) => (
-          <span key={p.user}>
-            <a href={`https://unsplash.com/@${p.user}`} className="underline">{p.by}</a>
-            {i < credits.length - 1 ? ', ' : '.'}
-          </span>
-        ))}
+      <footer className="border-t border-[var(--ink)] px-6 py-8 pb-28 text-sm text-[var(--muted)] sm:px-10 sm:pb-8">
+        <PhotoCredits />.
       </footer>
     </StyleBar>
   )

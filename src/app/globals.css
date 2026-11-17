@@ -89,8 +89,12 @@ body {
   initial-value: 42%;
 }
 
-.hero {
+/* On :root, not .hero: the Rule and Wordmark pages use the hero-* animations without the Exposure hero. */
+:root {
   --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.hero {
   transition: --spot-x 1.2s var(--ease-expo), --spot-y 1.2s var(--ease-expo);
 }
 
