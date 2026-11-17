@@ -74,6 +74,162 @@ body {
   transform: translateY(-2px);
 }
 
+/* ---- /portfolio "exposure" hero (src/components/PortfolioHero.tsx) ----
+   The photo develops from overexposed white into black and white, the name rises letter by letter,
+   grid rules draw in, film grain runs on top, and a spotlight eases after the mouse. */
+@property --spot-x {
+  syntax: '<percentage>';
+  inherits: true;
+  initial-value: 68%;
+}
+
+@property --spot-y {
+  syntax: '<percentage>';
+  inherits: true;
+  initial-value: 42%;
+}
+
+.hero {
+  --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  transition: --spot-x 1.2s var(--ease-expo), --spot-y 1.2s var(--ease-expo);
+}
+
+.hero-develop {
+  filter: grayscale(1) brightness(0.85) contrast(1.2);
+  animation: hero-develop 3.2s var(--ease-expo) both;
+}
+
+/* Dark veil with a soft hole at the spotlight, so the photo shows brighter there. */
+.hero-spot {
+  background: color-mix(in srgb, var(--dark, #000) 72%, transparent);
+  mask-image: radial-gradient(circle at var(--spot-x) var(--spot-y), transparent 0, transparent 8vmax, #000 30vmax);
+  animation: hero-fade 1.6s ease 1.4s both;
+}
+
+.hero-grain {
+  inset: -100%;
+  opacity: 0.1;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  animation: hero-grain 0.8s steps(4) infinite;
+}
+
+.hero-rule {
+  transform-origin: top;
+  animation: hero-draw-y 1.6s var(--ease-expo) calc(0.3s + var(--i) * 0.08s) both;
+}
+
+.hero-rule-x {
+  transform-origin: left;
+  animation: hero-draw-x 1.6s var(--ease-expo) 1.6s both;
+}
+
+.hero-letter {
+  animation: hero-rise 1.3s var(--ease-expo) calc(1s + var(--i) * 0.045s) both;
+}
+
+.hero-in {
+  animation: hero-fade-up 1.2s var(--ease-expo) var(--d, 1.8s) both;
+}
+
+.hero-scroll-dot {
+  animation: hero-scroll 2.2s var(--ease-expo) 2.4s infinite;
+}
+
+/* No mouse: let the spotlight wander slowly instead. */
+@media (hover: none) {
+  .hero {
+    animation: hero-drift 16s ease-in-out 3s infinite alternate;
+  }
+}
+
+@keyframes hero-develop {
+  from {
+    filter: grayscale(1) brightness(3.2) contrast(0.4) blur(10px);
+    transform: scale(1.14);
+  }
+}
+
+@keyframes hero-fade {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes hero-fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+
+@keyframes hero-rise {
+  from {
+    transform: translateY(105%);
+  }
+}
+
+@keyframes hero-draw-y {
+  from {
+    transform: scaleY(0);
+  }
+}
+
+@keyframes hero-draw-x {
+  from {
+    transform: scaleX(0);
+  }
+}
+
+@keyframes hero-grain {
+  25% {
+    transform: translate(-4%, 3%);
+  }
+  50% {
+    transform: translate(3%, -5%);
+  }
+  75% {
+    transform: translate(-2%, -3%);
+  }
+  100% {
+    transform: translate(4%, 2%);
+  }
+}
+
+@keyframes hero-scroll {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(200%);
+  }
+}
+
+@keyframes hero-drift {
+  from {
+    --spot-x: 30%;
+    --spot-y: 35%;
+  }
+  to {
+    --spot-x: 72%;
+    --spot-y: 60%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero,
+  .hero-develop,
+  .hero-spot,
+  .hero-grain,
+  .hero-rule,
+  .hero-rule-x,
+  .hero-letter,
+  .hero-in,
+  .hero-scroll-dot {
+    animation: none;
+    transition: none;
+  }
+}
+
 .tabular {
   font-family: var(--font-mono);
   font-variant-numeric: tabular-nums;

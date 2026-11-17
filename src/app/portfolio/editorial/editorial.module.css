@@ -1,0 +1,32 @@
+/* Editorial: the name wipes in left to right, then the rest fades up. */
+.wipe {
+  display: block;
+  animation: wipe 1.4s cubic-bezier(0.16, 1, 0.3, 1) var(--d, 0s) both;
+}
+
+.fade {
+  animation: fade-up 1s cubic-bezier(0.16, 1, 0.3, 1) var(--d, 0.9s) both;
+}
+
+@keyframes wipe {
+  from {
+    clip-path: inset(-0.2em 100% -0.2em 0);
+  }
+  to {
+    clip-path: inset(-0.2em 0 -0.2em 0);
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wipe,
+  .fade {
+    animation: none;
+  }
+}
